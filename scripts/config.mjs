@@ -31,7 +31,7 @@ export const ACCESSORY_RE =
   /\b(replacement|spare)\s+(part|parts|filter|filters|bag|bags|blade|blades|head|heads|kit|kits|brush|brushes|tray|trays|rack|racks|pot|pots|nozzle|nozzles)\b|\baccessor(y|ies)\b|\bcompatible\s+with\b|\bcookbook\b|\brecipe\s+book\b|\bcleaning\s+(?:kit|tablet|pods?|liquid|spray)\b|\bprotective\s+(?:cover|case)\b|\bsilicone\s+(?:liner|liners|mat|mats|pot|pots|mold|mould|tray|trays)\b|\bparchment\s+paper\b|\bmagnet\b|\borganizer\b|\bsticker\b|\bdecal\b|\bمنظف\b|\breplacement\b|\bspare\b|\b(?:glass\s*plate|turntable)\s+(?:for\s+)?(?:microwave|oven)\b|\bstorage\s+(?:box|container|bin)\b|\b(?:washing\s*machine|fridge|freezer|oven|dishwasher|air\s*conditioner)\s+cover\b|\brefill\s+kit\b|\bwater\s+filter\s+refill\b|\b(?:blade|cover|case|head|nozzle|filter|bag|hose)\s+only\b/i;
 
 export const GENERIC_RE =
-  /^(air|fryer|microwave|fridge|freezer|shaver|machine|electric|digital|portable|multi|multifunction|smart|home|new|white|black|generic|unbranded|8|\d+|قلاية|قلايه|ميكروويف|مايكروويف|ثلاجة|ثلاجه|فريزر|غسالة|غساله|مكنسة|مكنسه|مكواة|مكواه|غلاية|غلايه|محمصة|محمصه|خلاط|مضرب|فرن|بوتاجاز|سخان|تكييف|مروحة|مروحه|عصارة|عصاره|قدر|ماكينة|ماكينه|جهاز|طقم|عدة|أدوات|ادوات)$/i;
+  /^(air|fryer|microwave|fridge|freezer|shaver|machine|electric|digital|portable|multi|multifunction|smart|home|new|white|black|generic|unbranded|universal|8|\d+|قلاية|قلايه|ميكروويف|مايكروويف|ثلاجة|ثلاجه|فريزر|غسالة|غساله|مكنسة|مكنسه|مكواة|مكواه|غلاية|غلايه|محمصة|محمصه|خلاط|مضرب|فرن|بوتاجاز|سخان|تكييف|مروحة|مروحه|عصارة|عصاره|قدر|ماكينة|ماكينه|جهاز|طقم|عدة|أدوات|ادوات)$/i;
 
 // تحويل أسماء الماركات الإنجليزية لعربي
 export const BRAND_MAP = [
@@ -59,7 +59,7 @@ export const BRAND_MAP = [
   [/hisense/i, 'هايسنس'],
   [/nutricook/i, 'نيوتريكوك'],
   [/toshiba/i, 'توشيبا'],
-  [/delonghi/i, 'ديلونجي'],
+  [/de'?longhi/i, 'ديلونجي'],
   [/beko/i, 'بيكو'],
   [/arshia/i, 'أرشيا'],
   [/braun/i, 'براون'],

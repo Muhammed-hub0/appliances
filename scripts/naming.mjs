@@ -44,6 +44,76 @@ const ARABIC_BRANDS = [
   'وينسا', 'سونار', 'نسكافيه', 'بيكو', 'أرشيا',
 ];
 
+// ترتيب أهم المواصفات في الاسم المختصر لكل قسم (اثنتين بالكثير)
+const NAME_SPEC_PRIORITY = {
+  airfryers: ['cap', 'watt', 'type'],
+  microwaves: ['cap', 'type', 'watt'],
+  fridges: ['cap', 'door', 'type'],
+  freezers: ['cap', 'type'],
+  shavers: ['gender', 'blades', 'type'],
+  'washing-machines': ['cap', 'type', 'spin'],
+  dishwashers: ['places', 'type'],
+  ovens: ['cap', 'type', 'watt'],
+  'coffee-machines': ['type', 'watt'],
+  blenders: ['watt', 'type', 'speed'],
+  'food-processors': ['cap', 'watt'],
+  'vacuum-cleaners': ['type', 'watt'],
+  irons: ['type', 'watt'],
+  'hair-dryers': ['watt', 'speed'],
+  kettles: ['cap', 'watt'],
+  toasters: ['slots', 'watt'],
+  mixers: ['watt', 'speed'],
+  cookers: ['burners', 'type'],
+  'water-heaters': ['cap', 'watt'],
+  'air-conditioners': ['hp', 'type', 'cool'],
+  fans: ['size', 'type'],
+  'rice-cookers': ['cap', 'watt'],
+  'pressure-cookers': ['cap', 'watt'],
+  juicers: ['type', 'watt'],
+};
+
+// أسماء أقصر للأنواع اللي عنوانها الأصلي طويل
+// أسماء مختصرة للبراندات المكوّنة من كلمتين أو أكتر عشان الاسم يفضل 4 كلمات
+const BRAND_SHORT = {
+  'بلاك أند ديكر': 'بلاك',
+  'بلاك آند وايت': 'بلاك',
+  'هاي واي': 'هاي',
+  'راسل هوبز': 'راسل',
+  'مورفي ريتشاردز': 'مورفي',
+  'جولد ماستر': 'جولد',
+  'سوبر جنرال': 'سوبر',
+  'وايت بوينت': 'وايت',
+  'لا جرمانيا': 'جرمانيا',
+  'يونيون إير': 'يونيون',
+  'يونيون تك': 'يونيون',
+  'أورال بي': 'أورال',
+};
+
+const DEVICE_SHORT = {
+  airfryers: 'قلاية',
+  shavers: 'حلاقة',
+  'coffee-machines': 'قهوة',
+  'food-processors': 'محضرة',
+  'hair-dryers': 'سيشوار',
+  'dishwashers': 'أطباق',
+};
+
+const SPEC_LABEL_SHORT = {
+  'تحميل أمامي': 'أمامي',
+  'تحميل علوي': 'علوي',
+  'سطح الطاولة': 'طاولة',
+  'تبريد وتدفئة': 'تدفئة',
+  '5 شفرات': '5شفات',
+  '4 شفرات': '4شفات',
+  '3 شفرات': '3شفات',
+  '2 شفرة': '2شفرة',
+};
+
+const SHORT_UNITS = {
+  cap: 'لتر', watt: 'وات', spin: 'rpm', hp: 'حصان', size: 'بوصة',
+  places: 'مكان', slots: 'شرائح', burners: 'بوات', battery: 'دقيقة', speed: 'سرعة',
+};
+
 const LATIN_BRANDS = [
   'Silvertine', 'GEOVINA', 'Multifunctional', 'Dollar', 'White', 'AKANE',
   'RAF', 'Rafal', 'NC', 'Beko', 'LG', 'Hisense', 'Samsung', 'Siemens',
@@ -134,27 +204,40 @@ function unitFor(spec, category) {
   }
 }
 
+function shortSpecText(spec, value, category) {
+  const text = String(value ?? '').replace(/\s+/g, ' ').trim();
+  if (!text) return '';
+  const mapped = SPEC_LABEL_SHORT[text] || text;
+  if (spec.type !== 'number') return mapped.replace(/\s+/g, '');
+  let unit = SHORT_UNITS[spec.key] || '';
+  if (spec.suffix) unit = spec.suffix.replace(/^\s+/, '');
+  if (spec.key === 'cap' && category?.id === 'washing-machines') unit = 'كجم';
+  return `${mapped}${unit}`;
+}
+
 export function buildName({ brand, specs, model, category, fallback = '' }) {
-  const parts = [];
-  if (brand) parts.push(brand);
+  const rawBrand = brand && !isExcludedBrand(brand) ? String(brand).trim() : '';
+  const safeBrand = BRAND_SHORT[rawBrand] || rawBrand;
+  const device = DEVICE_SHORT[category?.id] || category?.short || category?.title || 'جهاز';
+  const parts = [safeBrand, device].filter(Boolean);
 
-  for (const spec of category.specs || []) {
-    const value = specs[spec.key];
-    if (!value) continue;
-    const unit = spec.type === 'number' ? unitFor(spec, category) : '';
-    parts.push(`${value}${unit}`);
+  const specMap = new Map((category?.specs || []).map((spec) => [spec.key, spec]));
+  const priority = NAME_SPEC_PRIORITY[category?.id]
+    || (category?.specs || []).map((spec) => spec.key);
+
+  for (const key of priority) {
+    if (parts.length >= 4) break;
+    const spec = specMap.get(key);
+    const raw = specs?.[key];
+    if (!spec || !raw) continue;
+    const text = shortSpecText(spec, raw, category);
+    if (text && !parts.includes(text)) parts.push(text);
   }
 
-  let name = parts.join(' ').replace(/\s+/g, ' ').trim();
-  if (model) name = `${name} (${model})`.trim();
+  const wordCount = () => parts.join(' ').trim().split(/\s+/).filter(Boolean).length;
+  while (wordCount() > 4 && parts.length > 2) parts.pop();
 
-  const hasSpecs = (category.specs || []).some((spec) => specs[spec.key]);
-  // لو مفيش مواصفات مستخرجة، العنوان الأصلي أوضح من اسم فيه براند بس
-  if (!name || (!hasSpecs && fallback)) {
-    const clean = String(fallback || '').replace(/\s+/g, ' ').trim();
-    if (clean) name = clean.slice(0, 105);
-  }
-  return name.slice(0, 105);
+  return parts.join(' ').replace(/\s+/g, ' ').trim().slice(0, 105);
 }
 
 export function describeProduct({ title, byLine }, category) {

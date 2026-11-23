@@ -15,7 +15,7 @@ import {
   SEARCH_PAGES,
   isAccessoryTitle,
 } from './config.mjs';
-import { describeProduct, isExcludedBrand, productKey } from './naming.mjs';
+import { buildName, describeProduct, isExcludedBrand, productKey } from './naming.mjs';
 import { DATA_DIR, writePublic } from './render.mjs';
 
 const DEFAULT_WARRANTY = '15 يوم إرجاع مجاني من أمازون';
@@ -69,7 +69,10 @@ function applyApiItem(offer, api, history, category) {
     offer.title = api.title;
     if (!offer.brand) offer.brand = info.brand;
     if (!offer.model && info.model) offer.model = info.model;
-    if (!offer.name) offer.name = info.name;
+    if (offer.name !== info.name) {
+      offer.name = info.name;
+      changed = true;
+    }
     if (!offer.specs) offer.specs = {};
     for (const [key, value] of Object.entries(info.specs || {})) {
       if (!offer.specs[key]) offer.specs[key] = value;
@@ -179,14 +182,14 @@ async function findNewItems(category, offers, globalKnown, seen) {
         const brandOk = Boolean(info.brand) && !isExcludedBrand(info.brand);
 
         if (!brandOk) {
-          // مفيش براند واضح (أو براند عام/لون) — منقبلش الجهاز باسمه الكامل
+          // مفيش براند واضح (أو براند عام/لون) — الاسم المختصر هيبقى نوع الجهاز ومواصفاته
           stats.brand++;
           info.brand = 'غير محدد';
-          info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+          info.name = buildName({ brand: info.brand, specs: info.specs, model: '', category, fallback: api.title });
         } else if (!knownBrand && specCount === 0) {
           // براند مش معروف ومفيش مواصفات — مقبول بس هيترتب في الآخر
           stats.weak++;
-          info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+          info.name = buildName({ brand: info.brand, specs: info.specs, model: '', category, fallback: api.title });
         }
 
         const key = productKey({ ...info, name: info.name });
@@ -235,10 +238,10 @@ function hydrateManual(category, asins, apiItems, known) {
     if (!brandOk) {
       stats.brand++;
       info.brand = 'غير محدد';
-      info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+      info.name = buildName({ brand: info.brand, specs: info.specs, model: '', category, fallback: api.title });
     } else if (!knownBrand && specCount === 0) {
       stats.weak++;
-      info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+      info.name = buildName({ brand: info.brand, specs: info.specs, model: '', category, fallback: api.title });
     }
 
     known.add(asin);
@@ -379,6 +382,16 @@ async function main() {
   for (const cat of CATEGORIES) {
     for (const offer of data[cat.id]) {
       if (offer.asin) offer.url = productUrl(offer.asin);
+
+      // تجديد الأسماء القديمة الطويلة بالصيغة المختصرة الموحّدة
+      const info = describeProduct({ title: offer.title || offer.name, byLine: '' }, cat);
+      const shortName = buildName({ brand: info.brand, specs: info.specs || offer.specs || {}, model: '', category: cat, fallback: offer.title || offer.name });
+      if (offer.name !== shortName) {
+        offer.name = shortName;
+        totalChanges++;
+      }
+      if (!offer.brand && info.brand) offer.brand = info.brand;
+
       if (offer.active !== false && !offer.ship) {
         offer.ship = DEFAULT_SHIP;
         totalChanges++;
