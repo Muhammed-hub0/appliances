@@ -97,7 +97,8 @@ function applyApiItem(offer, api, history, category) {
       recordPrice(history, offer.asin, api.price);
       changed = true;
     }
-    if (offer.active === false) {
+    // المنتجات اللي مراجعة صفحة أمازون أكدت إنها إكسسوار/مش جهاز تفضل محجوبة نهائيًا
+    if (offer.active === false && !offer.blocked) {
       console.log(`  رجع متاح: ${offer.name || offer.asin}`);
       offer.active = true;
       changed = true;
@@ -382,6 +383,16 @@ async function main() {
   for (const cat of CATEGORIES) {
     for (const offer of data[cat.id]) {
       if (offer.asin) offer.url = productUrl(offer.asin);
+
+      // حظر المراجعة العميقة لصفحة أمازون أقوى من أي تحديث تالِي للـ API
+      if (offer.blocked) {
+        if (offer.active !== false) {
+          offer.active = false;
+          offer.reason = 'audit-blocked';
+          totalChanges++;
+        }
+        continue;
+      }
 
       // تجديد الأسماء القديمة الطويلة بالصيغة المختصرة الموحّدة
       const info = describeProduct({ title: offer.title || offer.name, byLine: '' }, cat);
