@@ -5,6 +5,12 @@ on:
     # كل 6 ساعات بتوقيت UTC
     - cron: '0 */6 * * *'
   workflow_dispatch:
+    inputs:
+      render_only:
+        description: 'إعادة بناء الصفحات من البيانات الحالية بدون API'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -37,7 +43,7 @@ jobs:
           CREATORS_CLIENT_SECRET: ${{ secrets.CREATORS_CLIENT_SECRET }}
           PARTNER_TAG: ${{ vars.PARTNER_TAG || 'fineartslab-21' }}
           SITE_URL: ${{ vars.SITE_URL || 'https://muhammed-hub0.github.io/appliances/' }}
-        run: node scripts/update.mjs
+        run: node scripts/update.mjs ${{ inputs.render_only && '--render-only' || '' }}
 
       - name: حفظ البيانات المتغيرة
         run: |
