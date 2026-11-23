@@ -303,9 +303,14 @@ tr.alt td{background:var(--surface-alt)}
   select,input{font-size:13px;padding:8px;min-width:0;width:100%}
   .fld{flex:1 1 130px}
   .cnt{width:100%;margin-inline-start:0;padding-bottom:0}
-  table{font-size:12px}
-  th,td{padding:6px 5px}
-  .im img{width:54px;height:54px}
+  .tablewrap{overflow:visible}
+  table{font-size:12px;table-layout:fixed;width:100%}
+  th:nth-child(1),td.n,th:nth-child(4),td.w{display:none}
+  th,td{padding:6px 4px;overflow-wrap:anywhere}
+  .nm{min-width:0;white-space:normal}
+  .im{width:52px}
+  .im img{width:48px;height:48px}
+  .p{font-size:12px}
   .lk a{padding:5px 7px;font-size:11px}
 }
 `;
