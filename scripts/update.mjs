@@ -166,12 +166,20 @@ async function findNewItems(category, offers, globalKnown) {
         if (api.availability && !IN_STOCK.has(api.availability)) { stats.availability++; continue; }
 
         const info = describeProduct({ title: api.title, byLine: api.byLine }, category);
-        if (!info.brand || isExcludedBrand(info.brand)) { stats.brand++; continue; }
-
         const knownBrand = AUTO_ADD_BRANDS.includes(info.brand);
         const specCount = Object.keys(info.specs || {}).length;
-        // لازم على الأقل براند معروف أو مواصفة مستخرجة — عشان منضيفش عشوائيات
-        if (!knownBrand && specCount === 0) { stats.weak++; continue; }
+        const brandOk = Boolean(info.brand) && !isExcludedBrand(info.brand);
+
+        if (!brandOk) {
+          // مفيش براند واضح (أو براند عام/لون) — منقبلش الجهاز باسمه الكامل
+          stats.brand++;
+          info.brand = 'غير محدد';
+          info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+        } else if (!knownBrand && specCount === 0) {
+          // براند مش معروف ومفيش مواصفات — مقبول بس هيترتب في الآخر
+          stats.weak++;
+          info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+        }
 
         const key = productKey({ ...info, name: info.name });
         if (families.has(key)) { stats.family++; continue; }
@@ -237,11 +245,21 @@ async function main() {
   }
 
   // كل الروابط لازم تشيل تاج الأفلييت، وأي شحن فاضي يتكتب "مجاني"
+  // كمان بنشيل أي إكسسوار/منظف أو براند اتضاف بالغلط في نسخة قديمة
+  const oldBadBrands = new Set(['نوفا', 'يونيفرسال']);
   for (const cat of CATEGORIES) {
     for (const offer of data[cat.id]) {
       if (offer.asin) offer.url = productUrl(offer.asin);
       if (offer.active !== false && !offer.ship) {
         offer.ship = DEFAULT_SHIP;
+        totalChanges++;
+      }
+      const badBrand = oldBadBrands.has(String(offer.brand || '').trim());
+      const isAccessory = Boolean(offer.title) && ACCESSORY_RE.test(offer.title);
+      if (offer.active !== false && (badBrand || isAccessory)) {
+        console.log(`  اتشال (مش جهاز): ${offer.name || offer.asin}`);
+        offer.active = false;
+        offer.reason = 'filtered';
         totalChanges++;
       }
     }
@@ -299,7 +317,7 @@ async function main() {
         console.log(
           `    تشخيص: خام ${stats.raw} · مكرر ${stats.dup} · مش مطابق ${stats.include} · إكسسوار ${stats.accessory}` +
           ` · بدون صورة ${stats.noImage} · سعر ${stats.price} · حالة ${stats.condition + stats.availability}` +
-          ` · براند ${stats.brand} · ضعيف ${stats.weak} · عيلة مكررة ${stats.family}`,
+          ` · براند غير واضح ${stats.brand} · براند مش معروف ${stats.weak} · عيلة مكررة ${stats.family}`,
         );
       } catch (err) {
         console.warn(`  ${cat.title}: فشل البحث عن جديد — ${err.message}`);
