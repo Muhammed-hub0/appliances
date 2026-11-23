@@ -371,14 +371,15 @@
     "price": 3244,
     "img": "https://m.media-amazon.com/images/I/31VA3ggDt0L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GD7K4M6Z?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-23",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0CJNXLBWT",
@@ -417,14 +418,15 @@
     "price": 3999,
     "img": "https://m.media-amazon.com/images/I/41aJdfGLiKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09GKWKDV2?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-20",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0C6QZNL42",
@@ -737,14 +739,15 @@
     "price": 5049,
     "img": "https://m.media-amazon.com/images/I/41ZLXJMh7CL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09CQCF1FH?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0CBGCRPLH",
@@ -807,14 +810,15 @@
     "price": 8199,
     "img": "https://m.media-amazon.com/images/I/31nzDm2mUbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BB2NP5B8?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0GY9N6ZR6",
@@ -923,14 +927,15 @@
     "price": 6000,
     "img": "https://m.media-amazon.com/images/I/31Tvbuhm9mL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BSFM7XLD?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B08XQCDLXK",
@@ -1105,14 +1110,15 @@
     "price": 8299,
     "img": "https://m.media-amazon.com/images/I/31QMy36Z1GL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GY1DZTZN?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0FFHMBKCL",
@@ -1333,14 +1339,15 @@
     "price": 8224,
     "img": "https://m.media-amazon.com/images/I/31HRgh1yKIL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DXLJL5K6?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B09STVM86X",
@@ -1540,14 +1547,15 @@
     "price": 9999,
     "img": "https://m.media-amazon.com/images/I/41QNkjut5AL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C4C72Y9Y?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B09VLK78F8",
@@ -1633,14 +1641,15 @@
     "price": 9382,
     "img": "https://m.media-amazon.com/images/I/314kk6ih96L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C4Q9131G?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0FXBFHBDP",
@@ -1699,14 +1708,15 @@
     "price": 11869,
     "img": "https://m.media-amazon.com/images/I/41Mt4slbS3L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CP43NP25?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-16",
     "lastGood": "2026-11-21",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0C79TRMNQ",
@@ -1993,14 +2003,15 @@
     "price": 4869,
     "img": "https://m.media-amazon.com/images/I/31N78U+P+dL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GLQ9WQY1?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-18",
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B08W8J6RW6",
@@ -2764,7 +2775,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08KQHCCDK",
@@ -2786,7 +2798,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DFYRN3GC",
@@ -2807,7 +2820,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FDGLCR1H",
@@ -2822,7 +2836,7 @@
     "title": "Air Fryer 6 Liter 2400W Multifunction Touch Screen - Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1149,
+    "price": 1075,
     "img": "https://m.media-amazon.com/images/I/517NIw7Y1tL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FDGLCR1H?tag=fineartslab-21",
     "active": true,
@@ -2830,7 +2844,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H7FJ5WST",
@@ -2853,7 +2868,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H6H1X522",
@@ -2876,7 +2892,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HMXH8KYF",
@@ -2899,7 +2916,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HJ6CRHHK",
@@ -2922,7 +2940,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CP8WWZFZ",
@@ -2945,7 +2964,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H6MGMGZJ",
@@ -2968,7 +2988,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G4K8FTXB",
@@ -2991,7 +3012,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HJ4KXLNR",
@@ -3014,7 +3036,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HJ6C7XZD",
@@ -3037,7 +3060,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQMYP3LF",
@@ -3059,7 +3083,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F5JVMLDP",
@@ -3081,7 +3106,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FQ5TCDPP",
@@ -3098,6 +3124,840 @@
     "price": 1024.55,
     "img": "https://m.media-amazon.com/images/I/3107FUvwJtL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FQ5TCDPP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0FG1XQHJP",
+    "brand": "فريش",
+    "name": "فريش 6 لتر 2400 وات تاتش",
+    "specs": {
+      "cap": "6",
+      "watt": "2400",
+      "type": "تاتش"
+    },
+    "model": "",
+    "title": "Air Fryer Multifunction Touch 6L 2400W Black+2 Pieces Fresh Round Silicone Air Fryer Liner 6.3 Inch Reusable",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1169.67,
+    "img": "https://m.media-amazon.com/images/I/31KW+lprIwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FG1XQHJP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C3V86BJB",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 5.8 لتر 1800 وات تاتش (AF5800-B5)",
+    "specs": {
+      "cap": "5.8",
+      "watt": "1800",
+      "type": "تاتش"
+    },
+    "model": "AF5800-B5",
+    "title": "BLACK+DECKER 12-in-1 Large Air Fryer with Touch Screen with Rapid Hot Air Circulation for Frying, Grilling, Roasting, Baking, 5.8L, 2kg, 1800W, AF5800-B5, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6600,
+    "img": "https://m.media-amazon.com/images/I/51KmADEPisL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C3V86BJB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08H89XTDT",
+    "brand": "فيليبس",
+    "name": "فيليبس 6.2 لتر 2000 وات تاتش (HD9270/90)",
+    "specs": {
+      "cap": "6.2",
+      "watt": "2000",
+      "type": "تاتش"
+    },
+    "model": "HD9270/90",
+    "title": "Philips Airfryer XL - 2000W, LED Touch Screen Display, 6.2L, 1.2KGs, 7 Presets, Rapid Air Technology, Connected with HomeID APP, Black - HD9270/90",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7279,
+    "img": "https://m.media-amazon.com/images/I/41jO65dRerL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08H89XTDT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C5NNC6KV",
+    "brand": "كينوود",
+    "name": "كينوود 3.8 لتر 1500 وات رقمي (HFP30)",
+    "specs": {
+      "cap": "3.8",
+      "watt": "1500",
+      "type": "رقمي"
+    },
+    "model": "HFP30",
+    "title": "Kenwood KHealthyFry Digital Air Fryer, 3.8 L, 1500 Watt, Black, One Spoon Oil, HFP30.000BK - International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3677.1,
+    "img": "https://m.media-amazon.com/images/I/41C833qRpUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C5NNC6KV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GLQX16BH",
+    "brand": "سوكاني",
+    "name": "سوكاني 7 لتر 1700 وات رقمي",
+    "specs": {
+      "cap": "7",
+      "watt": "1700",
+      "type": "رقمي"
+    },
+    "model": "",
+    "title": "Sokany SK-10052 1700W Digital Air Fryer, 7 Liter Capacity, Black/Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3999,
+    "img": "https://m.media-amazon.com/images/I/31uLuQdHiOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GLQX16BH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CWFCQDXF",
+    "brand": "سوكاني",
+    "name": "سوكاني 8.5 لتر 1800 وات رقمي",
+    "specs": {
+      "cap": "8.5",
+      "watt": "1800",
+      "type": "رقمي"
+    },
+    "model": "",
+    "title": "Sokany Hilti Digital Air Fryer 8.5L 1800W Sk-10004 Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5350,
+    "img": "https://m.media-amazon.com/images/I/31XBpq077SL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CWFCQDXF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZTQ8GX1",
+    "brand": "بيكو",
+    "name": "بيكو 7.6 لتر 1750 وات",
+    "specs": {
+      "cap": "7.6",
+      "watt": "1750"
+    },
+    "model": "",
+    "title": "Beko 1750W Oil-Free Air Fryer, 7.6 Litre Capacity, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5868,
+    "img": "https://m.media-amazon.com/images/I/21DbRdvoRaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZTQ8GX1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09GNR8WJR",
+    "brand": "فريش",
+    "name": "فريش 5.5 لتر 1800 وات",
+    "specs": {
+      "cap": "5.5",
+      "watt": "1800"
+    },
+    "model": "",
+    "title": "Fresh Air Fryer without oil, 5.5 litres, 1800 watt - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4399,
+    "img": "https://m.media-amazon.com/images/I/215UB4FxGgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09GNR8WJR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D9JTSCSB",
+    "brand": "فيليبس",
+    "name": "فيليبس 4.2 لتر تاتش (NA220/00)",
+    "specs": {
+      "cap": "4.2",
+      "type": "تاتش"
+    },
+    "model": "NA220/00",
+    "title": "Philips 2000 Series Airfryer, RapidAir Technology, 13-in-1 Ways to Cook, 4.2L Capacity, Healthier Meals Up to 90% Less Fat, Easy to Clean, Dishwasher Safe, Touchscreen Control, HomeID App (NA220/00)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7999,
+    "img": "https://m.media-amazon.com/images/I/31JidNAuoYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D9JTSCSB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C1J53X89",
+    "brand": "فيليبس",
+    "name": "فيليبس 4.1 لتر 1400 وات (HD9200/90)",
+    "specs": {
+      "cap": "4.1",
+      "watt": "1400"
+    },
+    "model": "HD9200/90",
+    "title": "Philips Essential Air Fryer With Rapid Air Technology, 4.1L Capacity, Analogue, 12-in-1 Cooking Functions, 1400 W, 220V Supply Voltage, 50Hz, Black, HD9200/90 - International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5733,
+    "img": "https://m.media-amazon.com/images/I/31oCyAk-9pL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C1J53X89?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C99ML17F",
+    "brand": "RAF",
+    "name": "RAF 5.8 لتر 1500 وات",
+    "specs": {
+      "cap": "5.8",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "RAF Air Fryer,R.5232B,5.8L 1500W,Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3984.75,
+    "img": "https://m.media-amazon.com/images/I/41pJv2Zz8kL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C99ML17F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09833F2TW",
+    "brand": "شاومي",
+    "name": "شاومي 3.5 لتر",
+    "specs": {
+      "cap": "3.5"
+    },
+    "model": "",
+    "title": "Xiaomi Smart Air Fryer 3.5L, White, 1Y Local Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5052,
+    "img": "https://m.media-amazon.com/images/I/21QH0PqtjAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09833F2TW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09PJLNPW8",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 4 لتر",
+    "specs": {
+      "cap": "4"
+    },
+    "model": "",
+    "title": "Air Fryer - 4 Liters - AF 300 - Black - Black and Decker",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4125,
+    "img": "https://m.media-amazon.com/images/I/31nlcQH3YQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09PJLNPW8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DWXXHH8D",
+    "brand": "فريش",
+    "name": "فريش 25 لتر",
+    "specs": {
+      "cap": "25"
+    },
+    "model": "",
+    "title": "oven air fryer 25 L stainless led F-25PS",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4331.07,
+    "img": "https://m.media-amazon.com/images/I/31TX+uEc+CL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DWXXHH8D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B095HR3T63",
+    "brand": "كينوود",
+    "name": "كينوود 3.8 لتر (HFP30)",
+    "specs": {
+      "cap": "3.8"
+    },
+    "model": "HFP30",
+    "title": "Kenwood airfryer large 3.8litre/1.74kg capacity- white - hfp30.000wh ( international warranty ) - 220v supply voltage and 50hz",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4449,
+    "img": "https://m.media-amazon.com/images/I/31wLaznPb-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B095HR3T63?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09PNF7F6W",
+    "brand": "فيليبس",
+    "name": "فيليبس 2000 وات (HD9863/91)",
+    "specs": {
+      "watt": "2000"
+    },
+    "model": "HD9863/91",
+    "title": "Philips XXL Airfryer - 2000W, 50Hz, 1.4KGs, Smart Sensing Technology, Rapid Air Technology, Black/Copper - HD9863/91, International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17726,
+    "img": "https://m.media-amazon.com/images/I/31qZE4tmWbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09PNF7F6W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DW996VGV",
+    "brand": "نيوتريكوك",
+    "name": "NUTRICOOK AIR FRYER SLIM 5LNC-AFS100",
+    "specs": {},
+    "model": "AFS100",
+    "title": "NUTRICOOK AIR FRYER SLIM 5LNC-AFS100",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4999,
+    "img": "https://m.media-amazon.com/images/I/41E7ezeVvQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DW996VGV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BZSHS2FV",
+    "brand": "فيليبس",
+    "name": "Philips 5000 Series Air Fryer XXL Connected HD9285/90",
+    "specs": {},
+    "model": "HD9285/90",
+    "title": "Philips 5000 Series Air Fryer XXL Connected HD9285/90",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17459,
+    "img": "https://m.media-amazon.com/images/I/41KuEx1UF-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BZSHS2FV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07YRXCBPJ",
+    "brand": "بلاك أند ديكر",
+    "name": "Black & Decker Xl Air Fryer Aerofry, Black",
+    "specs": {},
+    "model": "",
+    "title": "Black & Decker Xl Air Fryer Aerofry, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4668.38,
+    "img": "https://m.media-amazon.com/images/I/31G7nz3FyuL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07YRXCBPJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08882TF9T",
+    "brand": "فيليبس",
+    "name": "Philips Air Fryer 1.4 kg XXL smart sensor HD9860/94",
+    "specs": {},
+    "model": "HD9860/94",
+    "title": "Philips Air Fryer 1.4 kg XXL smart sensor HD9860/94",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 15850,
+    "img": "https://m.media-amazon.com/images/I/414FosddVCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08882TF9T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H8KJKC3S",
+    "brand": "غير محدد",
+    "name": "DSP Digital Air Fryer KB2139, 7.5 Liter, 1600 Watts | Digital Touch Display, Removable Basket, Fast Air T",
+    "specs": {
+      "cap": "7.5",
+      "watt": "1600",
+      "type": "تاتش"
+    },
+    "model": "KB2139",
+    "title": "DSP Digital Air Fryer KB2139, 7.5 Liter, 1600 Watts | Digital Touch Display, Removable Basket, Fast Air Technology, 20-80℃, 12 Months Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3410.1,
+    "img": "https://m.media-amazon.com/images/I/41X4Ao+OaML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8KJKC3S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GLHX2G8Y",
+    "brand": "Carnival",
+    "name": "Carnival 6 لتر 1500 وات تاتش",
+    "specs": {
+      "cap": "6",
+      "watt": "1500",
+      "type": "تاتش"
+    },
+    "model": "",
+    "title": "Carnival 1500W Healthy Cooking Air Fryer with Digital Touch Screen, 6 Liter Capacity, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3537.5,
+    "img": "https://m.media-amazon.com/images/I/41qX9hOV9eL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GLHX2G8Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G4LQ28Z4",
+    "brand": "غير محدد",
+    "name": "Silvertine 6L Large Capacity Air Fryer, 2400W, Digital LCD Display, Green and Gold",
+    "specs": {
+      "cap": "6",
+      "watt": "2400",
+      "type": "رقمي"
+    },
+    "model": "",
+    "title": "Silvertine 6L Large Capacity Air Fryer, 2400W, Digital LCD Display, Green and Gold",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1250,
+    "img": "https://m.media-amazon.com/images/I/41wRsUgHerL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G4LQ28Z4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H79CN7SG",
+    "brand": "غير محدد",
+    "name": "Silver Creat Electric Air Fryer, 6 Liter, 2400 Watts, LCD Touch Screen, Digital Healthy Cooking, Use 1 Sp",
+    "specs": {
+      "cap": "6",
+      "watt": "2400",
+      "type": "تاتش"
+    },
+    "model": "",
+    "title": "Silver Creat Electric Air Fryer, 6 Liter, 2400 Watts, LCD Touch Screen, Digital Healthy Cooking, Use 1 Spoon Oil - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1380,
+    "img": "https://m.media-amazon.com/images/I/31PWCtHAJVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H79CN7SG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G2ST6GPF",
+    "brand": "Pluto",
+    "name": "Pluto 7.2 لتر 1800 وات رقمي",
+    "specs": {
+      "cap": "7.2",
+      "watt": "1800",
+      "type": "رقمي"
+    },
+    "model": "",
+    "title": "Pluto 1800 Watt Digital Air Fryer, 7.2 Liter Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3371,
+    "img": "https://m.media-amazon.com/images/I/51AYOJaKV6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G2ST6GPF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GCXNVDVV",
+    "brand": "غير محدد",
+    "name": "Digital Electric Air Fryer, 6 Liter, 1400 Watts, Digital LED Display, Black and Rose Gold, Healthy Frying",
+    "specs": {
+      "cap": "6",
+      "watt": "1400",
+      "type": "رقمي"
+    },
+    "model": "",
+    "title": "Digital Electric Air Fryer, 6 Liter, 1400 Watts, Digital LED Display, Black and Rose Gold, Healthy Frying Without Oil",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1201.5,
+    "img": "https://m.media-amazon.com/images/I/51RDTm1ORvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GCXNVDVV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CW1ZPM6B",
+    "brand": "EDISON ELECTRIC",
+    "name": "EDISON ELECTRIC 3.2 لتر 1400 وات رقمي",
+    "specs": {
+      "cap": "3.2",
+      "watt": "1400",
+      "type": "رقمي"
+    },
+    "model": "",
+    "title": "EDISON ELECTRIC Digital Air Fryer Black 3.2L 1400W-",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3799.05,
+    "img": "https://m.media-amazon.com/images/I/31jpvjCsNfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CW1ZPM6B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FLKFVM4W",
+    "brand": "غير محدد",
+    "name": "Air Fryer Multifunction Touch 6L 2400W Black",
+    "specs": {
+      "cap": "6",
+      "watt": "2400",
+      "type": "تاتش"
+    },
+    "model": "",
+    "title": "Air Fryer Multifunction Touch 6L 2400W Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1500.75,
+    "img": "https://m.media-amazon.com/images/I/31Po5W1pfrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FLKFVM4W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZLQ82CC",
+    "brand": "غير محدد",
+    "name": "Benz Air Fryer Digital, 8L, 1700W, Stainless Steel, LED Display, 10 Preset Programs, Fry, Grill, Roast, R",
+    "specs": {
+      "cap": "8",
+      "watt": "1700",
+      "type": "رقمي"
+    },
+    "model": "",
+    "title": "Benz Air Fryer Digital, 8L, 1700W, Stainless Steel, LED Display, 10 Preset Programs, Fry, Grill, Roast, Reheat and Dehydrate",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3399,
+    "img": "https://m.media-amazon.com/images/I/31Gwq7m3WLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZLQ82CC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D7W725P1",
+    "brand": "غير محدد",
+    "name": "Sonai Cook Master Pro Classic Air Fryer, 7 Liter, 2000 Watt,Silver - MAR-710-S",
+    "specs": {
+      "cap": "7",
+      "watt": "2000"
+    },
+    "model": "",
+    "title": "Sonai Cook Master Pro Classic Air Fryer, 7 Liter, 2000 Watt,Silver - MAR-710-S",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3870,
+    "img": "https://m.media-amazon.com/images/I/319rWvnqBAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D7W725P1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F5JV89KP",
+    "brand": "غير محدد",
+    "name": "Air Fryer 5L Electric Air Fryer/5L Large Capacity 1200W | Home Use",
+    "specs": {
+      "cap": "5",
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "Air Fryer 5L Electric Air Fryer/5L Large Capacity 1200W | Home Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1189,
+    "img": "https://m.media-amazon.com/images/I/41MX8YSJezL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F5JV89KP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CB23TYNY",
+    "brand": "غير محدد",
+    "name": "Royal Silver Crest 8 Liter Air Fryer 1.Kg Performance Range 2400 Watt Rapid Air Convection Heating, 18 - ",
+    "specs": {
+      "cap": "8",
+      "watt": "2400"
+    },
+    "model": "",
+    "title": "Royal Silver Crest 8 Liter Air Fryer 1.Kg Performance Range 2400 Watt Rapid Air Convection Heating, 18 - (International warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2189.86,
+    "img": "https://m.media-amazon.com/images/I/41ey3Q-PuGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CB23TYNY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWPJCBVH",
+    "brand": "غير محدد",
+    "name": "Air Fryer, 6L 2400W Multifunctional Air Fryer, Black, Suitable for Family, Time and Temperature Control, ",
+    "specs": {
+      "cap": "6",
+      "watt": "2400"
+    },
+    "model": "",
+    "title": "Air Fryer, 6L 2400W Multifunctional Air Fryer, Black, Suitable for Family, Time and Temperature Control, for Cooking, Potatoes, Chicken, Bakery",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1210.5,
+    "img": "https://m.media-amazon.com/images/I/31UdwV63NnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWPJCBVH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQMSVN5W",
+    "brand": "جاماكي",
+    "name": "جاماكي 8 لتر 2500 وات",
+    "specs": {
+      "cap": "8",
+      "watt": "2500"
+    },
+    "model": "",
+    "title": "Jamaki Healthy Air Fryer Without Oil Safe Use 8 Liter 2500 Watt - jmk 5011",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3299,
+    "img": "https://m.media-amazon.com/images/I/41w14QpttIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQMSVN5W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CH55PDC7",
+    "brand": "غير محدد",
+    "name": "DSP Air Fryer 12L With Convection Oven, Without Oil 1700W KB2029",
+    "specs": {
+      "cap": "12",
+      "watt": "1700"
+    },
+    "model": "KB2029",
+    "title": "DSP Air Fryer 12L With Convection Oven, Without Oil 1700W KB2029",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4418.71,
+    "img": "https://m.media-amazon.com/images/I/41sNDFhizqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CH55PDC7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CW21CZ2N",
+    "brand": "EDISON ELECTRIC",
+    "name": "EDISON ELECTRIC 22 لتر 1900 وات",
+    "specs": {
+      "cap": "22",
+      "watt": "1900"
+    },
+    "model": "",
+    "title": "EDISON ELECTRIC Air Fryer 22L Black 1900W-",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8192.8,
+    "img": "https://m.media-amazon.com/images/I/31kw+6ZeNsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CW21CZ2N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HC3MYP16",
+    "brand": "غير محدد",
+    "name": "Air Fryer 8 Liter 1500 Watt Black & Rose Gold GM-998A | Non-Stick Stick Basket, Black and Rose Gold Desig",
+    "specs": {
+      "cap": "8",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "Air Fryer 8 Liter 1500 Watt Black & Rose Gold GM-998A | Non-Stick Stick Basket, Black and Rose Gold Design, Home Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2580,
+    "img": "https://m.media-amazon.com/images/I/412VKeSyzgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HC3MYP16?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HB5GFGBW",
+    "brand": "غير محدد",
+    "name": "Electric Air Fryer, 1400 Watts, LCD Display, High Quality, Healthy and Delicious Food without Oil S18",
+    "specs": {
+      "watt": "1400"
+    },
+    "model": "S18",
+    "title": "Electric Air Fryer, 1400 Watts, LCD Display, High Quality, Healthy and Delicious Food without Oil S18",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1200,
+    "img": "https://m.media-amazon.com/images/I/41YTgTzF6NL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HB5GFGBW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

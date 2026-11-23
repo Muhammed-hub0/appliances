@@ -275,8 +275,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0DHH8D5NJ",
@@ -368,7 +370,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09JMZZ1MP",
@@ -390,7 +393,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09VC6P1MQ",
@@ -411,7 +415,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C11F8ZMC",
@@ -432,7 +437,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B098PFQLBK",
@@ -453,7 +459,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G1T744V5",
@@ -474,7 +481,9 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 1,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B091J84LT2",
@@ -495,7 +504,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BH4QMRC7",
@@ -516,7 +526,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B095XWWNRZ",
@@ -537,7 +548,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FP2BJVH9",
@@ -558,7 +570,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CZLF8NT1",
@@ -579,7 +592,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CP15649B",
@@ -600,7 +614,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DNQWRFQS",
@@ -621,7 +636,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DKG33S54",
@@ -642,7 +658,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DJF7QRZQ",
@@ -661,7 +678,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B081V72DGV",
@@ -680,7 +698,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DV7DCL8S",
@@ -699,7 +718,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BXT218SD",
@@ -722,7 +742,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BXT3P6VX",
@@ -745,7 +766,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BXT498VB",
@@ -768,7 +790,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CFR1GRSF",
@@ -790,7 +813,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CDVFDSSK",
@@ -812,7 +836,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HNWRQHMV",
@@ -834,7 +859,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GPWTHZ3J",
@@ -856,7 +882,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CBQ95S5L",
@@ -878,7 +905,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HRR8VD6Y",
@@ -900,7 +928,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B097F2RTJJ",
@@ -921,7 +950,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HPYSKZPJ",
@@ -942,7 +972,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D2BF53F2",
@@ -963,7 +994,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09N2L8P1B",
@@ -984,7 +1016,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FSWWNB6N",
@@ -1005,7 +1038,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0923H23MP",
@@ -1026,7 +1060,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DMTJNGWC",
@@ -1047,7 +1082,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GQ78M7BB",
@@ -1068,7 +1104,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DMTJ5VLN",
@@ -1089,7 +1126,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0922NZKM7",
@@ -1110,7 +1148,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HLCPLG3R",
@@ -1131,7 +1170,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GBXC2K18",
@@ -1152,7 +1192,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HQ2RZ2VF",
@@ -1173,7 +1214,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D2BF18LV",
@@ -1194,7 +1236,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D2BCW3TX",
@@ -1215,7 +1258,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B2MJJW5S",
@@ -1234,7 +1278,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HL71JN13",
@@ -1253,7 +1298,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B077XFYDGB",
@@ -1267,6 +1313,1117 @@
     "price": 256,
     "img": "https://m.media-amazon.com/images/I/41qa86gOuML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B077XFYDGB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0B5R2ZY3T",
+    "brand": "شارب",
+    "name": "شارب 45 لتر كونفكشن 1400 وات (TURKEY)",
+    "specs": {
+      "cap": "45",
+      "type": "كونفكشن",
+      "watt": "1400"
+    },
+    "model": "TURKEY",
+    "title": "SHARP Electric Oven With Grill 45 Liter 1400 Watt Convection Fan, Roast Function (TURKEY) Silver x Black EO-S45-ES2",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 10000,
+    "img": "https://m.media-amazon.com/images/I/313FuAA0IlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B5R2ZY3T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GY8PHTVM",
+    "brand": "AKANE",
+    "name": "AKANE 25 لتر توستر 1700 وات",
+    "specs": {
+      "cap": "25",
+      "type": "توستر",
+      "watt": "1700"
+    },
+    "model": "",
+    "title": "AKANE Electric Oven Air Fryer 25L 1700W A.5153 – Multi-Function Toaster Oven with Air Fry, Temperature Control, Large Capacity, Fast Cooking, Countertop Oven for Baking, Grilling & Roasting",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5200,
+    "img": "https://m.media-amazon.com/images/I/41qUFDkHS7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GY8PHTVM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CBL84K3X",
+    "brand": "بوش",
+    "name": "بوش 66 لتر 3300 وات (HBJ558YS0G)",
+    "specs": {
+      "cap": "66",
+      "watt": "3300"
+    },
+    "model": "HBJ558YS0G",
+    "title": "Bosch Electric Built-in oven 60 cm Serie 6, 3300 Watts, Stainless Steel, 66 Litres, Integral cooling fan, grill, Black, HBJ558YS0G",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 26699,
+    "img": "https://m.media-amazon.com/images/I/414QfgA27YL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CBL84K3X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CNT56SFG",
+    "brand": "نيوتريكوك",
+    "name": "نيوتريكوك 24 لتر كونفكشن (ST01)",
+    "specs": {
+      "cap": "24",
+      "type": "كونفكشن"
+    },
+    "model": "ST01",
+    "title": "Nutricook Steami, Steam Oven + Air Fryer, 11-in-1 Functions, 24L Capacity, Steam + Convection, Real Steam Technology, ST01, 2 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19999,
+    "img": "https://m.media-amazon.com/images/I/41bxsii9lML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CNT56SFG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DCGMJSSK",
+    "brand": "بيكو",
+    "name": "بيكو 72 لتر مدمج (BBIM17300MGD)",
+    "specs": {
+      "cap": "72",
+      "type": "مدمج"
+    },
+    "model": "BBIM17300MGD",
+    "title": "Beko Built in Electric Oven 60 cm, Electric Grill, 72 Litre, with 8 Functions, Cooling Fan & Cooking Fan- BBIM17300MGD",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 21600,
+    "img": "https://m.media-amazon.com/images/I/31pqmY6+NCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DCGMJSSK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B008B3BD0E",
+    "brand": "DeLonghi",
+    "name": "DeLonghi 20 لتر 1300 وات (EO20792)",
+    "specs": {
+      "cap": "20",
+      "watt": "1300"
+    },
+    "model": "EO20792",
+    "title": "De'Longhi De'Longhi EO20792 Electric Oven 20 Litres 7 Cooking Functions Timer 1300 W Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 25699,
+    "img": "https://m.media-amazon.com/images/I/31dx1DGtiML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B008B3BD0E?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HNDN3GNS",
+    "brand": "فريش",
+    "name": "فريش 55 لتر توستر",
+    "specs": {
+      "cap": "55",
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Fresh Electric Toaster Oven 55L, Black with Mirror Finish Door | Temperature Control, Selector Function, Timer Setting, Countertop Design, Black Finish",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3800,
+    "img": "https://m.media-amazon.com/images/I/31m-V2EgSvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HNDN3GNS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C827WSHJ",
+    "brand": "سوكاني",
+    "name": "سوكاني 12 لتر توستر",
+    "specs": {
+      "cap": "12",
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Sokany Air Fryer Toaster Oven 12L SK-ZG-8039",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5826,
+    "img": "https://m.media-amazon.com/images/I/51ldXnEqhCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C827WSHJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DWXXF4NP",
+    "brand": "فريش",
+    "name": "فريش 25 لتر 1600 وات",
+    "specs": {
+      "cap": "25",
+      "watt": "1600"
+    },
+    "model": "",
+    "title": "Fresh F-25PB Oven with Air Fryer 1600 Watt 25 Liter, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5531,
+    "img": "https://m.media-amazon.com/images/I/31PhSo8ksrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DWXXF4NP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0993TDPPV",
+    "brand": "شارب",
+    "name": "شارب 42 لتر 1800 وات",
+    "specs": {
+      "cap": "42",
+      "watt": "1800"
+    },
+    "model": "",
+    "title": "SHARP Electric Oven 42 Litre, 1800 Watt in Black Color With Grill and Fan EO-42K-2",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8461,
+    "img": "https://m.media-amazon.com/images/I/31AYfpCNa3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0993TDPPV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09QDGFRKL",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 49 لتر 1800 وات",
+    "specs": {
+      "cap": "49",
+      "watt": "1800"
+    },
+    "model": "",
+    "title": "TORNADO Electric Oven 49 Liter, 1800 Watt, Grill, Fan, Black TEO-49KD-BK",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7300,
+    "img": "https://m.media-amazon.com/images/I/41y9TZ3-1dL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09QDGFRKL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BXMVTBH3",
+    "brand": "بوش",
+    "name": "بوش 60 لتر غاز (HGL21F350)",
+    "specs": {
+      "cap": "60",
+      "type": "غاز"
+    },
+    "model": "HGL21F350",
+    "title": "Bosch Series 6 / built-in Gas oven Digital 60 Liters stainless with Electric Grill 1.8 KW - Italy - HGL21F350",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 41030.68,
+    "img": "https://m.media-amazon.com/images/I/31n9JJyM5xL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BXMVTBH3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSR7LPQD",
+    "brand": "فريش",
+    "name": "فريش 56 لتر غاز",
+    "specs": {
+      "cap": "56",
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Fresh Built-In Gas Oven With gas Grill 60 cm 56 Liter Stainless Steel, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 13000,
+    "img": "https://m.media-amazon.com/images/I/319VkHQrX6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSR7LPQD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C5P228GM",
+    "brand": "إلبا",
+    "name": "إلبا 62 لتر غاز",
+    "specs": {
+      "cap": "62",
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Elba - Built In Gas Oven With Fan and Grill Capacity 62 L, 60 CM With 8 Functions Mirror Double Glass, Stainless Steel Body - AL6XLXFG",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 28989,
+    "img": "https://m.media-amazon.com/images/I/31UwnYxkA-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C5P228GM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01KXFI6AM",
+    "brand": "فريش",
+    "name": "فريش 56 لتر",
+    "specs": {
+      "cap": "56"
+    },
+    "model": "",
+    "title": "Fresh 7 Functions Electric Oven, 56 Liter Capacity, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 11490,
+    "img": "https://m.media-amazon.com/images/I/31a8+W5pvjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01KXFI6AM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09K6MD7B9",
+    "brand": "أريون",
+    "name": "أريون 50 لتر",
+    "specs": {
+      "cap": "50"
+    },
+    "model": "",
+    "title": "Arion Electric Oven 50L Silver, AR-5201D",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/31kZiKCVXkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09K6MD7B9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D9WCMM3G",
+    "brand": "فريش",
+    "name": "فريش غاز",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Fresh Built-in Oven 60 cm Modina Gas/Electric Soft Close",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 16115,
+    "img": "https://m.media-amazon.com/images/I/21DGCQWJWBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D9WCMM3G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZD6TCFF",
+    "brand": "Rafal",
+    "name": "Rafal 45 لتر",
+    "specs": {
+      "cap": "45"
+    },
+    "model": "",
+    "title": "Rafal Electric Oven 45 Litres (Lamp + Grill + fan) Black | 45L electric oven featuring internal lamp, grill, and fan functions for versatile, even, and efficient baking.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3091.1,
+    "img": "https://m.media-amazon.com/images/I/31mSY9qSE7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZD6TCFF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DJF86JQH",
+    "brand": "نينجا",
+    "name": "نينجا توستر",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Ninja Woodfire Outdoor Electric Oven, 8-in-1 Pizza Oven, High Heat Toaster and BBQ Smoker with Roasting Rack, Pro-Heat Stay Tray, Pizza Stone, Pellets and Spoon",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 46199,
+    "img": "https://m.media-amazon.com/images/I/41n05hgtGiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DJF86JQH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07V4R22N9",
+    "brand": "إنديست",
+    "name": "إنديست غاز",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Indesit IGW 324 IX Built-in Gas Oven 60 CM, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19999,
+    "img": "https://m.media-amazon.com/images/I/41GfRJgD0kS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07V4R22N9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C1196JST",
+    "brand": "فريش",
+    "name": "Fresh Oven Planet with rotating tray Black/FR-48",
+    "specs": {},
+    "model": "",
+    "title": "Fresh Oven Planet with rotating tray Black/FR-48",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3596.4,
+    "img": "https://m.media-amazon.com/images/I/31h-+HtG1nL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C1196JST?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08WJMXXFM",
+    "brand": "زانوسي",
+    "name": "Zanussi Built-In Oven, Electric, Stainless Steel, 60 cm, Silver - ZOB35602XK",
+    "specs": {},
+    "model": "ZOB35602XK",
+    "title": "Zanussi Built-In Oven, Electric, Stainless Steel, 60 cm, Silver - ZOB35602XK",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19550,
+    "img": "https://m.media-amazon.com/images/I/41w9cbxQTUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJMXXFM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FRJTL8PL",
+    "brand": "كومتيل",
+    "name": "KUMTEL 60cm Built-In Electric Oven, 8 Multi-Function Cooking Programs, Matte Black Glass Design, B66-SF2-",
+    "specs": {},
+    "model": "B66-SF2-",
+    "title": "KUMTEL 60cm Built-In Electric Oven, 8 Multi-Function Cooking Programs, Matte Black Glass Design, B66-SF2-Magic Glass",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 10905.95,
+    "img": "https://m.media-amazon.com/images/I/31131XuE4XL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FRJTL8PL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01KXFI4UE",
+    "brand": "فريش",
+    "name": "Fresh Built-in Electric Oven 60 cm 4 Functions",
+    "specs": {},
+    "model": "",
+    "title": "Fresh Built-in Electric Oven 60 cm 4 Functions",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14400,
+    "img": "https://m.media-amazon.com/images/I/31gIMWWurmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01KXFI4UE?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CNQ82K3Y",
+    "brand": "نينجا",
+    "name": "Ninja Woodfire 8-in-1 Electric Outdoor Pizza Oven, Rotisserie & Smoker BBQ with Grate, Pro-Heat Plate, Pi",
+    "specs": {},
+    "model": "OO101EU",
+    "title": "Ninja Woodfire 8-in-1 Electric Outdoor Pizza Oven, Rotisserie & Smoker BBQ with Grate, Pro-Heat Plate, Pizza Stone, Wood Pellets and Shovel, 6 Settings, Dark Orange OO101EU",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 40486.66,
+    "img": "https://m.media-amazon.com/images/I/31NJ85qq78L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CNQ82K3Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWF6S966",
+    "brand": "نينجا",
+    "name": "Ninja Artisan Outdoor Pizza Oven, 12 Inch, 3 Minute Pizza, Neapolitan, Thin Crust, New York Chicago, Cust",
+    "specs": {},
+    "model": "",
+    "title": "Ninja Artisan Outdoor Pizza Oven, 12 Inch, 3 Minute Pizza, Neapolitan, Thin Crust, New York Chicago, Custom, Maximum Temperature 700 F, Electric Heat",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 49849,
+    "img": "https://m.media-amazon.com/images/I/413IS6+ztQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWF6S966?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZPKSGFV",
+    "brand": "نينجا",
+    "name": "Ninja 12-in-1 Multi-Cooker Combi, Oven & Fryer, 12 Cooking Functions, Family Size Meal in 15 Minutes*, wi",
+    "specs": {},
+    "model": "SFP700EU",
+    "title": "Ninja 12-in-1 Multi-Cooker Combi, Oven & Fryer, 12 Cooking Functions, Family Size Meal in 15 Minutes*, with Baking Tray, Pan and Recipe Guide, Grey, SFP700EU.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19900,
+    "img": "https://m.media-amazon.com/images/I/31oDXRS0fdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZPKSGFV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09HSBV93T",
+    "brand": "نينجا",
+    "name": "Ninja Foodi 10-in-1 Multifunction Worktop Oven, Silver/Black DT200UK | Fast Mini Oven, 10 Functions: Air ",
+    "specs": {},
+    "model": "DT200UK",
+    "title": "Ninja Foodi 10-in-1 Multifunction Worktop Oven, Silver/Black DT200UK | Fast Mini Oven, 10 Functions: Air Fry, Pizza, Grill, Bake & more. Make Family-Size Meals. Includes air fry basket & more.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 33449,
+    "img": "https://m.media-amazon.com/images/I/416LhAhgBcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09HSBV93T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CBSZJ7D7",
+    "brand": "كومتيل",
+    "name": "KUMTEL Built-In Electric Oven 60cm with LED Touch Display B66-SF2-Anthracite Glass",
+    "specs": {},
+    "model": "B66-SF2-",
+    "title": "KUMTEL Built-In Electric Oven 60cm with LED Touch Display B66-SF2-Anthracite Glass",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 11490,
+    "img": "https://m.media-amazon.com/images/I/41j+FI0EjkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CBSZJ7D7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B087C3LPG4",
+    "brand": "تيفال",
+    "name": "Tefal Tempo Flame Rectangular Oven Tray Set, Size (30-35) cm, Red - 220089989",
+    "specs": {},
+    "model": "30-35",
+    "title": "Tefal Tempo Flame Rectangular Oven Tray Set, Size (30-35) cm, Red - 220089989",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1433.5,
+    "img": "https://m.media-amazon.com/images/I/41l6F6RMJmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B087C3LPG4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GDMMP5Q4",
+    "brand": "Grouhy",
+    "name": "Grouhy 48 لتر 2000 وات (GVL480V2W)",
+    "specs": {
+      "cap": "48",
+      "watt": "2000"
+    },
+    "model": "GVL480V2W",
+    "title": "Grohe Electric Oven 48 Liter With Grill, Bulb And Fan, 2000 Watts, Black, GVL480V2W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2499,
+    "img": "https://m.media-amazon.com/images/I/31s+b-KqXzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GDMMP5Q4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D1VQRF2M",
+    "brand": "SONAI",
+    "name": "SONAI 50 لتر 2000 وات",
+    "specs": {
+      "cap": "50",
+      "watt": "2000"
+    },
+    "model": "",
+    "title": "Sonai Oven – 5 cooking mood, mechanical timer, 50L - 2000 Watt, MAR-5050",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3470,
+    "img": "https://m.media-amazon.com/images/I/41yr-NpLCdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D1VQRF2M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVT9RDH3",
+    "brand": "Winning Star",
+    "name": "Winning Star 60 لتر 1900 وات",
+    "specs": {
+      "cap": "60",
+      "watt": "1900"
+    },
+    "model": "",
+    "title": "فرن كهربائية 1900 وات 60 لتر WINNING ST-9690",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7125,
+    "img": "https://m.media-amazon.com/images/I/31gzhH-h3fL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVT9RDH3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVT8MR65",
+    "brand": "Winning Star",
+    "name": "Winning Star 40 لتر 1600 وات",
+    "specs": {
+      "cap": "40",
+      "watt": "1600"
+    },
+    "model": "",
+    "title": "Electric Oven 1600W 40L Winning Star No.ST-9602",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4855.5,
+    "img": "https://m.media-amazon.com/images/I/51PcrSGg01L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVT8MR65?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07YSZ8V9K",
+    "brand": "Sage",
+    "name": "Sage 22 لتر كونفكشن",
+    "specs": {
+      "cap": "22",
+      "type": "كونفكشن"
+    },
+    "model": "",
+    "title": "Sage Smart Oven Air Fryer, 22L Convection Oven, Brushed Stainless Steel | Air Fryer and Convection Oven, 22L, Element IQ, 10 Functions, Super Convection, Toasts 6 Slices, LCD Display",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 45749,
+    "img": "https://m.media-amazon.com/images/I/41krY5t2DEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07YSZ8V9K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D8ZY74N9",
+    "brand": "Ocean",
+    "name": "Ocean 60 لتر مدمج (OEOF68ITC)",
+    "specs": {
+      "cap": "60",
+      "type": "مدمج"
+    },
+    "model": "OEOF68ITC",
+    "title": "Ocean Built In Electric Oven, Grill, 60 Liters, 60 cm, Digital, Turkish Origin - Inox - OEOF68ITC",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 18914,
+    "img": "https://m.media-amazon.com/images/I/51bH+iwCTXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D8ZY74N9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FL7YBY3Y",
+    "brand": "Purity",
+    "name": "Purity 65 لتر غاز (OPT602GGD)",
+    "specs": {
+      "cap": "65",
+      "type": "غاز"
+    },
+    "model": "OPT602GGD",
+    "title": "Purity Built-in Gas Oven 60cm with Gas Grill, 65L Capacity, Digital Timer, Soft Close Doors, Black (Made in Turkey) – OPT602GGD",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 15590,
+    "img": "https://m.media-amazon.com/images/I/31oXrhkTdyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FL7YBY3Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FL82YJN9",
+    "brand": "Purity",
+    "name": "Purity 65 لتر غاز (OPT601GGD)",
+    "specs": {
+      "cap": "65",
+      "type": "غاز"
+    },
+    "model": "OPT601GGD",
+    "title": "Purity Built-in Gas Oven 60cm with Gas Grill, 65L Capacity, Digital Timer, Soft Close Doors, Stainless Steel (Made in Turkey) – OPT601GGD",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14744,
+    "img": "https://m.media-amazon.com/images/I/314zsL7Xs+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FL82YJN9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HBYXBXLR",
+    "brand": "Argosta",
+    "name": "Argosta 82 لتر غاز (GO6060SBLACK)",
+    "specs": {
+      "cap": "82",
+      "type": "غاز"
+    },
+    "model": "GO6060SBLACK",
+    "title": "Argosta AR-GO6060SBlack 60cm Built-In Gas Oven with Grill, Turbo Fan & Rotisserie – Black (82L, LPG/Natural Gas)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 11850,
+    "img": "https://m.media-amazon.com/images/I/21Qwxy3+ocL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HBYXBXLR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4P1KK2H",
+    "brand": "Purity101",
+    "name": "Purity101 60 لتر (KPT606EEX)",
+    "specs": {
+      "cap": "60"
+    },
+    "model": "KPT606EEX",
+    "title": "Purity101 Full Electric Built-in Oven, 60 cm, 60L Capacity, 8 Cooking Functions, Mechanical Timer with Auto Shut-off, Made in Turkey - KPT606EEX",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 10738,
+    "img": "https://m.media-amazon.com/images/I/31WFPY7rCqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4P1KK2H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CCPS7YLF",
+    "brand": "FLAMINGO",
+    "name": "FLAMINGO 40 لتر",
+    "specs": {
+      "cap": "40"
+    },
+    "model": "",
+    "title": "Flamingo Electric Oven 40 Liter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2097,
+    "img": "https://m.media-amazon.com/images/I/41dlnjZf28L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CCPS7YLF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GXPY4NXF",
+    "brand": "Belo Forni",
+    "name": "Belo Forni 2200 وات (BF33S)",
+    "specs": {
+      "watt": "2200"
+    },
+    "model": "BF33S",
+    "title": "Belo Forni BF33S Professional Bake and Pizza Oven Bake Steel included, 2200 Watts & Bonus Gift 3 Baking & Pizza Peels",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 12360,
+    "img": "https://m.media-amazon.com/images/I/41PSIwYIcBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GXPY4NXF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZ2VKV3T",
+    "brand": "Purity101",
+    "name": "Purity101 مدمج (PT606EE)",
+    "specs": {
+      "type": "مدمج"
+    },
+    "model": "PT606EE",
+    "title": "Purity101 PT606EE- Built in Fully Electric Oven",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 13774,
+    "img": "https://m.media-amazon.com/images/I/31oL8lj9A6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZ2VKV3T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F67PNPS5",
+    "brand": "غير محدد",
+    "name": "Suggestion:\"Wonder Breakfast Station - 3x1 Device (Study the Name Correctly and Enjoy a Delicious and Com",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Suggestion:\"Wonder Breakfast Station - 3x1 Device (Study the Name Correctly and Enjoy a Delicious and Comfortable Breakfast Contains Toaster, Mini Oven, Coffee Machine, Tray Not - Generic",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3500.44,
+    "img": "https://m.media-amazon.com/images/I/51ymnZQmvQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F67PNPS5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BXSHQHXB",
+    "brand": "Komire",
+    "name": "Komire توستر",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Komire Air Fryer Basket for Oven, 12.8x9.6 Inch Stainless Steel Toaster Oven Tray Non-stick Mesh Basket Set, Air Fryer Tray Bacon Oven Rack Basket 2 Piece Set",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 495,
+    "img": "https://m.media-amazon.com/images/I/51LpDAQ9BhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BXSHQHXB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09P5DQ5F7",
+    "brand": "Beinear",
+    "name": "Beinear غاز",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Beinear BBQ Grill Mats - 5 Pack 40 x 33 cm Heavy Duty Non Stick Reusable Teflon Barbecue Mats for Charcoal, Gas or Electric Grill Sheets, Universal Liners for Oven, Baking Mat",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 287.28,
+    "img": "https://m.media-amazon.com/images/I/416lcCd+xaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09P5DQ5F7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HNWL84TW",
+    "brand": "غير محدد",
+    "name": "Nauticall Electric Rotisserie Oven DL-D4000 1600W 220V | Precise Temp Control, Flameless Operation, Bakin",
+    "specs": {
+      "watt": "1600"
+    },
+    "model": "D4000",
+    "title": "Nauticall Electric Rotisserie Oven DL-D4000 1600W 220V | Precise Temp Control, Flameless Operation, Baking & Roasting, Includes Rotisserie Spit, Modern Design",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2399,
+    "img": "https://m.media-amazon.com/images/I/31lt8e1JSYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HNWL84TW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09FHP4HRL",
+    "brand": "Icon",
+    "name": "Icon 50 لتر",
+    "specs": {
+      "cap": "50"
+    },
+    "model": "",
+    "title": "Icon Electric Oven with Fan/Lamp & Timer (50L, Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/31ghDzxKfvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09FHP4HRL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GLTLSLPY",
+    "brand": "غير محدد",
+    "name": "Built In Gas Oven, 60 x 60 cm, Full Safety, BO66G-119-CSF-OS-AL - Silver Black",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "BO66G-119-",
+    "title": "Built In Gas Oven, 60 x 60 cm, Full Safety, BO66G-119-CSF-OS-AL - Silver Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9999,
+    "img": "https://m.media-amazon.com/images/I/51yR4HZnHuL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GLTLSLPY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B097DL6KG6",
+    "brand": "CARINO",
+    "name": "Carino DN42A Electric Oven",
+    "specs": {},
+    "model": "DN42A",
+    "title": "Carino DN42A Electric Oven",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3491.03,
+    "img": "https://m.media-amazon.com/images/I/410hVzpU2DL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B097DL6KG6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H8LZVSCH",
+    "brand": "غير محدد",
+    "name": "Multifunctional Breakfast Maker 3 in 1 Electric Oven with Coffee Machine and Grill, Black, 45 x 26 x 17.7",
+    "specs": {},
+    "model": "",
+    "title": "Multifunctional Breakfast Maker 3 in 1 Electric Oven with Coffee Machine and Grill, Black, 45 x 26 x 17.72 cm, Temperature Control",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2794,
+    "img": "https://m.media-amazon.com/images/I/41CRGcQHzXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8LZVSCH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B076H44LDP",
+    "brand": "Pyrex",
+    "name": "Pyrex 8023510 Set of 3 Borosilicate Glass Oven Plates – Extreme Resistance – Made in France",
+    "specs": {},
+    "model": "",
+    "title": "Pyrex 8023510 Set of 3 Borosilicate Glass Oven Plates – Extreme Resistance – Made in France",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1999,
+    "img": "https://m.media-amazon.com/images/I/41AusQ2jLXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B076H44LDP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09L985BD3",
+    "brand": "غير محدد",
+    "name": "2 Piece Anti-Stick Grill Mat - Can Be Used As Tray Mat For Baking & Paste In The Oven - High Temperature,",
+    "specs": {},
+    "model": "",
+    "title": "2 Piece Anti-Stick Grill Mat - Can Be Used As Tray Mat For Baking & Paste In The Oven - High Temperature, Hygienic and Totally Safe for All Food - 15.7x13 Inch",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 216.5,
+    "img": "https://m.media-amazon.com/images/I/41pNIoaU6YL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09L985BD3?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

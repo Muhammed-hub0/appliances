@@ -148,7 +148,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B087QS3KXX",
@@ -169,7 +170,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B087QT4TNV",
@@ -190,7 +192,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CHHMNLQP",
@@ -211,7 +214,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B087QT1Q68",
@@ -232,7 +236,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CY94NVCZ",
@@ -253,7 +258,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DSV1LMMQ",
@@ -274,7 +280,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HJ4DB7VW",
@@ -296,7 +303,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GVG5XHLW",
@@ -312,6 +320,359 @@
     "price": 17499,
     "img": "https://m.media-amazon.com/images/I/3191J1BMFrL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GVG5XHLW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0BDZWNBY6",
+    "brand": "باناسونيك",
+    "name": "باناسونيك 1800 وات (CL603G349)",
+    "specs": {
+      "watt": "1800"
+    },
+    "model": "CL603G349",
+    "title": "Panasonic Bagless Canister Vacuum, 1800W, Dust Capacity 2.2L, HEPA Filter MC-CL603G349, Made in Malaysia- 1 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7280,
+    "img": "https://m.media-amazon.com/images/I/31u9IBgjyIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BDZWNBY6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F4JZNGT8",
+    "brand": "شاومي",
+    "name": "شاومي روبوت (H40)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "H40",
+    "title": "Xiaomi Robot Vacuum H40, Smart Navigation, 10000Pa Suction, Anti-tangle Mopping & Vacuuming, 4L Dust Bag, 340x340x97mm, App Control, 5200mAh Battery",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 15799,
+    "img": "https://m.media-amazon.com/images/I/31idRWPs68L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F4JZNGT8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FNF4CP18",
+    "brand": "شاومي",
+    "name": "شاومي روبوت (S40)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "S40",
+    "title": "Xiaomi Robot Vacuum S40 | 10,000Pa Suction Power | LDS Laser Navigation | 2-in-1 Tank 520ml/270ml | 3 Water Levels | Anti-noding | App Control | Alexa/Google",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 13395.9,
+    "img": "https://m.media-amazon.com/images/I/21XDDJ-yydL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FNF4CP18?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00IUK8018",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر لاسلكي (PD1420LP-GB)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "PD1420LP-GB",
+    "title": "Black & Decker 14.4V 1.5Ah Li-Ion Flexi Auto Dustbuster Handheld Cordless Vacuum with Pet Tool for Home & Car Blue/Grey PD1420LP-GB",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4592,
+    "img": "https://m.media-amazon.com/images/I/41oj+hFshhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00IUK8018?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CTCXKL52",
+    "brand": "شاومي",
+    "name": "شاومي روبوت (X20)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "X20",
+    "title": "Xiaomi Robot Vacuum X20+ With All-In-One Smart Base Station 6000Pa Suction Power, LDS Laser Navigation, Voice Control, Wet & Dry 4 L 30 W C101 White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 28800,
+    "img": "https://m.media-amazon.com/images/I/31zo2efhUwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CTCXKL52?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DDJH4ZQF",
+    "brand": "فيليبس",
+    "name": "فيليبس لاسلكي (XC5041/61)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "XC5041/61",
+    "title": "Philips Cordless Vacuum Stick 5000 Series - Digital Motor, PowerCyclone 10, 60 min Runtime, LED Nozzle, Aqua Module, Sage - XC5041/61",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 24056,
+    "img": "https://m.media-amazon.com/images/I/31sNyT6z5yL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DDJH4ZQF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09QJTXZQT",
+    "brand": "فيليبس",
+    "name": "فيليبس لاسلكي (XC8043/61)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "XC8043/61",
+    "title": "PHILIPS Cordless Vacuum 8000 Series, 360° suction nozzle,XC8043/61",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29999,
+    "img": "https://m.media-amazon.com/images/I/21JOp5YBSiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09QJTXZQT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DDTB6D9S",
+    "brand": "دايسون",
+    "name": "دايسون لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Dyson WashG1 Cordless Vacuum, Ultra Blue/Matte Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29999,
+    "img": "https://m.media-amazon.com/images/I/41BBp2PEj+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DDTB6D9S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07D2C27N7",
+    "brand": "بلاك أند ديكر",
+    "name": "Black & Decker 12Vdc Epp Auto Vacuum - Nv1200Av-B5, Multi Color",
+    "specs": {},
+    "model": "NV1200AV-B5",
+    "title": "Black & Decker 12Vdc Epp Auto Vacuum - Nv1200Av-B5, Multi Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1797,
+    "img": "https://m.media-amazon.com/images/I/41lyG+4lqOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07D2C27N7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FTT3DPXM",
+    "brand": "Bissell",
+    "name": "Bissell 200 وات لاسلكي",
+    "specs": {
+      "watt": "200",
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "BISSELL PowerClean 4316 – 200W Self-Standing Cordless Stick Vacuum with Tangle-Free Brush Roll, Removable Battery, Wall Mount, Upholstery Tool & LED Headlights | 2-Year BISSELL Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 18699,
+    "img": "https://m.media-amazon.com/images/I/31N2NoX-PmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FTT3DPXM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DBTJ2FF6",
+    "brand": "NWDEY",
+    "name": "NWDEY لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "NWDEY Car Vacuum, 20000Pa Cordless Handheld Vacuum & Air Duster, 4-in-1 | 6000mAh Battery · Up to 35 Min Runtime · USB-C Charging · Lightweight & Portable · Multiple Nozzles · Car, Home & Office Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2827.45,
+    "img": "https://m.media-amazon.com/images/I/41dwq8TrU0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DBTJ2FF6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B093W7RLYT",
+    "brand": "Shark",
+    "name": "Shark لاسلكي (IZ102)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "IZ102",
+    "title": "Shark Cordless Vacuum with Self Cleaning Brushroll IZ102 Blue 118.0x23.0x26.0 Centimeters",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 24249.03,
+    "img": "https://m.media-amazon.com/images/I/21ACkYJBBML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B093W7RLYT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DDZVKVNJ",
+    "brand": "Shark",
+    "name": "Shark لاسلكي (IP1251)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "IP1251",
+    "title": "Shark PowerDetect Cordless, Powerful Suction, HEPA Filtration, Carpet & Hard Floor, Portable, Stick Vacuum for Pet Hair, Dark Gray, IP1251, Compact",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 31790,
+    "img": "https://m.media-amazon.com/images/I/41DG+H0DYmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DDZVKVNJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQYTNNW7",
+    "brand": "Fanttik",
+    "name": "Fanttik يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Fanttik Slim V8 Apex Car Vacuum, 19000PA High Power, 4 in 1 Portable Mini Vacuum, 2.5H Type-C Fast Charge, 40 Mins Runtime, RobustClean™ Handheld Vacuum for Car, Home, Keyboard Cleaning",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8313.78,
+    "img": "https://m.media-amazon.com/images/I/41l8D27LhgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQYTNNW7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DBVW1RFW",
+    "brand": "Shark",
+    "name": "Shark لاسلكي (IP3251)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "IP3251",
+    "title": "Shark PowerDetect Clean Cordless Auto-Empty System, Powerful Suction, HEPA Filtration, Carpet & Hard Floor, Portable, Stick Vacuum for Pet Hair, Dark Gray, IP3251, Compact",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 62603.41,
+    "img": "https://m.media-amazon.com/images/I/41y5I0n--sL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DBVW1RFW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07PHSKP3T",
+    "brand": "TOTAL",
+    "name": "TOTAL Wet & Dry Vacuum",
+    "specs": {},
+    "model": "",
+    "title": "TOTAL Wet & Dry Vacuum",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5025,
+    "img": "https://m.media-amazon.com/images/I/41Gsx9xjj2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07PHSKP3T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0946NS3TP",
+    "brand": "KÄRCHER",
+    "name": "Kärcher Home & Garden Multi Vacuum Cleaners Wd 1S Classic - 1.098-324, Yellow\"Min 1 year manufacturer war",
+    "specs": {},
+    "model": "",
+    "title": "Kärcher Home & Garden Multi Vacuum Cleaners Wd 1S Classic - 1.098-324, Yellow\"Min 1 year manufacturer warranty\"",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7753.06,
+    "img": "https://m.media-amazon.com/images/I/31BnUQs0gYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0946NS3TP?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
