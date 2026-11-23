@@ -194,7 +194,7 @@
     "title": "Bosch Series 8 HJYGGXV60Q Freestanding Gas Cooker, Stainless Steel, XXL 147L Oven, Full Catalytic Self-Cleaning, Rotisserie, 6 Cooking Functions",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 35290,
+    "price": 35990,
     "img": "https://m.media-amazon.com/images/I/31ZOzxyjQOL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJ9ZDQ1X?tag=fineartslab-21",
     "active": true,
@@ -2000,8 +2000,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0CRG9YDPV",
@@ -4205,7 +4207,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -4442,13 +4444,13 @@
     "price": 19800,
     "img": "https://m.media-amazon.com/images/I/41No-iOwyTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CKW689HK?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -5770,13 +5772,13 @@
     "price": 155,
     "img": "https://m.media-amazon.com/images/I/41anIYSQJZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJMGRDBW?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DR9DRX6H",
@@ -6010,13 +6012,13 @@
     "price": 180,
     "img": "https://m.media-amazon.com/images/I/31rc4LYbeCL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GSQSBQB5?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0BW9M4783",
@@ -6120,13 +6122,13 @@
     "price": 182,
     "img": "https://m.media-amazon.com/images/I/418n8VvfRaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H887CDGQ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0D54NX6V6",
@@ -6208,13 +6210,13 @@
     "price": 330,
     "img": "https://m.media-amazon.com/images/I/41xO59fQvSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DK7QCJF7?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HQXCLWYH",
@@ -6448,13 +6450,13 @@
     "price": 490,
     "img": "https://m.media-amazon.com/images/I/414fZO8SvbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FPMDK5CP?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HFGXRHZ7",
@@ -6514,13 +6516,13 @@
     "price": 187,
     "img": "https://m.media-amazon.com/images/I/41qI3J7khOL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H7F7RMZB?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H7FLJY7F",
@@ -7065,7 +7067,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -7402,13 +7404,13 @@
     "price": 425,
     "img": "https://m.media-amazon.com/images/I/41Q63ZK4kvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DGPK6DDW?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0G6B18NZ1",

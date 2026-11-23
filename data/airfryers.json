@@ -376,7 +376,7 @@
     "lastGood": "2026-11-23",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -423,7 +423,7 @@
     "lastGood": "2026-11-20",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -744,7 +744,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -815,7 +815,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -932,7 +932,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1115,7 +1115,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1344,7 +1344,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1552,7 +1552,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1646,7 +1646,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1713,7 +1713,7 @@
     "lastGood": "2026-11-21",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2008,7 +2008,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -5198,7 +5198,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"

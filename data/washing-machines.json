@@ -973,9 +973,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
   {
@@ -2987,7 +2986,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -3141,7 +3140,7 @@
     "title": "Portable Safety Washing Machine Space Technology Smart Control for Fast and Efficient Washing Machine with Compact Dimensions and Stylish Design - Get It Now From Turkish Store",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 182.88,
+    "price": 182.78,
     "img": "https://m.media-amazon.com/images/I/41O884rC2hL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CPQ6GLX1?tag=fineartslab-21",
     "active": true,
@@ -3489,7 +3488,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3573,7 +3572,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
