@@ -2,7 +2,7 @@
   {
     "asin": "B01J5KSPM0",
     "brand": "بوش",
-    "name": "بوش 5 بوات غاز",
+    "name": "بوش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -25,7 +25,7 @@
   {
     "asin": "B0971GRKGP",
     "brand": "زانوسي",
-    "name": "زانوسي 5 بوات غاز (ZCG94396XA)",
+    "name": "زانوسي بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -48,7 +48,7 @@
   {
     "asin": "B0BYTHN8LY",
     "brand": "بيكو",
-    "name": "بيكو 5 بوات غاز",
+    "name": "بيكو بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -71,7 +71,7 @@
   {
     "asin": "B0CGM871S9",
     "brand": "فريش",
-    "name": "فريش 4 بوات غاز",
+    "name": "فريش بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -94,7 +94,7 @@
   {
     "asin": "B0H956WGCM",
     "brand": "ميديا",
-    "name": "ميديا 4 بوات غاز (MG24TE)",
+    "name": "ميديا بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -117,7 +117,7 @@
   {
     "asin": "B0GTW5N31X",
     "brand": "ميديا",
-    "name": "ميديا 5 بوات غاز",
+    "name": "ميديا بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -140,7 +140,7 @@
   {
     "asin": "B0H2R8D7ZN",
     "brand": "يونيون إير",
-    "name": "يونيون إير 5 بوات غاز",
+    "name": "يونيون بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -163,7 +163,7 @@
   {
     "asin": "B0H9JGPSXK",
     "brand": "يونيون إير",
-    "name": "يونيون إير 5 بوات غاز (C69SS-DC-)",
+    "name": "يونيون بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -186,7 +186,7 @@
   {
     "asin": "B0HJ9ZDQ1X",
     "brand": "بوش",
-    "name": "بوش غاز",
+    "name": "بوش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -208,7 +208,7 @@
   {
     "asin": "B0DMWL6S6Q",
     "brand": "بيكو",
-    "name": "بيكو 5 بوات",
+    "name": "بيكو بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -230,7 +230,7 @@
   {
     "asin": "B0CJGMSPHG",
     "brand": "فريش",
-    "name": "فريش 5 بوات",
+    "name": "فريش بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -252,7 +252,7 @@
   {
     "asin": "B0FCXWLWNC",
     "brand": "زانوسي",
-    "name": "زانوسي غاز (ZCG61296XB)",
+    "name": "زانوسي بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -274,7 +274,7 @@
   {
     "asin": "B0HHF73KX3",
     "brand": "توشيبا",
-    "name": "توشيبا غاز",
+    "name": "توشيبا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -296,7 +296,7 @@
   {
     "asin": "B096L78VYF",
     "brand": "كريازي",
-    "name": "كريازي 5 بوات",
+    "name": "كريازي بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -318,7 +318,7 @@
   {
     "asin": "B0FD8L33BB",
     "brand": "زانوسي",
-    "name": "زانوسي غاز (ZCG64396XB)",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -340,7 +340,7 @@
   {
     "asin": "B09BG43W14",
     "brand": "فريش",
-    "name": "فريش غاز",
+    "name": "فريش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -362,7 +362,7 @@
   {
     "asin": "B096L7WZ9N",
     "brand": "كريازي",
-    "name": "كريازي 4 بوات",
+    "name": "كريازي بوتاجاز 4بوات",
     "specs": {
       "burners": "4"
     },
@@ -384,7 +384,7 @@
   {
     "asin": "B0H55L54QX",
     "brand": "لا جرمانيا",
-    "name": "لا جرمانيا غاز (ELEGANZA)",
+    "name": "جرمانيا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -406,7 +406,7 @@
   {
     "asin": "B08Y8XW56C",
     "brand": "لا جرمانيا",
-    "name": "لا جرمانيا غاز",
+    "name": "جرمانيا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -428,7 +428,7 @@
   {
     "asin": "B0G4XJGW77",
     "brand": "فريش",
-    "name": "Fresh Cooker Jumbo 90 cm new jampo Stainless Steel, Five Burners, With Fan, Oven & Grill Safety",
+    "name": "فريش بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Fresh Cooker Jumbo 90 cm new jampo Stainless Steel, Five Burners, With Fan, Oven & Grill Safety",
@@ -448,7 +448,7 @@
   {
     "asin": "B0BBRRHSVK",
     "brand": "زانوسي",
-    "name": "Zanussi Free Standing Cooker, 60 Cool Max (Hot & Cooling Fan + Digital Timer + cast iron pan support + Fu",
+    "name": "زانوسي بوتاجاز",
     "specs": {},
     "model": "ZCG64396XA",
     "title": "Zanussi Free Standing Cooker, 60 Cool Max (Hot & Cooling Fan + Digital Timer + cast iron pan support + Full Safety + Brushed Stainless Steel) - ZCG64396XA",
@@ -468,7 +468,7 @@
   {
     "asin": "B0D9W9QVZY",
     "brand": "فريش",
-    "name": "Fresh Built-in Cooker 90 cm Stainless Steel Safety Cast Iron Grates",
+    "name": "فريش بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Fresh Built-in Cooker 90 cm Stainless Steel Safety Cast Iron Grates",
@@ -488,7 +488,7 @@
   {
     "asin": "B0DV79JT55",
     "brand": "سوكاني",
-    "name": "Sokany SK-07073 3500W Digital Cooker, Black/silver",
+    "name": "سوكاني بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Sokany SK-07073 3500W Digital Cooker, Black/silver",
@@ -508,7 +508,7 @@
   {
     "asin": "B0HKMXVCZH",
     "brand": "Chef Cook",
-    "name": "Chef Cook 4 بوات غاز",
+    "name": "Chef بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -531,7 +531,7 @@
   {
     "asin": "B096L48B11",
     "brand": "Tecnogas",
-    "name": "Tecnogas 4 بوات غاز",
+    "name": "Tecnogas بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -554,7 +554,7 @@
   {
     "asin": "B0GCGRX6WW",
     "brand": "Universal",
-    "name": "Universal 5 بوات غاز",
+    "name": "بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -577,7 +577,7 @@
   {
     "asin": "B0HMM28D5L",
     "brand": "غير محدد",
-    "name": "TECHNO Chef Cooker Gas 4 Burners with Oven, Size 55x55 cm, Stainless Steel | Italian Design, Auto Burning",
+    "name": "TECHNO بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -600,7 +600,7 @@
   {
     "asin": "B0H5CT6SY3",
     "brand": "غير محدد",
-    "name": "4 Burner Gas Cooker with Manual Control – High Efficiency Household Gas Stove for Daily Cooking & Multi-M",
+    "name": "بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -623,7 +623,7 @@
   {
     "asin": "B0GHPMMZW1",
     "brand": "غير محدد",
-    "name": "Gas Cooker 4 Burners With Lid - Ronak Pro",
+    "name": "Gas بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -646,7 +646,7 @@
   {
     "asin": "B0HD7KG4Z7",
     "brand": "غير محدد",
-    "name": "Prefix Freestanding Gas Cooker, 4 Burners, 65 cm, Full Safety, Digital Timer, Stainless Steel, PCG70-6SSV",
+    "name": "Prefix بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -669,7 +669,7 @@
   {
     "asin": "B0GYJSH7J8",
     "brand": "Purity",
-    "name": "Purity 2 بوات غاز (HPT303)",
+    "name": "Purity بوتاجاز 2بوات غاز",
     "specs": {
       "burners": "2",
       "type": "غاز"
@@ -692,7 +692,7 @@
   {
     "asin": "B0F9B29CBB",
     "brand": "غير محدد",
-    "name": "Noor Flat Gas Cooker, Stainless Steel, 60 * 35, 3 Burners - Silver",
+    "name": "بوتاجاز 3بوات غاز",
     "specs": {
       "burners": "3",
       "type": "غاز"
@@ -715,7 +715,7 @@
   {
     "asin": "B0H5MC43JR",
     "brand": "غير محدد",
-    "name": "Cookers Flat Gas Stove for Cooking 2 Burners with Airtight Seal to Keep It Clean",
+    "name": "Cookers بوتاجاز 2بوات غاز",
     "specs": {
       "burners": "2",
       "type": "غاز"
@@ -738,7 +738,7 @@
   {
     "asin": "B09BDLNYT6",
     "brand": "غير محدد",
-    "name": "For Max 108 Bombay Gas Cooker 5 Burners Stainless Steel Surface 60x80 - Silver",
+    "name": "بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -761,7 +761,7 @@
   {
     "asin": "B0HKWMPXFG",
     "brand": "غير محدد",
-    "name": "Stove Without Electricity (Gas Flat Cooker 3 Burners Thermal Glass, Red & Black)",
+    "name": "Stove بوتاجاز 3بوات غاز",
     "specs": {
       "burners": "3",
       "type": "غاز"
@@ -784,7 +784,7 @@
   {
     "asin": "B0GYPWHJZ3",
     "brand": "Purity",
-    "name": "Purity 5 بوات غاز (HPT913G)",
+    "name": "Purity بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -807,7 +807,7 @@
   {
     "asin": "B0BKWFM4Y7",
     "brand": "World",
-    "name": "World 4 بوات غاز",
+    "name": "4Burner بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -830,7 +830,7 @@
   {
     "asin": "B0GN4LGP3Z",
     "brand": "غير محدد",
-    "name": "Chef Cook Cooker 90 * 60 cm 5 Burners Copper Full Stainless Fan",
+    "name": "Chef بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -852,7 +852,7 @@
   {
     "asin": "B0B3DVZDMP",
     "brand": "Al Ahram Gas",
-    "name": "Al Ahram Gas غاز",
+    "name": "Al بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -874,7 +874,7 @@
   {
     "asin": "B096R1QJZ7",
     "brand": "غير محدد",
-    "name": "Gas Cooker 3 eye",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -896,7 +896,7 @@
   {
     "asin": "B099C1F7GN",
     "brand": "ATA",
-    "name": "ATA غاز",
+    "name": "ATA بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -918,7 +918,7 @@
   {
     "asin": "B0HK5786VL",
     "brand": "غير محدد",
-    "name": "Portable Gas Cooker Single Burner with Auto Ignition and Safety Valve | Push Button Piezo Ignition Auto S",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -940,7 +940,7 @@
   {
     "asin": "B0HLXNKMH5",
     "brand": "غير محدد",
-    "name": "MG Top Gas 5-Burner Gas Range, 80x60cm, Freestanding Cooker with Oven and Grill, Silver",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -962,7 +962,7 @@
   {
     "asin": "B09B8R93Y3",
     "brand": "King Home",
-    "name": "King Home غاز",
+    "name": "King بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -984,7 +984,7 @@
   {
     "asin": "B0GHY2ZK9S",
     "brand": "غير محدد",
-    "name": "4 Burners Stainless Steel Top Cooker - Silver",
+    "name": "بوتاجاز 4بوات",
     "specs": {
       "burners": "4"
     },
@@ -1006,7 +1006,7 @@
   {
     "asin": "B0HK55YZM8",
     "brand": "غير محدد",
-    "name": "Portable Gas Cooker One Burner One Eye with Auto Ignition | 2 inputs small gas pipe and large piso igniti",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1028,7 +1028,7 @@
   {
     "asin": "B0D94LF77J",
     "brand": "Top Home Solutions",
-    "name": "Top Home Solutions غاز (EN417)",
+    "name": "Top بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1050,7 +1050,7 @@
   {
     "asin": "B07VZBGPNY",
     "brand": "CLUEMART",
-    "name": "CLUEMART غاز",
+    "name": "SPORTLIMIT بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1072,7 +1072,7 @@
   {
     "asin": "B0CHN1W1YP",
     "brand": "Starget",
-    "name": "Starget غاز",
+    "name": "Starget بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1094,7 +1094,7 @@
   {
     "asin": "B0H62C26CM",
     "brand": "غير محدد",
-    "name": "Flat Cooker, 2 Burners, 2 Burners, Each Burner 2200 Watts, KD 5073",
+    "name": "Flat بوتاجاز 2بوات",
     "specs": {
       "burners": "2"
     },
@@ -1116,7 +1116,7 @@
   {
     "asin": "B005PBW6X8",
     "brand": "Campingaz",
-    "name": "Campingaz غاز",
+    "name": "CAMPINGAZ بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1138,7 +1138,7 @@
   {
     "asin": "B0FG8MQ95F",
     "brand": "غير محدد",
-    "name": "Stove (Gas Stove 1 Eye)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1160,7 +1160,7 @@
   {
     "asin": "B0F4ZXTZJP",
     "brand": "غير محدد",
-    "name": "Stove (Gas Stove 2 Eyes)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1182,7 +1182,7 @@
   {
     "asin": "B0963X9K2P",
     "brand": "SD Enriching Beauty",
-    "name": "SD Enriching Beauty غاز",
+    "name": "Sd بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1204,7 +1204,7 @@
   {
     "asin": "B0F4ZC4ZWW",
     "brand": "غير محدد",
-    "name": "Natural Sky Single Eye Gas Cooker | Compact Design | Powerful Flame | Safe & Easy to Clean",
+    "name": "Natural بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1226,7 +1226,7 @@
   {
     "asin": "B096L7NTCM",
     "brand": "غير محدد",
-    "name": "Natural Sky One-Eye Gas Cooker",
+    "name": "Natural بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1248,7 +1248,7 @@
   {
     "asin": "B0GW92328V",
     "brand": "غير محدد",
-    "name": "5L Mini Gas Cooker Pipe with Stove Top, Blue and Orange",
+    "name": "5L بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1270,7 +1270,7 @@
   {
     "asin": "B0H6FG9GD8",
     "brand": "Homagator",
-    "name": "Homagator غاز",
+    "name": "Winning بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1292,7 +1292,7 @@
   {
     "asin": "B07HBBZVZG",
     "brand": "Maxsun",
-    "name": "Maxsun غاز (BLACK)",
+    "name": "maxsun بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1314,7 +1314,7 @@
   {
     "asin": "B0CNSBM6V7",
     "brand": "غير محدد",
-    "name": "Generic PLUSS 3 Eye Self-Ignition Flat Cooker (PORTABLE_STOVE) - Natural Gas",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1336,7 +1336,7 @@
   {
     "asin": "B0DY8B6S4V",
     "brand": "غير محدد",
-    "name": "Nour Flat Gas Stove 35x35x GS-FLS 1 S - Stainless Steel Single Burner with Nickel-Plated Rust-Resistant P",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1358,7 +1358,7 @@
   {
     "asin": "B0CLVFZ7WB",
     "brand": "غير محدد",
-    "name": "Gas Stove, 1 Burner - 500 Watts - One Year Warranty - City - Electricity",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1380,7 +1380,7 @@
   {
     "asin": "B0B4GKVJWL",
     "brand": "TAPUJI",
-    "name": "TAPUJI غاز",
+    "name": "TAPUJI بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1402,7 +1402,7 @@
   {
     "asin": "B0CH564DYQ",
     "brand": "THE VENTI",
-    "name": "THE VENTI غاز",
+    "name": "THE بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1424,7 +1424,7 @@
   {
     "asin": "B0CLRNGR9L",
     "brand": "LAMTOR",
-    "name": "LAMTOR غاز",
+    "name": "LAMTOR بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1446,7 +1446,7 @@
   {
     "asin": "B0B7747CLQ",
     "brand": "Kerplunk",
-    "name": "Kerplunk غاز (ORANGE)",
+    "name": "Shivam بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1468,7 +1468,7 @@
   {
     "asin": "B0HNGZ8D1W",
     "brand": "غير محدد",
-    "name": "Stove Without Electricity (Travel Gas Stove With Hose And Regulator Turkish Takefeel Egypt)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1490,7 +1490,7 @@
   {
     "asin": "B081T5LPKS",
     "brand": "Sulfar",
-    "name": "Sulfar غاز",
+    "name": "Sulfar بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1512,7 +1512,7 @@
   {
     "asin": "B0GTVDL3T4",
     "brand": "غير محدد",
-    "name": "Portable Gas Stove for Camping – Multi-Use Mini Stove Burner with Flame Control – Ideal for Trips and Shu",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1534,7 +1534,7 @@
   {
     "asin": "B0B1W857LC",
     "brand": "QENETY",
-    "name": "QENETY غاز",
+    "name": "QENETY بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1556,7 +1556,7 @@
   {
     "asin": "B0HNNRTPJ6",
     "brand": "غير محدد",
-    "name": "Cooker Express Super Black 4 Burners Copper 55x55cm | Brass Burners, Gold Knobs & Handle, Electronic Igni",
+    "name": "Cooker بوتاجاز 4بوات",
     "specs": {
       "burners": "4"
     },
@@ -1578,7 +1578,7 @@
   {
     "asin": "B0D9P3KWQT",
     "brand": "first cook",
-    "name": "first cook 5 بوات",
+    "name": "First بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -1600,7 +1600,7 @@
   {
     "asin": "B0HLXWX56K",
     "brand": "MG",
-    "name": "MG غاز",
+    "name": "MG بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1622,7 +1622,7 @@
   {
     "asin": "B0DJFX1VJH",
     "brand": "غير محدد",
-    "name": "بوتاجاز الاهرام 5 شعلة 80 * 60 سم - فضى اسود",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "بوتاجاز الاهرام 5 شعلة 80 * 60 سم - فضى اسود",
@@ -1642,7 +1642,7 @@
   {
     "asin": "B0HKYH8VF6",
     "brand": "غير محدد",
-    "name": "4 Pcs Cooking Surface Protection Liners, Heat Resistant Oil and Water Resistant Stove Protector, Washable",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "4 Pcs Cooking Surface Protection Liners, Heat Resistant Oil and Water Resistant Stove Protector, Washable and Repeated Use with Adjustable Burners Holes Size 27x27cm Imported",
@@ -1662,7 +1662,7 @@
   {
     "asin": "B07L6WS6J6",
     "brand": "KitchenBoss",
-    "name": "KitchenBoss Sous Vide Garer Stick Precision Cooker, 1100 W, 360° Circulation, 40 °C - 90 °C Temperature R",
+    "name": "KitchenBoss بوتاجاز",
     "specs": {},
     "model": "",
     "title": "KitchenBoss Sous Vide Garer Stick Precision Cooker, 1100 W, 360° Circulation, 40 °C - 90 °C Temperature Range, IPX7 Waterproof, LED Touch Display",
@@ -1682,7 +1682,7 @@
   {
     "asin": "B0001P08WY",
     "brand": "Campingaz",
-    "name": "Campingaz Campingaz Cooker, Blau, Onesize, 40470",
+    "name": "Campingaz بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Campingaz Campingaz Cooker, Blau, Onesize, 40470",
@@ -1702,7 +1702,7 @@
   {
     "asin": "B09B8VX138",
     "brand": "غير محدد",
-    "name": "Tecno-Gaz Stove 55X55 , 4 Flame - Black Silver",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Tecno-Gaz Stove 55X55 , 4 Flame - Black Silver",
@@ -1722,7 +1722,7 @@
   {
     "asin": "B0FQ43X33N",
     "brand": "غير محدد",
-    "name": "Generic Mini Butane Stove",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Generic Mini Butane Stove",
@@ -1742,7 +1742,7 @@
   {
     "asin": "B0CJYFLTHP",
     "brand": "Global",
-    "name": "Global بوتاجاز العالمية 4 شله 55 * 55 أسود سطح استانلس اشعال ذاتى موتور شواة لمبة فرن مفتاح للفرن والشواي",
+    "name": "Global بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Global بوتاجاز العالمية 4 شله 55 * 55 أسود سطح استانلس اشعال ذاتى موتور شواة لمبة فرن مفتاح للفرن والشواية منفصلتين",
@@ -1762,7 +1762,7 @@
   {
     "asin": "B0CNSCRPL7",
     "brand": "غير محدد",
-    "name": "Grand Electronic Consumption Saving 3 Eye Self-Ignition Flat Cooker (NORMAL)",
+    "name": "Grand بوتاجاز",
     "specs": {},
     "model": "NORMAL",
     "title": "Grand Electronic Consumption Saving 3 Eye Self-Ignition Flat Cooker (NORMAL)",
@@ -1782,7 +1782,7 @@
   {
     "asin": "B091NY1NHJ",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -1805,7 +1805,7 @@
   {
     "asin": "B0BH4N8WPV",
     "brand": "وايت بوينت",
-    "name": "وايت بوينت 5 بوات غاز (WPGC8060XFSAN)",
+    "name": "وايت بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -1828,7 +1828,7 @@
   {
     "asin": "B08WJPYF9M",
     "brand": "زانوسي",
-    "name": "زانوسي 4 بوات غاز (ZCG64396XA)",
+    "name": "زانوسي بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -1851,7 +1851,7 @@
   {
     "asin": "B0C5KDQ146",
     "brand": "بوش",
-    "name": "بوش 4 بوات غاز",
+    "name": "بوش بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -1874,7 +1874,7 @@
   {
     "asin": "B0CG3NZ8QJ",
     "brand": "بيكو",
-    "name": "بيكو غاز (BLACK)",
+    "name": "بيكو بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1896,7 +1896,7 @@
   {
     "asin": "B0DST71HJX",
     "brand": "بيكو",
-    "name": "بيكو غاز (BGGR11225GB)",
+    "name": "بيكو بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1918,7 +1918,7 @@
   {
     "asin": "B0HQ73GLVQ",
     "brand": "يونيون إير",
-    "name": "يونيون إير غاز",
+    "name": "يونيون بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1940,7 +1940,7 @@
   {
     "asin": "B0HMWBS4Y5",
     "brand": "ميديا",
-    "name": "ميديا غاز",
+    "name": "ميديا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1962,7 +1962,7 @@
   {
     "asin": "B0FD8SGHNP",
     "brand": "زانوسي",
-    "name": "زانوسي غاز (ZCG91236XB)",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1984,7 +1984,7 @@
   {
     "asin": "B0DVT35JNN",
     "brand": "زانوسي",
-    "name": "زانوسي غاز (ZCG92686XA)",
+    "name": "زانوسي بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2008,7 +2008,7 @@
   {
     "asin": "B0CRG9YDPV",
     "brand": "جري",
-    "name": "جري غاز",
+    "name": "جري بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2030,7 +2030,7 @@
   {
     "asin": "B0GLR2JNLR",
     "brand": "سوكاني",
-    "name": "سوكاني 2 بوات",
+    "name": "سوكاني بوتاجاز 2بوات",
     "specs": {
       "burners": "2"
     },
@@ -2052,7 +2052,7 @@
   {
     "asin": "B0BBRQR4S9",
     "brand": "زانوسي",
-    "name": "Zanussi Cooker Free Standing, 90 Cool Max, (Hot & Cooling Fan + Digital Timer + cast iron pan support + F",
+    "name": "زانوسي بوتاجاز",
     "specs": {},
     "model": "ZCG94396XA",
     "title": "Zanussi Cooker Free Standing, 90 Cool Max, (Hot & Cooling Fan + Digital Timer + cast iron pan support + Full Safety + Brushed Stainless Steel) ZCG94396XA",
@@ -2072,7 +2072,7 @@
   {
     "asin": "B09VPK14XT",
     "brand": "بيكو",
-    "name": "Beko GGR 15115 DX NS Freestanding Cooker 90cm",
+    "name": "بيكو بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Beko GGR 15115 DX NS Freestanding Cooker 90cm",
@@ -2092,7 +2092,7 @@
   {
     "asin": "B0F1WG6RW3",
     "brand": "فريش",
-    "name": "بوتاجاز فريش جامبو ستار - 90 × 60 5 شعلة ستالس/فضي امان فرن وشواية",
+    "name": "فريش بوتاجاز",
     "specs": {},
     "model": "",
     "title": "بوتاجاز فريش جامبو ستار - 90 × 60 5 شعلة ستالس/فضي امان فرن وشواية",
@@ -2112,7 +2112,7 @@
   {
     "asin": "B0CGVV43MC",
     "brand": "يونيون إير",
-    "name": "Unionaire Cooker 60x80 Gusto Stainless Fan C68SS-DC-443-F-2W-GUAL",
+    "name": "يونيون بوتاجاز",
     "specs": {},
     "model": "C68SS-DC-",
     "title": "Unionaire Cooker 60x80 Gusto Stainless Fan C68SS-DC-443-F-2W-GUAL",
@@ -2132,7 +2132,7 @@
   {
     "asin": "B0CJCRG21K",
     "brand": "فريش",
-    "name": "بوتاجاز فريش هاي كاست مروحة - 90 × 60/5 شعلة أستانلس ستيل 500017080",
+    "name": "فريش بوتاجاز",
     "specs": {},
     "model": "",
     "title": "بوتاجاز فريش هاي كاست مروحة - 90 × 60/5 شعلة أستانلس ستيل 500017080",
@@ -2152,7 +2152,7 @@
   {
     "asin": "B096MSRDMR",
     "brand": "غير محدد",
-    "name": "Tecnogas m-gc mystro cooker with fan - 5 burners - silver",
+    "name": "بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -2175,7 +2175,7 @@
   {
     "asin": "B0CYF5YV3H",
     "brand": "Tecnogas",
-    "name": "Tecnogas 5 بوات غاز",
+    "name": "Tecnogas بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -2198,7 +2198,7 @@
   {
     "asin": "B0GBMYZQCP",
     "brand": "غير محدد",
-    "name": "Royal Master Chef Pro Gas Cooker, 5 Burners, 90 cm, Stainless Steel,2 Fan,Full Safety,2 Digital Display",
+    "name": "Royal بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -2221,7 +2221,7 @@
   {
     "asin": "B0DP3N8GPL",
     "brand": "Ocean",
-    "name": "Ocean 4 بوات كهربائي (OHVR64NHTC)",
+    "name": "Ocean بوتاجاز 4بوات كهربائي",
     "specs": {
       "burners": "4",
       "type": "كهربائي"
@@ -2244,7 +2244,7 @@
   {
     "asin": "B0DVCCDH6Z",
     "brand": "Ocean",
-    "name": "Ocean 5 بوات غاز (OCGR9650-17IP)",
+    "name": "Ocean بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -2267,7 +2267,7 @@
   {
     "asin": "B0H4CQM4SL",
     "brand": "Purity",
-    "name": "Purity 2 بوات غاز (HOT304)",
+    "name": "Purity بوتاجاز 2بوات غاز",
     "specs": {
       "burners": "2",
       "type": "غاز"
@@ -2290,7 +2290,7 @@
   {
     "asin": "B09TP6Y4Q4",
     "brand": "Tentock",
-    "name": "Tentock غاز (KHAKI)",
+    "name": "Tentock بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2312,7 +2312,7 @@
   {
     "asin": "B0FJYJ4LK6",
     "brand": "غير محدد",
-    "name": "Gas and Electric Cooker - Dual-Layer Cooking System That Evenly Distributes Heat and Prevents Burning, Pe",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2334,7 +2334,7 @@
   {
     "asin": "B0DS2T9KGW",
     "brand": "غير محدد",
-    "name": "Gas Stove Protector Cover - Designed for Oil Splash Protection with 3 Sided Aluminum Non-Stick Protection",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2356,7 +2356,7 @@
   {
     "asin": "B0HLXTRMBD",
     "brand": "غير محدد",
-    "name": "MG Professional Steel 5-Burner Gas Range Full Safety, 90x60cm, Freestanding Cooker with Oven and Grill, S",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2378,7 +2378,7 @@
   {
     "asin": "B0HGNK2TQ9",
     "brand": "غير محدد",
-    "name": "بوتاجاز 4 شعلة 55 * 55 شعلات نحاس نيو جولد TECHNO GLAXY | Cookaz 4 Burners Copper Burners with Gold Color",
+    "name": "بوتاجاز 4بوات",
     "specs": {
       "burners": "4"
     },
@@ -2400,7 +2400,7 @@
   {
     "asin": "B0FLRKXK83",
     "brand": "غير محدد",
-    "name": "Natural Sky Three Eye Gas Cooker",
+    "name": "Natural بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2422,7 +2422,7 @@
   {
     "asin": "B0G5BHJFHN",
     "brand": "غير محدد",
-    "name": "Al Ahram Cooker, 5 Burners, 80x60 cm, Full Stainless with Fan",
+    "name": "Al بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -2444,7 +2444,7 @@
   {
     "asin": "B0HK15M4MN",
     "brand": "غير محدد",
-    "name": "Carnival Gas Cooker Single Eye | Gas saving, easy to use",
+    "name": "Carnival بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2466,7 +2466,7 @@
   {
     "asin": "B096L5QJJG",
     "brand": "Natural Sky",
-    "name": "Natural Sky غاز",
+    "name": "Natural بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2488,7 +2488,7 @@
   {
     "asin": "B0HLXLFJ8J",
     "brand": "غير محدد",
-    "name": "MG Professional Standard 5-Burner Gas Range, 90x60cm, Freestanding Cooker with Oven and Grill, Silver",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2510,7 +2510,7 @@
   {
     "asin": "B0GWXL1C8Q",
     "brand": "غير محدد",
-    "name": "Single Eye Gas Cooker, Stainless Steel Body, High Efficiency, Powerful Copper Torch",
+    "name": "Single بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2532,7 +2532,7 @@
   {
     "asin": "B0HC3KD83Q",
     "brand": "Argosta",
-    "name": "Argosta غاز (FSS6090-)",
+    "name": "Argosta بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2554,7 +2554,7 @@
   {
     "asin": "B091J87JWK",
     "brand": "Tecnogas",
-    "name": "Tecnogas غاز (P965GVX)",
+    "name": "Tecnogas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2576,7 +2576,7 @@
   {
     "asin": "B0HLXZXPJN",
     "brand": "غير محدد",
-    "name": "MG Professional Option 5-Burner Gas Range, 90x60cm, Freestanding Cooker with Oven and Grill, Silver",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2598,7 +2598,7 @@
   {
     "asin": "B0C866WV27",
     "brand": "Royal Gas",
-    "name": "Royal Gas غاز",
+    "name": "Royal بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2620,7 +2620,7 @@
   {
     "asin": "B0BBZTL8JB",
     "brand": "Joatocy",
-    "name": "Joatocy غاز",
+    "name": "Joatocy بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2642,7 +2642,7 @@
   {
     "asin": "B0GTVDYXZW",
     "brand": "غير محدد",
-    "name": "Portable Gas Stove for Camping – Multi-Use Mini Stove Burner with Flame Control – Ideal for Trips and Kas",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2664,7 +2664,7 @@
   {
     "asin": "B085W7W9QW",
     "brand": "KPS",
-    "name": "KPS غاز",
+    "name": "KPS بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2686,7 +2686,7 @@
   {
     "asin": "B0B5LP478G",
     "brand": "UDEE",
-    "name": "UDEE غاز",
+    "name": "UDee بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2708,7 +2708,7 @@
   {
     "asin": "B0HMRHPV3K",
     "brand": "غير محدد",
-    "name": "Stove Without Electricity (Dual Gas Stove with Regulator & Italian Khosom)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2730,7 +2730,7 @@
   {
     "asin": "B0DTV3ZMD5",
     "brand": "غير محدد",
-    "name": "Camping Gas Stove, 2 in 1 Butane Burner Unit, Camping Kitchen Equipment Black Without Gas Pen by Black Fi",
+    "name": "Camping بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2752,7 +2752,7 @@
   {
     "asin": "B0CQK1QJ71",
     "brand": "clhjinruoliu",
-    "name": "clhjinruoliu غاز",
+    "name": "Camping بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2774,7 +2774,7 @@
   {
     "asin": "B091D2WYDW",
     "brand": "غير محدد",
-    "name": "Mini Outdoor Windproof Camping Stove Gas-Powered Portable Picnic Stove Stainless Steel By ARTC",
+    "name": "Mini بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2796,7 +2796,7 @@
   {
     "asin": "B0HC7M6H56",
     "brand": "غير محدد",
-    "name": "Square Aluminum Foil Stove Burner Covers, Disposable Gas Stove Protector Liners, Heat Resistant Kitchen O",
+    "name": "Square بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2818,7 +2818,7 @@
   {
     "asin": "B0963VWXBK",
     "brand": "KOSTECH",
-    "name": "KOSTECH غاز",
+    "name": "Kostech بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2840,7 +2840,7 @@
   {
     "asin": "B0DY547F6S",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop غاز (MULTICOLOR)",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2862,7 +2862,7 @@
   {
     "asin": "B0FVFXSK1N",
     "brand": "غير محدد",
-    "name": "2800W Portable Gas Stove for Camping and Picnic Stainless Steel – Foldable Butane Gas Stove with High Eff",
+    "name": "2800W بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2884,7 +2884,7 @@
   {
     "asin": "B091Q6SGDW",
     "brand": "kovar",
-    "name": "kovar غاز",
+    "name": "kovar بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2906,7 +2906,7 @@
   {
     "asin": "B0CPVYDZX6",
     "brand": "غير محدد",
-    "name": "maky store Camping Stove Lightweight Portable Gas Stove Backpacking Butane Gas Stove 2800W High Power Com",
+    "name": "maky بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2928,7 +2928,7 @@
   {
     "asin": "B0DY592N4K",
     "brand": "غير محدد",
-    "name": "Portable Camping Gas Stove, 18 cm (Orange & Black)",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2950,7 +2950,7 @@
   {
     "asin": "B09RPJJP7Z",
     "brand": "DOOMSDAY",
-    "name": "DOOMSDAY غاز",
+    "name": "DOOMSDAY بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2972,7 +2972,7 @@
   {
     "asin": "B07NF5GZMZ",
     "brand": "غير محدد",
-    "name": "Protective Squared Aluminum Foil for Gas Stove, 12 Pieces - Silver - 2725499189392",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2994,7 +2994,7 @@
   {
     "asin": "B0FC8XZB3T",
     "brand": "Veemoon",
-    "name": "Veemoon غاز",
+    "name": "Veemoon بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3016,7 +3016,7 @@
   {
     "asin": "B0DLWR5JCY",
     "brand": "غير محدد",
-    "name": "Gas Stove Burner Covers, Non-Stick, Reusable, Easy to Clean, Made of Durable Food Grade Materials, Protec",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3038,7 +3038,7 @@
   {
     "asin": "B0BCPWXSJ4",
     "brand": "CHengQiSM",
-    "name": "CHengQiSM غاز (BDZ-155-A)",
+    "name": "CHengQiSM بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3060,7 +3060,7 @@
   {
     "asin": "B0FXHRG1TN",
     "brand": "غير محدد",
-    "name": "4 Pieces Plastic Home Gas Stove Legs Set, Black with Mounting Screw",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3082,7 +3082,7 @@
   {
     "asin": "B0HCYXHCYJ",
     "brand": "غير محدد",
-    "name": "DSP Flat Cooker 3 Burners White Model DSP - KD 5077 | 2200+2200+1000W, 12 Months Warranty, 3 Burners",
+    "name": "بوتاجاز 3بوات",
     "specs": {
       "burners": "3"
     },
@@ -3104,7 +3104,7 @@
   {
     "asin": "B0CCMPD2BD",
     "brand": "Gorenje",
-    "name": "Gorenje غاز",
+    "name": "Gorenje بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3126,7 +3126,7 @@
   {
     "asin": "B0GXG62BG1",
     "brand": "Krome",
-    "name": "Krome غاز (CR9062FEB)",
+    "name": "Krome بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3148,7 +3148,7 @@
   {
     "asin": "B0CK1GFDS2",
     "brand": "Global",
-    "name": "بوتاجاز Global 4 شله 55 * 55 سطح استانلس جناب فضى",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "بوتاجاز Global 4 شله 55 * 55 سطح استانلس جناب فضى",
@@ -3168,7 +3168,7 @@
   {
     "asin": "B00XY9B7M4",
     "brand": "Campingaz",
-    "name": "Campingaz Portable Stove, Isobutane Fuel, CP250 V2-28, Can Be Used Horizontally, 220g Isobutane",
+    "name": "Campingaz بوتاجاز",
     "specs": {},
     "model": "CP250",
     "title": "Campingaz Portable Stove, Isobutane Fuel, CP250 V2-28, Can Be Used Horizontally, 220g Isobutane",
@@ -3188,7 +3188,7 @@
   {
     "asin": "B0994NX9TC",
     "brand": "slonegli",
-    "name": "Slonegli Backpacking Stove, Portable Camping Stoves, Hiking Stove, Pocket Stove, Mini Camp Stove, Compact",
+    "name": "Slonegli بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Slonegli Backpacking Stove, Portable Camping Stoves, Hiking Stove, Pocket Stove, Mini Camp Stove, Compact Wind Resistant Camping Stove for Backpacking, Hiking, Camping",
@@ -3208,7 +3208,7 @@
   {
     "asin": "B0GC66H5RT",
     "brand": "غير محدد",
-    "name": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
+    "name": "Stove بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
@@ -3228,7 +3228,7 @@
   {
     "asin": "B01J5KTUJW",
     "brand": "بوش",
-    "name": "بوش غاز",
+    "name": "بوش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3250,7 +3250,7 @@
   {
     "asin": "B0HGBLT2PZ",
     "brand": "Chef Cook",
-    "name": "Chef Cook 4 بوات غاز",
+    "name": "Chef بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -3273,7 +3273,7 @@
   {
     "asin": "B01JGBMNGM",
     "brand": "بوش",
-    "name": "بوش 5 بوات غاز",
+    "name": "بوش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3296,7 +3296,7 @@
   {
     "asin": "B0HNHDG2C9",
     "brand": "BluePoint",
-    "name": "New Smart Cooker, 80 cm, Stainless Steel, BLUEPOINT",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "New Smart Cooker, 80 cm, Stainless Steel, BLUEPOINT",
@@ -3316,7 +3316,7 @@
   {
     "asin": "B0HLY14SFC",
     "brand": "MG",
-    "name": "MG غاز",
+    "name": "MG بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3338,7 +3338,7 @@
   {
     "asin": "B0HD84922P",
     "brand": "لا جرمانيا",
-    "name": "لا جرمانيا 5 بوات غاز",
+    "name": "جرمانيا بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3361,7 +3361,7 @@
   {
     "asin": "B0FJ5VNSSX",
     "brand": "بيكو",
-    "name": "بيكو 5 بوات غاز",
+    "name": "بيكو بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3384,7 +3384,7 @@
   {
     "asin": "B0H83CML8V",
     "brand": "BluePoint",
-    "name": "BluePoint مدمج (BP80NSF)",
+    "name": "Blue بوتاجاز مدمج",
     "specs": {
       "type": "مدمج"
     },
@@ -3406,7 +3406,7 @@
   {
     "asin": "B091NYTZKQ",
     "brand": "زانوسي",
-    "name": "زانوسي 5 بوات (ZCG94396XA)",
+    "name": "زانوسي بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -3428,7 +3428,7 @@
   {
     "asin": "B0HLXVP7V6",
     "brand": "غير محدد",
-    "name": "MG Panorama Family Chef 5-Burner Gas Range Full Safety, 90x60cm, Freestanding Cooker with Oven and Grill,",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3450,7 +3450,7 @@
   {
     "asin": "B0HP7Z4RT4",
     "brand": "غير محدد",
-    "name": "OTCHA Standard 90 Gas Cooker 60x90 cm, Full Stainless Steel, Copper Burners, Auto Ignition, Digital Timer",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3472,7 +3472,7 @@
   {
     "asin": "B0BSYTZ24L",
     "brand": "بيكو",
-    "name": "بيكو 5 بوات غاز",
+    "name": "بيكو بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3495,7 +3495,7 @@
   {
     "asin": "B08SPY7ZS2",
     "brand": "Eyerayo",
-    "name": "Eyerayo غاز",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3517,7 +3517,7 @@
   {
     "asin": "B0FJYJG321",
     "brand": "غير محدد",
-    "name": "Gas and Electric Cooker - Dual-Layer Cooking System That Evenly Distributes Heat and Prevents Burning, Pe",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3539,7 +3539,7 @@
   {
     "asin": "B0FFN8RKKG",
     "brand": "بوش",
-    "name": "بوش 5 بوات غاز",
+    "name": "بوش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3562,7 +3562,7 @@
   {
     "asin": "B0HHFH5LP5",
     "brand": "توشيبا",
-    "name": "توشيبا غاز",
+    "name": "توشيبا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3584,7 +3584,7 @@
   {
     "asin": "B01KXFEWSM",
     "brand": "فريش",
-    "name": "فريش غاز",
+    "name": "فريش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3606,7 +3606,7 @@
   {
     "asin": "B0H55NVRCT",
     "brand": "لا جرمانيا",
-    "name": "لا جرمانيا غاز (ELEGANZA)",
+    "name": "جرمانيا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3628,7 +3628,7 @@
   {
     "asin": "B0H5RH5CSG",
     "brand": "بوش",
-    "name": "بوش 5 بوات غاز",
+    "name": "بوش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3651,7 +3651,7 @@
   {
     "asin": "B0FQKVKVV9",
     "brand": "لا جرمانيا",
-    "name": "لا جرمانيا غاز",
+    "name": "جرمانيا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3673,7 +3673,7 @@
   {
     "asin": "B01KZODK34",
     "brand": "فريش",
-    "name": "فريش غاز",
+    "name": "فريش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3695,7 +3695,7 @@
   {
     "asin": "B01KXFL4N8",
     "brand": "فريش",
-    "name": "فريش غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3717,7 +3717,7 @@
   {
     "asin": "B0FQKJN6LC",
     "brand": "لا جرمانيا",
-    "name": "لا جرمانيا غاز",
+    "name": "جرمانيا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3739,7 +3739,7 @@
   {
     "asin": "B0CXJBLJPB",
     "brand": "بوش",
-    "name": "بوش 5 بوات غاز",
+    "name": "بوش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3762,7 +3762,7 @@
   {
     "asin": "B0HQ5C1JL6",
     "brand": "يونيون إير",
-    "name": "يونيون إير 5 بوات غاز",
+    "name": "يونيون بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3785,7 +3785,7 @@
   {
     "asin": "B0GV15BJ3G",
     "brand": "يونيون إير",
-    "name": "يونيون إير 5 بوات غاز (C69SS-GC-)",
+    "name": "يونيون بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3808,7 +3808,7 @@
   {
     "asin": "B0HR3N526Q",
     "brand": "يونيون إير",
-    "name": "يونيون إير 5 بوات غاز (C69SS-GC-)",
+    "name": "يونيون بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3831,7 +3831,7 @@
   {
     "asin": "B0F5SV7W1M",
     "brand": "غير محدد",
-    "name": "Carnival Gas Cooker Single Eye",
+    "name": "Carnival بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3853,7 +3853,7 @@
   {
     "asin": "B0C5C4ZFNT",
     "brand": "Carnival",
-    "name": "Carnival غاز",
+    "name": "Carnival بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3875,7 +3875,7 @@
   {
     "asin": "B0GV1FGSBF",
     "brand": "يونيون إير",
-    "name": "يونيون إير 5 بوات غاز",
+    "name": "يونيون بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3898,7 +3898,7 @@
   {
     "asin": "B0GWD9RCS7",
     "brand": "غير محدد",
-    "name": "INGHOME Single Eye Flat Gas Cooker, Stainless Steel Body, Save Gas and Time, Carnival",
+    "name": "INGHOME بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3920,7 +3920,7 @@
   {
     "asin": "B0DSRC3W8Z",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3943,7 +3943,7 @@
   {
     "asin": "B0G5FY44QJ",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3966,7 +3966,7 @@
   {
     "asin": "B01KZODP48",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -3989,7 +3989,7 @@
   {
     "asin": "B0882VLFP9",
     "brand": "بيكو",
-    "name": "بيكو غاز",
+    "name": "بيكو بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4011,7 +4011,7 @@
   {
     "asin": "B0HN5KZVFF",
     "brand": "MG",
-    "name": "MG غاز",
+    "name": "MG بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4033,7 +4033,7 @@
   {
     "asin": "B0HN5N94S4",
     "brand": "MG",
-    "name": "MG غاز",
+    "name": "MG بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4055,7 +4055,7 @@
   {
     "asin": "B09BDMWZY3",
     "brand": "smarticular",
-    "name": "smarticular غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4077,7 +4077,7 @@
   {
     "asin": "B09BG5VNKC",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4100,7 +4100,7 @@
   {
     "asin": "B01JGBMVPU",
     "brand": "بوش",
-    "name": "بوش 4 بوات غاز",
+    "name": "بوش بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -4123,7 +4123,7 @@
   {
     "asin": "B0GYLS7TLT",
     "brand": "غير محدد",
-    "name": "Purity integrated Gas Cooker - 90 Cm - 5 Burners - Triple Flame - Cast Iron Holders - Stainless Steel – A",
+    "name": "بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4146,7 +4146,7 @@
   {
     "asin": "B0C5KKCCR9",
     "brand": "بوش",
-    "name": "بوش غاز",
+    "name": "بوش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4168,7 +4168,7 @@
   {
     "asin": "B0CM16KR1L",
     "brand": "غير محدد",
-    "name": "Tecnogas 9/2450 Rostic Gas Cooker – 4 Burners with fan and grill",
+    "name": "Tecnogas بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -4191,7 +4191,7 @@
   {
     "asin": "B0HBN1ZQFL",
     "brand": "غير محدد",
-    "name": "Royal Gas Free Stand Cooker-Master shef Pro - Fan, Cast, Digital, Full Safety,sensor",
+    "name": "Royal بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4215,7 +4215,7 @@
   {
     "asin": "B0D586MZN4",
     "brand": "Kitchen Line",
-    "name": "Kitchen Line 4 بوات غاز (GN4013)",
+    "name": "بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -4238,7 +4238,7 @@
   {
     "asin": "B0H1K8Z5Z3",
     "brand": "غير محدد",
-    "name": "Galaxy- Cooker, 4 Burners, 55x55 cm - White",
+    "name": "Galaxy- بوتاجاز 4بوات",
     "specs": {
       "burners": "4"
     },
@@ -4260,7 +4260,7 @@
   {
     "asin": "B0CBZXM7PS",
     "brand": "بيكو",
-    "name": "بيكو 5 بوات غاز",
+    "name": "بيكو بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4283,7 +4283,7 @@
   {
     "asin": "B0F4Z5QVFJ",
     "brand": "غير محدد",
-    "name": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
+    "name": "Stove بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
@@ -4303,7 +4303,7 @@
   {
     "asin": "B07Y8VFFF2",
     "brand": "إلبا",
-    "name": "إلبا غاز",
+    "name": "إلبا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4325,7 +4325,7 @@
   {
     "asin": "B0CXMLZ1QK",
     "brand": "إلبا",
-    "name": "إلبا 5 بوات غاز",
+    "name": "إلبا بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4348,7 +4348,7 @@
   {
     "asin": "B0FG8Z7Z7N",
     "brand": "غير محدد",
-    "name": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
+    "name": "Stove بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
@@ -4368,7 +4368,7 @@
   {
     "asin": "B0GW96G3D4",
     "brand": "غير محدد",
-    "name": "7L Mini Cooker Tube, Natural Gas Company Approved, Built-in Stove, Blue and Orange",
+    "name": "7L بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4390,7 +4390,7 @@
   {
     "asin": "B0C866N3TL",
     "brand": "Royal Gas",
-    "name": "Royal Caesar Cooker 90 Cast Digital Fan",
+    "name": "Royal بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Royal Caesar Cooker 90 Cast Digital Fan",
@@ -4410,7 +4410,7 @@
   {
     "asin": "B0HNH3WXXN",
     "brand": "غير محدد",
-    "name": "Stove Without Electricity (Gas Flat Cooker 3 Burners Thermal Glass, Red & Black)",
+    "name": "Stove بوتاجاز 3بوات غاز",
     "specs": {
       "burners": "3",
       "type": "غاز"
@@ -4433,7 +4433,7 @@
   {
     "asin": "B0CKW689HK",
     "brand": "إلبا",
-    "name": "إلبا غاز (EN90-544XD)",
+    "name": "إلبا بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4457,7 +4457,7 @@
   {
     "asin": "B0GLDX75FK",
     "brand": "غير محدد",
-    "name": "Grand Electronic Consumption Saving 3 Eye Self-Ignition Flat Cooker (NORMAL)",
+    "name": "Grand بوتاجاز",
     "specs": {},
     "model": "NORMAL",
     "title": "Grand Electronic Consumption Saving 3 Eye Self-Ignition Flat Cooker (NORMAL)",
@@ -4477,7 +4477,7 @@
   {
     "asin": "B0FHF8B3W1",
     "brand": "غير محدد",
-    "name": "Carnival Gas Cooker 1 Eye",
+    "name": "Carnival بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4499,7 +4499,7 @@
   {
     "asin": "B0FD7QYLSY",
     "brand": "غير محدد",
-    "name": "Royal Gas Free Stand Cooker-Master shef Pro - Fan, Cast, Digital, Full Safety,sensor",
+    "name": "Royal بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4521,7 +4521,7 @@
   {
     "asin": "B0B4SR4BNL",
     "brand": "بوش",
-    "name": "بوش 5 بوات",
+    "name": "بوش بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -4543,7 +4543,7 @@
   {
     "asin": "B0BH4RDCTT",
     "brand": "وايت بوينت",
-    "name": "وايت بوينت 5 بوات",
+    "name": "وايت بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -4565,7 +4565,7 @@
   {
     "asin": "B0GYPM1J2P",
     "brand": "Purity",
-    "name": "Purity 5 بوات غاز (HPT912G)",
+    "name": "Purity بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4588,7 +4588,7 @@
   {
     "asin": "B0FD4WGRJJ",
     "brand": "غير محدد",
-    "name": "Generic The Rahal Chef Cooker (The High-end Chef)",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Generic The Rahal Chef Cooker (The High-end Chef)",
@@ -4608,7 +4608,7 @@
   {
     "asin": "B0GKVX22LM",
     "brand": "غير محدد",
-    "name": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
+    "name": "Stove بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
@@ -4628,7 +4628,7 @@
   {
     "asin": "B0FG822W2W",
     "brand": "غير محدد",
-    "name": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
+    "name": "Stove بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Stove (Flat Cooker 2.5 Eyes Self Ignition Stainless Steel)",
@@ -4648,7 +4648,7 @@
   {
     "asin": "B09G3C5ZJ9",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4671,7 +4671,7 @@
   {
     "asin": "B0FZKSR14V",
     "brand": "غير محدد",
-    "name": "Electric Single Eye Flat Cooker, White",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -4693,7 +4693,7 @@
   {
     "asin": "B0CS3GLQYC",
     "brand": "غير محدد",
-    "name": "Cooker Techno Gas 60 cm full stainless steel",
+    "name": "Cooker بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4715,7 +4715,7 @@
   {
     "asin": "B0GVTYGFT5",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4738,7 +4738,7 @@
   {
     "asin": "B0FHL4CZP5",
     "brand": "غير محدد",
-    "name": "Carnival Gas Cooker 1 Eye",
+    "name": "Carnival بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4760,7 +4760,7 @@
   {
     "asin": "B0FLMMGJ3V",
     "brand": "غير محدد",
-    "name": "Cooker Gas 3 Eyes",
+    "name": "Cooker بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4782,7 +4782,7 @@
   {
     "asin": "B01KZODQRY",
     "brand": "فريش",
-    "name": "فريش 5 بوات غاز",
+    "name": "بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4805,7 +4805,7 @@
   {
     "asin": "B001UAAMS4",
     "brand": "Campingaz",
-    "name": "Campingaz Micro Plus Portable Camping Stove for CV 300 Plus - 100204185 | Compact portable camping stove ",
+    "name": "Campingaz بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Campingaz Micro Plus Portable Camping Stove for CV 300 Plus - 100204185 | Compact portable camping stove with foldable pan supports and Easy Clic Plus cartridge connection",
@@ -4825,7 +4825,7 @@
   {
     "asin": "B0DMW4Q9N2",
     "brand": "غير محدد",
-    "name": "Mini Electric Pot43 Gas Pot, 1 Stove Cooker, Non-Stick Coating, Overheat Protection, 1000 Watts, Ideal fo",
+    "name": "Mini بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4847,7 +4847,7 @@
   {
     "asin": "B0CYZWSP67",
     "brand": "بوش",
-    "name": "بوش 5 بوات غاز",
+    "name": "بوش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4870,7 +4870,7 @@
   {
     "asin": "B0F468G9ZL",
     "brand": "غير محدد",
-    "name": "one year warranty_Electric Cooker, 1 Eye, 1500 Watts, Non-Stick Surface With Temperature Levels, Overheat",
+    "name": "one بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -4892,7 +4892,7 @@
   {
     "asin": "B0FCSB79HS",
     "brand": "غير محدد",
-    "name": "Portable Mini Electric Cooker - 1500W Single Heating Surface - Non-Stick Coating - Overheat Protection Sy",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -4914,7 +4914,7 @@
   {
     "asin": "B0D8ZXRS5H",
     "brand": "Ocean",
-    "name": "Ocean 5 بوات غاز (OGHF95IPROSV)",
+    "name": "Ocean بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4937,7 +4937,7 @@
   {
     "asin": "B0CHMWNHHW",
     "brand": "إلبا",
-    "name": "إلبا 5 بوات غاز",
+    "name": "إلبا بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4960,7 +4960,7 @@
   {
     "asin": "B0GR5H9SPL",
     "brand": "غير محدد",
-    "name": "Practical and fast heating cooker - ideal for home use and trips - compact space saving design (1000 W)",
+    "name": "Practical بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Practical and fast heating cooker - ideal for home use and trips - compact space saving design (1000 W)",
@@ -4980,7 +4980,7 @@
   {
     "asin": "B09GGFWCK4",
     "brand": "بوش",
-    "name": "بوش غاز",
+    "name": "بوش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5002,7 +5002,7 @@
   {
     "asin": "B0DTJ9L7JP",
     "brand": "COOKTRON",
-    "name": "COOKTRON Induction Cooker with Grill Plate (with Lid)",
+    "name": "COOKTRON بوتاجاز",
     "specs": {},
     "model": "",
     "title": "COOKTRON Induction Cooker with Grill Plate (with Lid)",
@@ -5022,7 +5022,7 @@
   {
     "asin": "B0HLL1P3GV",
     "brand": "غير محدد",
-    "name": "فنشه موقد متوافق مع شعار UNIVERSAL الحديث مشرشر العين الخمسه بالغطاء | Built-in Gas Stove, Aluminum Base,",
+    "name": "فنشه بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5044,7 +5044,7 @@
   {
     "asin": "B0FMMS1BW1",
     "brand": "غير محدد",
-    "name": "Italian Made Cooker Hose, Red, Rubber, 2 Meter, 20 Bar",
+    "name": "Italian بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Italian Made Cooker Hose, Red, Rubber, 2 Meter, 20 Bar",
@@ -5064,7 +5064,7 @@
   {
     "asin": "B0HG2NJYPD",
     "brand": "جري",
-    "name": "جري غاز",
+    "name": "جري بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5086,7 +5086,7 @@
   {
     "asin": "B0FJ2S9RY7",
     "brand": "غير محدد",
-    "name": "Natural Sky Three Eye Gas Cooker",
+    "name": "Natural بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5108,7 +5108,7 @@
   {
     "asin": "B0FVTQ54JL",
     "brand": "غير محدد",
-    "name": "3500W Electric Induction Cooker with 8 Cooking Modes – Black Crystal Surface – LCD Display & Touch Contro",
+    "name": "3500W بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5130,7 +5130,7 @@
   {
     "asin": "B0HJR48RXR",
     "brand": "غير محدد",
-    "name": "Double Flat Electric Cooker 1000W/1500W | 2 Independent Burners, Rotating Handle Control, Stainless Steel",
+    "name": "Double بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5152,7 +5152,7 @@
   {
     "asin": "B0GW8YQ548",
     "brand": "غير محدد",
-    "name": "Old Universal Cooker Key Cap, Thermoplastic, Black",
+    "name": "Old بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Old Universal Cooker Key Cap, Thermoplastic, Black",
@@ -5172,7 +5172,7 @@
   {
     "asin": "B0H7CQNWJ5",
     "brand": "غير محدد",
-    "name": "Electric Cooker 1 Eye Stone 1200W 220V | Sossa Heat, 1200 Watts",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5194,7 +5194,7 @@
   {
     "asin": "B0H7RKCCPS",
     "brand": "Next store",
-    "name": "Next store كهربائي",
+    "name": "Next بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5216,7 +5216,7 @@
   {
     "asin": "B0HQJC5MBM",
     "brand": "غير محدد",
-    "name": "Gas Cooker Eyes Cover Protector Oil Oil Oil Multi Color | Easy to clean, grease and grease-resistant, dur",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5238,7 +5238,7 @@
   {
     "asin": "B0GW8KMJ54",
     "brand": "غير محدد",
-    "name": "Gas Eyes Set for Technogas and Kryazi Cooker, 4 Burners, Stainless Steel, Multi Size",
+    "name": "Gas بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -5261,7 +5261,7 @@
   {
     "asin": "B0GVMHSMSS",
     "brand": "غير محدد",
-    "name": "Flat stove-a modern electric stove with one eye with an elegant black touch, providing fast heating eleme",
+    "name": "Flat بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5283,7 +5283,7 @@
   {
     "asin": "B0FVTPC6RV",
     "brand": "غير محدد",
-    "name": "3500W Electric Induction Cooker with 8 Cooking Modes – High Quality Black Crystal Surface – LED Digital D",
+    "name": "3500W بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5305,7 +5305,7 @@
   {
     "asin": "B0BG6DXF5F",
     "brand": "غير محدد",
-    "name": "Chef Cook Stainless Steelless Cookers 5 Burners with Fan 60x80",
+    "name": "Chef بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -5327,7 +5327,7 @@
   {
     "asin": "B0GNHXNVPM",
     "brand": "غير محدد",
-    "name": "1000W Electric Cooking Heater – Safe Electric Cooker with Temperature Control & Automatic Separation – Fl",
+    "name": "1000W بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5349,7 +5349,7 @@
   {
     "asin": "B0GXT5W4QY",
     "brand": "غير محدد",
-    "name": "Old Universal Cooker Key Cap, Thermoplastic, Black (Black, ٦ اكرة)",
+    "name": "Old بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Old Universal Cooker Key Cap, Thermoplastic, Black (Black, ٦ اكرة)",
@@ -5369,7 +5369,7 @@
   {
     "asin": "B0F4ZV24K7",
     "brand": "غير محدد",
-    "name": "Stove (Gas Stove 1 Eye)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5391,7 +5391,7 @@
   {
     "asin": "B0H7JCPS9M",
     "brand": "غير محدد",
-    "name": "Infrared Ceramic Electric Stove, 3500W Digital Electric Cooking Heater, 4 Program Cooking Menu, Automatic",
+    "name": "Infrared بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5413,7 +5413,7 @@
   {
     "asin": "B0DPVC5LQS",
     "brand": "غير محدد",
-    "name": "Davor Stove, Metal Burner - 120 G - Silver",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Davor Stove, Metal Burner - 120 G - Silver",
@@ -5433,7 +5433,7 @@
   {
     "asin": "B0FG8KNX7L",
     "brand": "غير محدد",
-    "name": "Stove (Gas Stove 2 Eyes)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5455,7 +5455,7 @@
   {
     "asin": "B0FG83M2B3",
     "brand": "غير محدد",
-    "name": "Stove (Gas Stove 1 Eye)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5477,7 +5477,7 @@
   {
     "asin": "B0HJXT7ZFK",
     "brand": "غير محدد",
-    "name": "Hotplate Electric Single Burner – Portable Cooker Stove for Home, Office, and Outdoor Use (1000W COil, 3 ",
+    "name": "Hotplate بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5499,7 +5499,7 @@
   {
     "asin": "B0HNGY6K9R",
     "brand": "غير محدد",
-    "name": "Stove Without Electricity (Travel Gas Stove with Hose and Italian Regulator)",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5521,7 +5521,7 @@
   {
     "asin": "B0722DXDZJ",
     "brand": "EEZYCHOIC",
-    "name": "EEZYCHOIC غاز",
+    "name": "Non-Stick بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5543,7 +5543,7 @@
   {
     "asin": "B0DLWRLSP8",
     "brand": "غير محدد",
-    "name": "Non Stick Gas Stove Protectors, Value Set of 6, Reusable, Super Easy to Clean, Protects Stove Top from Di",
+    "name": "Non بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5565,7 +5565,7 @@
   {
     "asin": "B0D2RZJTD6",
     "brand": "غير محدد",
-    "name": "Keep Your Stove Tidy and Grease Free with 10 Gas Stove Protectors - Reusable and Easy to Maintain for Opt",
+    "name": "Keep بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5587,7 +5587,7 @@
   {
     "asin": "B0D485FMDY",
     "brand": "غير محدد",
-    "name": "Easy Clean Aluminum Foil Gas Stove Protectors - Protects Your Stoves from Liquids and Grease, 20 Reusable",
+    "name": "Easy بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5609,7 +5609,7 @@
   {
     "asin": "B0GCWFN9YB",
     "brand": "غير محدد",
-    "name": "Stove Protector - Innovative cooking shield for gas burners crafted for home use, offering complete splas",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5631,7 +5631,7 @@
   {
     "asin": "B0HFGSZM79",
     "brand": "غير محدد",
-    "name": "Gas Stove Lighter - Kitchen Manual Ignition Tool with Protective Shell",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5653,7 +5653,7 @@
   {
     "asin": "B0GHZYW139",
     "brand": "غير محدد",
-    "name": "Stove Protector Mat, Stove Burner Covers, Stove Burner Cover, Aluminum Foil Cover for Stoves and Gas Stov",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5675,7 +5675,7 @@
   {
     "asin": "B0D54NS2QY",
     "brand": "غير محدد",
-    "name": "Reusable Aluminum Foil Gas Stove Covers - Effortless Cleanup, Protects Your Stove from Spills of Liquids ",
+    "name": "Reusable بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5697,7 +5697,7 @@
   {
     "asin": "B0HF56RTJZ",
     "brand": "غير محدد",
-    "name": "Generic Butane Gas Refill Canister, 227g, for Lighters and Mini Stove, with Divet and Safety Cap",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5719,7 +5719,7 @@
   {
     "asin": "B0HM14CG6K",
     "brand": "غير محدد",
-    "name": "Kitchen chimney or heater and gas stove chimney vent - Flexible thermal aluminum expandable - For kitchen",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5741,7 +5741,7 @@
   {
     "asin": "B0F322N9N5",
     "brand": "fashion mania",
-    "name": "4 Pcs Universal Stove Knobs, 12 Pcs ABS Material Sturdy Practical Highly Compatible Multi-function Tool",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "4 Pcs Universal Stove Knobs, 12 Pcs ABS Material Sturdy Practical Highly Compatible Multi-function Tool",
@@ -5761,7 +5761,7 @@
   {
     "asin": "B0FJMGRDBW",
     "brand": "Bukela",
-    "name": "Bukela غاز",
+    "name": "Bukela بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5783,7 +5783,7 @@
   {
     "asin": "B0DR9DRX6H",
     "brand": "غير محدد",
-    "name": "Cooking Surface Cover - Set of 10 Square Aluminum Foil Gas Stove Covers Effectively Protect Your Cooking ",
+    "name": "Cooking بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5805,7 +5805,7 @@
   {
     "asin": "B0C6QBBB6N",
     "brand": "Helweet",
-    "name": "Helweet غاز",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5827,7 +5827,7 @@
   {
     "asin": "B0H12JFM9K",
     "brand": "غير محدد",
-    "name": "Grill Pan Round Non-Stick Grill Pan Gas Stove Pan Black for Home Camping",
+    "name": "Grill بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5849,7 +5849,7 @@
   {
     "asin": "B0FG4H4QG6",
     "brand": "غير محدد",
-    "name": "Granite Non Stick Frying Pan 14cm With Milk Handle Suitable For Gas Stove | Non-stick 5.5 Inch Granite Pa",
+    "name": "Granite بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5871,7 +5871,7 @@
   {
     "asin": "B0FCN1BW3P",
     "brand": "غير محدد",
-    "name": "meridian,can,gas,easy to use, perfect for refilling flame lighters. mini stove,sprayer, handheld spray 22",
+    "name": "meridian بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5893,7 +5893,7 @@
   {
     "asin": "B0D54QQX68",
     "brand": "غير محدد",
-    "name": "Effortless Clean Aluminum Foil Gas Stove Covers - 20 Reusable Gas Stove Protectors to Keep Stoves Safe fr",
+    "name": "Effortless بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5915,7 +5915,7 @@
   {
     "asin": "B0HKLFBWB7",
     "brand": "غير محدد",
-    "name": "4 Pcs Reusable Stove Protectors, Heat Protection for Stove Top from Oil Spill and Food Fatigue, Easy to C",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "4 Pcs Reusable Stove Protectors, Heat Protection for Stove Top from Oil Spill and Food Fatigue, Easy to Clean Waterproof Material 27x27cm with Detachable Hole",
@@ -5935,7 +5935,7 @@
   {
     "asin": "B0FVDRTX4T",
     "brand": "غير محدد",
-    "name": "Universal Coffee Pot Holder – Stainless Steel Gas Stove Heat Reducer Ring | Non-Slip Design | Supports Mo",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5957,7 +5957,7 @@
   {
     "asin": "B0GVBT95T3",
     "brand": "غير محدد",
-    "name": "Generic Gas Stove Lighter â€“ Long-Reach Piezo Ignition Spark Gun for Kitchen, Refillable-Free, Windproof",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5979,7 +5979,7 @@
   {
     "asin": "B0DR9DKSH7",
     "brand": "غير محدد",
-    "name": "Gas Stove Cover - Set of 10 Square Aluminum Foil Covers Designed to Protect Your Cooking Surface While Ke",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6001,7 +6001,7 @@
   {
     "asin": "B0GSQSBQB5",
     "brand": "Merzio",
-    "name": "Merzio غاز (BLACK)",
+    "name": "Merzio بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6023,7 +6023,7 @@
   {
     "asin": "B0BW9M4783",
     "brand": "MARKQ",
-    "name": "MARKQ غاز",
+    "name": "MARKQ بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6045,7 +6045,7 @@
   {
     "asin": "B0D54FJCD7",
     "brand": "غير محدد",
-    "name": "Aluminum Foil Protectors for Gas Stove Burners - Keep Your Stove Clean from Liquids and Grease, 10 Reusab",
+    "name": "Aluminum بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6067,7 +6067,7 @@
   {
     "asin": "B0GCX8S3YC",
     "brand": "غير محدد",
-    "name": "Splash Guard - Practical gas stove cooking protector designed for home chefs, featuring a strong frame fo",
+    "name": "Splash بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6089,7 +6089,7 @@
   {
     "asin": "B0H33Y9RWX",
     "brand": "غير محدد",
-    "name": "USB Rechargeable Electric Lighter with Flexible Long Neck - Windproof Flameless Arc Lighter for Gas Stove",
+    "name": "USB بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6111,7 +6111,7 @@
   {
     "asin": "B0H887CDGQ",
     "brand": "غير محدد",
-    "name": "Black Espresso Pot Support Ring for Gas Stove, Universal Coffee Pot Stand, Small Cookware Reducer Ring, M",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6133,7 +6133,7 @@
   {
     "asin": "B0D54NX6V6",
     "brand": "غير محدد",
-    "name": "Aluminum Foil Liners for Gas Stove for Simple Cleaning - Prevent Stove Damage by Liquids and Grease, Reus",
+    "name": "Aluminum بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6155,7 +6155,7 @@
   {
     "asin": "B0D5BMSGTH",
     "brand": "CELAR",
-    "name": "CELAR غاز",
+    "name": "Celar بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6177,7 +6177,7 @@
   {
     "asin": "B0GLHY9ML8",
     "brand": "غير محدد",
-    "name": "Stove Top Mocha Espresso Pot 3 Cup Capacity Traditional Coffee Maker for Rich Flavor Home Brewing Easy Ga",
+    "name": "Stove بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6199,7 +6199,7 @@
   {
     "asin": "B0DK7QCJF7",
     "brand": "غير محدد",
-    "name": "Aluminum Espresso Moka Pot for Gas Stove or Electric Oven, Silver - 3 Cups",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6221,7 +6221,7 @@
   {
     "asin": "B0HQXCLWYH",
     "brand": "غير محدد",
-    "name": "Stove Top Lock and Open Switches (Chrome Cooker Switches (5 Piece Set))",
+    "name": "Stove بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Stove Top Lock and Open Switches (Chrome Cooker Switches (5 Piece Set))",
@@ -6241,7 +6241,7 @@
   {
     "asin": "B0D1RKD6N5",
     "brand": "Papilla",
-    "name": "Papilla غاز",
+    "name": "Papilla بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6263,7 +6263,7 @@
   {
     "asin": "B0HBQF3FGZ",
     "brand": "Trueval",
-    "name": "Trueval غاز",
+    "name": "Trueval بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6285,7 +6285,7 @@
   {
     "asin": "B0FDHKWQHJ",
     "brand": "غير محدد",
-    "name": "Wood Handle Sewing, Heat Diffuser for Gas and Electric Cooker, Size 21cm Round Heat Diffuser and Safety R",
+    "name": "Wood بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6307,7 +6307,7 @@
   {
     "asin": "B0C6JQ8CPN",
     "brand": "FANXUS",
-    "name": "FANXUS غاز",
+    "name": "FANXUS بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6329,7 +6329,7 @@
   {
     "asin": "B0DB282BRH",
     "brand": "BAREPEPE",
-    "name": "BAREPEPE غاز",
+    "name": "Rechargeable بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6351,7 +6351,7 @@
   {
     "asin": "B0HP8FCMMB",
     "brand": "غير محدد",
-    "name": "Electric Arc Lighter, USB Rechargeable Plasma Candle Lighter with Flexible Neck, Flameless Ignition for C",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6373,7 +6373,7 @@
   {
     "asin": "B0DJVS7K9Z",
     "brand": "GiPP",
-    "name": "GiPP غاز",
+    "name": "GiPP بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6395,7 +6395,7 @@
   {
     "asin": "B0D6WF7THQ",
     "brand": "ECVV",
-    "name": "ECVV غاز",
+    "name": "ECVV بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6417,7 +6417,7 @@
   {
     "asin": "B0HKLLRB7Z",
     "brand": "غير محدد",
-    "name": "Gas Stove Eye Brushes Oil Oil Grease Protection Brush Set of 4 Reusable Heat Resistant Material Easy to C",
+    "name": "Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6439,7 +6439,7 @@
   {
     "asin": "B0FPMDK5CP",
     "brand": "غير محدد",
-    "name": "Moka Pot Italian Espresso Coffee Maker Stainless Steel Manual Coffee Maker for Gas Stove Induction Perfec",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6461,7 +6461,7 @@
   {
     "asin": "B0HFGXRHZ7",
     "brand": "غير محدد",
-    "name": "Kitchen Gas Lighter - Resealable Ignition Tool with Stove Protection Shell",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6483,7 +6483,7 @@
   {
     "asin": "B0CQRG86KJ",
     "brand": "Tidita",
-    "name": "Tidita غاز",
+    "name": "TIDITA بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6505,7 +6505,7 @@
   {
     "asin": "B0H7F7RMZB",
     "brand": "غير محدد",
-    "name": "2-Piece Stainless Steel Coffee Pot Stand Set, Gas Stove Trivet Reducer Ring, Small Pot Support Rack, Espr",
+    "name": "2-Piece بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6527,7 +6527,7 @@
   {
     "asin": "B0H7FLJY7F",
     "brand": "غير محدد",
-    "name": "2-Pack Stainless Steel Stove Trivet Reducer Ring, Gas Burner Pot Support for Small Coffee Pots, Moka Pots",
+    "name": "2-Pack بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6549,7 +6549,7 @@
   {
     "asin": "B0HN53XK81",
     "brand": "MG",
-    "name": "MG 5 بوات غاز",
+    "name": "MG بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -6572,7 +6572,7 @@
   {
     "asin": "B0DFFR685G",
     "brand": "غير محدد",
-    "name": "3500W Digital Infrared Electric Cooker with 11 Levels of Power for Cooking with Touch Screen for All Pots",
+    "name": "3500W بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6594,7 +6594,7 @@
   {
     "asin": "B0HQ5B938T",
     "brand": "جاماكي",
-    "name": "جاماكي كهربائي",
+    "name": "جاماكي بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6616,7 +6616,7 @@
   {
     "asin": "B0CZMWGXW3",
     "brand": "غير محدد",
-    "name": "Double Flat Electric Cooker 1000W 1500W Warranty Generic",
+    "name": "Double بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6638,7 +6638,7 @@
   {
     "asin": "B0CMX6CJHN",
     "brand": "غير محدد",
-    "name": "JMK Double Flat Electric Cooker (1500W + 2000W) Safe, Portable, Cooking Excellent Design",
+    "name": "JMK بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6660,7 +6660,7 @@
   {
     "asin": "B0HL5RD69R",
     "brand": "غير محدد",
-    "name": "Home Gold Flat Electric Cooker 2 Eyes Aso Non Stick Surface 2000W 1000+ | Non-stick surface, Heat Control",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6682,7 +6682,7 @@
   {
     "asin": "B0DVTC6XGM",
     "brand": "Winning Star",
-    "name": "Winning Star كهربائي",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6704,7 +6704,7 @@
   {
     "asin": "B09B8WPPDL",
     "brand": "Brilliant",
-    "name": "Brilliant كهربائي",
+    "name": "Brilliant بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6726,7 +6726,7 @@
   {
     "asin": "B0CB4R8GBZ",
     "brand": "بيكو",
-    "name": "بيكو كهربائي",
+    "name": "بيكو بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6748,7 +6748,7 @@
   {
     "asin": "B0HJR7Y7T4",
     "brand": "جاماكي",
-    "name": "جاماكي كهربائي (JMK7017)",
+    "name": "جاماكي بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6770,7 +6770,7 @@
   {
     "asin": "B0DVC9JR71",
     "brand": "Ocean",
-    "name": "Ocean 5 بوات غاز",
+    "name": "Ocean بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -6793,7 +6793,7 @@
   {
     "asin": "B0HF6K2SCS",
     "brand": "غير محدد",
-    "name": "JMK Double Electric Cooker 2 Eyes Total Power 3000W (1500+1500) Super Fast Heating - Compact & Portable D",
+    "name": "JMK بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6815,7 +6815,7 @@
   {
     "asin": "B0FBHKRZYR",
     "brand": "جاماكي",
-    "name": "JAMAKI Italian JMK 7012 2 Eye Cooker 1500+1500W Heater Wire",
+    "name": "جاماكي بوتاجاز",
     "specs": {},
     "model": "",
     "title": "JAMAKI Italian JMK 7012 2 Eye Cooker 1500+1500W Heater Wire",
@@ -6835,7 +6835,7 @@
   {
     "asin": "B0GMQTRDDP",
     "brand": "غير محدد",
-    "name": "one year warranty_500W Mini Portable Electric Cooker - Temperature Control, 5 Heat Levels, 10cm Heating S",
+    "name": "one بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6857,7 +6857,7 @@
   {
     "asin": "B0FZVWQ7V2",
     "brand": "غير محدد",
-    "name": "Hot Plate Electric Single Eye Cooker with Temperature Levels (1000 Watts) | Ebaskt Electric Hot Plate Sin",
+    "name": "Hot بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6879,7 +6879,7 @@
   {
     "asin": "B0H59BZ9Q9",
     "brand": "غير محدد",
-    "name": "Single Portable Electric Cooker, Non Stick Coating and Overheat Protection, 1000W for Light and Fast Cook",
+    "name": "Single بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6901,7 +6901,7 @@
   {
     "asin": "B0BYT8FL99",
     "brand": "فريش",
-    "name": "فريش غاز",
+    "name": "فريش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -6923,7 +6923,7 @@
   {
     "asin": "B0HJMJZ8VF",
     "brand": "غير محدد",
-    "name": "Electric Single Eye Cooker 1000W Black | Non-stick surface, Auto Shut-Off, Multiple Heat Levels, Portable",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6945,7 +6945,7 @@
   {
     "asin": "B0DPPC9N95",
     "brand": "غير محدد",
-    "name": "WANGCHEF Electric Infrared Cooker 3500 Digital Digital Display 11 Levels Touch Screen Cooker Suitable for",
+    "name": "WANGCHEF بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -6967,7 +6967,7 @@
   {
     "asin": "B0DPVDVRYX",
     "brand": "غير محدد",
-    "name": "Davor Gain Small Stove With 3 Burners And A Wire For The Pipe - Silver",
+    "name": "بوتاجاز 3بوات",
     "specs": {
       "burners": "3"
     },
@@ -6989,7 +6989,7 @@
   {
     "asin": "B08TC1Y4FT",
     "brand": "نيكاي",
-    "name": "نيكاي كهربائي (TFC14N5)",
+    "name": "نيكاي بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7011,7 +7011,7 @@
   {
     "asin": "B08WR8V9MG",
     "brand": "GOKRU",
-    "name": "GOKRU غاز",
+    "name": "GOKRU بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -7033,7 +7033,7 @@
   {
     "asin": "0241636299",
     "brand": "DK",
-    "name": "The Slow Cook Book: 200 Oven & Slow Cooker Recipes",
+    "name": "The بوتاجاز",
     "specs": {},
     "model": "",
     "title": "The Slow Cook Book: 200 Oven & Slow Cooker Recipes",
@@ -7053,7 +7053,7 @@
   {
     "asin": "B0GCLFVRNR",
     "brand": "غير محدد",
-    "name": "Black Aluminum Cooker Base 60x90cm – 4 Strong Wheels with Safety Brake – Rust Resistant – Movable Base fo",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Black Aluminum Cooker Base 60x90cm – 4 Strong Wheels with Safety Brake – Rust Resistant – Movable Base for Heavy Appliances",
@@ -7075,7 +7075,7 @@
   {
     "asin": "B0HC7DSQ3D",
     "brand": "غير محدد",
-    "name": "Jamaky 7003 2800W Infrared Electric Cooker | Infrared 2800W 7003 for Electric Cooking",
+    "name": "Jamaky بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7097,7 +7097,7 @@
   {
     "asin": "B0GCZH67WN",
     "brand": "غير محدد",
-    "name": "منظم انبوبة بوتاجاز نحاس",
+    "name": "منظم بوتاجاز",
     "specs": {},
     "model": "",
     "title": "منظم انبوبة بوتاجاز نحاس",
@@ -7117,7 +7117,7 @@
   {
     "asin": "B0DDQL2F23",
     "brand": "جاماكي",
-    "name": "جاماكي كهربائي (JMK7012)",
+    "name": "جاماكي بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7139,7 +7139,7 @@
   {
     "asin": "B0CSZ6NRJT",
     "brand": "غير محدد",
-    "name": "Digital Infrared Cooker & Hob Temperature Settings Programmable Timer 3 Hours Ceramic Heating Element 200",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Digital Infrared Cooker & Hob Temperature Settings Programmable Timer 3 Hours Ceramic Heating Element 2000 Watts",
@@ -7159,7 +7159,7 @@
   {
     "asin": "B0DF88935Z",
     "brand": "غير محدد",
-    "name": "منظم بوبة بوتاجاز +فرشة تنظيف بوتاجاز + إبرة تسليك الفونيا + خرطوم بوبة 2 متر اسود",
+    "name": "منظم بوتاجاز",
     "specs": {},
     "model": "",
     "title": "منظم بوبة بوتاجاز +فرشة تنظيف بوتاجاز + إبرة تسليك الفونيا + خرطوم بوبة 2 متر اسود",
@@ -7179,7 +7179,7 @@
   {
     "asin": "B0HCKK5V9F",
     "brand": "جاماكي",
-    "name": "جاماكي كهربائي",
+    "name": "جاماكي بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7201,7 +7201,7 @@
   {
     "asin": "B0F9ZP4XR5",
     "brand": "سوكاني",
-    "name": "سوكاني كهربائي",
+    "name": "سوكاني بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7223,7 +7223,7 @@
   {
     "asin": "B0BVKGZ4RC",
     "brand": "HOT PLATE",
-    "name": "HOT PLATE كهربائي",
+    "name": "HOT بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7245,7 +7245,7 @@
   {
     "asin": "B0CD5YG5BF",
     "brand": "AquaFalcon",
-    "name": "AquaFalcon كهربائي",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7267,7 +7267,7 @@
   {
     "asin": "B0GKPPBT2V",
     "brand": "غير محدد",
-    "name": "Hotplate Electric Single Burner – Portable Cooker Stove for Home, Office, and Outdoor Use (1500 Watts Coi",
+    "name": "Hotplate بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7289,7 +7289,7 @@
   {
     "asin": "B0GS4NC34W",
     "brand": "غير محدد",
-    "name": "10 in 1 Electric Multi-Cooker, Saucepan, Pan, Grill, 3L, 1800W, for Grilling, Frying, Baking, Steaming, N",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7311,7 +7311,7 @@
   {
     "asin": "B0HJP279WZ",
     "brand": "فريش",
-    "name": "Fresh Touch Built-In Cooker Hood 90 cm – HG02-03",
+    "name": "فريش بوتاجاز",
     "specs": {},
     "model": "HG02-03",
     "title": "Fresh Touch Built-In Cooker Hood 90 cm – HG02-03",
@@ -7331,7 +7331,7 @@
   {
     "asin": "B0GY5B3NJQ",
     "brand": "AKANE",
-    "name": "AKANE كهربائي",
+    "name": "AKANE بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7353,7 +7353,7 @@
   {
     "asin": "B0HJ9BLGZ2",
     "brand": "غير محدد",
-    "name": "Multifunctional Cooker",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Multifunctional Cooker",
@@ -7373,7 +7373,7 @@
   {
     "asin": "B0DFM91XQP",
     "brand": "غير محدد",
-    "name": "DSP Electric cooking pot - Multicooker - 4in1 - KC3040 - - 613712",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -7395,7 +7395,7 @@
   {
     "asin": "B0DGPK6DDW",
     "brand": "EASYIVY",
-    "name": "EASYIVY E14 bulb for extractor hood, T25 bulb for cooker hood SES light bulb, dimmable light bulb 350lm W",
+    "name": "EASYIVY بوتاجاز",
     "specs": {},
     "model": "E14",
     "title": "EASYIVY E14 bulb for extractor hood, T25 bulb for cooker hood SES light bulb, dimmable light bulb 350lm Warm white 2700K for extractor hood, ceiling light, 3 pieces",
@@ -7415,7 +7415,7 @@
   {
     "asin": "B0G6B18NZ1",
     "brand": "غير محدد",
-    "name": "خرطوم توصيل الغاز الطبيعى للبوتاجاز 1 متر-",
+    "name": "خرطوم بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -7437,7 +7437,7 @@
   {
     "asin": "B0HQZNCVP8",
     "brand": "غير محدد",
-    "name": "طقم فلتر كربوني شفاط مطبخ فوق البوتاجاز فلتر الدخى عدد 2 قطعه المجموعة 20.5 سم",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "طقم فلتر كربوني شفاط مطبخ فوق البوتاجاز فلتر الدخى عدد 2 قطعه المجموعة 20.5 سم",

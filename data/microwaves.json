@@ -2,7 +2,7 @@
   {
     "asin": "B0FMQ9VVXX",
     "brand": "توشيبا",
-    "name": "توشيبا 25 لتر 1000 وات رقمي (EM25PEI)",
+    "name": "توشيبا ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "watt": "1000",
@@ -26,7 +26,7 @@
   {
     "asin": "B0DNN47VCT",
     "brand": "شارب",
-    "name": "شارب 25 لتر 900 وات جريل",
+    "name": "شارب ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -50,7 +50,7 @@
   {
     "asin": "B0FQBYF4WY",
     "brand": "ميديا",
-    "name": "ميديا 25 لتر 900 وات جريل",
+    "name": "ميديا ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -74,7 +74,7 @@
   {
     "asin": "B0FQ61H8RT",
     "brand": "ميديا",
-    "name": "ميديا 25 لتر 900 وات رقمي",
+    "name": "ميديا ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -98,7 +98,7 @@
   {
     "asin": "B094HJ4JSH",
     "brand": "إل جي",
-    "name": "إل جي 42 لتر 1200 وات جريل (MH8265DIS)",
+    "name": "إل جي ميكروويف 42لتر",
     "specs": {
       "cap": "42",
       "watt": "1200",
@@ -122,7 +122,7 @@
   {
     "asin": "B0FQC2R6HS",
     "brand": "ميديا",
-    "name": "ميديا 32 لتر 1000 وات جريل",
+    "name": "ميديا ميكروويف 32لتر جريل",
     "specs": {
       "cap": "32",
       "watt": "1000",
@@ -146,7 +146,7 @@
   {
     "asin": "B00WU9XF7Y",
     "brand": "شارب",
-    "name": "شارب 34 لتر 1100 وات جريل",
+    "name": "ميكروويف 34لتر جريل 1100وات",
     "specs": {
       "cap": "34",
       "watt": "1100",
@@ -170,7 +170,7 @@
   {
     "asin": "B0CV874WKM",
     "brand": "تورنيدو",
-    "name": "تورنيدو 25 لتر 900 وات جريل",
+    "name": "تورنيدو ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -194,7 +194,7 @@
   {
     "asin": "B01LSOACNG",
     "brand": "فريش",
-    "name": "فريش 25 لتر رقمي",
+    "name": "ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "type": "رقمي"
@@ -217,7 +217,7 @@
   {
     "asin": "B093FT4SHL",
     "brand": "فريش",
-    "name": "فريش 20 لتر 700 وات",
+    "name": "ميكروويف 20لتر 700وات",
     "specs": {
       "cap": "20",
       "watt": "700"
@@ -240,7 +240,7 @@
   {
     "asin": "B01LSOAE1Q",
     "brand": "فريش",
-    "name": "فريش 25 لتر جريل",
+    "name": "ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "type": "جريل"
@@ -263,7 +263,7 @@
   {
     "asin": "B0FY69JDQ9",
     "brand": "ميديا",
-    "name": "ميديا 36 لتر 1200 وات (EM36PFI)",
+    "name": "توشيبا ميكروويف 36لتر 1200وات",
     "specs": {
       "cap": "36",
       "watt": "1200"
@@ -286,7 +286,7 @@
   {
     "asin": "B0F2HZKCFK",
     "brand": "إل جي",
-    "name": "إل جي 42 لتر جريل",
+    "name": "إل جي ميكروويف 42لتر",
     "specs": {
       "cap": "42",
       "type": "جريل"
@@ -309,7 +309,7 @@
   {
     "asin": "B083XV57QN",
     "brand": "إل جي",
-    "name": "إل جي 20 لتر (MS2042DB)",
+    "name": "إل جي ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -331,7 +331,7 @@
   {
     "asin": "B01LSO90E8",
     "brand": "فريش",
-    "name": "فريش 36 لتر",
+    "name": "فريش ميكروويف 36لتر",
     "specs": {
       "cap": "36"
     },
@@ -353,7 +353,7 @@
   {
     "asin": "B0FY2YDSQY",
     "brand": "أورايمو",
-    "name": "Oraimo Infiwave Lite Low Noise Operation Microwave Oven OMO-221A",
+    "name": "أورايمو ميكروويف",
     "specs": {},
     "model": "",
     "title": "Oraimo Infiwave Lite Low Noise Operation Microwave Oven OMO-221A",
@@ -374,7 +374,7 @@
   {
     "asin": "B0CX5Z9V2D",
     "brand": "JACQUES",
-    "name": "JACQUES 20 لتر",
+    "name": "JACQUES ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -396,7 +396,7 @@
   {
     "asin": "B0DNFJ6L7B",
     "brand": "ATA",
-    "name": "ATA 20 لتر (MW20LN002-)",
+    "name": "ATA ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -418,7 +418,7 @@
   {
     "asin": "B0G6X1KSN6",
     "brand": "ميديا",
-    "name": "ميديا 20 لتر (MM720C2VR)",
+    "name": "ميديا ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -440,7 +440,7 @@
   {
     "asin": "B0H2B58BK6",
     "brand": "سوكاني",
-    "name": "سوكاني 20 لتر 1100 وات",
+    "name": "سوكاني ميكروويف 20لتر 1100وات",
     "specs": {
       "cap": "20",
       "watt": "1100"
@@ -463,7 +463,7 @@
   {
     "asin": "B076KRCX3W",
     "brand": "كينوود",
-    "name": "كينوود 42 لتر 2500 وات جريل (MWL426)",
+    "name": "كينوود ميكروويف 42لتر جريل",
     "specs": {
       "cap": "42",
       "watt": "2500",
@@ -487,7 +487,7 @@
   {
     "asin": "B0HGRMVJ9C",
     "brand": "أريون",
-    "name": "أريون 25 لتر 1320 وات",
+    "name": "أريون ميكروويف 25لتر 1320وات",
     "specs": {
       "cap": "25",
       "watt": "1320"
@@ -510,7 +510,7 @@
   {
     "asin": "B0CQYWLVKJ",
     "brand": "سوكاني",
-    "name": "سوكاني 20 لتر 1280 وات",
+    "name": "سوكاني ميكروويف 20لتر 1280وات",
     "specs": {
       "cap": "20",
       "watt": "1280"
@@ -533,7 +533,7 @@
   {
     "asin": "B091P6LJJN",
     "brand": "Castle",
-    "name": "Castle 20 لتر (BLACK)",
+    "name": "Castle ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -555,7 +555,7 @@
   {
     "asin": "B0DNFQQLZ9",
     "brand": "ATA",
-    "name": "ATA 25 لتر 1400 وات جريل (MW25LG003)",
+    "name": "ATA ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "1400",
@@ -579,7 +579,7 @@
   {
     "asin": "B0GD7XWJKS",
     "brand": "سيلفر",
-    "name": "سيلفر 25 لتر 850 وات",
+    "name": "ميكروويف 25لتر 850وات",
     "specs": {
       "cap": "25",
       "watt": "850"
@@ -602,7 +602,7 @@
   {
     "asin": "B0FY3G89GQ",
     "brand": "سيلفر",
-    "name": "سيلفر 25 لتر",
+    "name": "ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -626,7 +626,7 @@
   {
     "asin": "B09KVGFX85",
     "brand": "JAC",
-    "name": "JAC 25 لتر جريل",
+    "name": "JAC ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "type": "جريل"
@@ -649,7 +649,7 @@
   {
     "asin": "B0FY33YNG1",
     "brand": "أورايمو",
-    "name": "أورايمو 23 لتر تاتش (OMO-521A)",
+    "name": "أورايمو ميكروويف 23لتر تاتش",
     "specs": {
       "cap": "23",
       "type": "تاتش"
@@ -672,7 +672,7 @@
   {
     "asin": "B0BD28SYRD",
     "brand": "Galanz",
-    "name": "Galanz 25 لتر 900 وات (D90D25AP-)",
+    "name": "Galanz ميكروويف 25لتر 900وات",
     "specs": {
       "cap": "25",
       "watt": "900"
@@ -695,7 +695,7 @@
   {
     "asin": "B096QWF5RX",
     "brand": "JAC",
-    "name": "JAC 25 لتر رقمي",
+    "name": "JAC ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "type": "رقمي"
@@ -718,7 +718,7 @@
   {
     "asin": "B0BMVQKG33",
     "brand": "أكاي",
-    "name": "أكاي 30 لتر 900 وات جريل (M30DS)",
+    "name": "أكاي ميكروويف 30لتر جريل",
     "specs": {
       "cap": "30",
       "watt": "900",
@@ -742,7 +742,7 @@
   {
     "asin": "B01LQ92XEO",
     "brand": "فريش",
-    "name": "فريش 28 لتر",
+    "name": "فريش ميكروويف 28لتر",
     "specs": {
       "cap": "28"
     },
@@ -764,7 +764,7 @@
   {
     "asin": "B0DS927P6Q",
     "brand": "EGA",
-    "name": "EGA 25 لتر 900 وات رقمي",
+    "name": "EGA ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -788,7 +788,7 @@
   {
     "asin": "B0FRHXWHFW",
     "brand": "Hervy",
-    "name": "Hervy 30 لتر 950 وات رقمي",
+    "name": "Hervy ميكروويف 30لتر رقمي",
     "specs": {
       "cap": "30",
       "watt": "950",
@@ -812,7 +812,7 @@
   {
     "asin": "B092DNJDV3",
     "brand": "كينوود",
-    "name": "كينوود 800 وات (MWM21)",
+    "name": "كينوود ميكروويف 800وات",
     "specs": {
       "watt": "800"
     },
@@ -834,7 +834,7 @@
   {
     "asin": "B0HGSB78XR",
     "brand": "أريون",
-    "name": "أريون 25 لتر 1320 وات جريل",
+    "name": "أريون ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "1320",
@@ -858,7 +858,7 @@
   {
     "asin": "B0976GJGLR",
     "brand": "Galanz",
-    "name": "Galanz 25 لتر 900 وات جريل (D90D25AP-)",
+    "name": "Galanz ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -882,7 +882,7 @@
   {
     "asin": "B0C28TRVMN",
     "brand": "سوكاني",
-    "name": "سوكاني 30 لتر 1440 وات",
+    "name": "سوكاني ميكروويف 30لتر 1440وات",
     "specs": {
       "cap": "30",
       "watt": "1440"
@@ -905,7 +905,7 @@
   {
     "asin": "B08Z8G1QY3",
     "brand": "كينوود",
-    "name": "كينوود 22 لتر (MWM22)",
+    "name": "كينوود ميكروويف 22لتر",
     "specs": {
       "cap": "22"
     },
@@ -927,7 +927,7 @@
   {
     "asin": "B0HGRKTLWY",
     "brand": "أريون",
-    "name": "أريون 30 لتر 1520 وات جريل",
+    "name": "أريون ميكروويف 30لتر جريل",
     "specs": {
       "cap": "30",
       "watt": "1520",
@@ -951,7 +951,7 @@
   {
     "asin": "B0BH4Q1ZYV",
     "brand": "أكاي",
-    "name": "أكاي 25 لتر رقمي",
+    "name": "أكاي ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "type": "رقمي"
@@ -974,7 +974,7 @@
   {
     "asin": "B0HR6MFP98",
     "brand": "BLACK",
-    "name": "BLACK 25 لتر 1320 وات رقمي",
+    "name": "ميكروويف 25لتر رقمي 1320وات",
     "specs": {
       "cap": "25",
       "watt": "1320",
@@ -998,7 +998,7 @@
   {
     "asin": "B09GNWPH6D",
     "brand": "NGM300m2",
-    "name": "NGM300m2 34 لتر جريل (NGM300M2)",
+    "name": "NGM300m2 ميكروويف 34لتر جريل",
     "specs": {
       "cap": "34",
       "type": "جريل"
@@ -1021,7 +1021,7 @@
   {
     "asin": "B08WJJK2HP",
     "brand": "Castle",
-    "name": "Castle 30 لتر جريل",
+    "name": "Castle ميكروويف 30لتر جريل",
     "specs": {
       "cap": "30",
       "type": "جريل"
@@ -1044,7 +1044,7 @@
   {
     "asin": "B0FJ69ZHYS",
     "brand": "Tesla",
-    "name": "Tesla 34 لتر رقمي (MW200)",
+    "name": "Tesla ميكروويف 34لتر رقمي",
     "specs": {
       "cap": "34",
       "type": "رقمي"
@@ -1067,7 +1067,7 @@
   {
     "asin": "B09KVHYVK4",
     "brand": "JAC",
-    "name": "JAC 43 لتر رقمي",
+    "name": "JAC ميكروويف 43لتر رقمي",
     "specs": {
       "cap": "43",
       "type": "رقمي"
@@ -1090,7 +1090,7 @@
   {
     "asin": "B01LQ91UAW",
     "brand": "فريش",
-    "name": "فريش 25 لتر 900 وات",
+    "name": "فريش ميكروويف 25لتر 900وات",
     "specs": {
       "cap": "25",
       "watt": "900"
@@ -1113,7 +1113,7 @@
   {
     "asin": "B010JCJ38S",
     "brand": "تورنيدو",
-    "name": "تورنيدو 25 لتر 900 وات رقمي",
+    "name": "تورنيدو ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -1137,7 +1137,7 @@
   {
     "asin": "B0FJ6CR5WH",
     "brand": "Tesla",
-    "name": "Tesla 34 لتر (MW100)",
+    "name": "Tesla ميكروويف 34لتر",
     "specs": {
       "cap": "34"
     },
@@ -1159,7 +1159,7 @@
   {
     "asin": "B0119KU17G",
     "brand": "JAC",
-    "name": "JAC 34 لتر",
+    "name": "JAC ميكروويف 34لتر",
     "specs": {
       "cap": "34"
     },
@@ -1181,7 +1181,7 @@
   {
     "asin": "B0HR67VVQP",
     "brand": "BLACK",
-    "name": "BLACK 30 لتر 1440 وات رقمي",
+    "name": "ميكروويف 30لتر رقمي 1440وات",
     "specs": {
       "cap": "30",
       "watt": "1440",
@@ -1205,7 +1205,7 @@
   {
     "asin": "B09692VSW8",
     "brand": "Ssmart",
-    "name": "Ssmart 30 لتر جريل",
+    "name": "Ssmart ميكروويف 30لتر جريل",
     "specs": {
       "cap": "30",
       "type": "جريل"
@@ -1228,7 +1228,7 @@
   {
     "asin": "B08Z8DFFGF",
     "brand": "كينوود",
-    "name": "كينوود 25 لتر 800 وات جريل (MWM25)",
+    "name": "كينوود ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "800",
@@ -1252,7 +1252,7 @@
   {
     "asin": "B0HR6Q8PN8",
     "brand": "BLACK",
-    "name": "BLACK 34 لتر 1500 وات رقمي",
+    "name": "ميكروويف 34لتر رقمي 1500وات",
     "specs": {
       "cap": "34",
       "watt": "1500",
@@ -1276,7 +1276,7 @@
   {
     "asin": "B01LQ8YKR8",
     "brand": "فريش",
-    "name": "فريش 42 لتر رقمي",
+    "name": "فريش ميكروويف 42لتر رقمي",
     "specs": {
       "cap": "42",
       "type": "رقمي"
@@ -1299,7 +1299,7 @@
   {
     "asin": "B0BLFCG7B7",
     "brand": "زانوسي",
-    "name": "زانوسي 25 لتر جريل (ZMG25D59EB)",
+    "name": "زانوسي ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "type": "جريل"
@@ -1324,7 +1324,7 @@
   {
     "asin": "B0BN6VTFRF",
     "brand": "زانوسي",
-    "name": "زانوسي 20 لتر رقمي (ZMM20D38GB)",
+    "name": "زانوسي ميكروويف 20لتر رقمي",
     "specs": {
       "cap": "20",
       "type": "رقمي"
@@ -1347,7 +1347,7 @@
   {
     "asin": "B08Z8BZD4R",
     "brand": "كينوود",
-    "name": "كينوود 30 لتر 1000 وات جريل (MWM30)",
+    "name": "كينوود ميكروويف 30لتر جريل",
     "specs": {
       "cap": "30",
       "watt": "1000",
@@ -1373,7 +1373,7 @@
   {
     "asin": "B0FLWXLS2F",
     "brand": "Tesla",
-    "name": "Tesla 34 لتر 1560 وات رقمي (MW100)",
+    "name": "Tesla ميكروويف 34لتر رقمي",
     "specs": {
       "cap": "34",
       "watt": "1560",
@@ -1397,7 +1397,7 @@
   {
     "asin": "B0G1ZD611B",
     "brand": "IDO",
-    "name": "IDO 42 لتر 1560 وات رقمي (MW42NG-BK)",
+    "name": "IDO ميكروويف 42لتر رقمي",
     "specs": {
       "cap": "42",
       "watt": "1560",
@@ -1421,7 +1421,7 @@
   {
     "asin": "B01LQ8YOU6",
     "brand": "فريش",
-    "name": "فريش 42 لتر جريل",
+    "name": "فريش ميكروويف 42لتر جريل",
     "specs": {
       "cap": "42",
       "type": "جريل"
@@ -1444,7 +1444,7 @@
   {
     "asin": "B091JDR9PB",
     "brand": "شارب",
-    "name": "شارب 25 لتر جريل",
+    "name": "شارب ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "type": "جريل"
@@ -1467,7 +1467,7 @@
   {
     "asin": "B0DDQGHWMQ",
     "brand": "شاومي",
-    "name": "Xiaomi Microwave Oven EU",
+    "name": "شاومي ميكروويف",
     "specs": {},
     "model": "",
     "title": "Xiaomi Microwave Oven EU",
@@ -1487,7 +1487,7 @@
   {
     "asin": "B0HR6KXRHL",
     "brand": "BLACK",
-    "name": "BLACK 42 لتر 1600 وات جريل",
+    "name": "ميكروويف 42لتر جريل 1600وات",
     "specs": {
       "cap": "42",
       "watt": "1600",
@@ -1511,7 +1511,7 @@
   {
     "asin": "B08X5Y7PR6",
     "brand": "تورنيدو",
-    "name": "تورنيدو 25 لتر 900 وات جريل (C25BBE-S)",
+    "name": "تورنيدو ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -1537,7 +1537,7 @@
   {
     "asin": "B01LQ93HYY",
     "brand": "فريش",
-    "name": "فريش 42 لتر",
+    "name": "فريش ميكروويف 42لتر",
     "specs": {
       "cap": "42"
     },
@@ -1559,7 +1559,7 @@
   {
     "asin": "B08YY2Y5SJ",
     "brand": "سيلفر",
-    "name": "سيلفر 20 لتر 800 وات",
+    "name": "ميكروويف 20لتر 800وات",
     "specs": {
       "cap": "20",
       "watt": "800"
@@ -1582,7 +1582,7 @@
   {
     "asin": "B01LVVZ2FF",
     "brand": "فريش",
-    "name": "فريش 42 لتر جريل",
+    "name": "فريش ميكروويف 42لتر جريل",
     "specs": {
       "cap": "42",
       "type": "جريل"
@@ -1605,7 +1605,7 @@
   {
     "asin": "B07FSSWLYH",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 20 لتر (MZ2020P-B5)",
+    "name": "بلاك ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -1627,7 +1627,7 @@
   {
     "asin": "B0781YMHCV",
     "brand": "شارب",
-    "name": "Sharp microwave oven - 562ctst - international warranty",
+    "name": "شارب ميكروويف",
     "specs": {},
     "model": "",
     "title": "Sharp microwave oven - 562ctst - international warranty",
@@ -1647,7 +1647,7 @@
   {
     "asin": "B0913BW7WG",
     "brand": "كينوود",
-    "name": "كينوود 42 لتر 1100 وات جريل (MWM42)",
+    "name": "كينوود ميكروويف 42لتر جريل",
     "specs": {
       "cap": "42",
       "watt": "1100",
@@ -1673,7 +1673,7 @@
   {
     "asin": "B0D2P7KFG7",
     "brand": "سامسونج",
-    "name": "سامسونج 40 لتر جريل",
+    "name": "سامسونج ميكروويف 40لتر جريل",
     "specs": {
       "cap": "40",
       "type": "جريل"
@@ -1698,7 +1698,7 @@
   {
     "asin": "B0D1SBJDFZ",
     "brand": "سامسونج",
-    "name": "سامسونج 40 لتر",
+    "name": "سامسونج ميكروويف 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -1720,7 +1720,7 @@
   {
     "asin": "B0B75CGN37",
     "brand": "بوش",
-    "name": "بوش 20 لتر (FEL023MS1)",
+    "name": "بوش ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -1742,7 +1742,7 @@
   {
     "asin": "B0B1YRH6G5",
     "brand": "إل جي",
-    "name": "إل جي 42 لتر جريل (MH8265CIS)",
+    "name": "إل جي ميكروويف 42لتر",
     "specs": {
       "cap": "42",
       "type": "جريل"
@@ -1765,7 +1765,7 @@
   {
     "asin": "B0CPQYVMXN",
     "brand": "Gorenje",
-    "name": "Gorenje 23 لتر 900 وات جريل (BM235ORAB)",
+    "name": "Gorenje ميكروويف 23لتر جريل",
     "specs": {
       "cap": "23",
       "watt": "900",
@@ -1789,7 +1789,7 @@
   {
     "asin": "B07PKFNSBL",
     "brand": "Gorenje",
-    "name": "Gorenje 30 لتر 900 وات جريل (BM5350X)",
+    "name": "Gorenje ميكروويف 30لتر جريل",
     "specs": {
       "cap": "30",
       "watt": "900",
@@ -1813,7 +1813,7 @@
   {
     "asin": "B0GWRB5FGF",
     "brand": "Ocean",
-    "name": "Ocean 44 لتر 1750 وات جريل (MWOI449TCGB)",
+    "name": "Ocean ميكروويف 44لتر جريل",
     "specs": {
       "cap": "44",
       "watt": "1750",
@@ -1837,7 +1837,7 @@
   {
     "asin": "B0GQP3N8LH",
     "brand": "سيمنز",
-    "name": "سيمنز 25 لتر جريل (IQ500)",
+    "name": "سيمنز ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "type": "جريل"
@@ -1860,7 +1860,7 @@
   {
     "asin": "B0FY3HMNKP",
     "brand": "فريش",
-    "name": "فريش 25 لتر رقمي",
+    "name": "فريش ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "type": "رقمي"
@@ -1883,7 +1883,7 @@
   {
     "asin": "B0H971ZP4L",
     "brand": "فريش",
-    "name": "فريش 20 لتر 700 وات",
+    "name": "فريش ميكروويف 20لتر 700وات",
     "specs": {
       "cap": "20",
       "watt": "700"
@@ -1906,7 +1906,7 @@
   {
     "asin": "B0DNN26TN1",
     "brand": "سيلفر",
-    "name": "سيلفر 25 لتر 900 وات جريل",
+    "name": "ميكروويف 25لتر جريل 900وات",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -1932,7 +1932,7 @@
   {
     "asin": "B0FY3JCNH4",
     "brand": "فريش",
-    "name": "فريش 25 لتر جريل",
+    "name": "فريش ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "type": "جريل"
@@ -1955,7 +1955,7 @@
   {
     "asin": "B0119JLVNU",
     "brand": "Jac",
-    "name": "Jac 20 لتر",
+    "name": "Jac ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -1977,7 +1977,7 @@
   {
     "asin": "B0FMQD7D7R",
     "brand": "توشيبا",
-    "name": "توشيبا 45 لتر (EM45PFI)",
+    "name": "توشيبا ميكروويف 45لتر",
     "specs": {
       "cap": "45"
     },
@@ -1999,7 +1999,7 @@
   {
     "asin": "B01LQ92QAU",
     "brand": "فريش",
-    "name": "فريش 28 لتر",
+    "name": "فريش ميكروويف 28لتر",
     "specs": {
       "cap": "28"
     },
@@ -2021,7 +2021,7 @@
   {
     "asin": "B0B8F2CMHB",
     "brand": "فريش",
-    "name": "فريش 20 لتر",
+    "name": "فريش ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -2043,7 +2043,7 @@
   {
     "asin": "B0CGV6WRKR",
     "brand": "سيلفر",
-    "name": "سيلفر 25 لتر",
+    "name": "ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2067,7 +2067,7 @@
   {
     "asin": "B097F3LZS2",
     "brand": "Jac",
-    "name": "Jac 25 لتر",
+    "name": "Jac ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2091,7 +2091,7 @@
   {
     "asin": "B0FWKMFHLB",
     "brand": "HELLER",
-    "name": "HELLER 25 لتر 900 وات جريل",
+    "name": "HELLER ميكروويف 25لتر جريل",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -2117,7 +2117,7 @@
   {
     "asin": "B07PJCZXJL",
     "brand": "شارب",
-    "name": "شارب 34 لتر",
+    "name": "شارب ميكروويف 34لتر",
     "specs": {
       "cap": "34"
     },
@@ -2139,7 +2139,7 @@
   {
     "asin": "B098PGD6PY",
     "brand": "فريش",
-    "name": "فريش 36 لتر جريل",
+    "name": "فريش ميكروويف 36لتر جريل",
     "specs": {
       "cap": "36",
       "type": "جريل"
@@ -2162,7 +2162,7 @@
   {
     "asin": "B0GJMWKTTW",
     "brand": "HELLER",
-    "name": "HELLER 34 لتر 1000 وات رقمي",
+    "name": "HELLER ميكروويف 34لتر رقمي",
     "specs": {
       "cap": "34",
       "watt": "1000",
@@ -2186,7 +2186,7 @@
   {
     "asin": "B0HR6GQG8P",
     "brand": "BLACK",
-    "name": "BLACK 20 لتر 1100 وات",
+    "name": "ميكروويف 20لتر 1100وات",
     "specs": {
       "cap": "20",
       "watt": "1100"
@@ -2209,7 +2209,7 @@
   {
     "asin": "B0CKRKGB13",
     "brand": "أكاي",
-    "name": "أكاي 25 لتر رقمي",
+    "name": "أكاي ميكروويف 25لتر رقمي",
     "specs": {
       "cap": "25",
       "type": "رقمي"
@@ -2232,7 +2232,7 @@
   {
     "asin": "B0DHW42QRG",
     "brand": "Castle",
-    "name": "Castle 25 لتر 900 وات (MW8025)",
+    "name": "Castle ميكروويف 25لتر 900وات",
     "specs": {
       "cap": "25",
       "watt": "900"
@@ -2255,7 +2255,7 @@
   {
     "asin": "B0C8P8DDH9",
     "brand": "Castle",
-    "name": "Castle 25 لتر",
+    "name": "Castle ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2277,7 +2277,7 @@
   {
     "asin": "B07YBJ2DWC",
     "brand": "جيباس",
-    "name": "جيباس 45 لتر 1500 وات رقمي (GMO1898)",
+    "name": "جيباس ميكروويف 45لتر رقمي",
     "specs": {
       "cap": "45",
       "watt": "1500",
@@ -2301,7 +2301,7 @@
   {
     "asin": "B07N14HKH3",
     "brand": "إل جي",
-    "name": "إل جي 25 لتر (MS2535GIS)",
+    "name": "إل جي ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2323,7 +2323,7 @@
   {
     "asin": "B0B8F337TY",
     "brand": "فريش",
-    "name": "فريش 28 لتر جريل",
+    "name": "فريش ميكروويف 28لتر جريل",
     "specs": {
       "cap": "28",
       "type": "جريل"
@@ -2346,7 +2346,7 @@
   {
     "asin": "B09TBH2W9V",
     "brand": "أكاي",
-    "name": "أكاي 25 لتر",
+    "name": "أكاي ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2368,7 +2368,7 @@
   {
     "asin": "B0DRLJ5QCB",
     "brand": "ATA",
-    "name": "ATA 20 لتر 1200 وات (MW20LN002)",
+    "name": "ATA ميكروويف 20لتر 1200وات",
     "specs": {
       "cap": "20",
       "watt": "1200"
@@ -2391,7 +2391,7 @@
   {
     "asin": "B091HLB8HN",
     "brand": "Castel",
-    "name": "Castel 25 لتر (BLACK)",
+    "name": "Castel ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2413,7 +2413,7 @@
   {
     "asin": "B0H6FGKLJR",
     "brand": "Winning",
-    "name": "Winning 20 لتر",
+    "name": "Winning ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -2435,7 +2435,7 @@
   {
     "asin": "B0F26MT6HH",
     "brand": "إل جي",
-    "name": "إل جي 42 لتر جريل (MH8295CIS)",
+    "name": "إل جي ميكروويف 42لتر",
     "specs": {
       "cap": "42",
       "type": "جريل"
@@ -2458,7 +2458,7 @@
   {
     "asin": "B0CGV7HX8M",
     "brand": "فريش",
-    "name": "فريش 25 لتر",
+    "name": "فريش ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2480,7 +2480,7 @@
   {
     "asin": "B0DNFMF218",
     "brand": "غير محدد",
-    "name": "ATA Microwave 20 Liter Capacity- Digital- 1200W, 220-240V, Silver Black",
+    "name": "ميكروويف 20لتر رقمي 1200وات",
     "specs": {
       "cap": "20",
       "watt": "1200",
@@ -2504,7 +2504,7 @@
   {
     "asin": "B0856WTFXH",
     "brand": "غير محدد",
-    "name": "Jac NGM-43M3-S Digital Microwave with Grill, 1500 Watt, 43 Liter - Silver",
+    "name": "ميكروويف 43لتر جريل 1500وات",
     "specs": {
       "cap": "43",
       "watt": "1500",
@@ -2528,7 +2528,7 @@
   {
     "asin": "B0FWKJWHBD",
     "brand": "غير محدد",
-    "name": "HELLER Built-In Microwave With Grill Digital Capacity 25 Liter 900 Watt 8 Menus, 5 Levels Power, Multi Co",
+    "name": "ميكروويف 25لتر جريل 900وات",
     "specs": {
       "cap": "25",
       "watt": "900",
@@ -2552,7 +2552,7 @@
   {
     "asin": "B08ZNVD86B",
     "brand": "غير محدد",
-    "name": "Galanz Microwave 20 Litre 700 Watt, Silver P70H20AP-ST",
+    "name": "ميكروويف 20لتر 700وات",
     "specs": {
       "cap": "20",
       "watt": "700"
@@ -2575,7 +2575,7 @@
   {
     "asin": "B0CHFTPM8W",
     "brand": "غير محدد",
-    "name": "Jack Microwave 20L Black Manual Fast Heating",
+    "name": "Jack ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -2597,7 +2597,7 @@
   {
     "asin": "B09KVH2GNC",
     "brand": "JAC",
-    "name": "JAC 25 لتر",
+    "name": "Jack ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -2619,7 +2619,7 @@
   {
     "asin": "B0DQ5JBRV1",
     "brand": "غير محدد",
-    "name": "ميكروويف جاك 20 لتر يدوي تسخين سريع لون اسود",
+    "name": "ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -2641,7 +2641,7 @@
   {
     "asin": "B0C2JSNJ7P",
     "brand": "زانوسي",
-    "name": "زانوسي 23 لتر 800 وات جريل (ZMG23K38GB)",
+    "name": "زانوسي ميكروويف 23لتر جريل",
     "specs": {
       "cap": "23",
       "watt": "800",
@@ -2665,7 +2665,7 @@
   {
     "asin": "B0BJYNMGBF",
     "brand": "زانوسي",
-    "name": "زانوسي 23 لتر جريل (ZMG23K38GB)",
+    "name": "زانوسي ميكروويف 23لتر جريل",
     "specs": {
       "cap": "23",
       "type": "جريل"
@@ -2688,7 +2688,7 @@
   {
     "asin": "B0BJ4YG7BB",
     "brand": "زانوسي",
-    "name": "زانوسي 23 لتر تاتش (ZMM23M38GB)",
+    "name": "زانوسي ميكروويف 23لتر تاتش",
     "specs": {
       "cap": "23",
       "type": "تاتش"
@@ -2711,7 +2711,7 @@
   {
     "asin": "B0BDMRF8FW",
     "brand": "سامسونج",
-    "name": "سامسونج 20 لتر",
+    "name": "سامسونج ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -2733,7 +2733,7 @@
   {
     "asin": "B0CHJW69FG",
     "brand": "غير محدد",
-    "name": "Home International Microwave 34 liter with grill 1300 W AU4052",
+    "name": "ميكروويف 34لتر جريل 1300وات",
     "specs": {
       "cap": "34",
       "watt": "1300",
@@ -2757,7 +2757,7 @@
   {
     "asin": "B01N63P2JK",
     "brand": "غير محدد",
-    "name": "CASO MCG30 Ceramic Chef 3in1 microwave with grill + hot air 2100W 30L, borosilicate glass base, grill rac",
+    "name": "ميكروويف 30لتر جريل 2100وات",
     "specs": {
       "cap": "30",
       "watt": "2100",
@@ -2781,7 +2781,7 @@
   {
     "asin": "B0GJMTTPXG",
     "brand": "غير محدد",
-    "name": "HELLER Built-In Microwave With Gril Digital 34 Liter 1000 Watt 10 Menus, 5 Power Levels, Fan Convection, ",
+    "name": "ميكروويف 34لتر رقمي 1000وات",
     "specs": {
       "cap": "34",
       "watt": "1000",
@@ -2805,7 +2805,7 @@
   {
     "asin": "B0BD2BN6W9",
     "brand": "غير محدد",
-    "name": "Galanz Microwave 25 Litre 900 Watt, Silver D90D25AP-H7",
+    "name": "ميكروويف 25لتر 900وات",
     "specs": {
       "cap": "25",
       "watt": "900"
@@ -2828,7 +2828,7 @@
   {
     "asin": "B096931V96",
     "brand": "غير محدد",
-    "name": "Ssmart Silver Touch Microwave Oven, 25 L",
+    "name": "ميكروويف 25لتر تاتش",
     "specs": {
       "cap": "25",
       "type": "تاتش"
@@ -2851,7 +2851,7 @@
   {
     "asin": "B0HJT7S5PF",
     "brand": "غير محدد",
-    "name": "ميكروويف جاك 20 لتر اسود | بكر وليس تاتش",
+    "name": "ميكروويف 20لتر تاتش",
     "specs": {
       "cap": "20",
       "type": "تاتش"
@@ -2874,7 +2874,7 @@
   {
     "asin": "B0H586M5G2",
     "brand": "Homagator",
-    "name": "Homagator 25 لتر 900 وات",
+    "name": "Winning ميكروويف 25لتر 900وات",
     "specs": {
       "cap": "25",
       "watt": "900"
@@ -2897,7 +2897,7 @@
   {
     "asin": "B08WJPWY2H",
     "brand": "غير محدد",
-    "name": "Castle MW6143 Digital Microwave With Grill, 43 Liters - Silver",
+    "name": "ميكروويف 43لتر جريل",
     "specs": {
       "cap": "43",
       "type": "جريل"
@@ -2920,7 +2920,7 @@
   {
     "asin": "B0C6666XMJ",
     "brand": "Zada",
-    "name": "Zada تاتش",
+    "name": "Zada ميكروويف تاتش",
     "specs": {
       "type": "تاتش"
     },
@@ -2944,7 +2944,7 @@
   {
     "asin": "B0BBBQWHK1",
     "brand": "غير محدد",
-    "name": "Microwave Jack (20L Black)",
+    "name": "ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -2966,7 +2966,7 @@
   {
     "asin": "B0DST9BTT9",
     "brand": "carnival",
-    "name": "carnival 20 لتر",
+    "name": "ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -2988,7 +2988,7 @@
   {
     "asin": "B0HS8KGR26",
     "brand": "غير محدد",
-    "name": "ميكروويف جاك سيلفر سعة 25 لتر",
+    "name": "ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -3010,7 +3010,7 @@
   {
     "asin": "B0HM2PVHZH",
     "brand": "غير محدد",
-    "name": "Microwave 25L NN-ST34NB W 5 Power Levels 10 Auto Menus Black",
+    "name": "ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -3032,7 +3032,7 @@
   {
     "asin": "B0923KHXVY",
     "brand": "JAC",
-    "name": "JAC NGM-2001 Microwave",
+    "name": "JAC ميكروويف",
     "specs": {},
     "model": "",
     "title": "JAC NGM-2001 Microwave",
@@ -3052,7 +3052,7 @@
   {
     "asin": "B003B1ZRV2",
     "brand": "Bomann",
-    "name": "Bomann MWG2216 H EB Microwave Oven",
+    "name": "Bomann ميكروويف",
     "specs": {},
     "model": "MWG2216",
     "title": "Bomann MWG2216 H EB Microwave Oven",
@@ -3072,7 +3072,7 @@
   {
     "asin": "B0B6151VMH",
     "brand": "Menaka",
-    "name": "2 Tier Microwave Oven Rack, Baker's Storage Shelf for Desk Countertop, Home Office Desk Printer Shelf, Fr",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "2 Tier Microwave Oven Rack, Baker's Storage Shelf for Desk Countertop, Home Office Desk Printer Shelf, Freestanding Metal Shelf with",
@@ -3092,7 +3092,7 @@
   {
     "asin": "B0DXC8P6QP",
     "brand": "HOMBENE",
-    "name": "HOMBENE 3.3 QT Ceramic Baking Dish, White Casserole Dish,Lasagna Pan for Oven, Bakeware for Baking, Kitch",
+    "name": "HOMBENE ميكروويف",
     "specs": {},
     "model": "",
     "title": "HOMBENE 3.3 QT Ceramic Baking Dish, White Casserole Dish,Lasagna Pan for Oven, Bakeware for Baking, Kitchen Decor, Microwave Oven Safe, Dinner Party (8.7\" x 11.8\")",
@@ -3112,7 +3112,7 @@
   {
     "asin": "B08B85RGT1",
     "brand": "YORKING",
-    "name": "YORKING 2 Tier Microwave Oven Storage Rack Stainless Steel Microwave Shelf Expandable Countertop Stand Sh",
+    "name": "YORKING ميكروويف",
     "specs": {},
     "model": "",
     "title": "YORKING 2 Tier Microwave Oven Storage Rack Stainless Steel Microwave Shelf Expandable Countertop Stand Shelf with 4 Hooks Kitchen Stand Organiser Countertop Space Saver",
@@ -3132,7 +3132,7 @@
   {
     "asin": "B01M5I5BBJ",
     "brand": "Discount Seller",
-    "name": "Discount Seller Stainless Steel Extendable Chrome 2 Shelf Microwave Oven Storage Rack with Hanging Hooks",
+    "name": "Discount ميكروويف",
     "specs": {},
     "model": "",
     "title": "Discount Seller Stainless Steel Extendable Chrome 2 Shelf Microwave Oven Storage Rack with Hanging Hooks",
@@ -3152,7 +3152,7 @@
   {
     "asin": "B093YCBY2Y",
     "brand": "RYELDOM",
-    "name": "RYELDOM 27 cm glass dish for microwave ovens suitable for various brands and models",
+    "name": "RYELDOM ميكروويف",
     "specs": {},
     "model": "",
     "title": "RYELDOM 27 cm glass dish for microwave ovens suitable for various brands and models",
@@ -3172,7 +3172,7 @@
   {
     "asin": "B0H352266N",
     "brand": "غير محدد",
-    "name": "1pc Pocket Design Microwave Cover, Waterproof, Dustproof and Stainproof 85 * 35cm",
+    "name": "1pc ميكروويف",
     "specs": {},
     "model": "",
     "title": "1pc Pocket Design Microwave Cover, Waterproof, Dustproof and Stainproof 85 * 35cm",
@@ -3192,7 +3192,7 @@
   {
     "asin": "B0CJ7YJV3H",
     "brand": "فريش",
-    "name": "فريش 20 لتر 700 وات",
+    "name": "فريش ميكروويف 20لتر 700وات",
     "specs": {
       "cap": "20",
       "watt": "700"
@@ -3215,7 +3215,7 @@
   {
     "asin": "B094HJS4PX",
     "brand": "فريش",
-    "name": "فريش 20 لتر 700 وات",
+    "name": "فريش ميكروويف 20لتر 700وات",
     "specs": {
       "cap": "20",
       "watt": "700"
@@ -3238,7 +3238,7 @@
   {
     "asin": "B01LQ92EUW",
     "brand": "فريش",
-    "name": "فريش 25 لتر",
+    "name": "فريش ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -3260,7 +3260,7 @@
   {
     "asin": "B08Z72X4VQ",
     "brand": "غير محدد",
-    "name": "Galanz 1000 W D10043Ap-Ym Digital Microwave with Grill, 43L (Silver)",
+    "name": "ميكروويف 43لتر جريل 1000وات",
     "specs": {
       "cap": "43",
       "watt": "1000",
@@ -3284,7 +3284,7 @@
   {
     "asin": "B0DFY7TZXN",
     "brand": "غير محدد",
-    "name": "Black & White Microwave 43L, Digital Screen, Grill, MW-430 DG",
+    "name": "ميكروويف 43لتر جريل",
     "specs": {
       "cap": "43",
       "type": "جريل"
@@ -3307,7 +3307,7 @@
   {
     "asin": "B0856SBDRV",
     "brand": "فريش",
-    "name": "فريش 20 لتر",
+    "name": "فريش ميكروويف 20لتر",
     "specs": {
       "cap": "20"
     },
@@ -3329,7 +3329,7 @@
   {
     "asin": "B0CL12Q851",
     "brand": "Gorenje",
-    "name": "Gorenje 23 لتر 900 وات جريل (BM235ORAB)",
+    "name": "Gorenje ميكروويف 23لتر جريل",
     "specs": {
       "cap": "23",
       "watt": "900",
@@ -3353,7 +3353,7 @@
   {
     "asin": "B099SF4QJZ",
     "brand": "Wolff Ingo",
-    "name": "Wolff, Ingo Coplanar Microwave Integrated Circuits",
+    "name": "Wolff ميكروويف",
     "specs": {},
     "model": "",
     "title": "Wolff, Ingo Coplanar Microwave Integrated Circuits",
@@ -3373,7 +3373,7 @@
   {
     "asin": "B09QK6HSJ7",
     "brand": "THE PACK",
-    "name": "THE PACK Microwave Boxes Meal Prep Containers, [10 Pack] Plastic Storage Food Containers with Lids, Dispo",
+    "name": "THE ميكروويف",
     "specs": {},
     "model": "",
     "title": "THE PACK Microwave Boxes Meal Prep Containers, [10 Pack] Plastic Storage Food Containers with Lids, Disposable Bento Box Reuse, Refrigerator Safe, Microwave, Dishwasher Safe (750ML- 26 OZ) (10)",
@@ -3393,7 +3393,7 @@
   {
     "asin": "B00UBVUBEI",
     "brand": "Ikea",
-    "name": "IKEA Microwave cover, pack of 1, gray",
+    "name": "IKEA ميكروويف",
     "specs": {},
     "model": "",
     "title": "IKEA Microwave cover, pack of 1, gray",
@@ -3413,7 +3413,7 @@
   {
     "asin": "B0C9JKND5K",
     "brand": "WINSTAR",
-    "name": "WINSTAR Metal Microwave Stand | Microwave & OTG Rack for Kitchen Counter | Double Platform for Extra Stor",
+    "name": "WINSTAR ميكروويف",
     "specs": {},
     "model": "",
     "title": "WINSTAR Metal Microwave Stand | Microwave & OTG Rack for Kitchen Counter | Double Platform for Extra Storage | Kitchen Oven Rack | Black (No Wheels, 1 Shelf)",
@@ -3433,7 +3433,7 @@
   {
     "asin": "B005IEOSJM",
     "brand": "Ikea",
-    "name": "IKEA ANSLUTA Microwave lid, Grey, 26 cm (10\")",
+    "name": "IKEA ميكروويف",
     "specs": {},
     "model": "",
     "title": "IKEA ANSLUTA Microwave lid, Grey, 26 cm (10\")",
@@ -3453,7 +3453,7 @@
   {
     "asin": "B097LXDF4J",
     "brand": "DLK",
-    "name": "DLK - Heat Resistant Multifunction Refrigerator Microwave Shelf - Plastic Refrigerator Shelf - Oven Organ",
+    "name": "DLK ميكروويف",
     "specs": {},
     "model": "",
     "title": "DLK - Heat Resistant Multifunction Refrigerator Microwave Shelf - Plastic Refrigerator Shelf - Oven Organizing Rack - Microwave Plate Stacker",
@@ -3473,7 +3473,7 @@
   {
     "asin": "B0HJHY2HYH",
     "brand": "غير محدد",
-    "name": "Eye Mask for Cold & Warm Compresses - Freezer & Microwave Use - Flexible Easy to Wear - Block Light and C",
+    "name": "Eye ميكروويف",
     "specs": {},
     "model": "",
     "title": "Eye Mask for Cold & Warm Compresses - Freezer & Microwave Use - Flexible Easy to Wear - Block Light and Covers Ear to Help Create a More Calming Environment - Suitable for Sleeping and Travel",
@@ -3493,7 +3493,7 @@
   {
     "asin": "8122430872",
     "brand": "New Age International Publisher",
-    "name": "Sisodia, M.L. Microwave and Radar Engineering",
+    "name": "Sisodia ميكروويف",
     "specs": {},
     "model": "",
     "title": "Sisodia, M.L. Microwave and Radar Engineering",
@@ -3513,7 +3513,7 @@
   {
     "asin": "B09B1MNMNH",
     "brand": "Chicco",
-    "name": "Chicco Microwave Sterilizer 0m+",
+    "name": "Chicco ميكروويف",
     "specs": {},
     "model": "",
     "title": "Chicco Microwave Sterilizer 0m+",
@@ -3533,7 +3533,7 @@
   {
     "asin": "B0HNM9PF9M",
     "brand": "غير محدد",
-    "name": "Generic Joy 3-compartment divided plate, made of food-safe plastic, Microwave and dishwasher safe, .nin",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Generic Joy 3-compartment divided plate, made of food-safe plastic, Microwave and dishwasher safe, .nin",
@@ -3553,7 +3553,7 @@
   {
     "asin": "B09KPYX7FR",
     "brand": "غير محدد",
-    "name": "asvendo ETI BZ-50 Smart Wall Mount Microwave/Oven Bracket - Silver, Electronic Switch, Push Button Actuat",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "asvendo ETI BZ-50 Smart Wall Mount Microwave/Oven Bracket - Silver, Electronic Switch, Push Button Actuator, OFF-NONE-ON Operation",
@@ -3573,7 +3573,7 @@
   {
     "asin": "B0918KCW41",
     "brand": "Peniogar",
-    "name": "BENYOGAR Microwave Rack 2-Tier Expandable Height Adjustable Countertop Oven with 3 Hooks Black Carbon Ste",
+    "name": "BENYOGAR ميكروويف",
     "specs": {},
     "model": "",
     "title": "BENYOGAR Microwave Rack 2-Tier Expandable Height Adjustable Countertop Oven with 3 Hooks Black Carbon Steel",
@@ -3593,7 +3593,7 @@
   {
     "asin": "B0H8LRCZB5",
     "brand": "غير محدد",
-    "name": "Silicone Foldable Microwave Popcorn Bowl, Red | Foldable And Storage,Microwave-friendly, Easy To Use, Inn",
+    "name": "Silicone ميكروويف",
     "specs": {},
     "model": "",
     "title": "Silicone Foldable Microwave Popcorn Bowl, Red | Foldable And Storage,Microwave-friendly, Easy To Use, Innovative Geometry Design, Reusable",
@@ -3613,7 +3613,7 @@
   {
     "asin": "B091DBZ567",
     "brand": "PRICKIG",
-    "name": "PRICKIG - Microwave Lid, Blue Grey",
+    "name": "PRICKIG ميكروويف",
     "specs": {},
     "model": "",
     "title": "PRICKIG - Microwave Lid, Blue Grey",
@@ -3633,7 +3633,7 @@
   {
     "asin": "B0GXMW7H76",
     "brand": "غير محدد",
-    "name": "microwave motor 220v",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "microwave motor 220v",
@@ -3653,7 +3653,7 @@
   {
     "asin": "B09L4D1YM5",
     "brand": "غير محدد",
-    "name": "Microwave Oven Heating Shelf Double-Insulated Heating Kitchen Tray Racksouq8260",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Microwave Oven Heating Shelf Double-Insulated Heating Kitchen Tray Racksouq8260",
@@ -3673,7 +3673,7 @@
   {
     "asin": "B0CQXYN8WP",
     "brand": "غير محدد",
-    "name": "Double Metal Microwave Oven Stand with 2 Shelves for Organization and Storage, Kitchen and Bathroom, Whit",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Double Metal Microwave Oven Stand with 2 Shelves for Organization and Storage, Kitchen and Bathroom, White Silver",
@@ -3693,7 +3693,7 @@
   {
     "asin": "B0C7R1C29T",
     "brand": "بوش",
-    "name": "بوش رقمي (CMG7241B1B)",
+    "name": "بوش ميكروويف رقمي",
     "specs": {
       "type": "رقمي"
     },
@@ -3715,7 +3715,7 @@
   {
     "asin": "B07ZH1H8P6",
     "brand": "سيمنز",
-    "name": "سيمنز 25 لتر (BE555LMS0M)",
+    "name": "سيمنز ميكروويف 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -3737,7 +3737,7 @@
   {
     "asin": "B0DTJ5GRHR",
     "brand": "بوش",
-    "name": "بوش 21 لتر 900 وات تاتش (BEL7321B1M)",
+    "name": "بوش ميكروويف 21لتر تاتش",
     "specs": {
       "cap": "21",
       "watt": "900",
@@ -3761,7 +3761,7 @@
   {
     "asin": "B0CLYQ8PHS",
     "brand": "Zeroway",
-    "name": "VersLife Zeroway Microwave Oven Stand Wall Mount Heavy Load Shelf Stand Adjustable Baker's Rack 8 Hooks K",
+    "name": "VersLife ميكروويف",
     "specs": {},
     "model": "",
     "title": "VersLife Zeroway Microwave Oven Stand Wall Mount Heavy Load Shelf Stand Adjustable Baker's Rack 8 Hooks Kitchen Counter Storage Organiser Printer Shelf Fax Rack Black(1 Tier) Metal",
@@ -3781,7 +3781,7 @@
   {
     "asin": "B09HGZWMPJ",
     "brand": "Sasoiky",
-    "name": "Sasoiky Bakers Rack for Kitchen,4-Tier Kitchen Storage Shelf Rack,Microwave Cart Coffee Bar Microwave Sta",
+    "name": "Sasoiky ميكروويف",
     "specs": {},
     "model": "",
     "title": "Sasoiky Bakers Rack for Kitchen,4-Tier Kitchen Storage Shelf Rack,Microwave Cart Coffee Bar Microwave Stand Rack with 4 Hooks,Bakers Racks for Kitchens with Storage(Rustic Brown)",
@@ -3801,7 +3801,7 @@
   {
     "asin": "B0BZ7TM43T",
     "brand": "A to Z Hub",
-    "name": "A to Z Hub Wall Mounted Stand with 4 Hooks, Decorative and for Kitchen, Microwave Oven Stand for Kitchen,",
+    "name": "A ميكروويف",
     "specs": {},
     "model": "",
     "title": "A to Z Hub Wall Mounted Stand with 4 Hooks, Decorative and for Kitchen, Microwave Oven Stand for Kitchen, Oven Holder, Wall Mount",
@@ -3821,7 +3821,7 @@
   {
     "asin": "B06XP27L5N",
     "brand": "Ikea",
-    "name": "Ikea Microwave Lid Dishwasher Safe Plastic Grey",
+    "name": "Ikea ميكروويف",
     "specs": {},
     "model": "",
     "title": "Ikea Microwave Lid Dishwasher Safe Plastic Grey",
@@ -3841,7 +3841,7 @@
   {
     "asin": "B08SWJCXC6",
     "brand": "Agatige",
-    "name": "3-in-1 Microwave Rack/Plate Cove/Food Tray with Foldable Leg, Microwave Plate Stacker Splatter Cover Food",
+    "name": "3-in-1 ميكروويف",
     "specs": {},
     "model": "BLUE",
     "title": "3-in-1 Microwave Rack/Plate Cove/Food Tray with Foldable Leg, Microwave Plate Stacker Splatter Cover Food Cover for Microwave Oven(Blue)",
@@ -3861,7 +3861,7 @@
   {
     "asin": "B0H3XNTB4R",
     "brand": "غير محدد",
-    "name": "Microwave Cover for Food Splatter, 3 Pack BPA Free, Transparent Plastic, 10.5 Inch Round Lid with Handle,",
+    "name": "ميكروويف بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3883,7 +3883,7 @@
   {
     "asin": "B0CWNCMFFZ",
     "brand": "ABCOOL",
-    "name": "ABCOOL Microwave Oven Wall Mount for Home Kitchen, Black Carbon Steel Countertop Stand with Hook Rail and",
+    "name": "ABCOOL ميكروويف",
     "specs": {},
     "model": "",
     "title": "ABCOOL Microwave Oven Wall Mount for Home Kitchen, Black Carbon Steel Countertop Stand with Hook Rail and 3 Sliding Hooks",
@@ -3903,7 +3903,7 @@
   {
     "asin": "B0HP5DN2LP",
     "brand": "غير محدد",
-    "name": "Square Thermal Glass Cooking Pot with Glass Lid - Elegant Design Helps Keep Food Heat Retention, Microwav",
+    "name": "Square ميكروويف",
     "specs": {},
     "model": "",
     "title": "Square Thermal Glass Cooking Pot with Glass Lid - Elegant Design Helps Keep Food Heat Retention, Microwave Oven (1 Piece)",
@@ -3923,7 +3923,7 @@
   {
     "asin": "B0G2LDMCB3",
     "brand": "DIVYA",
-    "name": "DIVYA 3-Layer Microwave Stand, OTG Stand, Microwave Oven Platform Rack, Kitchen Storage Shelf (Walnut Bro",
+    "name": "DIVYA ميكروويف",
     "specs": {},
     "model": "BLACK",
     "title": "DIVYA 3-Layer Microwave Stand, OTG Stand, Microwave Oven Platform Rack, Kitchen Storage Shelf (Walnut Brown & Black Pipe,Alloy Steel;Engineered Wood, Tiered Shelf) (Black)",
@@ -3943,7 +3943,7 @@
   {
     "asin": "B0DR6PBY9W",
     "brand": "غير محدد",
-    "name": "Generic Rectangular Casserole Set, 3 Pieces, Oven and Microwave Safe, 750 ml, 1.6 L, 2.4 L Capacities",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Generic Rectangular Casserole Set, 3 Pieces, Oven and Microwave Safe, 750 ml, 1.6 L, 2.4 L Capacities",
@@ -3963,7 +3963,7 @@
   {
     "asin": "B0HJMYMXVX",
     "brand": "غير محدد",
-    "name": "Microwave Rack - Adjustable Multi-Layer Storage Rack for Kitchen Spices, Oven, Utensils, Metal Durability",
+    "name": "ميكروويف",
     "specs": {},
     "model": "BLACK",
     "title": "Microwave Rack - Adjustable Multi-Layer Storage Rack for Kitchen Spices, Oven, Utensils, Metal Durability and Sleek Compact Design for Maximum Organized Convenience (Black)",
@@ -3983,7 +3983,7 @@
   {
     "asin": "B008IGQUDY",
     "brand": "uxcell",
-    "name": "uxcell sourcing map 2 Pcs Microwave Oven 0.8A 5KV 6mm X 40mm High Voltage Fuse Tubes Slow Type",
+    "name": "uxcell ميكروويف",
     "specs": {},
     "model": "",
     "title": "uxcell sourcing map 2 Pcs Microwave Oven 0.8A 5KV 6mm X 40mm High Voltage Fuse Tubes Slow Type",
@@ -4003,7 +4003,7 @@
   {
     "asin": "B0BHCPJ4Q1",
     "brand": "غير محدد",
-    "name": "White Rectangle Porcelain Casserole 35x22cm with High Temperature Resistant Material for Microwave and Ov",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "White Rectangle Porcelain Casserole 35x22cm with High Temperature Resistant Material for Microwave and Oven",
@@ -4023,7 +4023,7 @@
   {
     "asin": "B091CLRRPP",
     "brand": "غير محدد",
-    "name": "Other Oven Roasting Bags 25x38 cm - Transparent, Disposable, Seamless Plastic, Polypropylene (PP), Self S",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Other Oven Roasting Bags 25x38 cm - Transparent, Disposable, Seamless Plastic, Polypropylene (PP), Self Seal (Zip Lock), Clear, Microwave & Baking Bags",
@@ -4043,7 +4043,7 @@
   {
     "asin": "B08ZXS52QC",
     "brand": "Spaceshoop",
-    "name": "Generic Stainless Steel Microwave Oven Rack, 2 Tier, Tan, 30 x 8 x 6 cm, Kitchenware, Dining Room",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Generic Stainless Steel Microwave Oven Rack, 2 Tier, Tan, 30 x 8 x 6 cm, Kitchenware, Dining Room",
@@ -4063,7 +4063,7 @@
   {
     "asin": "B0HDHV188X",
     "brand": "غير محدد",
-    "name": "Generic Round porcelain dish, Oven, microwave, and dishwasher safe, 20 cm, .ar",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Generic Round porcelain dish, Oven, microwave, and dishwasher safe, 20 cm, .ar",
@@ -4083,7 +4083,7 @@
   {
     "asin": "B07Y1KPLNT",
     "brand": "FAVIA",
-    "name": "FAVIA جريل",
+    "name": "FAVIA ميكروويف جريل",
     "specs": {
       "type": "جريل"
     },
@@ -4105,7 +4105,7 @@
   {
     "asin": "B0D9YQTP7B",
     "brand": "غير محدد",
-    "name": "Piece Glass Food Storage Containers Cup Round with Lids (oven, microwave, fridge, and freezer safe) set o",
+    "name": "Piece ميكروويف",
     "specs": {},
     "model": "PURPLE",
     "title": "Piece Glass Food Storage Containers Cup Round with Lids (oven, microwave, fridge, and freezer safe) set of 6 pcs (purple)",
@@ -4125,7 +4125,7 @@
   {
     "asin": "B0HJ6KJ864",
     "brand": "غير محدد",
-    "name": "Glass bowl, large microwave oven, special for high-temperature household kneading noodles, transparent sa",
+    "name": "Glass ميكروويف",
     "specs": {},
     "model": "",
     "title": "Glass bowl, large microwave oven, special for high-temperature household kneading noodles, transparent salad bowl, egg beating 23cm (Bowl 23cm)",
@@ -4145,7 +4145,7 @@
   {
     "asin": "B0DLPFM8JY",
     "brand": "غير محدد",
-    "name": "Silicone Microwave Oven Gloves, Heat Resistant Oven Mitts with Thick Cotton Lining, Waterproof and High T",
+    "name": "Silicone ميكروويف",
     "specs": {},
     "model": "",
     "title": "Silicone Microwave Oven Gloves, Heat Resistant Oven Mitts with Thick Cotton Lining, Waterproof and High Temperature Resistant for Baking and Cooking, Single Size 27.7 x 19.5cm",
@@ -4165,7 +4165,7 @@
   {
     "asin": "B0GCV1TK9P",
     "brand": "غير محدد",
-    "name": "Premium Borosilicate Glass Food Storage Bowls Set Of 3 With Airtight Lids Microwave Oven Dishwasher Safe ",
+    "name": "Premium ميكروويف",
     "specs": {},
     "model": "",
     "title": "Premium Borosilicate Glass Food Storage Bowls Set Of 3 With Airtight Lids Microwave Oven Dishwasher Safe Meal Prep Kitchen Containers (3, Rectangular)",
@@ -4185,7 +4185,7 @@
   {
     "asin": "B0DZPH7LQ7",
     "brand": "غير محدد",
-    "name": "Generic Glass Food Storage Containers, 650ml, 2-Piece Set, Microwave Oven Freezer Safe .so",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Generic Glass Food Storage Containers, 650ml, 2-Piece Set, Microwave Oven Freezer Safe .so",
@@ -4205,7 +4205,7 @@
   {
     "asin": "B0CW4F7NLJ",
     "brand": "WINSTAR",
-    "name": "WINSTAR Metal Microwave Stand | Microwave & OTG Rack for Kitchen Counter | Double Platform for Extra Stor",
+    "name": "WINSTAR ميكروويف",
     "specs": {},
     "model": "",
     "title": "WINSTAR Metal Microwave Stand | Microwave & OTG Rack for Kitchen Counter | Double Platform for Extra Storage | Kitchen Oven Rack | Black (No Wheels, L-Shape)",
@@ -4225,7 +4225,7 @@
   {
     "asin": "B0H3J53FFX",
     "brand": "غير محدد",
-    "name": "Generic Porcelain Bowl Set, Oven and Microwave Safe, Dishwasher Safe, 6-Piece, .go",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Generic Porcelain Bowl Set, Oven and Microwave Safe, Dishwasher Safe, 6-Piece, .go",
@@ -4245,7 +4245,7 @@
   {
     "asin": "B0H4DYVZBR",
     "brand": "غير محدد",
-    "name": "White Plate - Deep Porcelain Serving Dish 17 cm Black Rim Ribbed Style Oven Microwave Safe (2 pieces)",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "White Plate - Deep Porcelain Serving Dish 17 cm Black Rim Ribbed Style Oven Microwave Safe (2 pieces)",
@@ -4265,7 +4265,7 @@
   {
     "asin": "B0BN8NXKZY",
     "brand": "STOBAZA",
-    "name": "STOBAZA 2pcs 2-Tier Plate Stacker, Multi-Functional Microwave Plate Stacker， Plastic Baking Oven Tray Ove",
+    "name": "STOBAZA ميكروويف",
     "specs": {},
     "model": "",
     "title": "STOBAZA 2pcs 2-Tier Plate Stacker, Multi-Functional Microwave Plate Stacker， Plastic Baking Oven Tray Oven Rack Microwave Rack Tray with Handle, for Bacon Snacks Cooking Supplies",
@@ -4285,7 +4285,7 @@
   {
     "asin": "B0BM5YK9T8",
     "brand": "lanliebao",
-    "name": "lanliebao Wall-mounted 32 in. Heavy-duty metal shelf rack for commercial or home use, microwave oven shel",
+    "name": "lanliebao ميكروويف",
     "specs": {},
     "model": "",
     "title": "lanliebao Wall-mounted 32 in. Heavy-duty metal shelf rack for commercial or home use, microwave oven shelf with mounting kit",
@@ -4305,7 +4305,7 @@
   {
     "asin": "B0FDBCMBVB",
     "brand": "Achievers",
-    "name": "Achievers Gloves Non Oven Mitts Heat Resistant Silicone -Slip Waterproof Kitchen Gloves For Baking Cookin",
+    "name": "Achievers ميكروويف",
     "specs": {},
     "model": "",
     "title": "Achievers Gloves Non Oven Mitts Heat Resistant Silicone -Slip Waterproof Kitchen Gloves For Baking Cooking BBQ Microwave Machine Washable Durable Thick Cotton Lining Set Of 2 (Light Peach)",
@@ -4325,7 +4325,7 @@
   {
     "asin": "B08NVQ7PP6",
     "brand": "soges",
-    "name": "soges 3-Tier Kitchen Baker's Rack Utility Microwave Oven Stand Storage Cart Workstation Shelf, Rustic Bro",
+    "name": "soges ميكروويف",
     "specs": {},
     "model": "",
     "title": "soges 3-Tier Kitchen Baker's Rack Utility Microwave Oven Stand Storage Cart Workstation Shelf, Rustic Brown W5s-FG",
@@ -4345,7 +4345,7 @@
   {
     "asin": "B0H75242SG",
     "brand": "غير محدد",
-    "name": "Porcelain Oven Bowl Set of 4 pieces (Maroon). | Oven Safe, Heat Retention, Non-Porous Surface, Versatile ",
+    "name": "Porcelain ميكروويف",
     "specs": {},
     "model": "MAROON",
     "title": "Porcelain Oven Bowl Set of 4 pieces (Maroon). | Oven Safe, Heat Retention, Non-Porous Surface, Versatile Usage, Microwave Safe, Dishwasher Safe, Freezer Safe",
@@ -4365,7 +4365,7 @@
   {
     "asin": "B0H4DMS7HG",
     "brand": "غير محدد",
-    "name": "Ribbed Ramen Bowls - White Porcelain Set with Black Rim, Microwave and Oven Compatible, 20cm, (3 pieces)",
+    "name": "Ribbed ميكروويف",
     "specs": {},
     "model": "",
     "title": "Ribbed Ramen Bowls - White Porcelain Set with Black Rim, Microwave and Oven Compatible, 20cm, (3 pieces)",
@@ -4385,7 +4385,7 @@
   {
     "asin": "B0GD9LHX63",
     "brand": "غير محدد",
-    "name": "Generic White Porcelain Oven Safe Bowl with Black Rim, Heat Resistant Baking Dish, 13 cm Diameter, 6 cm D",
+    "name": "ميكروويف",
     "specs": {},
     "model": "",
     "title": "Generic White Porcelain Oven Safe Bowl with Black Rim, Heat Resistant Baking Dish, 13 cm Diameter, 6 cm Depth, Microwave and Dishwasher Safe .Ar",

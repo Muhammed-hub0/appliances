@@ -2,7 +2,7 @@
   {
     "asin": "B0DB8NG8XP",
     "brand": "كينوود",
-    "name": "كينوود 8 لتر 1300 وات (PCM95)",
+    "name": "كينوود قدر ضغط 8لتر",
     "specs": {
       "cap": "8",
       "watt": "1300"
@@ -25,7 +25,7 @@
   {
     "asin": "B09V5N7TZZ",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 10 لتر 1350 وات (PCP1010-B5)",
+    "name": "بلاك قدر ضغط 10لتر",
     "specs": {
       "cap": "10",
       "watt": "1350"
@@ -48,7 +48,7 @@
   {
     "asin": "B096WKCP7T",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 6 لتر 1000 وات (PCP1000-B5)",
+    "name": "بلاك قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -71,7 +71,7 @@
   {
     "asin": "B0DB8PB43C",
     "brand": "كينوود",
-    "name": "كينوود 6 لتر 1000 وات (PCM90)",
+    "name": "كينوود قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -94,7 +94,7 @@
   {
     "asin": "B0DFVN57MT",
     "brand": "سوكاني",
-    "name": "سوكاني 6 لتر 1500 وات",
+    "name": "سوكاني قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1500"
@@ -117,7 +117,7 @@
   {
     "asin": "B09GNK3CR4",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 6 لتر 1000 وات (SP204A)",
+    "name": "نيوتريكوك قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -140,7 +140,7 @@
   {
     "asin": "B09GNKWS5X",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 8 لتر 1200 وات (SP208A)",
+    "name": "نيوتريكوك قدر ضغط 8لتر",
     "specs": {
       "cap": "8",
       "watt": "1200"
@@ -163,7 +163,7 @@
   {
     "asin": "B0CL2FNBFY",
     "brand": "سوكاني",
-    "name": "سوكاني 13 لتر 1600 وات",
+    "name": "سوكاني قدر ضغط 13لتر",
     "specs": {
       "cap": "13",
       "watt": "1600"
@@ -186,7 +186,7 @@
   {
     "asin": "B0CQK9B1WX",
     "brand": "سوكاني",
-    "name": "سوكاني 11 لتر 1600 وات",
+    "name": "سوكاني قدر ضغط 11لتر",
     "specs": {
       "cap": "11",
       "watt": "1600"
@@ -209,7 +209,7 @@
   {
     "asin": "B0GLQK7B5S",
     "brand": "سوكاني",
-    "name": "سوكاني 9 لتر 1300 وات",
+    "name": "سوكاني قدر ضغط 9لتر",
     "specs": {
       "cap": "9",
       "watt": "1300"
@@ -232,7 +232,7 @@
   {
     "asin": "B0CQYWGNS4",
     "brand": "سوكاني",
-    "name": "سوكاني 6 لتر",
+    "name": "سوكاني قدر ضغط 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -256,7 +256,7 @@
   {
     "asin": "B0FC2ZF9ND",
     "brand": "شاومي",
-    "name": "شاومي 4.8 لتر",
+    "name": "شاومي قدر ضغط 4.8لتر",
     "specs": {
       "cap": "4.8"
     },
@@ -278,7 +278,7 @@
   {
     "asin": "B07MCQB72N",
     "brand": "أرشيا",
-    "name": "أرشيا 6 لتر (EP118-2372)",
+    "name": "أرشيا قدر ضغط 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -300,7 +300,7 @@
   {
     "asin": "B085GJPBL3",
     "brand": "تيفال",
-    "name": "تيفال 8 لتر",
+    "name": "تيفال قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -322,7 +322,7 @@
   {
     "asin": "B0DR9LVR9Q",
     "brand": "غير محدد",
-    "name": "Electric Pressure Cooker 1000 Watt 6 Liter",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -345,7 +345,7 @@
   {
     "asin": "B0HR1N5NSK",
     "brand": "RAF",
-    "name": "RAF 6 لتر 1000 وات",
+    "name": "RAF قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -368,7 +368,7 @@
   {
     "asin": "B087C62SX9",
     "brand": "أرشيا",
-    "name": "أرشيا 8 لتر (EP110)",
+    "name": "أرشيا قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -390,7 +390,7 @@
   {
     "asin": "B09RWQFNMN",
     "brand": "مولينكس",
-    "name": "مولينكس 1090 وات (CE753827)",
+    "name": "مولينكس قدر ضغط 1090وات",
     "specs": {
       "watt": "1090"
     },
@@ -412,7 +412,7 @@
   {
     "asin": "B0HL67FPY6",
     "brand": "غير محدد",
-    "name": "Silver Love 8L Digital Electric Pressure Cooker 12 Programs 1300W 12 Food | 12 Smart Cooking Program, Saf",
+    "name": "قدر ضغط 8لتر 1300وات",
     "specs": {
       "cap": "8",
       "watt": "1300"
@@ -435,7 +435,7 @@
   {
     "asin": "B0HRC1JD16",
     "brand": "عام",
-    "name": "عام 6 لتر 1000 وات",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -458,7 +458,7 @@
   {
     "asin": "B0GW99QZYL",
     "brand": "DENX",
-    "name": "DENX 8 لتر 1350 وات (DX3401)",
+    "name": "DENX قدر ضغط 8لتر",
     "specs": {
       "cap": "8",
       "watt": "1350"
@@ -481,7 +481,7 @@
   {
     "asin": "B0HCMB7DRN",
     "brand": "غير محدد",
-    "name": "JMK-7502 1000W 6L Multipurpose Electric Pressure Cooker for All Food Cooking",
+    "name": "JMK-7502 قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -504,7 +504,7 @@
   {
     "asin": "B0HF3MHZ83",
     "brand": "غير محدد",
-    "name": "Digital Electric Pressure Cooker 6 Liter 12 Programs 1000 Watt JMK7503 | 70 KPa, SS410 Stainless Steel Bo",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -527,7 +527,7 @@
   {
     "asin": "B0HCM67HYS",
     "brand": "غير محدد",
-    "name": "Gamaky 12-in-1 Digital Electric Pressure Cooker (6L, 1000W) – Fast cooking with preset programs, 12 cooki",
+    "name": "Gamaky قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -550,7 +550,7 @@
   {
     "asin": "B0GX7W5JNS",
     "brand": "غير محدد",
-    "name": "Electric Pressure Cooker 6 Liter – 1000 Watt – Electric Pressure Cooker – 14 Cooking Programs – LED Digit",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -573,7 +573,7 @@
   {
     "asin": "B0DFH27X14",
     "brand": "غير محدد",
-    "name": "DSP Electric Pressure Cooker With Automatic And Adjustable Temperature, 4.5 Liter, 1350 Watt KB-5009",
+    "name": "قدر ضغط 4.5لتر 1350وات",
     "specs": {
       "cap": "4.5",
       "watt": "1350"
@@ -596,7 +596,7 @@
   {
     "asin": "B0H4W99C7V",
     "brand": "غير محدد",
-    "name": "JAMAKY Electric Pressure Cooker, 8 Liters, 1350 Watts, 8 Cooking Modes, Digital Touch Display, JMK7504",
+    "name": "JAMAKY قدر ضغط 8لتر",
     "specs": {
       "cap": "8",
       "watt": "1350"
@@ -619,7 +619,7 @@
   {
     "asin": "B09TQ1KGW3",
     "brand": "Zinox",
-    "name": "Zinox 12 لتر",
+    "name": "Zinox قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -641,7 +641,7 @@
   {
     "asin": "B09TQ56XF9",
     "brand": "Zinox",
-    "name": "Zinox 8 لتر",
+    "name": "Zinox قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -663,7 +663,7 @@
   {
     "asin": "B0DRZ3RHPZ",
     "brand": "غير محدد",
-    "name": "FASHION.HOME Non-Stick Pressure Cooker, 7L, Aluminum, Fast & Healthy Cooking Gas & Electric Stoves",
+    "name": "FASHIONHOME قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -685,7 +685,7 @@
   {
     "asin": "B0GZ21Y894",
     "brand": "غير محدد",
-    "name": "Home Perfect Turkish Made 12 Liter Stainless Steel Pressure Cooker 304",
+    "name": "قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -707,7 +707,7 @@
   {
     "asin": "B01LLH5CAS",
     "brand": "غير محدد",
-    "name": "Palson Sapore Plus Electric Pressure Cooker, Silver, 8 Liter, 30997",
+    "name": "قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -729,7 +729,7 @@
   {
     "asin": "B09JZHM3KV",
     "brand": "Zinox",
-    "name": "Zinox 6 لتر",
+    "name": "Zinox قدر ضغط 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -751,7 +751,7 @@
   {
     "asin": "B0FGVQGZ66",
     "brand": "غير محدد",
-    "name": "Aluminium Pressure Cooker 7 Liter",
+    "name": "Aluminium قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -773,7 +773,7 @@
   {
     "asin": "B09KN18QGW",
     "brand": "غير محدد",
-    "name": "ALSAIF Traditional Stainless Steel Pressure Cooker Size 11 Liter, Silver, K96011, 5 Year Warranty",
+    "name": "قدر ضغط 11لتر",
     "specs": {
       "cap": "11"
     },
@@ -795,7 +795,7 @@
   {
     "asin": "B0H6R69R5R",
     "brand": "غير محدد",
-    "name": "Aluminum Pressure Cooker 5 Liter 22 Cm Silver Aby001",
+    "name": "قدر ضغط 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -817,7 +817,7 @@
   {
     "asin": "B08CKW3JLB",
     "brand": "غير محدد",
-    "name": "Al Saif Aluminum Pressure Cooker Color: Silver, Size: 3 Liter",
+    "name": "قدر ضغط 3لتر",
     "specs": {
       "cap": "3"
     },
@@ -839,7 +839,7 @@
   {
     "asin": "B09KN17PYR",
     "brand": "ALSAIF",
-    "name": "ALSAIF 9 لتر (K96009)",
+    "name": "AL قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -861,7 +861,7 @@
   {
     "asin": "B08HCYMDB6",
     "brand": "ALSAIF",
-    "name": "ALSAIF 5 لتر",
+    "name": "Al قدر ضغط 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -883,7 +883,7 @@
   {
     "asin": "B0H6C3LR5S",
     "brand": "NUJAIN",
-    "name": "NUJAIN 8 لتر",
+    "name": "High-Quality قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -905,7 +905,7 @@
   {
     "asin": "B0CQGKXPRC",
     "brand": "غير محدد",
-    "name": "Al Saif Pressure Cooker, 7 Liter, Stainless Steel",
+    "name": "Al قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -927,7 +927,7 @@
   {
     "asin": "B0H6R2MYN6",
     "brand": "غير محدد",
-    "name": "Aluminum Pressure Cooker 7 Liter Size 24 Cm Aby001 Silver",
+    "name": "قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -949,7 +949,7 @@
   {
     "asin": "B082VXGS7T",
     "brand": "Trust Pro",
-    "name": "Trust Pro 11 لتر",
+    "name": "Trust قدر ضغط 11لتر",
     "specs": {
       "cap": "11"
     },
@@ -971,7 +971,7 @@
   {
     "asin": "B0GZJDXTQH",
     "brand": "غير محدد",
-    "name": "High Purity Aluminum Pressure Cooker 7 Liter Silver Color For Fast Cooking",
+    "name": "قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -993,7 +993,7 @@
   {
     "asin": "B0854K8B1N",
     "brand": "ALSAIF",
-    "name": "ALSAIF 15 لتر (K96015)",
+    "name": "AL قدر ضغط 15لتر",
     "specs": {
       "cap": "15"
     },
@@ -1015,7 +1015,7 @@
   {
     "asin": "B0BT87RVMC",
     "brand": "Zinox",
-    "name": "Zinox 10 لتر",
+    "name": "Zinox قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1037,7 +1037,7 @@
   {
     "asin": "B0H422LY17",
     "brand": "غير محدد",
-    "name": "Aluminium Pressure Cooker 2.5 Liter Pure",
+    "name": "Aluminium قدر ضغط 2.5لتر",
     "specs": {
       "cap": "2.5"
     },
@@ -1059,7 +1059,7 @@
   {
     "asin": "B08HD6768D",
     "brand": "ALSAIF",
-    "name": "ALSAIF 15 لتر (K98015/PW)",
+    "name": "AL قدر ضغط 15لتر",
     "specs": {
       "cap": "15"
     },
@@ -1081,7 +1081,7 @@
   {
     "asin": "B0GTC9BN7J",
     "brand": "غير محدد",
-    "name": "Aluminium Pressure Cooker 3 Liter",
+    "name": "Aluminium قدر ضغط 3لتر",
     "specs": {
       "cap": "3"
     },
@@ -1103,7 +1103,7 @@
   {
     "asin": "B09KMZ555B",
     "brand": "ALSAIF",
-    "name": "ALSAIF 12 لتر (K98012/PW)",
+    "name": "AL قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -1125,7 +1125,7 @@
   {
     "asin": "B0HFKVCBSX",
     "brand": "غير محدد",
-    "name": "Zinox Pressure Cooker 5 Liter Aluminium Silver Easy to Use and Clean PC-AL-5L",
+    "name": "قدر ضغط 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -1147,7 +1147,7 @@
   {
     "asin": "B0H3FWQBRV",
     "brand": "غير محدد",
-    "name": "قدر ضغط 9 لتر المونيوم من سمارت كيتشن",
+    "name": "قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -1169,7 +1169,7 @@
   {
     "asin": "B09235GNYS",
     "brand": "ALZA",
-    "name": "ALZA 12 لتر",
+    "name": "ALZA قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -1191,7 +1191,7 @@
   {
     "asin": "B0CQGNBB2N",
     "brand": "غير محدد",
-    "name": "Al Saif Pressure Cooker, Aluminum, 15 Liter",
+    "name": "Al قدر ضغط 15لتر",
     "specs": {
       "cap": "15"
     },
@@ -1213,7 +1213,7 @@
   {
     "asin": "B0H5RJSV8Y",
     "brand": "غير محدد",
-    "name": "Multifunctional Pressure Cooker – Large Pressure Cooker for Fast Cooking and Family Meal Preparation with",
+    "name": "قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Multifunctional Pressure Cooker – Large Pressure Cooker for Fast Cooking and Family Meal Preparation with High Efficiency (Litre, 5)",
@@ -1233,7 +1233,7 @@
   {
     "asin": "B091J4TGJK",
     "brand": "غير محدد",
-    "name": "Pressure Cooker 7 Litre",
+    "name": "Pressure قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Pressure Cooker 7 Litre",
@@ -1253,7 +1253,7 @@
   {
     "asin": "B0GQJHMSZ6",
     "brand": "غير محدد",
-    "name": "Cookware, Mini Pressure Cooker, Non-Stick, Multifunctional Cooking Pot, Mini Pressure Cooker for Home Sou",
+    "name": "Cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Cookware, Mini Pressure Cooker, Non-Stick, Multifunctional Cooking Pot, Mini Pressure Cooker for Home Soup, Multi-Colour, Stainless Steel",
@@ -1273,7 +1273,7 @@
   {
     "asin": "B08V9VHTY5",
     "brand": "أرشيا",
-    "name": "أرشيا 6 لتر 1000 وات (EP118-2597)",
+    "name": "أرشيا قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1296,7 +1296,7 @@
   {
     "asin": "B09RWQ7F2Z",
     "brand": "مولينكس",
-    "name": "مولينكس 1200 وات (CE777827)",
+    "name": "مولينكس قدر ضغط 1200وات",
     "specs": {
       "watt": "1200"
     },
@@ -1318,7 +1318,7 @@
   {
     "asin": "B0835FYS5L",
     "brand": "نيكاي",
-    "name": "نيكاي 1000 وات (NEP682D1)",
+    "name": "نيكاي قدر ضغط 1000وات",
     "specs": {
       "watt": "1000"
     },
@@ -1340,7 +1340,7 @@
   {
     "asin": "B0HBR76NYZ",
     "brand": "أرشيا",
-    "name": "أرشيا 12 لتر",
+    "name": "أرشيا قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -1362,7 +1362,7 @@
   {
     "asin": "B07P5WW19K",
     "brand": "تيفال",
-    "name": "تيفال 10 لتر",
+    "name": "تيفال قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1384,7 +1384,7 @@
   {
     "asin": "B0HBR979ZM",
     "brand": "أرشيا",
-    "name": "أرشيا 9 لتر",
+    "name": "أرشيا قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -1406,7 +1406,7 @@
   {
     "asin": "B091CCLB1Q",
     "brand": "أرشيا",
-    "name": "Arshia - EB118-2371 Digital Pressure Cooker",
+    "name": "أرشيا قدر ضغط",
     "specs": {},
     "model": "EB118-2371",
     "title": "Arshia - EB118-2371 Digital Pressure Cooker",
@@ -1426,7 +1426,7 @@
   {
     "asin": "B091GWG7V3",
     "brand": "أرشيا",
-    "name": "Arshia Electric Pressure Cooker",
+    "name": "أرشيا قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Arshia Electric Pressure Cooker",
@@ -1446,7 +1446,7 @@
   {
     "asin": "B0GVTS4RBN",
     "brand": "أرشيا",
-    "name": "Arshia Premium Stainless Steel Pressure Cooker 32cm PR135-2780",
+    "name": "أرشيا قدر ضغط",
     "specs": {},
     "model": "PR135-2780",
     "title": "Arshia Premium Stainless Steel Pressure Cooker 32cm PR135-2780",
@@ -1466,7 +1466,7 @@
   {
     "asin": "B0DD46B9VS",
     "brand": "Feller",
-    "name": "Feller 6 لتر 1000 وات (PLATINUM)",
+    "name": "Feller قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1489,7 +1489,7 @@
   {
     "asin": "B0HQPFXRWH",
     "brand": "جاماكي",
-    "name": "جاماكي 6 لتر 1000 وات (JMK7502)",
+    "name": "جاماكي قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1512,7 +1512,7 @@
   {
     "asin": "B0HDKH96RH",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop 4.5 لتر 1350 وات",
+    "name": "قدر ضغط 4.5لتر 1350وات",
     "specs": {
       "cap": "4.5",
       "watt": "1350"
@@ -1535,7 +1535,7 @@
   {
     "asin": "B09GKMSLYT",
     "brand": "Instant Pot",
-    "name": "Instant Pot 6.2 لتر 1500 وات",
+    "name": "Instant قدر ضغط 6.2لتر",
     "specs": {
       "cap": "6.2",
       "watt": "1500"
@@ -1558,7 +1558,7 @@
   {
     "asin": "B0HQXXP51Z",
     "brand": "غير محدد",
-    "name": "KB5034 Electric Pressure Cooker 6L 1000W | 14 Cooking Programs, Digital Display, Stainless Steel, 1000 Wa",
+    "name": "KB5034 قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1581,7 +1581,7 @@
   {
     "asin": "B0HL5LHBXM",
     "brand": "غير محدد",
-    "name": "JMK-7502 Electric Pressure Cooker 6L Multi-Purpose 1000W | Multiple Cooking Modes, Non-Stick Inner Pot, S",
+    "name": "JMK-7502 قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1604,7 +1604,7 @@
   {
     "asin": "B0FLWV5352",
     "brand": "غير محدد",
-    "name": "Electric Pressure Cooker 6L – Stainless Steel, 1000W, 14 Cooking Programs with LED Display, 70Kpa Pressur",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1627,7 +1627,7 @@
   {
     "asin": "B0FKZB7DCQ",
     "brand": "غير محدد",
-    "name": "Electric Pressure Cooker 6L - 14 Cooking Programs - 1000W - LED Touch Screen - Adjustable Pressure - Stai",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1650,7 +1650,7 @@
   {
     "asin": "B0H6VW67ZF",
     "brand": "غير محدد",
-    "name": "Smart Electric Pressure Cooker 8L 1300W 12 Months Warranty Stainless Steel Touch Digital Cooker with 20 P",
+    "name": "قدر ضغط 8لتر 1300وات",
     "specs": {
       "cap": "8",
       "watt": "1300"
@@ -1673,7 +1673,7 @@
   {
     "asin": "B0HL5HN3GK",
     "brand": "غير محدد",
-    "name": "JAMAKY Electric Pressure Cooker 12-in-1, 6L 1000W JMK7503",
+    "name": "JAMAKY قدر ضغط 6لتر",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -1696,7 +1696,7 @@
   {
     "asin": "B09BDMJR7N",
     "brand": "Home Life",
-    "name": "Home Life 9 لتر",
+    "name": "قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -1718,7 +1718,7 @@
   {
     "asin": "B091JFQFPP",
     "brand": "غير محدد",
-    "name": "Turkish Stainless Steel Pressure Cooker. 12 liters",
+    "name": "Turkish قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -1740,7 +1740,7 @@
   {
     "asin": "B0H8K9ZWLT",
     "brand": "غير محدد",
-    "name": "حلة ضغط كهربائية 10 لتر 1350 واط مع ضمان 12 شهر، قدر ضغط كهربائي 12 برنامج طهي، شاشة LED، لوحة لمس IMD، و",
+    "name": "حلة قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1762,7 +1762,7 @@
   {
     "asin": "B0FRXPX3QC",
     "brand": "غير محدد",
-    "name": "Generic 12 Liter Stainless Steel Pressure Cooker - 18/10 Material, Large Capacity, Rust Resistant, Easy t",
+    "name": "قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -1784,7 +1784,7 @@
   {
     "asin": "B0H8K73FGX",
     "brand": "غير محدد",
-    "name": "حلة ضغط كهربائية 8 لتر 1300 واط مع ضمان 12 شهر، قدر ضغط كهربائي بشاشة LED ولوحة لمس كاملة، 20 برنامج طهي،",
+    "name": "حلة قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -1806,7 +1806,7 @@
   {
     "asin": "B09MCCQRBG",
     "brand": "BEYT ELEZZ",
-    "name": "BEYT ELEZZ 12 لتر",
+    "name": "BEYT قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -1828,7 +1828,7 @@
   {
     "asin": "B0H6C7QJH4",
     "brand": "NUJAIN",
-    "name": "NUJAIN 11 لتر",
+    "name": "High-Quality قدر ضغط 11لتر",
     "specs": {
       "cap": "11"
     },
@@ -1850,7 +1850,7 @@
   {
     "asin": "B08CKXCPYW",
     "brand": "غير محدد",
-    "name": "AL SAIF Aluminum Pressure Cooker Size: 6 Liter Color: Silver Model: K99006, 5 Years warranty",
+    "name": "قدر ضغط 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -1872,7 +1872,7 @@
   {
     "asin": "B0922YQBKN",
     "brand": "HTH",
-    "name": "HTH 5 لتر",
+    "name": "Aluminum قدر ضغط 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -1894,7 +1894,7 @@
   {
     "asin": "B091C4GC14",
     "brand": "BEYT ELEZZ",
-    "name": "BEYT ELEZZ 9 لتر",
+    "name": "BEYT قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -1916,7 +1916,7 @@
   {
     "asin": "B09FHRV7QK",
     "brand": "غير محدد",
-    "name": "Al Saif Aluminium Pressure Cooker (4 Liter)",
+    "name": "Al قدر ضغط 4لتر",
     "specs": {
       "cap": "4"
     },
@@ -1938,7 +1938,7 @@
   {
     "asin": "B09BDNJ9DB",
     "brand": "غير محدد",
-    "name": "HomeFuture Manual Pressure Cooker, 12L, Stainless Steel",
+    "name": "HomeFuture قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -1960,7 +1960,7 @@
   {
     "asin": "B0922ZGZQS",
     "brand": "ALZA",
-    "name": "ALZA 10 لتر",
+    "name": "ALZA قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1982,7 +1982,7 @@
   {
     "asin": "B0GWRK14HW",
     "brand": "غير محدد",
-    "name": "PRESTO PRESSURE COOKER COVER, 8L & 10L SILVER & BLACK HIGH QUALITY",
+    "name": "قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -2004,7 +2004,7 @@
   {
     "asin": "B0D6WFKTNW",
     "brand": "غير محدد",
-    "name": "Saudi Sword Pressure Cooker 7 Liter Steel",
+    "name": "Saudi قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -2026,7 +2026,7 @@
   {
     "asin": "B0DHDWXSZB",
     "brand": "غير محدد",
-    "name": "A Lsaif Saudi Pressure Cooker 3 Liter Aluminium",
+    "name": "A قدر ضغط 3لتر",
     "specs": {
       "cap": "3"
     },
@@ -2048,7 +2048,7 @@
   {
     "asin": "B0HFCXLBFF",
     "brand": "غير محدد",
-    "name": "PRESTO Granite Pressure Cooker, Pressure Cooker for Fast Cooking, Suitable for Meat, Chicken, Rice, Veget",
+    "name": "PRESTO قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -2070,7 +2070,7 @@
   {
     "asin": "B09K6TH571",
     "brand": "Nouval",
-    "name": "Nouval 8 لتر",
+    "name": "Nouval قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -2092,7 +2092,7 @@
   {
     "asin": "B0GXLGRDLY",
     "brand": "غير محدد",
-    "name": "Generic Stainless Steel Pressure Cooker 7L With Safety Valve, Heavy Duty Thick Base For Even Heat Distrib",
+    "name": "قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -2114,7 +2114,7 @@
   {
     "asin": "B091JCCTJN",
     "brand": "غير محدد",
-    "name": "Spanish pressure cooker 12 liter silver",
+    "name": "قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -2136,7 +2136,7 @@
   {
     "asin": "B0DS8Z3XCB",
     "brand": "غير محدد",
-    "name": "قدر ضغط 9 لتر استيل",
+    "name": "قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -2158,7 +2158,7 @@
   {
     "asin": "B0GVKHMZPS",
     "brand": "Zahran",
-    "name": "Zahran 12 لتر",
+    "name": "Zahran قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -2180,7 +2180,7 @@
   {
     "asin": "B091JB1M3Y",
     "brand": "MAGEFESA",
-    "name": "MAGEFESA 10 لتر",
+    "name": "Magefesa قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -2202,7 +2202,7 @@
   {
     "asin": "B07MX75CYY",
     "brand": "Trust",
-    "name": "Trust 11 لتر (11LTR)",
+    "name": "Trust قدر ضغط 11لتر",
     "specs": {
       "cap": "11"
     },
@@ -2224,7 +2224,7 @@
   {
     "asin": "B00R2WXPPQ",
     "brand": "MAGEFESA",
-    "name": "MAGEFESA 12 لتر",
+    "name": "Magefesa قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -2246,7 +2246,7 @@
   {
     "asin": "B075XPVZ1K",
     "brand": "Berghoff",
-    "name": "Berghoff 7 لتر",
+    "name": "BergHOFF قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -2268,7 +2268,7 @@
   {
     "asin": "B0DVGN9G51",
     "brand": "Winning Star",
-    "name": "Winning Star Electric Pressure Cooker St-9315",
+    "name": "Winning قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Winning Star Electric Pressure Cooker St-9315",
@@ -2288,7 +2288,7 @@
   {
     "asin": "B0DS92KP4T",
     "brand": "غير محدد",
-    "name": "قدر ضغط المونيوم - السيف (10, Liters) | Aluminium Body",
+    "name": "قدر ضغط",
     "specs": {},
     "model": "",
     "title": "قدر ضغط المونيوم - السيف (10, Liters) | Aluminium Body",
@@ -2308,7 +2308,7 @@
   {
     "asin": "B0FCSQRQYN",
     "brand": "غير محدد",
-    "name": "Stainless Steel Mini Pressure Cooker – Classic Design with Two Handles",
+    "name": "Stainless قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Stainless Steel Mini Pressure Cooker – Classic Design with Two Handles",
@@ -2328,7 +2328,7 @@
   {
     "asin": "B09TR8Q9LD",
     "brand": "KARACA",
-    "name": "Karaca Retro Induction Based Pressure Cooker 8 Lt",
+    "name": "Karaca قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Karaca Retro Induction Based Pressure Cooker 8 Lt",
@@ -2348,7 +2348,7 @@
   {
     "asin": "B0GV4Z373M",
     "brand": "غير محدد",
-    "name": "Granite Pressure Cooker Presto Pressure Cooker for Fast Cooking, Suitable for Meat, Chicken, Rice, Vegeta",
+    "name": "Granite قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Granite Pressure Cooker Presto Pressure Cooker for Fast Cooking, Suitable for Meat, Chicken, Rice, Vegetables, Practical Kitchen",
@@ -2368,7 +2368,7 @@
   {
     "asin": "B0HSMCPN96",
     "brand": "غير محدد",
-    "name": "10 in 1 Multifunction Electric Pressure Cooker 6 Liter 1000W with Digital Display - Black and Silver",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -2391,7 +2391,7 @@
   {
     "asin": "B0GLQK5FLD",
     "brand": "سوكاني",
-    "name": "سوكاني 9 لتر 1300 وات",
+    "name": "سوكاني قدر ضغط 9لتر",
     "specs": {
       "cap": "9",
       "watt": "1300"
@@ -2414,7 +2414,7 @@
   {
     "asin": "B0HL5YPTKD",
     "brand": "غير محدد",
-    "name": "Silver Love 8L Digital Electric Pressure Cooker 12 Programs 1300W 12 Food | 12 Smart Cooking Program, Saf",
+    "name": "قدر ضغط 8لتر 1300وات",
     "specs": {
       "cap": "8",
       "watt": "1300"
@@ -2437,7 +2437,7 @@
   {
     "asin": "B0HR1XR2R6",
     "brand": "غير محدد",
-    "name": "RAF R.171 Electric Pressure Cooker, 1000W, 6L, Digital, Silver",
+    "name": "قدر ضغط 6لتر 1000وات",
     "specs": {
       "cap": "6",
       "watt": "1000"
@@ -2460,7 +2460,7 @@
   {
     "asin": "B0DHHKG6FL",
     "brand": "Zinox",
-    "name": "Zinox 6 لتر",
+    "name": "Zinox قدر ضغط 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -2482,7 +2482,7 @@
   {
     "asin": "B08SKDXW6Y",
     "brand": "أرشيا",
-    "name": "أرشيا 12 لتر",
+    "name": "أرشيا قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -2504,7 +2504,7 @@
   {
     "asin": "B0GVTLXD6W",
     "brand": "أرشيا",
-    "name": "Arshia Premium Stainless steel Pressure cooker 30cm PR135-2779",
+    "name": "أرشيا قدر ضغط",
     "specs": {},
     "model": "PR135-2779",
     "title": "Arshia Premium Stainless steel Pressure cooker 30cm PR135-2779",
@@ -2524,7 +2524,7 @@
   {
     "asin": "B09BDPZ3G3",
     "brand": "Home Life",
-    "name": "HomeLife Pressure Cooker Home Life , 2724710086342",
+    "name": "HomeLife قدر ضغط",
     "specs": {},
     "model": "",
     "title": "HomeLife Pressure Cooker Home Life , 2724710086342",
@@ -2544,7 +2544,7 @@
   {
     "asin": "B091GG41PC",
     "brand": "SONAI",
-    "name": "Sonai MA-1000 Pressure Cooker",
+    "name": "Sonai قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Sonai MA-1000 Pressure Cooker",
@@ -2564,7 +2564,7 @@
   {
     "asin": "B0GVBQDC7Y",
     "brand": "غير محدد",
-    "name": "Pressure cooker batot",
+    "name": "Pressure قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Pressure cooker batot",
@@ -2584,7 +2584,7 @@
   {
     "asin": "B0FTC5VYQW",
     "brand": "غير محدد",
-    "name": "Pressure Cooker 6L Large Capacity Electric Pressure Cooker High Power Kitchen's Good Helper – Your Perfec",
+    "name": "Pressure قدر ضغط 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -2606,7 +2606,7 @@
   {
     "asin": "B0HSLW1FW6",
     "brand": "غير محدد",
-    "name": "Spanish Stainless Steel Pressure Cooker 10L | Stainless Steel, 10 Liter Capacity",
+    "name": "Spanish قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -2628,7 +2628,7 @@
   {
     "asin": "B0H8H9FKWS",
     "brand": "غير محدد",
-    "name": "3.5Liters Multifunctional small pressure cooker non-stick quick soup MEDIUM Size 22 Cm -3.5Liters",
+    "name": "35Liters قدر ضغط 3.5لتر",
     "specs": {
       "cap": "3.5"
     },
@@ -2650,7 +2650,7 @@
   {
     "asin": "B091BKJ561",
     "brand": "أرشيا",
-    "name": "Arshia SS Pressure Cooker 26cm",
+    "name": "أرشيا قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Arshia SS Pressure Cooker 26cm",
@@ -2670,7 +2670,7 @@
   {
     "asin": "B0H18BKBGW",
     "brand": "Saif Plus",
-    "name": "Saif Plus 8 لتر",
+    "name": "Safe قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -2692,7 +2692,7 @@
   {
     "asin": "B091CM9KNZ",
     "brand": "Zahran",
-    "name": "Zahran 8 لتر",
+    "name": "Zahran قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -2714,7 +2714,7 @@
   {
     "asin": "B0GT3KVQ8Y",
     "brand": "غير محدد",
-    "name": "Electric Pressure Cooker With Adjustable Automatic Temperature, 4.5 Liter, 1350 Watt KB-5009, Multi Color",
+    "name": "قدر ضغط 4.5لتر 1350وات",
     "specs": {
       "cap": "4.5",
       "watt": "1350"
@@ -2737,7 +2737,7 @@
   {
     "asin": "B0GL1MNQ46",
     "brand": "غير محدد",
-    "name": "Stainless Steel Pressure Cooker - Compact 1.5 Liter Design with Quick Release and Locking Lid for Safe, E",
+    "name": "Stainless قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Stainless Steel Pressure Cooker - Compact 1.5 Liter Design with Quick Release and Locking Lid for Safe, Efficient Cooking",
@@ -2757,7 +2757,7 @@
   {
     "asin": "B0HF5JJG2X",
     "brand": "غير محدد",
-    "name": "Pressure Cooker 10 Liter",
+    "name": "Pressure قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -2779,7 +2779,7 @@
   {
     "asin": "B0H8HQCZZH",
     "brand": "غير محدد",
-    "name": "cookware Bianca Pressure Cooker 15-liter",
+    "name": "cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "cookware Bianca Pressure Cooker 15-liter",
@@ -2799,7 +2799,7 @@
   {
     "asin": "B0GT35397L",
     "brand": "غير محدد",
-    "name": "Turkish Stainless Steel Pressure Cooker -12L",
+    "name": "Turkish قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -2821,7 +2821,7 @@
   {
     "asin": "B0GL1GVYJZ",
     "brand": "غير محدد",
-    "name": "Pressure Cooker - 1.5 Liter Stainless Steel Multi-Function Pot with Safety Valve for Fast Cooking, Ideal ",
+    "name": "Pressure قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Pressure Cooker - 1.5 Liter Stainless Steel Multi-Function Pot with Safety Valve for Fast Cooking, Ideal for Soups, Stews, and Rice",
@@ -2841,7 +2841,7 @@
   {
     "asin": "B0HDZLVPQD",
     "brand": "غير محدد",
-    "name": "Ceramic Pressure Cooker – High Quality Aluminum with Non-Stick Ceramic Coating – Multi-System Safety Lid ",
+    "name": "Ceramic قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -2863,7 +2863,7 @@
   {
     "asin": "B0H8GC9G1V",
     "brand": "غير محدد",
-    "name": "Sensor Pressure Cooker, 10L, Stainless Steel - 500210 silver",
+    "name": "قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -2885,7 +2885,7 @@
   {
     "asin": "B0H8GPC96L",
     "brand": "غير محدد",
-    "name": "cookware Bianca Pressure Cooker 15-liter -Induction",
+    "name": "cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "cookware Bianca Pressure Cooker 15-liter -Induction",
@@ -2905,7 +2905,7 @@
   {
     "asin": "B0H8FN4ZTC",
     "brand": "غير محدد",
-    "name": "Sensor Pressure Cooker, 10L, Stainless Steel - 500210",
+    "name": "Sensor قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -2927,7 +2927,7 @@
   {
     "asin": "B0H8H59LQX",
     "brand": "غير محدد",
-    "name": "cookware Bianca Pressure Cooker 12-liter-",
+    "name": "cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "cookware Bianca Pressure Cooker 12-liter-",
@@ -2947,7 +2947,7 @@
   {
     "asin": "B0H8HJN3NJ",
     "brand": "غير محدد",
-    "name": "cookware Bianca Pressure Cooker 10-liter -",
+    "name": "cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "cookware Bianca Pressure Cooker 10-liter -",
@@ -2967,7 +2967,7 @@
   {
     "asin": "B0H8FR1RSY",
     "brand": "غير محدد",
-    "name": "cookware Bianca Pressure Cooker 15-liter",
+    "name": "cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "cookware Bianca Pressure Cooker 15-liter",
@@ -2987,7 +2987,7 @@
   {
     "asin": "B0H8FRYZYP",
     "brand": "غير محدد",
-    "name": "cookware Bianca Pressure Cooker 12-liter-",
+    "name": "cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "cookware Bianca Pressure Cooker 12-liter-",
@@ -3007,7 +3007,7 @@
   {
     "asin": "B0H8FVNL34",
     "brand": "غير محدد",
-    "name": "cookware Bianca Pressure Cooker 12-liter-",
+    "name": "cookware قدر ضغط",
     "specs": {},
     "model": "",
     "title": "cookware Bianca Pressure Cooker 12-liter-",
@@ -3027,7 +3027,7 @@
   {
     "asin": "B0H5RF293S",
     "brand": "غير محدد",
-    "name": "Multifunctional Pressure Cooker – Large Pressure Cooker for Fast Cooking and Family Meal Preparation with",
+    "name": "قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Multifunctional Pressure Cooker – Large Pressure Cooker for Fast Cooking and Family Meal Preparation with High Efficiency (Litre, 7)",
@@ -3047,7 +3047,7 @@
   {
     "asin": "B0H8GWV19D",
     "brand": "غير محدد",
-    "name": "3.5Liters Multifunctional small pressure cooker non-stick quick soup MEDIUM Size 22 Cm -3.5Liters Multico",
+    "name": "35Liters قدر ضغط 3.5لتر",
     "specs": {
       "cap": "3.5"
     },
@@ -3069,7 +3069,7 @@
   {
     "asin": "B0FXN7LR9G",
     "brand": "Berghoff",
-    "name": "Berghoff 6 لتر",
+    "name": "LEO قدر ضغط 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -3091,7 +3091,7 @@
   {
     "asin": "B0922YXS8W",
     "brand": "ALZA",
-    "name": "ALZA 8 لتر",
+    "name": "ALZA قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -3113,7 +3113,7 @@
   {
     "asin": "B084HFQ1CG",
     "brand": "ALSAIF",
-    "name": "ALSAIF 10 لتر",
+    "name": "alsaif قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -3135,7 +3135,7 @@
   {
     "asin": "B0GZLSJ38D",
     "brand": "غير محدد",
-    "name": "Turkish Stainless Steel Pressure Cooker, Size 9, Silver",
+    "name": "قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Turkish Stainless Steel Pressure Cooker, Size 9, Silver",
@@ -3155,7 +3155,7 @@
   {
     "asin": "B0GXS3DK5T",
     "brand": "غير محدد",
-    "name": "viola Stainless Steel 304 18/10 Turkish 9 Liter Manual Pressure Cooker TÜV Austria Certified Fast Cooking",
+    "name": "قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -3177,7 +3177,7 @@
   {
     "asin": "B0CQGLKG6X",
     "brand": "غير محدد",
-    "name": "Al Saif Pressure Cooker, Aluminum 11L",
+    "name": "Al قدر ضغط 11لتر",
     "specs": {
       "cap": "11"
     },
@@ -3199,7 +3199,7 @@
   {
     "asin": "B0CRYPPW39",
     "brand": "homi",
-    "name": "homi 10 لتر",
+    "name": "Homi قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -3221,7 +3221,7 @@
   {
     "asin": "B084ZTXZGK",
     "brand": "غير محدد",
-    "name": "Trust Manual Pressure Cooker Aluminum, 24 Cm / 7 Liters, (Aby001), Silver, Pressure Pot, Fast Cooker, Ara",
+    "name": "قدر ضغط 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -3243,7 +3243,7 @@
   {
     "asin": "B091BMFYYL",
     "brand": "غير محدد",
-    "name": "Beyt Elezz Stainless Steel Manual Pressure Cookers, 12 Liter Capacity, Silver/Red",
+    "name": "قدر ضغط 12لتر",
     "specs": {
       "cap": "12"
     },
@@ -3265,7 +3265,7 @@
   {
     "asin": "B0924N1S98",
     "brand": "Nouval",
-    "name": "Nouval 8 لتر",
+    "name": "Nouval قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -3287,7 +3287,7 @@
   {
     "asin": "B0993RZ4YQ",
     "brand": "غير محدد",
-    "name": "Spanish pressure cooker 10 liter silver",
+    "name": "قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -3309,7 +3309,7 @@
   {
     "asin": "B091KJW514",
     "brand": "MAGEFESA",
-    "name": "MAGEFESA 8 لتر",
+    "name": "Magefesa قدر ضغط 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -3331,7 +3331,7 @@
   {
     "asin": "B091J6G9GH",
     "brand": "MAGEFESA",
-    "name": "MAGEFESA 10 لتر",
+    "name": "Magefesa قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -3353,7 +3353,7 @@
   {
     "asin": "B0H1XR1CXC",
     "brand": "غير محدد",
-    "name": "Denx Aluminum Pressure Cooker, 9 Liters, Silver, Fast Cooking, Even Heat Distribution, Advanced Safety Sy",
+    "name": "قدر ضغط 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -3375,7 +3375,7 @@
   {
     "asin": "B0854JH6WQ",
     "brand": "LCPUD",
-    "name": "Vegetable Steamer Basket,Stainless Steel Folding Steamer with Extending Removable Center Handle Insert fo",
+    "name": "Vegetable قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Vegetable Steamer Basket,Stainless Steel Folding Steamer with Extending Removable Center Handle Insert for Veggie Fish Seafood Cooking,Expandable to Fit Various Size Pot Pressure Cooker(5.5\" to 9\")",
@@ -3395,7 +3395,7 @@
   {
     "asin": "B0CJVNPJR1",
     "brand": "نينجا",
-    "name": "نينجا 5.7 لتر (ON400EUCP)",
+    "name": "نينجا قدر ضغط 5.7لتر",
     "specs": {
       "cap": "5.7"
     },
@@ -3417,7 +3417,7 @@
   {
     "asin": "B0H2KB99L3",
     "brand": "SEB",
-    "name": "Genuine SEB sensor Pressure cooker Green valve",
+    "name": "Genuine قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Genuine SEB sensor Pressure cooker Green valve",
@@ -3437,7 +3437,7 @@
   {
     "asin": "B0GXKZFJ5C",
     "brand": "غير محدد",
-    "name": "Generic Stainless Steel Pressure Cooker 10L Large Capacity With Safety Valve, Heavy Duty Thick Base For E",
+    "name": "قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -3459,7 +3459,7 @@
   {
     "asin": "B0H2ZW3Z55",
     "brand": "غير محدد",
-    "name": "10Liters Pressure cooker 10 liters Oxford red 051423 Red",
+    "name": "10Liters قدر ضغط 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -3481,7 +3481,7 @@
   {
     "asin": "B0FMJZBDYG",
     "brand": "Auvotuis",
-    "name": "Auvotuis 11\" Round Cooking Rack, 2 Pcs Stainless Steel Baking Cooling Steaming Grilling Rack for Air Frye",
+    "name": "Auvotuis قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Auvotuis 11\" Round Cooking Rack, 2 Pcs Stainless Steel Baking Cooling Steaming Grilling Rack for Air Fryer, Pressure Cooker, Cooking Enthusiasts",
@@ -3501,7 +3501,7 @@
   {
     "asin": "B09MKHX9F6",
     "brand": "غير محدد",
-    "name": "Round Cooking Rack, Baking Cooling Steaming Grilling Rack Stainless Steel, Fits Air Fryer/Stockpot/Pressu",
+    "name": "Round قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Round Cooking Rack, Baking Cooling Steaming Grilling Rack Stainless Steel, Fits Air Fryer/Stockpot/Pressure Cooker/Round Cake Pan, Oven & Dishwasher Safe (8.9Inch)",
@@ -3521,7 +3521,7 @@
   {
     "asin": "B0FMJ2WBW5",
     "brand": "غير محدد",
-    "name": "Small Appliance Covers - Set of 30 Disposable Thick Plastic Dust Covers Designed for Air Fryers, Blenders",
+    "name": "Small قدر ضغط",
     "specs": {},
     "model": "",
     "title": "Small Appliance Covers - Set of 30 Disposable Thick Plastic Dust Covers Designed for Air Fryers, Blenders, Ovens, Coffee Makers, Pressure Cookers, and Instant Pots to Keep Them Clean",

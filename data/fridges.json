@@ -2,7 +2,7 @@
   {
     "asin": "B0GLKPTJ9X",
     "brand": "يونيون إير",
-    "name": "يونيون إير 380 لتر ديفروست بابين",
+    "name": "يونيون ثلاجة 380لتر بابين",
     "specs": {
       "cap": "380",
       "type": "ديفروست",
@@ -26,7 +26,7 @@
   {
     "asin": "B0GZHBKZX4",
     "brand": "توشيبا",
-    "name": "توشيبا 338 لتر إنفرتر (RT468WE-PMN)",
+    "name": "توشيبا ثلاجة 338لتر إنفرتر",
     "specs": {
       "cap": "338",
       "type": "إنفرتر"
@@ -49,7 +49,7 @@
   {
     "asin": "B0FPG76BYN",
     "brand": "توشيبا",
-    "name": "توشيبا 338 لتر إنفرتر (STAINLESS)",
+    "name": "توشيبا ثلاجة 338لتر إنفرتر",
     "specs": {
       "cap": "338",
       "type": "إنفرتر"
@@ -72,7 +72,7 @@
   {
     "asin": "B0GZH841DC",
     "brand": "توشيبا",
-    "name": "توشيبا 411 لتر إنفرتر (RT559WE-PMN)",
+    "name": "توشيبا ثلاجة 411لتر إنفرتر",
     "specs": {
       "cap": "411",
       "type": "إنفرتر"
@@ -95,7 +95,7 @@
   {
     "asin": "B0DC97F1M6",
     "brand": "فريش",
-    "name": "فريش ديفروست بابين (B315BS)",
+    "name": "ثلاجة بابين ديفروست",
     "specs": {
       "type": "ديفروست",
       "door": "بابين"
@@ -118,7 +118,7 @@
   {
     "asin": "B0DHY73KKJ",
     "brand": "ميديا",
-    "name": "ميديا 310 لتر فريزر سفلي (MDRB424FGN46)",
+    "name": "ميديا ثلاجة 310لتر فريزرسفلي",
     "specs": {
       "cap": "310",
       "door": "فريزر سفلي"
@@ -141,7 +141,7 @@
   {
     "asin": "B0FGWF6QQ9",
     "brand": "ميديا",
-    "name": "ميديا 330 لتر نوفروست (MDRB489FGN46)",
+    "name": "ميديا ثلاجة 330لتر نوفروست",
     "specs": {
       "cap": "330",
       "type": "نوفروست"
@@ -164,7 +164,7 @@
   {
     "asin": "B0H4MCF7NK",
     "brand": "بيكو",
-    "name": "بيكو 400 لتر ديفروست",
+    "name": "بيكو ثلاجة 400لتر ديفروست",
     "specs": {
       "cap": "400",
       "type": "ديفروست"
@@ -187,7 +187,7 @@
   {
     "asin": "B0D5HPK58D",
     "brand": "ميديا",
-    "name": "ميديا 535 لتر إنفرتر (MDRT723MTN46D)",
+    "name": "ميديا ثلاجة 535لتر إنفرتر",
     "specs": {
       "cap": "535",
       "type": "إنفرتر"
@@ -210,7 +210,7 @@
   {
     "asin": "B0HCM6GR3Q",
     "brand": "توشيبا",
-    "name": "توشيبا 505 لتر نوفروست",
+    "name": "ميديا ثلاجة 505لتر نوفروست",
     "specs": {
       "cap": "505",
       "type": "نوفروست"
@@ -233,7 +233,7 @@
   {
     "asin": "B0HR335D5Z",
     "brand": "يونيون إير",
-    "name": "يونيون إير 350 لتر ديفروست",
+    "name": "يونيون ثلاجة 350لتر ديفروست",
     "specs": {
       "cap": "350",
       "type": "ديفروست"
@@ -256,7 +256,7 @@
   {
     "asin": "B0DVRLCP88",
     "brand": "ميديا",
-    "name": "ميديا 449 لتر نوفروست (MDRT645MTE06E)",
+    "name": "ميديا ثلاجة 449لتر نوفروست",
     "specs": {
       "cap": "449",
       "type": "نوفروست"
@@ -279,7 +279,7 @@
   {
     "asin": "B0DGTV5KX3",
     "brand": "بيكو",
-    "name": "بيكو 406 لتر إنفرتر",
+    "name": "بيكو ثلاجة 406لتر إنفرتر",
     "specs": {
       "cap": "406",
       "type": "إنفرتر"
@@ -302,7 +302,7 @@
   {
     "asin": "B0GTW4XZND",
     "brand": "سامسونج",
-    "name": "سامسونج 340 لتر نوفروست",
+    "name": "سامسونج ثلاجة 340لتر نوفروست",
     "specs": {
       "cap": "340",
       "type": "نوفروست"
@@ -325,7 +325,7 @@
   {
     "asin": "B0GNS967TD",
     "brand": "ميديا",
-    "name": "ميديا 680 لتر إنفرتر (MDRB905FIN46D)",
+    "name": "ميديا ثلاجة 680لتر إنفرتر",
     "specs": {
       "cap": "680",
       "type": "إنفرتر"
@@ -348,7 +348,7 @@
   {
     "asin": "B01J5KTMQI",
     "brand": "بوش",
-    "name": "بوش 302 لتر نوفروست فريزر سفلي (KGN36NL30U)",
+    "name": "بوش ثلاجة 302لتر فريزرسفلي",
     "specs": {
       "cap": "302",
       "type": "نوفروست",
@@ -372,7 +372,7 @@
   {
     "asin": "B0G2M8228K",
     "brand": "يونيون إير",
-    "name": "يونيون إير 350 لتر ديفروست بابين",
+    "name": "يونيون ثلاجة 350لتر بابين",
     "specs": {
       "cap": "350",
       "type": "ديفروست",
@@ -396,7 +396,7 @@
   {
     "asin": "B0DNNRDQH2",
     "brand": "توشيبا",
-    "name": "توشيبا 450 لتر إنفرتر (RT624WE-PGN)",
+    "name": "توشيبا ثلاجة 450لتر إنفرتر",
     "specs": {
       "cap": "450",
       "type": "إنفرتر"
@@ -419,7 +419,7 @@
   {
     "asin": "B0FJFK6S8Z",
     "brand": "بيكو",
-    "name": "بيكو 430 لتر نوفروست (RDNE455MK)",
+    "name": "بيكو ثلاجة 430لتر نوفروست",
     "specs": {
       "cap": "430",
       "type": "نوفروست"
@@ -442,7 +442,7 @@
   {
     "asin": "B0C3T5RFPP",
     "brand": "بوش",
-    "name": "بوش 483 لتر نوفروست (KGN55VI2E9)",
+    "name": "بوش ثلاجة 483لتر نوفروست",
     "specs": {
       "cap": "483",
       "type": "نوفروست"
@@ -465,7 +465,7 @@
   {
     "asin": "B0H6XGZW69",
     "brand": "بوش",
-    "name": "بوش 526 لتر نوفروست (KGN76CXEE8)",
+    "name": "بوش ثلاجة 526لتر نوفروست",
     "specs": {
       "cap": "526",
       "type": "نوفروست"
@@ -488,7 +488,7 @@
   {
     "asin": "B0GD7JMZHX",
     "brand": "توشيبا",
-    "name": "توشيبا 535 لتر إنفرتر (RT702WE-PMN)",
+    "name": "توشيبا ثلاجة 535لتر إنفرتر",
     "specs": {
       "cap": "535",
       "type": "إنفرتر"
@@ -511,7 +511,7 @@
   {
     "asin": "B0C3WMH9ML",
     "brand": "بوش",
-    "name": "بوش 453 لتر نوفروست (KDN55NL2E8)",
+    "name": "بوش ثلاجة 453لتر نوفروست",
     "specs": {
       "cap": "453",
       "type": "نوفروست"
@@ -534,7 +534,7 @@
   {
     "asin": "B0C3T5TZCD",
     "brand": "بوش",
-    "name": "بوش 631 لتر نوفروست (KGN86CI3E8)",
+    "name": "بوش ثلاجة 631لتر نوفروست",
     "specs": {
       "cap": "631",
       "type": "نوفروست"
@@ -557,7 +557,7 @@
   {
     "asin": "B091KKVVF8",
     "brand": "فريش",
-    "name": "فريش 253 لتر ديفروست (B275)",
+    "name": "ثلاجة 253لتر ديفروست",
     "specs": {
       "cap": "253",
       "type": "ديفروست"
@@ -580,7 +580,7 @@
   {
     "asin": "B0HCLS3YNY",
     "brand": "ميديا",
-    "name": "ميديا 379 لتر نوفروست",
+    "name": "ميديا ثلاجة 379لتر نوفروست",
     "specs": {
       "cap": "379",
       "type": "نوفروست"
@@ -603,7 +603,7 @@
   {
     "asin": "B0G2LM1NHC",
     "brand": "ميديا",
-    "name": "ميديا 338 لتر نوفروست (MDRT489MTN45)",
+    "name": "ميديا ثلاجة 338لتر نوفروست",
     "specs": {
       "cap": "338",
       "type": "نوفروست"
@@ -626,7 +626,7 @@
   {
     "asin": "B0GTZR9Q76",
     "brand": "يونيون إير",
-    "name": "يونيون إير 350 لتر نوفروست (R600A)",
+    "name": "يونيون ثلاجة 350لتر نوفروست",
     "specs": {
       "cap": "350",
       "type": "نوفروست"
@@ -649,7 +649,7 @@
   {
     "asin": "B0FN4STY58",
     "brand": "فريش",
-    "name": "فريش 369 لتر نوفروست (BS400BB)",
+    "name": "فريش ثلاجة 369لتر نوفروست",
     "specs": {
       "cap": "369",
       "type": "نوفروست"
@@ -672,7 +672,7 @@
   {
     "asin": "B0HL9KVFRK",
     "brand": "كريازي",
-    "name": "كريازي 370 لتر نوفروست (KH370LN/1)",
+    "name": "كريازي ثلاجة 370لتر نوفروست",
     "specs": {
       "cap": "370",
       "type": "نوفروست"
@@ -695,7 +695,7 @@
   {
     "asin": "B0CLVFTFLP",
     "brand": "كريازي",
-    "name": "كريازي 280 لتر ديفروست",
+    "name": "كريازي ثلاجة 280لتر ديفروست",
     "specs": {
       "cap": "280",
       "type": "ديفروست"
@@ -718,7 +718,7 @@
   {
     "asin": "B0GKY65L6Q",
     "brand": "فريش",
-    "name": "فريش 95 لتر",
+    "name": "فريش ثلاجة 95لتر",
     "specs": {
       "cap": "95"
     },
@@ -740,7 +740,7 @@
   {
     "asin": "B0C5N27DLT",
     "brand": "توشيبا",
-    "name": "توشيبا 338 لتر (RT468WE-DMN)",
+    "name": "توشيبا ثلاجة 338لتر",
     "specs": {
       "cap": "338"
     },
@@ -762,7 +762,7 @@
   {
     "asin": "B091NZ6HYD",
     "brand": "شارب",
-    "name": "شارب 384 لتر (PC48A)",
+    "name": "شارب ثلاجة 384لتر",
     "specs": {
       "cap": "384"
     },
@@ -784,7 +784,7 @@
   {
     "asin": "B0968XGD5X",
     "brand": "كريازي",
-    "name": "كريازي بابين (K28M)",
+    "name": "كريازي ثلاجة بابين",
     "specs": {
       "door": "بابين"
     },
@@ -806,7 +806,7 @@
   {
     "asin": "B0F5Y991H6",
     "brand": "يونيون إير",
-    "name": "يونيون إير 350 لتر",
+    "name": "يونيون ثلاجة 350لتر",
     "specs": {
       "cap": "350"
     },
@@ -828,7 +828,7 @@
   {
     "asin": "B0GMC9R64L",
     "brand": "بوش",
-    "name": "بوش 413 لتر (KDN47NLEE8)",
+    "name": "بوش ثلاجة 413لتر",
     "specs": {
       "cap": "413"
     },
@@ -850,7 +850,7 @@
   {
     "asin": "B0FQBWFMPG",
     "brand": "بيكو",
-    "name": "بيكو 440 لتر (RDSG550M20SEG)",
+    "name": "بيكو ثلاجة 440لتر",
     "specs": {
       "cap": "440"
     },
@@ -872,7 +872,7 @@
   {
     "asin": "B0D6NH5Z27",
     "brand": "يونيون إير",
-    "name": "يونيون إير 90 لتر (RS090BV1DH)",
+    "name": "يونيون ثلاجة 90لتر",
     "specs": {
       "cap": "90"
     },
@@ -894,7 +894,7 @@
   {
     "asin": "B0FJFTW349",
     "brand": "بيكو",
-    "name": "بيكو 465 لتر (RDSG550M20SEG)",
+    "name": "بيكو ثلاجة 465لتر",
     "specs": {
       "cap": "465"
     },
@@ -916,7 +916,7 @@
   {
     "asin": "B0D5HMMBCQ",
     "brand": "ميديا",
-    "name": "ميديا 411 لتر (MDRT580MTN46)",
+    "name": "ميديا ثلاجة 411لتر",
     "specs": {
       "cap": "411"
     },
@@ -938,7 +938,7 @@
   {
     "asin": "B0D5HMWX5K",
     "brand": "ميديا",
-    "name": "ميديا 338 لتر (MDRT489MTN46)",
+    "name": "ميديا ثلاجة 338لتر",
     "specs": {
       "cap": "338"
     },
@@ -960,7 +960,7 @@
   {
     "asin": "B0C4B6NJYY",
     "brand": "فريش",
-    "name": "فريش 329 لتر (BR370)",
+    "name": "فريش ثلاجة 329لتر",
     "specs": {
       "cap": "329"
     },
@@ -982,7 +982,7 @@
   {
     "asin": "B0C7LPJRDR",
     "brand": "بوش",
-    "name": "بوش 526 لتر (KGN76CI3E8)",
+    "name": "بوش ثلاجة 526لتر",
     "specs": {
       "cap": "526"
     },
@@ -1004,7 +1004,7 @@
   {
     "asin": "B0GKY8FWKC",
     "brand": "فريش",
-    "name": "Fresh Mini Bar Refrigerator Silver FMB-140",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "Fresh Mini Bar Refrigerator Silver FMB-140",
@@ -1024,7 +1024,7 @@
   {
     "asin": "B0GZH87FJY",
     "brand": "ميديا",
-    "name": "Midea Refrigerator MDRT580MTN46D, Multi-Air Flow, Humidity Control, Pull-out Tray Electronic Control, Sup",
+    "name": "ميديا ثلاجة",
     "specs": {},
     "model": "MDRT580MTN46D",
     "title": "Midea Refrigerator MDRT580MTN46D, Multi-Air Flow, Humidity Control, Pull-out Tray Electronic Control, Super Cooling, 2L Bottle Rack, 2D 411L Bro Steel",
@@ -1044,7 +1044,7 @@
   {
     "asin": "B09JSG6G2G",
     "brand": "بوش",
-    "name": "Bosch Serie | 4,KDN55NL2E8 free-standing fridge-freezer with freezer at top",
+    "name": "بوش ثلاجة",
     "specs": {},
     "model": "KDN55NL2E8",
     "title": "Bosch Serie | 4,KDN55NL2E8 free-standing fridge-freezer with freezer at top",
@@ -1064,7 +1064,7 @@
   {
     "asin": "B0GKY96CYF",
     "brand": "فريش",
-    "name": "Fresh Mini Bar Refrigerator Silver FMB-70",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "Fresh Mini Bar Refrigerator Silver FMB-70",
@@ -1084,7 +1084,7 @@
   {
     "asin": "B091NYZBZL",
     "brand": "كريازي",
-    "name": "Kiriazi E450 Twin Turbo Refrigerator - Led",
+    "name": "كريازي ثلاجة",
     "specs": {},
     "model": "E450",
     "title": "Kiriazi E450 Twin Turbo Refrigerator - Led",
@@ -1104,7 +1104,7 @@
   {
     "asin": "B0G2X41VMS",
     "brand": "فريش",
-    "name": "Fresh Refrigerator Digital Stainless FNT-M470YT - FLD 4O",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "M470YT",
     "title": "Fresh Refrigerator Digital Stainless FNT-M470YT - FLD 4O",
@@ -1124,7 +1124,7 @@
   {
     "asin": "B0FHYJLLJ4",
     "brand": "غير محدد",
-    "name": "Union RD-350VV Smart Digital Refrigerator 350 Liter Silver Inner Handle Defrost",
+    "name": "ثلاجة 350لتر ديفروست",
     "specs": {
       "cap": "350",
       "type": "ديفروست"
@@ -1147,7 +1147,7 @@
   {
     "asin": "B0G26MM8DN",
     "brand": "غير محدد",
-    "name": "Hamburg Defrost Refrigerator, 11 Feet, 2 Doors, Silver, FB-30S",
+    "name": "ثلاجة بابين ديفروست",
     "specs": {
       "type": "ديفروست",
       "door": "بابين"
@@ -1170,7 +1170,7 @@
   {
     "asin": "B0BS1FZW9Z",
     "brand": "غير محدد",
-    "name": "White Whale WR-4385 HBX 2 Door Refrigerator With 430 Liter Capacity - Black",
+    "name": "ثلاجة 430لتر بابين",
     "specs": {
       "cap": "430",
       "door": "بابين"
@@ -1193,7 +1193,7 @@
   {
     "asin": "B0G26GSG86",
     "brand": "غير محدد",
-    "name": "Hamburg Defrost Refrigerator, 12 Feet, 2 Doors, Silver, FB-32S",
+    "name": "ثلاجة بابين ديفروست",
     "specs": {
       "type": "ديفروست",
       "door": "بابين"
@@ -1216,7 +1216,7 @@
   {
     "asin": "B0CQXR5SYZ",
     "brand": "غير محدد",
-    "name": "Union RD-350B-D 2 Door Refrigerator D-Frost 350L Digital Control Display",
+    "name": "Union ثلاجة 350لتر بابين",
     "specs": {
       "cap": "350",
       "door": "بابين"
@@ -1239,7 +1239,7 @@
   {
     "asin": "B0FHYQHZH8",
     "brand": "غير محدد",
-    "name": "ثلاجه نوفروست يونيون اير 330 لتر ديجتال باباسود زجاج URN-400LB تحكم تاتش",
+    "name": "ثلاجة 330لتر نوفروست",
     "specs": {
       "cap": "330",
       "type": "نوفروست"
@@ -1262,7 +1262,7 @@
   {
     "asin": "B08WT39GCF",
     "brand": "غير محدد",
-    "name": "Passap- fg200l- mini bar refrigerator -146 l - 6 ft - silver",
+    "name": "ثلاجة 200لتر",
     "specs": {
       "cap": "200"
     },
@@ -1284,7 +1284,7 @@
   {
     "asin": "B0H9RFBQD1",
     "brand": "Galanz",
-    "name": "Galanz 97 لتر",
+    "name": "Galanz ثلاجة 97لتر",
     "specs": {
       "cap": "97"
     },
@@ -1306,7 +1306,7 @@
   {
     "asin": "B0CK5TPSQ4",
     "brand": "IDEAL",
-    "name": "IDEAL ديفروست",
+    "name": "Ideal ثلاجة ديفروست",
     "specs": {
       "type": "ديفروست"
     },
@@ -1328,7 +1328,7 @@
   {
     "asin": "B08WJNL1QM",
     "brand": "غير محدد",
-    "name": "W.Alaska KSD25 233 Liter Refrigerator Two Doors- 8 Feet, Silver",
+    "name": "ثلاجة 233لتر",
     "specs": {
       "cap": "233"
     },
@@ -1350,7 +1350,7 @@
   {
     "asin": "B0BBW782XR",
     "brand": "غير محدد",
-    "name": "White Whale Refrigerator 430L Silver WR-4385HSS",
+    "name": "ثلاجة 430لتر",
     "specs": {
       "cap": "430"
     },
@@ -1372,7 +1372,7 @@
   {
     "asin": "B08Z5ZTMX6",
     "brand": "غير محدد",
-    "name": "HAMBURG FB15 Mini Bar Refrigerator 140 Liters - Silver",
+    "name": "ثلاجة 140لتر",
     "specs": {
       "cap": "140"
     },
@@ -1394,7 +1394,7 @@
   {
     "asin": "B0BZ5B948D",
     "brand": "غير محدد",
-    "name": "PENGUIN - FG330L-2D SMART Top Mount Refrigerator - 303 L -Silver 11 Ft",
+    "name": "ثلاجة 330لتر",
     "specs": {
       "cap": "330"
     },
@@ -1416,7 +1416,7 @@
   {
     "asin": "B09M4R5B3M",
     "brand": "WAlaska",
-    "name": "WAlaska 233 لتر (KSD25-8)",
+    "name": "W ثلاجة 233لتر",
     "specs": {
       "cap": "233"
     },
@@ -1438,7 +1438,7 @@
   {
     "asin": "B0HMP6JH91",
     "brand": "غير محدد",
-    "name": "Mini Refrigerator with Clear Glass Door, 29 Liter Capacity, 55 Watts | Direct cooling, indoor racks organ",
+    "name": "Mini ثلاجة",
     "specs": {},
     "model": "",
     "title": "Mini Refrigerator with Clear Glass Door, 29 Liter Capacity, 55 Watts | Direct cooling, indoor racks organized, suitable for office and hotel, compact size, low power consumption",
@@ -1458,7 +1458,7 @@
   {
     "asin": "B0FP417DJ4",
     "brand": "غير محدد",
-    "name": "Mini Fridge - 12V + 220V - Quick Cooling & Heating - Perfect for Travel & Office, 4 Liters, Lightweight a",
+    "name": "Mini ثلاجة",
     "specs": {},
     "model": "",
     "title": "Mini Fridge - 12V + 220V - Quick Cooling & Heating - Perfect for Travel & Office, 4 Liters, Lightweight and Easy to Carry, Drink Guarantee Generic",
@@ -1478,7 +1478,7 @@
   {
     "asin": "B09V1W9N92",
     "brand": "غير محدد",
-    "name": "D-FROST 10 CFT Single Door Refrigerator - Alaska - KS27 (Silver)",
+    "name": "ثلاجة",
     "specs": {},
     "model": "SILVER",
     "title": "D-FROST 10 CFT Single Door Refrigerator - Alaska - KS27 (Silver)",
@@ -1498,7 +1498,7 @@
   {
     "asin": "B0HLWB36LJ",
     "brand": "DENX",
-    "name": "DENX DX4502 Mini Refrigerator 48L, Compact Direct Cooling Fridge, 55W Energy Efficient Mini Fridge, Quiet",
+    "name": "DENX ثلاجة",
     "specs": {},
     "model": "DX4502",
     "title": "DENX DX4502 Mini Refrigerator 48L, Compact Direct Cooling Fridge, 55W Energy Efficient Mini Fridge, Quiet Operation, Metal Body, Adjustable Shelves, Glass Door for Home, Office & Dorm",
@@ -1518,7 +1518,7 @@
   {
     "asin": "B0HL4TNHQH",
     "brand": "غير محدد",
-    "name": "4L Portable Mini Fridge for Travel, Trip and Camping",
+    "name": "4L ثلاجة",
     "specs": {},
     "model": "",
     "title": "4L Portable Mini Fridge for Travel, Trip and Camping",
@@ -1538,7 +1538,7 @@
   {
     "asin": "B0CWLX4NL2",
     "brand": "غير محدد",
-    "name": "Refrigerator 12 Feet Fresh Silver FDD-B315BS",
+    "name": "ثلاجة",
     "specs": {},
     "model": "B315BS",
     "title": "Refrigerator 12 Feet Fresh Silver FDD-B315BS",
@@ -1558,7 +1558,7 @@
   {
     "asin": "B08WJN35RB",
     "brand": "غير محدد",
-    "name": "W.ALASKA KSD 29 - Top Mount Refrigerator - 10 Ft - Silver",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "W.ALASKA KSD 29 - Top Mount Refrigerator - 10 Ft - Silver",
@@ -1578,7 +1578,7 @@
   {
     "asin": "B0DNL9S2DM",
     "brand": "عام",
-    "name": "Union 500 model refrigerator, 370-liter capacity, no-frost combi",
+    "name": "Union ثلاجة",
     "specs": {},
     "model": "",
     "title": "Union 500 model refrigerator, 370-liter capacity, no-frost combi",
@@ -1598,7 +1598,7 @@
   {
     "asin": "B0GZWLY2DN",
     "brand": "سامسونج",
-    "name": "سامسونج 659 لتر نوفروست بابين",
+    "name": "سامسونج ثلاجة 659لتر بابين",
     "specs": {
       "cap": "659",
       "type": "نوفروست",
@@ -1622,7 +1622,7 @@
   {
     "asin": "B09VMLCTDH",
     "brand": "بيكو",
-    "name": "بيكو 560 لتر نوفروست بابين (RCNE560E35ZGB)",
+    "name": "بيكو ثلاجة 560لتر بابين",
     "specs": {
       "cap": "560",
       "type": "نوفروست",
@@ -1646,7 +1646,7 @@
   {
     "asin": "B091NXC1HS",
     "brand": "شارب",
-    "name": "شارب 340 لتر نوفروست بابين",
+    "name": "شارب ثلاجة 340لتر بابين",
     "specs": {
       "cap": "340",
       "type": "نوفروست",
@@ -1670,7 +1670,7 @@
   {
     "asin": "B00OLJI19I",
     "brand": "تورنيدو",
-    "name": "تورنيدو 430 لتر نوفروست فريزر سفلي",
+    "name": "تورنيدو ثلاجة 430لتر فريزرسفلي",
     "specs": {
       "cap": "430",
       "type": "نوفروست",
@@ -1694,7 +1694,7 @@
   {
     "asin": "B0C3TJB43M",
     "brand": "بوش",
-    "name": "بوش 631 لتر نوفروست بابين (KGN86CI3E8)",
+    "name": "بوش ثلاجة 631لتر بابين",
     "specs": {
       "cap": "631",
       "type": "نوفروست",
@@ -1718,7 +1718,7 @@
   {
     "asin": "B0DVTJ196V",
     "brand": "هيتاشي",
-    "name": "هيتاشي 590 لتر إنفرتر فريزر سفلي (B590EY2R)",
+    "name": "هيتاشي ثلاجة 590لتر فريزرسفلي",
     "specs": {
       "cap": "590",
       "type": "إنفرتر",
@@ -1742,7 +1742,7 @@
   {
     "asin": "B0CQWBTF1R",
     "brand": "بيكو",
-    "name": "بيكو 477 لتر إنفرتر بابين",
+    "name": "بيكو ثلاجة 477لتر بابين",
     "specs": {
       "cap": "477",
       "type": "إنفرتر",
@@ -1766,7 +1766,7 @@
   {
     "asin": "B0FPG6HGXP",
     "brand": "توشيبا",
-    "name": "توشيبا 411 لتر إنفرتر (STAINLESS)",
+    "name": "توشيبا ثلاجة 411لتر إنفرتر",
     "specs": {
       "cap": "411",
       "type": "إنفرتر"
@@ -1789,7 +1789,7 @@
   {
     "asin": "B0C26ZN9SZ",
     "brand": "بيكو",
-    "name": "بيكو 565 لتر إنفرتر (GNE134626ZXH)",
+    "name": "بيكو ثلاجة 565لتر إنفرتر",
     "specs": {
       "cap": "565",
       "type": "إنفرتر"
@@ -1814,7 +1814,7 @@
   {
     "asin": "B0GZHF4WJB",
     "brand": "ميديا",
-    "name": "ميديا 338 لتر إنفرتر (MDRT489MTN46D)",
+    "name": "ميديا ثلاجة 338لتر إنفرتر",
     "specs": {
       "cap": "338",
       "type": "إنفرتر"
@@ -1837,7 +1837,7 @@
   {
     "asin": "B0H6C15SRG",
     "brand": "يونيون إير",
-    "name": "يونيون إير 350 لتر نوفروست",
+    "name": "يونيون ثلاجة 350لتر نوفروست",
     "specs": {
       "cap": "350",
       "type": "نوفروست"
@@ -1860,7 +1860,7 @@
   {
     "asin": "B0C547P5LJ",
     "brand": "بوش",
-    "name": "بوش 505 لتر نوفروست (KGN56LB3E9)",
+    "name": "بوش ثلاجة 505لتر نوفروست",
     "specs": {
       "cap": "505",
       "type": "نوفروست"
@@ -1883,7 +1883,7 @@
   {
     "asin": "B0DXR33SR5",
     "brand": "توشيبا",
-    "name": "توشيبا 450 لتر نوفروست (RT622WE-PMN)",
+    "name": "توشيبا ثلاجة 450لتر نوفروست",
     "specs": {
       "cap": "450",
       "type": "نوفروست"
@@ -1906,7 +1906,7 @@
   {
     "asin": "B0101SIG88",
     "brand": "تورنيدو",
-    "name": "تورنيدو 395 لتر نوفروست",
+    "name": "تورنيدو ثلاجة 395لتر نوفروست",
     "specs": {
       "cap": "395",
       "type": "نوفروست"
@@ -1929,7 +1929,7 @@
   {
     "asin": "B0FPQQZ614",
     "brand": "بيكو",
-    "name": "بيكو 390 لتر ديفروست (RDNE420KD)",
+    "name": "بيكو ثلاجة 390لتر ديفروست",
     "specs": {
       "cap": "390",
       "type": "ديفروست"
@@ -1952,7 +1952,7 @@
   {
     "asin": "B0DSJKJB1J",
     "brand": "إل جي",
-    "name": "إل جي 547 لتر إنفرتر (C752HQCL)",
+    "name": "إل جي ثلاجة 547لتر",
     "specs": {
       "cap": "547",
       "type": "إنفرتر"
@@ -1975,7 +1975,7 @@
   {
     "asin": "B0BR2MK39C",
     "brand": "بيكو",
-    "name": "بيكو نوفروست بابين (COMBI)",
+    "name": "بيكو ثلاجة بابين نوفروست",
     "specs": {
       "type": "نوفروست",
       "door": "بابين"
@@ -1998,7 +1998,7 @@
   {
     "asin": "B0GCXQFM17",
     "brand": "هيتاشي",
-    "name": "هيتاشي 477 لتر نوفروست (V506EY2R)",
+    "name": "هيتاشي ثلاجة 477لتر نوفروست",
     "specs": {
       "cap": "477",
       "type": "نوفروست"
@@ -2021,7 +2021,7 @@
   {
     "asin": "B0D9H46FRY",
     "brand": "هاير",
-    "name": "هاير 433 لتر إنفرتر (SILVER)",
+    "name": "هاير ثلاجة 433لتر إنفرتر",
     "specs": {
       "cap": "433",
       "type": "إنفرتر"
@@ -2044,7 +2044,7 @@
   {
     "asin": "B0BH9WVVNJ",
     "brand": "توشيبا",
-    "name": "توشيبا 304 لتر نوفروست (EF33-T-SL)",
+    "name": "توشيبا ثلاجة 304لتر نوفروست",
     "specs": {
       "cap": "304",
       "type": "نوفروست"
@@ -2067,7 +2067,7 @@
   {
     "asin": "B09R267LD5",
     "brand": "بيكو",
-    "name": "بيكو 650 لتر بابين (RDNE650E60XP)",
+    "name": "بيكو ثلاجة 650لتر بابين",
     "specs": {
       "cap": "650",
       "door": "بابين"
@@ -2090,7 +2090,7 @@
   {
     "asin": "B0DVTQM47D",
     "brand": "هيتاشي",
-    "name": "هيتاشي 650 لتر نوفروست (V650EY2R)",
+    "name": "هيتاشي ثلاجة 650لتر نوفروست",
     "specs": {
       "cap": "650",
       "type": "نوفروست"
@@ -2113,7 +2113,7 @@
   {
     "asin": "B0HP7V4BF8",
     "brand": "شارب",
-    "name": "شارب 450 لتر نوفروست",
+    "name": "شارب ثلاجة 450لتر نوفروست",
     "specs": {
       "cap": "450",
       "type": "نوفروست"
@@ -2136,7 +2136,7 @@
   {
     "asin": "B0G22LHRBZ",
     "brand": "يونيون إير",
-    "name": "يونيون إير 370 لتر بابين",
+    "name": "يونيون ثلاجة 370لتر بابين",
     "specs": {
       "cap": "370",
       "door": "بابين"
@@ -2159,7 +2159,7 @@
   {
     "asin": "B0DH4VM2XK",
     "brand": "وايت بوينت",
-    "name": "وايت بوينت 310 لتر نوفروست (WPR343S)",
+    "name": "وايت ثلاجة 310لتر نوفروست",
     "specs": {
       "cap": "310",
       "type": "نوفروست"
@@ -2182,7 +2182,7 @@
   {
     "asin": "B091TX6N9C",
     "brand": "ميديا",
-    "name": "ميديا 489 لتر بابين (MDRT489MTE46)",
+    "name": "ميديا ثلاجة 489لتر بابين",
     "specs": {
       "cap": "489",
       "door": "بابين"
@@ -2205,7 +2205,7 @@
   {
     "asin": "B0GRQVZDP1",
     "brand": "فريش",
-    "name": "فريش 357 لتر بابين (BS400BS)",
+    "name": "ثلاجة 357لتر بابين",
     "specs": {
       "cap": "357",
       "door": "بابين"
@@ -2228,7 +2228,7 @@
   {
     "asin": "B0GZH9ZNHM",
     "brand": "ميديا",
-    "name": "ميديا 338 لتر نوفروست (MDRT489MTN45D)",
+    "name": "ميديا ثلاجة 338لتر نوفروست",
     "specs": {
       "cap": "338",
       "type": "نوفروست"
@@ -2251,7 +2251,7 @@
   {
     "asin": "B0GHJXBNZP",
     "brand": "توشيبا",
-    "name": "توشيبا 696 لتر إنفرتر (RF895WIA-)",
+    "name": "توشيبا ثلاجة 696لتر إنفرتر",
     "specs": {
       "cap": "696",
       "type": "إنفرتر"
@@ -2274,7 +2274,7 @@
   {
     "asin": "B092329NB9",
     "brand": "وايت بوينت",
-    "name": "وايت بوينت 91 لتر",
+    "name": "وايت ثلاجة 91لتر",
     "specs": {
       "cap": "91"
     },
@@ -2296,7 +2296,7 @@
   {
     "asin": "B091J5W8PL",
     "brand": "بوش",
-    "name": "بوش نوفروست (KDN43NL2E8)",
+    "name": "بوش ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -2318,7 +2318,7 @@
   {
     "asin": "B0BZDNMHCM",
     "brand": "بيكو",
-    "name": "بيكو 565 لتر (GNE134626BH)",
+    "name": "بيكو ثلاجة 565لتر",
     "specs": {
       "cap": "565"
     },
@@ -2340,7 +2340,7 @@
   {
     "asin": "B0DTG93673",
     "brand": "ميديا",
-    "name": "ميديا 535 لتر (MDRT723MTN46D)",
+    "name": "ميديا ثلاجة 535لتر",
     "specs": {
       "cap": "535"
     },
@@ -2362,7 +2362,7 @@
   {
     "asin": "B0C53L23W1",
     "brand": "بوش",
-    "name": "بوش 505 لتر (KGN56LB3E9)",
+    "name": "بوش ثلاجة 505لتر",
     "specs": {
       "cap": "505"
     },
@@ -2384,7 +2384,7 @@
   {
     "asin": "B09Q2KP342",
     "brand": "بيكو",
-    "name": "بيكو 430 لتر (RDNE430K02DX)",
+    "name": "بيكو ثلاجة 430لتر",
     "specs": {
       "cap": "430"
     },
@@ -2406,7 +2406,7 @@
   {
     "asin": "B09VM83FXZ",
     "brand": "بيكو",
-    "name": "بيكو 120 لتر (TSE12340B)",
+    "name": "بيكو ثلاجة 120لتر",
     "specs": {
       "cap": "120"
     },
@@ -2430,7 +2430,7 @@
   {
     "asin": "B093G6D8RX",
     "brand": "كريازي",
-    "name": "كريازي نوفروست (E500)",
+    "name": "كريازي ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -2452,7 +2452,7 @@
   {
     "asin": "B0GZWDKLZR",
     "brand": "سامسونج",
-    "name": "سامسونج 641 لتر",
+    "name": "سامسونج ثلاجة 641لتر",
     "specs": {
       "cap": "641"
     },
@@ -2474,7 +2474,7 @@
   {
     "asin": "B091NZ6LJP",
     "brand": "كريازي",
-    "name": "كريازي نوفروست (N625/1)",
+    "name": "كريازي ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -2496,7 +2496,7 @@
   {
     "asin": "B09Q5MQCHR",
     "brand": "بيكو",
-    "name": "بيكو 560 لتر (COMBI)",
+    "name": "بيكو ثلاجة 560لتر",
     "specs": {
       "cap": "560"
     },
@@ -2518,7 +2518,7 @@
   {
     "asin": "B091NYXPKR",
     "brand": "كريازي",
-    "name": "كريازي بابين",
+    "name": "كريازي ثلاجة بابين",
     "specs": {
       "door": "بابين"
     },
@@ -2540,7 +2540,7 @@
   {
     "asin": "B0DFWT2FWH",
     "brand": "فريش",
-    "name": "فريش 470 لتر (BS470BT)",
+    "name": "فريش ثلاجة 470لتر",
     "specs": {
       "cap": "470"
     },
@@ -2562,7 +2562,7 @@
   {
     "asin": "B09QT3FMNX",
     "brand": "بيكو",
-    "name": "بيكو 314 لتر (RDNE340K02XB)",
+    "name": "بيكو ثلاجة 314لتر",
     "specs": {
       "cap": "314"
     },
@@ -2584,7 +2584,7 @@
   {
     "asin": "B0DJMCYH3B",
     "brand": "بوش",
-    "name": "Bosch, Series 2, free-standing fridge-freezer with freezer at top, 178 x 70 cm, Stainless steel look",
+    "name": "بوش ثلاجة",
     "specs": {},
     "model": "",
     "title": "Bosch, Series 2, free-standing fridge-freezer with freezer at top, 178 x 70 cm, Stainless steel look",
@@ -2604,7 +2604,7 @@
   {
     "asin": "B093G3MNLW",
     "brand": "كريازي",
-    "name": "Kiriazi K 330/1 Refrigerator, 12 Feet - White",
+    "name": "كريازي ثلاجة",
     "specs": {},
     "model": "",
     "title": "Kiriazi K 330/1 Refrigerator, 12 Feet - White",
@@ -2624,7 +2624,7 @@
   {
     "asin": "B09NW9SYXN",
     "brand": "إل جي",
-    "name": "LG -Refrigerator GC-B257SLWL - UltraSleek Door, 23 Cubic Feet",
+    "name": "إل جي ثلاجة",
     "specs": {},
     "model": "B257SLWL",
     "title": "LG -Refrigerator GC-B257SLWL - UltraSleek Door, 23 Cubic Feet",
@@ -2644,7 +2644,7 @@
   {
     "asin": "B0D8TTYTGY",
     "brand": "فريش",
-    "name": "Fresh Mini Bar Refrigerator Black FDDB137B",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "FDDB137B",
     "title": "Fresh Mini Bar Refrigerator Black FDDB137B",
@@ -2664,7 +2664,7 @@
   {
     "asin": "B08WJMN19J",
     "brand": "إل جي",
-    "name": "LG Gr-F822Hlhu Refrigerator -27Feet, Silver",
+    "name": "إل جي ثلاجة",
     "specs": {},
     "model": "F822HLHU",
     "title": "LG Gr-F822Hlhu Refrigerator -27Feet, Silver",
@@ -2684,7 +2684,7 @@
   {
     "asin": "B0GSZCNN9N",
     "brand": "فريش",
-    "name": "Fresh Refrigerator Mechanical Black FNT-B470BBC - FLD 4O",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "B470BBC",
     "title": "Fresh Refrigerator Mechanical Black FNT-B470BBC - FLD 4O",
@@ -2704,7 +2704,7 @@
   {
     "asin": "B0BS1G9W4B",
     "brand": "غير محدد",
-    "name": "White Whale WR-5395 HBX 2 Door Inverter Refrigerator With 540 Liter Capacity - Black",
+    "name": "ثلاجة 540لتر بابين إنفرتر",
     "specs": {
       "cap": "540",
       "type": "إنفرتر",
@@ -2728,7 +2728,7 @@
   {
     "asin": "B0G26MP6DG",
     "brand": "غير محدد",
-    "name": "Defrost Hamburg Refrigerator, 14 Feet, 2 Doors, 350 Liters, SR350 - Silver",
+    "name": "ثلاجة 350لتر بابين ديفروست",
     "specs": {
       "cap": "350",
       "type": "ديفروست",
@@ -2752,7 +2752,7 @@
   {
     "asin": "B0HNWL35BX",
     "brand": "غير محدد",
-    "name": "Passap Turkish Nofrost Refrigerator - 403 L - 18 Ft - Silver - FGV-480 DIGITAL",
+    "name": "ثلاجة 403لتر نوفروست",
     "specs": {
       "cap": "403",
       "type": "نوفروست"
@@ -2775,7 +2775,7 @@
   {
     "asin": "B0D46ZCY4J",
     "brand": "غير محدد",
-    "name": "White Whale WR-G4385 HBV Digital Inverter 2 Glass Door Refrigerator, 430 Liter Capacity, Black",
+    "name": "ثلاجة 430لتر إنفرتر",
     "specs": {
       "cap": "430",
       "type": "إنفرتر"
@@ -2798,7 +2798,7 @@
   {
     "asin": "B0CTXKPBCY",
     "brand": "غير محدد",
-    "name": "ثلاجة ايديال سوبر جامبو 11قدم 320لتر -ديفروست أبيض -مقبض داخلى",
+    "name": "ثلاجة 320لتر ديفروست",
     "specs": {
       "cap": "320",
       "type": "ديفروست"
@@ -2821,7 +2821,7 @@
   {
     "asin": "B0GJTVY29H",
     "brand": "غير محدد",
-    "name": "Combi Refrigerator 545 Liter No Frost Digital Inverter Glass Black Yun Yun URN-800CEPBLG1A-DXHIRBXXLS",
+    "name": "Combi ثلاجة 545لتر نوفروست",
     "specs": {
       "cap": "545",
       "type": "نوفروست"
@@ -2844,7 +2844,7 @@
   {
     "asin": "B0HNWKYH4S",
     "brand": "Passap",
-    "name": "Passap 451 لتر نوفروست",
+    "name": "Passap ثلاجة 451لتر نوفروست",
     "specs": {
       "cap": "451",
       "type": "نوفروست"
@@ -2867,7 +2867,7 @@
   {
     "asin": "B0GJTHJXXZ",
     "brand": "غير محدد",
-    "name": "Combi Refrigerator 505 Liter Yun Yun No Frost Digital Black Glass URN-700CLBLG1A-DTXHRBXLN",
+    "name": "Combi ثلاجة 505لتر نوفروست",
     "specs": {
       "cap": "505",
       "type": "نوفروست"
@@ -2890,7 +2890,7 @@
   {
     "asin": "B0CNTR687M",
     "brand": "Heinrichs",
-    "name": "Heinrichs 519 لتر",
+    "name": "Heinrichs ثلاجة 519لتر",
     "specs": {
       "cap": "519"
     },
@@ -2912,7 +2912,7 @@
   {
     "asin": "B0CP6B26XZ",
     "brand": "Heinrichs",
-    "name": "Heinrichs 62 لتر",
+    "name": "Heinrichs ثلاجة 62لتر",
     "specs": {
       "cap": "62"
     },
@@ -2934,7 +2934,7 @@
   {
     "asin": "B08WT1TX7W",
     "brand": "غير محدد",
-    "name": "Passap Fg390l top mount refrigerator - 340 l - 14 ft - silver",
+    "name": "ثلاجة 390لتر",
     "specs": {
       "cap": "390"
     },
@@ -2956,7 +2956,7 @@
   {
     "asin": "B0CHK48FLW",
     "brand": "غير محدد",
-    "name": "White Whale WR-R4K Mini Bar Refrigerator 90 Liter, Black",
+    "name": "ثلاجة 90لتر",
     "specs": {
       "cap": "90"
     },
@@ -2978,7 +2978,7 @@
   {
     "asin": "B0HLWDS8FK",
     "brand": "DENX",
-    "name": "DENX DX4501 Mini Refrigerator 29L, Compact Direct Cooling Fridge, 55W Low Power, Mechanical Temperature C",
+    "name": "DENX ثلاجة",
     "specs": {},
     "model": "DX4501",
     "title": "DENX DX4501 Mini Refrigerator 29L, Compact Direct Cooling Fridge, 55W Low Power, Mechanical Temperature Control, Metal Door, Small Refrigerator for Home, Office & Dorm",
@@ -2998,7 +2998,7 @@
   {
     "asin": "B0D3GJ23RG",
     "brand": "WILNIRY",
-    "name": "2 Pack Refrigerator Door Lock, Child Proof Fridge Door Lock for Kitchen Freezer, Cabinets and Drawers, Cl",
+    "name": "ثلاجة",
     "specs": {},
     "model": "PATENT",
     "title": "2 Pack Refrigerator Door Lock, Child Proof Fridge Door Lock for Kitchen Freezer, Cabinets and Drawers, Closets, Windows, Doors-No Tools Need or Drill (Patent) (2 pcs Lock White)",
@@ -3018,7 +3018,7 @@
   {
     "asin": "B0DNMWH7WH",
     "brand": "WAlaska",
-    "name": "DE-FROST 12 FEET REFRIGERATOR - ALASKA - KSD335 (Black)",
+    "name": "DE-FROST ثلاجة",
     "specs": {},
     "model": "BLACK",
     "title": "DE-FROST 12 FEET REFRIGERATOR - ALASKA - KSD335 (Black)",
@@ -3038,7 +3038,7 @@
   {
     "asin": "B09232DPTH",
     "brand": "غير محدد",
-    "name": "PENGUIN Mini Bar Refrigerator-150L-FG200 silver-6ft",
+    "name": "ثلاجة 150لتر",
     "specs": {
       "cap": "150"
     },
@@ -3060,7 +3060,7 @@
   {
     "asin": "B0GZSCB3LR",
     "brand": "ميديا",
-    "name": "ميديا إنفرتر (DRT580MTN45D)",
+    "name": "ميديا ثلاجة إنفرتر",
     "specs": {
       "type": "إنفرتر"
     },
@@ -3082,7 +3082,7 @@
   {
     "asin": "B0GKYMFYFL",
     "brand": "فريش",
-    "name": "Fresh Mini Bar Refrigerator Black FMB-70",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "",
     "title": "Fresh Mini Bar Refrigerator Black FMB-70",
@@ -3102,7 +3102,7 @@
   {
     "asin": "B098TXGQR8",
     "brand": "IDEAL",
-    "name": "IDEAL ديفروست",
+    "name": "Ideal ثلاجة ديفروست",
     "specs": {
       "type": "ديفروست"
     },
@@ -3124,7 +3124,7 @@
   {
     "asin": "B0CJ7Z68ZX",
     "brand": "فريش",
-    "name": "فريش 329 لتر نوفروست بابين",
+    "name": "فريش ثلاجة 329لتر بابين",
     "specs": {
       "cap": "329",
       "type": "نوفروست",
@@ -3148,7 +3148,7 @@
   {
     "asin": "B0H9R966TZ",
     "brand": "Galanz",
-    "name": "Galanz 97 لتر",
+    "name": "Galanz ثلاجة 97لتر",
     "specs": {
       "cap": "97"
     },
@@ -3170,7 +3170,7 @@
   {
     "asin": "B0GLKSYXB8",
     "brand": "يونيون إير",
-    "name": "يونيون إير 90 لتر ديفروست",
+    "name": "ثلاجة 90لتر ديفروست",
     "specs": {
       "cap": "90",
       "type": "ديفروست"
@@ -3193,7 +3193,7 @@
   {
     "asin": "B0BGR4JX3F",
     "brand": "CROWNFUL",
-    "name": "CROWNFUL Mini Fridge, 4 Liter/6 Can Portable Cooler and Warmer Personal Fridge for Skin Care, Cosmetics, ",
+    "name": "CROWNFUL ثلاجة",
     "specs": {},
     "model": "WHITE",
     "title": "CROWNFUL Mini Fridge, 4 Liter/6 Can Portable Cooler and Warmer Personal Fridge for Skin Care, Cosmetics, Food, Great for Bedroom, Office, Car, Dorm, ETL Listed (White)",
@@ -3213,7 +3213,7 @@
   {
     "asin": "B0GNRS6P5L",
     "brand": "توشيبا",
-    "name": "توشيبا 683 لتر إنفرتر (RM921WI-PGN)",
+    "name": "توشيبا ثلاجة 683لتر إنفرتر",
     "specs": {
       "cap": "683",
       "type": "إنفرتر"
@@ -3236,7 +3236,7 @@
   {
     "asin": "B091NYPXJ4",
     "brand": "غير محدد",
-    "name": "White Whale WR-R4K SS refrigerator Mini Bar- Stainless Steel, 4.4 Feet",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "White Whale WR-R4K SS refrigerator Mini Bar- Stainless Steel, 4.4 Feet",
@@ -3256,7 +3256,7 @@
   {
     "asin": "B0DPZSMT8P",
     "brand": "سامسونج",
-    "name": "سامسونج 750 لتر",
+    "name": "سامسونج ثلاجة 750لتر",
     "specs": {
       "cap": "750"
     },
@@ -3278,7 +3278,7 @@
   {
     "asin": "B08Z7LQ5G1",
     "brand": "بيكو",
-    "name": "بيكو 120 لتر (TSE12340S)",
+    "name": "بيكو ثلاجة 120لتر",
     "specs": {
       "cap": "120"
     },
@@ -3300,7 +3300,7 @@
   {
     "asin": "B0DVLX5MKD",
     "brand": "توشيبا",
-    "name": "توشيبا 338 لتر (RT468WE-DMN)",
+    "name": "توشيبا ثلاجة 338لتر",
     "specs": {
       "cap": "338"
     },
@@ -3322,7 +3322,7 @@
   {
     "asin": "B093G652LR",
     "brand": "بيكو",
-    "name": "بيكو 430 لتر نوفروست (RDNE430K12B)",
+    "name": "بيكو ثلاجة 430لتر نوفروست",
     "specs": {
       "cap": "430",
       "type": "نوفروست"
@@ -3345,7 +3345,7 @@
   {
     "asin": "B0DNNTGHDK",
     "brand": "توشيبا",
-    "name": "توشيبا 450 لتر إنفرتر (RT624WE-PGN)",
+    "name": "توشيبا ثلاجة 450لتر إنفرتر",
     "specs": {
       "cap": "450",
       "type": "إنفرتر"
@@ -3370,7 +3370,7 @@
   {
     "asin": "B0BZ5GY7WM",
     "brand": "Penguin",
-    "name": "Penguin 330 لتر (FG330L-2D)",
+    "name": "PENGUIN ثلاجة 330لتر",
     "specs": {
       "cap": "330"
     },
@@ -3392,7 +3392,7 @@
   {
     "asin": "B0CQXMHR8S",
     "brand": "غير محدد",
-    "name": "White Whale, WR-H4K, Refrigerator Mini Bar, 90 L, Black.",
+    "name": "ثلاجة 90لتر",
     "specs": {
       "cap": "90"
     },
@@ -3414,7 +3414,7 @@
   {
     "asin": "B0965G9FDJ",
     "brand": "غير محدد",
-    "name": "White Whale WR-R4K S refrigerator Mini Bar- Silver, 4.5 Feet",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "White Whale WR-R4K S refrigerator Mini Bar- Silver, 4.5 Feet",
@@ -3434,7 +3434,7 @@
   {
     "asin": "B0FP3RQVY3",
     "brand": "غير محدد",
-    "name": "Generic Mini Fridge Portable Fridge for Travel and Home - Cooling and Heating - 4 Liter Capacity",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "Generic Mini Fridge Portable Fridge for Travel and Home - Cooling and Heating - 4 Liter Capacity",
@@ -3454,7 +3454,7 @@
   {
     "asin": "B0D1Y47D9S",
     "brand": "هاير",
-    "name": "هاير 357 لتر إنفرتر (BLACK)",
+    "name": "هاير ثلاجة 357لتر إنفرتر",
     "specs": {
       "cap": "357",
       "type": "إنفرتر"
@@ -3477,7 +3477,7 @@
   {
     "asin": "B0C8P32BVZ",
     "brand": "Castle",
-    "name": "Castle 97 لتر (FR1097KB)",
+    "name": "Castle ثلاجة 97لتر",
     "specs": {
       "cap": "97"
     },
@@ -3499,7 +3499,7 @@
   {
     "asin": "B0971DYZND",
     "brand": "إل جي",
-    "name": "LG 21 Cubic Feet Stainless Steel Silver Fridge - GR-H822HLHU",
+    "name": "إل جي ثلاجة",
     "specs": {},
     "model": "H822HLHU",
     "title": "LG 21 Cubic Feet Stainless Steel Silver Fridge - GR-H822HLHU",
@@ -3519,7 +3519,7 @@
   {
     "asin": "B0FFTQT93J",
     "brand": "UNITED COSMOS",
-    "name": "UNITED COSMOS Child Proof Refrigerator/Fridge/Freezer Door Lock, 3M Strong Adhesive,No Screws Required, 2",
+    "name": "UNITED ثلاجة",
     "specs": {},
     "model": "",
     "title": "UNITED COSMOS Child Proof Refrigerator/Fridge/Freezer Door Lock, 3M Strong Adhesive,No Screws Required, 2 Per Pack, White/Light Grey",
@@ -3539,7 +3539,7 @@
   {
     "asin": "B0D2HHJLQR",
     "brand": "Heinrichs",
-    "name": "Heinrich's Mini Refrigerator, 45 Litre, Small Compact Quiet: 36 dB Mini Bar, with 7 Temp. Levels, Mini Fr",
+    "name": "Heinrichs ثلاجة",
     "specs": {},
     "model": "",
     "title": "Heinrich's Mini Refrigerator, 45 Litre, Small Compact Quiet: 36 dB Mini Bar, with 7 Temp. Levels, Mini Fridge Freestanding, Perfect for OffIce,Black [Energy Class E] (Black, 45)",
@@ -3559,7 +3559,7 @@
   {
     "asin": "B091NYXBXF",
     "brand": "فريش",
-    "name": "فريش 92 لتر (B130)",
+    "name": "فريش ثلاجة 92لتر",
     "specs": {
       "cap": "92"
     },
@@ -3581,7 +3581,7 @@
   {
     "asin": "B091DBS4MF",
     "brand": "غير محدد",
-    "name": "W.ALASKA KA Refrigerator - 4.5 Feet - Silver",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "W.ALASKA KA Refrigerator - 4.5 Feet - Silver",
@@ -3601,7 +3601,7 @@
   {
     "asin": "B097DXZ5B8",
     "brand": "Gorenje",
-    "name": "Gorenje 611 لتر (NRM9181SB)",
+    "name": "Gorenje ثلاجة 611لتر",
     "specs": {
       "cap": "611"
     },
@@ -3623,7 +3623,7 @@
   {
     "asin": "B0DM91CVXJ",
     "brand": "بوش",
-    "name": "بوش 254 لتر فريزر سفلي (KIN86AF3M8)",
+    "name": "بوش ثلاجة 254لتر فريزرسفلي",
     "specs": {
       "cap": "254",
       "door": "فريزر سفلي"
@@ -3646,7 +3646,7 @@
   {
     "asin": "B0DJMBHY48",
     "brand": "Heinrichs",
-    "name": "Heinrichs 322 لتر",
+    "name": "Heinrichs ثلاجة 322لتر",
     "specs": {
       "cap": "322"
     },
@@ -3668,7 +3668,7 @@
   {
     "asin": "B091NYWPM5",
     "brand": "كريازي",
-    "name": "كريازي نوفروست (E550)",
+    "name": "كريازي ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -3690,7 +3690,7 @@
   {
     "asin": "B0C99YJWTW",
     "brand": "بوش",
-    "name": "بوش 346 لتر إنفرتر (KSV36VL30U)",
+    "name": "بوش ثلاجة 346لتر إنفرتر",
     "specs": {
       "cap": "346",
       "type": "إنفرتر"
@@ -3713,7 +3713,7 @@
   {
     "asin": "B0CH12LR2T",
     "brand": "فريش",
-    "name": "فريش 369 لتر (B400)",
+    "name": "فريش ثلاجة 369لتر",
     "specs": {
       "cap": "369"
     },
@@ -3735,7 +3735,7 @@
   {
     "asin": "B01JLIG5MI",
     "brand": "فريش",
-    "name": "فريش 397 لتر (M470YT)",
+    "name": "ثلاجة 397لتر",
     "specs": {
       "cap": "397"
     },
@@ -3757,7 +3757,7 @@
   {
     "asin": "B0BHKSR3VC",
     "brand": "فريش",
-    "name": "Fresh 14oz Refrigerator FNT-B470KB Black",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "B470KB",
     "title": "Fresh 14oz Refrigerator FNT-B470KB Black",
@@ -3777,7 +3777,7 @@
   {
     "asin": "B0DPRBBRQL",
     "brand": "Ocean",
-    "name": "Ocean 251 لتر نوفروست بابين (BCB2731TNFEA)",
+    "name": "Ocean ثلاجة 251لتر بابين",
     "specs": {
       "cap": "251",
       "type": "نوفروست",
@@ -3801,7 +3801,7 @@
   {
     "asin": "B0B34M5PB9",
     "brand": "غير محدد",
-    "name": "Alaska Hotel Refrigerator 58 Liter KAS - 2.05 Ft, Silver",
+    "name": "ثلاجة 58لتر",
     "specs": {
       "cap": "58"
     },
@@ -3823,7 +3823,7 @@
   {
     "asin": "B0HG5CDZHK",
     "brand": "غير محدد",
-    "name": "ثلاجة منزلية 200 لتر موديل (R-15) بتكنولوجيا الكمبروسر عالي الجودة وعزل فوم فائق – تبريد مثالي وتوفير في ",
+    "name": "ثلاجة 200لتر",
     "specs": {
       "cap": "200"
     },
@@ -3845,7 +3845,7 @@
   {
     "asin": "B0G22FRSBQ",
     "brand": "يونيون إير",
-    "name": "يونيون إير 545 لتر",
+    "name": "يونيون ثلاجة 545لتر",
     "specs": {
       "cap": "545"
     },
@@ -3867,7 +3867,7 @@
   {
     "asin": "B0D547P8FK",
     "brand": "Exquisit",
-    "name": "Exquisit 118 لتر (GKS120-GT-)",
+    "name": "Exquisit ثلاجة 118لتر",
     "specs": {
       "cap": "118"
     },
@@ -3889,7 +3889,7 @@
   {
     "asin": "B0HRXNMBJS",
     "brand": "يونيون إير",
-    "name": "يونيون إير 420 لتر",
+    "name": "يونيون ثلاجة 420لتر",
     "specs": {
       "cap": "420"
     },
@@ -3911,7 +3911,7 @@
   {
     "asin": "B091MXFPYT",
     "brand": "YAYY",
-    "name": "BONITA Mini Makeup Fridge, 8L Portable Cosmetic Refrigerator, Glass Panel And Led Lighting, Cooler/Warmer",
+    "name": "BONITA ثلاجة",
     "specs": {},
     "model": "",
     "title": "BONITA Mini Makeup Fridge, 8L Portable Cosmetic Refrigerator, Glass Panel And Led Lighting, Cooler/Warmer Freezer, Used for Beauty Skin Care in Home, Car",
@@ -3933,7 +3933,7 @@
   {
     "asin": "B0CMLNL82J",
     "brand": "VOSSOT",
-    "name": "VOSSOT 6 Pieces Drawer Organiser System, Fridge Organiser Set, Stackable Storage Boxes, Clear Plastic Mak",
+    "name": "VOSSOT ثلاجة",
     "specs": {},
     "model": "",
     "title": "VOSSOT 6 Pieces Drawer Organiser System, Fridge Organiser Set, Stackable Storage Boxes, Clear Plastic Makeup Drawer Organiser Box, Desk Organiser Drawers",
@@ -3953,7 +3953,7 @@
   {
     "asin": "B0CCNJ42P6",
     "brand": "Coipdfty",
-    "name": "Heavy Duty Fridge Lock - Combination Lock for Refrigerator Cabinets & Drawers, Easy Install No Keys Neede",
+    "name": "Heavy ثلاجة",
     "specs": {},
     "model": "",
     "title": "Heavy Duty Fridge Lock - Combination Lock for Refrigerator Cabinets & Drawers, Easy Install No Keys Needed (White, 1Pack)",
@@ -3973,7 +3973,7 @@
   {
     "asin": "B098V1FXKL",
     "brand": "فريش",
-    "name": "فريش 331 لتر",
+    "name": "فريش ثلاجة 331لتر",
     "specs": {
       "cap": "331"
     },
@@ -3995,7 +3995,7 @@
   {
     "asin": "B0BTHTBQZJ",
     "brand": "بيكو",
-    "name": "بيكو نوفروست",
+    "name": "بيكو ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -4017,7 +4017,7 @@
   {
     "asin": "B0H68JPKRM",
     "brand": "يونيون إير",
-    "name": "يونيون إير 420 لتر نوفروست بابين",
+    "name": "يونيون ثلاجة 420لتر بابين",
     "specs": {
       "cap": "420",
       "type": "نوفروست",
@@ -4041,7 +4041,7 @@
   {
     "asin": "B0DJMBRMT5",
     "brand": "Heinrichs",
-    "name": "Heinrichs 322 لتر",
+    "name": "Heinrichs ثلاجة 322لتر",
     "specs": {
       "cap": "322"
     },
@@ -4063,7 +4063,7 @@
   {
     "asin": "B0HRXFHM9M",
     "brand": "يونيون إير",
-    "name": "يونيون إير 370 لتر فريزر سفلي (R600A)",
+    "name": "يونيون ثلاجة 370لتر فريزرسفلي",
     "specs": {
       "cap": "370",
       "door": "فريزر سفلي"
@@ -4086,7 +4086,7 @@
   {
     "asin": "B0H9W6HN16",
     "brand": "عام",
-    "name": "Plastic VERY INTRESTING Mini Refrigerator",
+    "name": "Plastic ثلاجة",
     "specs": {},
     "model": "",
     "title": "Plastic VERY INTRESTING Mini Refrigerator",
@@ -4106,7 +4106,7 @@
   {
     "asin": "B0BSG1DNV3",
     "brand": "فريش",
-    "name": "فريش 397 لتر (B470)",
+    "name": "فريش ثلاجة 397لتر",
     "specs": {
       "cap": "397"
     },
@@ -4128,7 +4128,7 @@
   {
     "asin": "B0BZ47N7MR",
     "brand": "ECVV",
-    "name": "ECVV Stainless Steel Refrigerator Freezer Thermometer Range -20~80℉ Large Dial Fridge Cooler Hanging Gaug",
+    "name": "ECVV ثلاجة",
     "specs": {},
     "model": "",
     "title": "ECVV Stainless Steel Refrigerator Freezer Thermometer Range -20~80℉ Large Dial Fridge Cooler Hanging Gauge for Home, Kitchen, Restaurants",
@@ -4148,7 +4148,7 @@
   {
     "asin": "B0B5VPJ4MD",
     "brand": "QYESWHSR",
-    "name": "5 Pack Child Proof Refrigerator Lock, QYESWHSR Fridge Locks for Kids with Sticky Adhesive Pads, Child Saf",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "5 Pack Child Proof Refrigerator Lock, QYESWHSR Fridge Locks for Kids with Sticky Adhesive Pads, Child Safety Locks for Doors, RV Refrigerator, Oven Lock Child Safety Baby Cabinet Locks - Grey Updated",
@@ -4168,7 +4168,7 @@
   {
     "asin": "B0H712B1WL",
     "brand": "غير محدد",
-    "name": "Expandable Fridge Storage Basket Under Shelf Fridge Organiser Rack Space Saver Refrigerator Sliding Drawe",
+    "name": "Expandable ثلاجة",
     "specs": {},
     "model": "",
     "title": "Expandable Fridge Storage Basket Under Shelf Fridge Organiser Rack Space Saver Refrigerator Sliding Drawers, Plastic, Random Colours - Multicolor - 4 Pieces",
@@ -4188,7 +4188,7 @@
   {
     "asin": "B0HDCNMHRT",
     "brand": "غير محدد",
-    "name": "MDF Fridge Magnetic Mood Board - Size 15x10cm - with 5 Different Magnetic Facial Expressions",
+    "name": "MDF ثلاجة",
     "specs": {},
     "model": "",
     "title": "MDF Fridge Magnetic Mood Board - Size 15x10cm - with 5 Different Magnetic Facial Expressions",
@@ -4208,7 +4208,7 @@
   {
     "asin": "B0DGFH7X51",
     "brand": "نيكاي",
-    "name": "نيكاي 800 لتر (R600A)",
+    "name": "نيكاي ثلاجة 800لتر",
     "specs": {
       "cap": "800"
     },
@@ -4230,7 +4230,7 @@
   {
     "asin": "B0D47VBMMR",
     "brand": "غير محدد",
-    "name": "RF-T-KIT-GSHFA3137 2nd & 3rd Shelf Refrigerator Glass 12ft",
+    "name": "RF-T-KIT-GSHFA3137 ثلاجة",
     "specs": {},
     "model": "",
     "title": "RF-T-KIT-GSHFA3137 2nd & 3rd Shelf Refrigerator Glass 12ft",
@@ -4250,7 +4250,7 @@
   {
     "asin": "B0CGJDD7NX",
     "brand": "Hcosmy",
-    "name": "Hcosmy Portable Insulin Cooler Refrigerated Box USB Mini Medicine Refrigerator Portable Insulin Cooler Bo",
+    "name": "Hcosmy ثلاجة",
     "specs": {},
     "model": "",
     "title": "Hcosmy Portable Insulin Cooler Refrigerated Box USB Mini Medicine Refrigerator Portable Insulin Cooler Box Car Small Refrigerator Mini Cold Boxes,1 Battery&bag, for Car, Travel, Home",
@@ -4270,7 +4270,7 @@
   {
     "asin": "B0HMJGQ95B",
     "brand": "غير محدد",
-    "name": "4 Pcs Diatom Drying Stick to absorb moisture and deodorize shoes and refrigerators. Effective against mol",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "4 Pcs Diatom Drying Stick to absorb moisture and deodorize shoes and refrigerators. Effective against mold and bacteria and long-lasting.",
@@ -4290,7 +4290,7 @@
   {
     "asin": "B0C77WT7RZ",
     "brand": "QliHut",
-    "name": "QliHut Fridge Deodorizer (5 Pack) Natural and Unscented Activated Charcoal Refrigerator Deodorizer - Frid",
+    "name": "QliHut ثلاجة",
     "specs": {},
     "model": "",
     "title": "QliHut Fridge Deodorizer (5 Pack) Natural and Unscented Activated Charcoal Refrigerator Deodorizer - Fridge Odor Eliminator for Freezers, Coolers, and Lunch Boxes",
@@ -4310,7 +4310,7 @@
   {
     "asin": "B0H9R6FD43",
     "brand": "Galanz",
-    "name": "Galanz 97 لتر",
+    "name": "Galanz ثلاجة 97لتر",
     "specs": {
       "cap": "97"
     },
@@ -4332,7 +4332,7 @@
   {
     "asin": "B09W3YN288",
     "brand": "توشيبا",
-    "name": "توشيبا 411 لتر إنفرتر (RT559WE-PMN)",
+    "name": "توشيبا ثلاجة 411لتر إنفرتر",
     "specs": {
       "cap": "411",
       "type": "إنفرتر"
@@ -4355,7 +4355,7 @@
   {
     "asin": "B09W3WWHYZ",
     "brand": "توشيبا",
-    "name": "توشيبا 338 لتر إنفرتر (RT468WE-PMN)",
+    "name": "توشيبا ثلاجة 338لتر إنفرتر",
     "specs": {
       "cap": "338",
       "type": "إنفرتر"
@@ -4378,7 +4378,7 @@
   {
     "asin": "B0DX278JRS",
     "brand": "فريش",
-    "name": "Fresh Refrigerator Mechanical Black FNT-B470KB (4O)",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "B470KB",
     "title": "Fresh Refrigerator Mechanical Black FNT-B470KB (4O)",
@@ -4398,7 +4398,7 @@
   {
     "asin": "B0F4KKXLFQ",
     "brand": "WAlaska",
-    "name": "WAlaska نوفروست (STAINLESS)",
+    "name": "Refrigerator ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -4420,7 +4420,7 @@
   {
     "asin": "B091NZJZ6F",
     "brand": "كريازي",
-    "name": "كريازي نوفروست",
+    "name": "كريازي ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -4442,7 +4442,7 @@
   {
     "asin": "B08WJJLVSG",
     "brand": "فريش",
-    "name": "فريش 369 لتر (B400KT)",
+    "name": "ثلاجة 369لتر",
     "specs": {
       "cap": "369"
     },
@@ -4464,7 +4464,7 @@
   {
     "asin": "B0DSJJXFLX",
     "brand": "إل جي",
-    "name": "إل جي 509 لتر (F702HLHU)",
+    "name": "Refrigerator ثلاجة 509لتر",
     "specs": {
       "cap": "509"
     },
@@ -4486,7 +4486,7 @@
   {
     "asin": "B0BF15FN6V",
     "brand": "Heinrichs",
-    "name": "Heinrichs 115 لتر",
+    "name": "Heinrichs ثلاجة 115لتر",
     "specs": {
       "cap": "115"
     },
@@ -4508,7 +4508,7 @@
   {
     "asin": "B0CFLWLN3M",
     "brand": "غير محدد",
-    "name": "WHITE WHALE Refrigerator with 2 doors, no frost, 540 liters, stainless steel, digital inverter screen - W",
+    "name": "ثلاجة 540لتر بابين نوفروست",
     "specs": {
       "cap": "540",
       "type": "نوفروست",
@@ -4532,7 +4532,7 @@
   {
     "asin": "B0BSFW8ZGB",
     "brand": "فريش",
-    "name": "Fresh Refrigerator Mechanics/FNT-B470CT LG",
+    "name": "إل جي ثلاجة",
     "specs": {},
     "model": "B470CT",
     "title": "Fresh Refrigerator Mechanics/FNT-B470CT LG",
@@ -4552,7 +4552,7 @@
   {
     "asin": "B08WJLCGMN",
     "brand": "فريش",
-    "name": "فريش 397 لتر (BR470KB)",
+    "name": "فريش ثلاجة 397لتر",
     "specs": {
       "cap": "397"
     },
@@ -4574,7 +4574,7 @@
   {
     "asin": "B0CPVQ6YJ4",
     "brand": "إل جي",
-    "name": "إل جي 395 لتر إنفرتر (B392PLGB)",
+    "name": "إل جي ثلاجة 395لتر",
     "specs": {
       "cap": "395",
       "type": "إنفرتر"
@@ -4597,7 +4597,7 @@
   {
     "asin": "B013SOPC4S",
     "brand": "إنديست",
-    "name": "إنديست ديفروست (LI80)",
+    "name": "إنديست ثلاجة ديفروست",
     "specs": {
       "type": "ديفروست"
     },
@@ -4619,7 +4619,7 @@
   {
     "asin": "B0B5Z67954",
     "brand": "NewBinn",
-    "name": "NewBinn 2 x Refrigerator Lock No Drilling with Key for Children & Pets, Fridge Child Lock for Washing Mac",
+    "name": "NewBinn ثلاجة",
     "specs": {},
     "model": "",
     "title": "NewBinn 2 x Refrigerator Lock No Drilling with Key for Children & Pets, Fridge Child Lock for Washing Machine, Cupboards, Wardrobes, Toilets, Wine Cooler, Window (2 HP White with Key)",
@@ -4639,7 +4639,7 @@
   {
     "asin": "B0BR2PYHLJ",
     "brand": "بيكو",
-    "name": "بيكو نوفروست بابين (COMBI)",
+    "name": "بيكو ثلاجة بابين نوفروست",
     "specs": {
       "type": "نوفروست",
       "door": "بابين"
@@ -4662,7 +4662,7 @@
   {
     "asin": "B0C6H9GVBS",
     "brand": "كريازي",
-    "name": "Year Krizzi Classic KR350/2 Refrigerator",
+    "name": "Year ثلاجة",
     "specs": {},
     "model": "KR350/2",
     "title": "Year Krizzi Classic KR350/2 Refrigerator",
@@ -4682,7 +4682,7 @@
   {
     "asin": "B0CRBBYRWY",
     "brand": "فريش",
-    "name": "فريش 471 لتر بابين (MR580YGK)",
+    "name": "فريش ثلاجة 471لتر بابين",
     "specs": {
       "cap": "471",
       "door": "بابين"
@@ -4705,7 +4705,7 @@
   {
     "asin": "B0BSFWLKHP",
     "brand": "فريش",
-    "name": "فريش 426 لتر (DR540YGB)",
+    "name": "فريش ثلاجة 426لتر",
     "specs": {
       "cap": "426"
     },
@@ -4727,7 +4727,7 @@
   {
     "asin": "B0CH5NGM3H",
     "brand": "فريش",
-    "name": "Pyrex Thermal Refrigerator 1 Liter Capacity for Fridge, Advanced Design to Keep Food Fresh and Delicious ",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "",
     "title": "Pyrex Thermal Refrigerator 1 Liter Capacity for Fridge, Advanced Design to Keep Food Fresh and Delicious Ideal for Daily Use and Special Occasions by House Center",
@@ -4747,7 +4747,7 @@
   {
     "asin": "B0DGQ59MYQ",
     "brand": "HFengQ",
-    "name": "HFengQ بابين",
+    "name": "2Pack ثلاجة بابين",
     "specs": {
       "door": "بابين"
     },
@@ -4769,7 +4769,7 @@
   {
     "asin": "B09WR4R3SY",
     "brand": "AWH",
-    "name": "Lilithye Heavy Duty Appliance Rollers Pair Move Tools Expandable Adjustable Steel Appliance Trolley Furni",
+    "name": "Lilithye ثلاجة",
     "specs": {},
     "model": "GREY",
     "title": "Lilithye Heavy Duty Appliance Rollers Pair Move Tools Expandable Adjustable Steel Appliance Trolley Furniture Mover for Washer Dryer Refrigerator (Grey)",
@@ -4789,7 +4789,7 @@
   {
     "asin": "B0F91WMYMS",
     "brand": "Ocean",
-    "name": "Ocean 625 لتر (OC780TNFDIA)",
+    "name": "Ocean ثلاجة 625لتر",
     "specs": {
       "cap": "625"
     },
@@ -4811,7 +4811,7 @@
   {
     "asin": "B0FX4HLZTC",
     "brand": "Bomann",
-    "name": "Bomann 236 لتر",
+    "name": "Bomann ثلاجة 236لتر",
     "specs": {
       "cap": "236"
     },
@@ -4833,7 +4833,7 @@
   {
     "asin": "B0DQ8YNLPD",
     "brand": "Exquisit",
-    "name": "Exquisit 119 لتر (EKS131-4-FE-)",
+    "name": "Exquisit ثلاجة 119لتر",
     "specs": {
       "cap": "119"
     },
@@ -4855,7 +4855,7 @@
   {
     "asin": "B0D9H6JBSW",
     "brand": "هاير",
-    "name": "هاير 357 لتر إنفرتر (SILVER)",
+    "name": "هاير ثلاجة 357لتر إنفرتر",
     "specs": {
       "cap": "357",
       "type": "إنفرتر"
@@ -4878,7 +4878,7 @@
   {
     "asin": "B0D1Y9SGV4",
     "brand": "تورنيدو",
-    "name": "تورنيدو 395 لتر نوفروست",
+    "name": "تورنيدو ثلاجة 395لتر نوفروست",
     "specs": {
       "cap": "395",
       "type": "نوفروست"
@@ -4901,7 +4901,7 @@
   {
     "asin": "B0BM9VVH9H",
     "brand": "غير محدد",
-    "name": "Refrigerator 11 Feet No Frost - Alaska - KSD320NF (Silver)",
+    "name": "ثلاجة نوفروست",
     "specs": {
       "type": "نوفروست"
     },
@@ -4923,7 +4923,7 @@
   {
     "asin": "B0BR2N7L2T",
     "brand": "بيكو",
-    "name": "بيكو نوفروست بابين (COMBI)",
+    "name": "بيكو ثلاجة بابين نوفروست",
     "specs": {
       "type": "نوفروست",
       "door": "بابين"
@@ -4946,7 +4946,7 @@
   {
     "asin": "B097DZV5R5",
     "brand": "Gorenje",
-    "name": "Gorenje 565 لتر (NRM9181SBI)",
+    "name": "Gorenje ثلاجة 565لتر",
     "specs": {
       "cap": "565"
     },
@@ -4968,7 +4968,7 @@
   {
     "asin": "B0F5J5H4PP",
     "brand": "فريش",
-    "name": "Fresh Mini Bar Refrigerator Black FDDB75B",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "FDDB75B",
     "title": "Fresh Mini Bar Refrigerator Black FDDB75B",
@@ -4988,7 +4988,7 @@
   {
     "asin": "B08WJNC2ZW",
     "brand": "فريش",
-    "name": "فريش 404 لتر (M540YB)",
+    "name": "فريش ثلاجة 404لتر",
     "specs": {
       "cap": "404"
     },
@@ -5010,7 +5010,7 @@
   {
     "asin": "B0CH5MQ99S",
     "brand": "نيكاي",
-    "name": "نيكاي 750 لتر ديفروست بابين (NRF750SBD5)",
+    "name": "نيكاي ثلاجة 750لتر بابين",
     "specs": {
       "cap": "750",
       "type": "ديفروست",
@@ -5034,7 +5034,7 @@
   {
     "asin": "B0BZ5H4Y6L",
     "brand": "Penguin",
-    "name": "Penguin 390 لتر (FG390L)",
+    "name": "PENGUIN ثلاجة 390لتر",
     "specs": {
       "cap": "390"
     },
@@ -5056,7 +5056,7 @@
   {
     "asin": "B0C4B757LY",
     "brand": "فريش",
-    "name": "Fresh Refrigerator Digital Modena Glass/FNT-MR580YIGMod INV",
+    "name": "فريش ثلاجة",
     "specs": {},
     "model": "MR580YIGMOD",
     "title": "Fresh Refrigerator Digital Modena Glass/FNT-MR580YIGMod INV",
@@ -5076,7 +5076,7 @@
   {
     "asin": "B0BD9B5V6W",
     "brand": "Heinrichs",
-    "name": "Heinrich's Mini Refrigerator, 45 Litre, Black Small Compact Quiet: 36 dB Mini Bar, with 7 Temp. Levels, M",
+    "name": "Heinrichs ثلاجة",
     "specs": {},
     "model": "",
     "title": "Heinrich's Mini Refrigerator, 45 Litre, Black Small Compact Quiet: 36 dB Mini Bar, with 7 Temp. Levels, Mini Fridge Freestanding, Perfect for OffIce,Black [Energy Class E] (White, 45)",
@@ -5096,7 +5096,7 @@
   {
     "asin": "B09GW3MDBF",
     "brand": "Liebherr",
-    "name": "7212 Steel Refrigerator Freezer Kit",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "7212 Steel Refrigerator Freezer Kit",
@@ -5116,7 +5116,7 @@
   {
     "asin": "B0FY3VC5F7",
     "brand": "غير محدد",
-    "name": "Portable Car Refrigerator for Trips and Travel - A Must Have Device! - Generic",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "Portable Car Refrigerator for Trips and Travel - A Must Have Device! - Generic",
@@ -5136,7 +5136,7 @@
   {
     "asin": "B0CKWJTY8L",
     "brand": "بيكو",
-    "name": "بيكو 316 لتر نوفروست فريزر سفلي (RCNE367E30ZXB)",
+    "name": "بيكو ثلاجة 316لتر فريزرسفلي",
     "specs": {
       "cap": "316",
       "type": "نوفروست",
@@ -5160,7 +5160,7 @@
   {
     "asin": "B07TGBCBCN",
     "brand": "Lixada",
-    "name": "Lixada 4L Car Use Refrigerator Cooling Heating Box Fridge Car Mini Freezer Ultra Quiet Low Noise Cooler W",
+    "name": "Lixada ثلاجة",
     "specs": {},
     "model": "",
     "title": "Lixada 4L Car Use Refrigerator Cooling Heating Box Fridge Car Mini Freezer Ultra Quiet Low Noise Cooler Warmer",
@@ -5180,7 +5180,7 @@
   {
     "asin": "B08X6GKV6V",
     "brand": "بيكو",
-    "name": "بيكو نوفروست بابين",
+    "name": "بيكو ثلاجة بابين نوفروست",
     "specs": {
       "type": "نوفروست",
       "door": "بابين"
@@ -5203,7 +5203,7 @@
   {
     "asin": "B0BSFY6MB6",
     "brand": "فريش",
-    "name": "فريش 426 لتر (D540)",
+    "name": "فريش ثلاجة 426لتر",
     "specs": {
       "cap": "426"
     },
@@ -5225,7 +5225,7 @@
   {
     "asin": "B0BSFVXB4V",
     "brand": "فريش",
-    "name": "فريش 397 لتر (BR470)",
+    "name": "فريش ثلاجة 397لتر",
     "specs": {
       "cap": "397"
     },
@@ -5247,7 +5247,7 @@
   {
     "asin": "B0CHQBLLYL",
     "brand": "EUHOMY",
-    "name": "EUHOMY 50 لتر",
+    "name": "EUHOMY ثلاجة 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -5269,7 +5269,7 @@
   {
     "asin": "B0DHVFRFBH",
     "brand": "غير محدد",
-    "name": "Generic Ditach DryPro - 4 Pack Moisture Absorber & Deodorizer. Suitable for Shoes, Refrigerators, and Kit",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "Generic Ditach DryPro - 4 Pack Moisture Absorber & Deodorizer. Suitable for Shoes, Refrigerators, and Kitchens. Mold and Bacteria Prevention",
@@ -5289,7 +5289,7 @@
   {
     "asin": "B0DHVQ84LJ",
     "brand": "Daga",
-    "name": "Detatomite Moisture Absorber & Odor Reducing Fingers, Suitable for Shoes, Refrigerators, and Kitchens.Pro",
+    "name": "Detatomite ثلاجة",
     "specs": {},
     "model": "",
     "title": "Detatomite Moisture Absorber & Odor Reducing Fingers, Suitable for Shoes, Refrigerators, and Kitchens.Protects Against Mold and Bacteria, Easy to Use and Durable. Generic",
@@ -5309,7 +5309,7 @@
   {
     "asin": "B0HMJ6WWW9",
     "brand": "غير محدد",
-    "name": "4 Pcs Diatom Drying Stick to absorb moisture and deodorize shoes and refrigerators. Effective against mol",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "4 Pcs Diatom Drying Stick to absorb moisture and deodorize shoes and refrigerators. Effective against mold and bacteria and long-lasting.",
@@ -5329,7 +5329,7 @@
   {
     "asin": "B08DLSXC96",
     "brand": "غير محدد",
-    "name": "Sarmosk and Fuse Home Fridge",
+    "name": "Sarmosk ثلاجة",
     "specs": {},
     "model": "",
     "title": "Sarmosk and Fuse Home Fridge",
@@ -5349,7 +5349,7 @@
   {
     "asin": "B0D8XCFNR2",
     "brand": "سامسونج",
-    "name": "سامسونج 344 لتر نوفروست",
+    "name": "سامسونج ثلاجة 344لتر نوفروست",
     "specs": {
       "cap": "344",
       "type": "نوفروست"
@@ -5372,7 +5372,7 @@
   {
     "asin": "B0DT4XZ4GY",
     "brand": "غير محدد",
-    "name": "Airtight Square Refrigerator Jug (1 Decanter 1 Orange Juicer)",
+    "name": "Airtight ثلاجة",
     "specs": {},
     "model": "",
     "title": "Airtight Square Refrigerator Jug (1 Decanter 1 Orange Juicer)",
@@ -5392,7 +5392,7 @@
   {
     "asin": "B08MZRQPVZ",
     "brand": "CICICO",
-    "name": "2 pcs Refrigerator Lock, Refrigerator Lock for Kids, Mini Refrigerator Locks for Kids, Freezer Lock, Used",
+    "name": "ثلاجة",
     "specs": {},
     "model": "",
     "title": "2 pcs Refrigerator Lock, Refrigerator Lock for Kids, Mini Refrigerator Locks for Kids, Freezer Lock, Used on Refrigerator Door, Cabinets, Drawers, Car Seat of",
@@ -5412,7 +5412,7 @@
   {
     "asin": "B0FXXY957F",
     "brand": "Home and Kitchen Art",
-    "name": "H&k Art Stainless Steel 1.5 Liter Fridge",
+    "name": "H&k ثلاجة",
     "specs": {},
     "model": "",
     "title": "H&k Art Stainless Steel 1.5 Liter Fridge",
@@ -5432,7 +5432,7 @@
   {
     "asin": "B0DXQC4KNF",
     "brand": "غير محدد",
-    "name": "Plastic Refrigerator Drawer And Storage For Kitchen, Bathroom And Home - Pink",
+    "name": "Plastic ثلاجة",
     "specs": {},
     "model": "",
     "title": "Plastic Refrigerator Drawer And Storage For Kitchen, Bathroom And Home - Pink",
@@ -5452,7 +5452,7 @@
   {
     "asin": "B0CTF8297T",
     "brand": "Bezant",
-    "name": "Set of 2 Refrigerator Locks - Child-Safe Refrigerator Locks - No Drilling Required - Refrigerator Door Lo",
+    "name": "Set ثلاجة",
     "specs": {},
     "model": "",
     "title": "Set of 2 Refrigerator Locks - Child-Safe Refrigerator Locks - No Drilling Required - Refrigerator Door Lock - Combination Cabinet Locks",
@@ -5472,7 +5472,7 @@
   {
     "asin": "B0GXZYHJP3",
     "brand": "غير محدد",
-    "name": "Adjustable Mobile Base - Heavy-Duty 4-Wheel Stand for Refrigerators and Washing Machines, Black Plastic, ",
+    "name": "Adjustable ثلاجة",
     "specs": {},
     "model": "",
     "title": "Adjustable Mobile Base - Heavy-Duty 4-Wheel Stand for Refrigerators and Washing Machines, Black Plastic, Easy Roll, Durable Design",
@@ -5492,7 +5492,7 @@
   {
     "asin": "B0FCCHTCSC",
     "brand": "غير محدد",
-    "name": "Adjustable Mobile Base with Wheels for Washing Machine and Refrigerator, Heavy Duty Metal Stand with Brak",
+    "name": "Adjustable ثلاجة",
     "specs": {},
     "model": "",
     "title": "Adjustable Mobile Base with Wheels for Washing Machine and Refrigerator, Heavy Duty Metal Stand with Brakes, 200kg Capacity",
@@ -5512,7 +5512,7 @@
   {
     "asin": "B07ZJMZRBK",
     "brand": "Volwco",
-    "name": "Volwco Food Storage Boxes With Lids Freezer Safe 2 Pcs 4.7L Large Plastic Kitchen Refrigerator Stackable ",
+    "name": "Volwco ثلاجة",
     "specs": {},
     "model": "",
     "title": "Volwco Food Storage Boxes With Lids Freezer Safe 2 Pcs 4.7L Large Plastic Kitchen Refrigerator Stackable Food Fruit Storage Containers With Handle",

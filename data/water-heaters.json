@@ -2,7 +2,7 @@
   {
     "asin": "B0B9NT1KJ5",
     "brand": "تورنيدو",
-    "name": "تورنيدو 50 لتر 1800 وات",
+    "name": "تورنيدو سخان 50لتر 1800وات",
     "specs": {
       "cap": "50",
       "watt": "1800"
@@ -25,7 +25,7 @@
   {
     "asin": "B0HFGBMD1W",
     "brand": "فريش",
-    "name": "فريش 15 لتر 1200 وات",
+    "name": "فريش سخان 15لتر 1200وات",
     "specs": {
       "cap": "15",
       "watt": "1200"
@@ -48,7 +48,7 @@
   {
     "asin": "B0C9XJ471P",
     "brand": "أوليمبيك",
-    "name": "أوليمبيك 50 لتر 1500 وات",
+    "name": "أوليمبيك سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -71,7 +71,7 @@
   {
     "asin": "B0DJ963QF6",
     "brand": "فريش",
-    "name": "فريش 50 لتر",
+    "name": "فريش سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -93,7 +93,7 @@
   {
     "asin": "B0B12MZ2VD",
     "brand": "فريش",
-    "name": "فريش 30 لتر",
+    "name": "فريش سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -115,7 +115,7 @@
   {
     "asin": "B0DWT49H2Z",
     "brand": "أريستون",
-    "name": "أريستون 50 لتر",
+    "name": "أريستون سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -137,7 +137,7 @@
   {
     "asin": "B01KVAWVX2",
     "brand": "فريش",
-    "name": "فريش 15 لتر",
+    "name": "فريش سخان 15لتر",
     "specs": {
       "cap": "15"
     },
@@ -159,7 +159,7 @@
   {
     "asin": "B0B12N14DZ",
     "brand": "فريش",
-    "name": "فريش 40 لتر",
+    "name": "فريش سخان 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -181,7 +181,7 @@
   {
     "asin": "B0DWT56BP8",
     "brand": "أريستون",
-    "name": "أريستون 40 لتر",
+    "name": "أريستون سخان 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -203,7 +203,7 @@
   {
     "asin": "B0DWXL6KTN",
     "brand": "أريستون",
-    "name": "أريستون 80 لتر",
+    "name": "أريستون سخان 80لتر",
     "specs": {
       "cap": "80"
     },
@@ -225,7 +225,7 @@
   {
     "asin": "B089W4STPT",
     "brand": "أريستون",
-    "name": "أريستون 7 لتر",
+    "name": "أريستون سخان 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -247,7 +247,7 @@
   {
     "asin": "B0B9NTFHBL",
     "brand": "تورنيدو",
-    "name": "تورنيدو 80 لتر",
+    "name": "تورنيدو سخان 80لتر",
     "specs": {
       "cap": "80"
     },
@@ -269,7 +269,7 @@
   {
     "asin": "B0101S9HMW",
     "brand": "تورنيدو",
-    "name": "تورنيدو 40 لتر",
+    "name": "تورنيدو سخان 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -293,7 +293,7 @@
   {
     "asin": "B0DFMCGL7C",
     "brand": "ميديا",
-    "name": "ميديا 10 لتر",
+    "name": "ميديا سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -315,7 +315,7 @@
   {
     "asin": "B098TW4739",
     "brand": "باناسونيك",
-    "name": "باناسونيك 5 لتر",
+    "name": "باناسونيك سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -337,7 +337,7 @@
   {
     "asin": "B0CJ8BFNTF",
     "brand": "زانوسي",
-    "name": "زانوسي 30 لتر 1200 وات",
+    "name": "زانوسي سخان 30لتر 1200وات",
     "specs": {
       "cap": "30",
       "watt": "1200"
@@ -360,7 +360,7 @@
   {
     "asin": "B0101S9EO8",
     "brand": "تورنيدو",
-    "name": "تورنيدو 30 لتر",
+    "name": "تورنيدو سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -382,7 +382,7 @@
   {
     "asin": "B08YY44SRL",
     "brand": "أريستون",
-    "name": "أريستون 50 لتر (ECO50V1)",
+    "name": "أريستون سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -404,7 +404,7 @@
   {
     "asin": "B08YXZTVZS",
     "brand": "أريستون",
-    "name": "أريستون 10 لتر",
+    "name": "أريستون سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -426,7 +426,7 @@
   {
     "asin": "B0CNDG9VJP",
     "brand": "زانوسي",
-    "name": "زانوسي 50 لتر (ZYE05041WN)",
+    "name": "زانوسي سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -448,7 +448,7 @@
   {
     "asin": "B091NZBJVV",
     "brand": "كريازي",
-    "name": "كريازي 55 لتر",
+    "name": "كريازي سخان 55لتر",
     "specs": {
       "cap": "55"
     },
@@ -470,7 +470,7 @@
   {
     "asin": "B0GP1TDHWP",
     "brand": "يونيون إير",
-    "name": "يونيون إير 1500 وات (EWH30-C310-)",
+    "name": "يونيون سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -492,7 +492,7 @@
   {
     "asin": "B0HQPZCF6B",
     "brand": "فريش",
-    "name": "فريش 60 لتر",
+    "name": "فريش سخان 60لتر",
     "specs": {
       "cap": "60"
     },
@@ -514,7 +514,7 @@
   {
     "asin": "B091P17YX7",
     "brand": "تورنيدو",
-    "name": "تورنيدو 35 لتر (S35CSE-F)",
+    "name": "تورنيدو سخان 35لتر",
     "specs": {
       "cap": "35"
     },
@@ -536,7 +536,7 @@
   {
     "asin": "B0101S54GU",
     "brand": "تورنيدو",
-    "name": "تورنيدو 6 لتر",
+    "name": "تورنيدو سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -558,7 +558,7 @@
   {
     "asin": "B0GWJM3WGM",
     "brand": "فريش",
-    "name": "فريش 6 لتر",
+    "name": "سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -580,7 +580,7 @@
   {
     "asin": "B09HLN9R6P",
     "brand": "فريش",
-    "name": "فريش 10 لتر",
+    "name": "سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -602,7 +602,7 @@
   {
     "asin": "B0CCVZH1FB",
     "brand": "ميديا",
-    "name": "ميديا 10 لتر (JSD20-)",
+    "name": "ميديا سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -624,7 +624,7 @@
   {
     "asin": "B01KVAXF6O",
     "brand": "فريش",
-    "name": "Fresh Electric Water Heater Venus 50 Litre",
+    "name": "فريش سخان",
     "specs": {},
     "model": "",
     "title": "Fresh Electric Water Heater Venus 50 Litre",
@@ -644,7 +644,7 @@
   {
     "asin": "B091NYHRZ6",
     "brand": "تورنيدو",
-    "name": "Tornado EWH-S45CSE-S Electric Water Heater with Digital Screen",
+    "name": "تورنيدو سخان",
     "specs": {},
     "model": "S45CSE-S",
     "title": "Tornado EWH-S45CSE-S Electric Water Heater with Digital Screen",
@@ -664,7 +664,7 @@
   {
     "asin": "B0BHWS52ZH",
     "brand": "فريش",
-    "name": "Fresh Instant Water Heater 13.5 KW",
+    "name": "فريش سخان",
     "specs": {},
     "model": "",
     "title": "Fresh Instant Water Heater 13.5 KW",
@@ -684,7 +684,7 @@
   {
     "asin": "B0BQ7KZ62P",
     "brand": "أريستون",
-    "name": "Ariston AURES Multi Electric Instantaneous Water Heater 9.5kW, Multi-Point, Compact Size, ELCB System, Us",
+    "name": "أريستون سخان",
     "specs": {},
     "model": "",
     "title": "Ariston AURES Multi Electric Instantaneous Water Heater 9.5kW, Multi-Point, Compact Size, ELCB System, User-Friendly and A Energy Rated. Manufactured to be Installed in UK – 3195216.",
@@ -704,7 +704,7 @@
   {
     "asin": "B01KVAXBI6",
     "brand": "فريش",
-    "name": "Fresh Electric Water Heater Venus ,white,30 Litre,FR-HV30",
+    "name": "فريش سخان",
     "specs": {},
     "model": "HV30",
     "title": "Fresh Electric Water Heater Venus ,white,30 Litre,FR-HV30",
@@ -724,7 +724,7 @@
   {
     "asin": "B01KVAXDX4",
     "brand": "فريش",
-    "name": "Fresh Electric Water Heater Venus 40 Litre",
+    "name": "فريش سخان",
     "specs": {},
     "model": "",
     "title": "Fresh Electric Water Heater Venus 40 Litre",
@@ -744,7 +744,7 @@
   {
     "asin": "B0BBRQR4TK",
     "brand": "أوليمبيك",
-    "name": "Olympic Electric Water Heater/Hero / 30 Lt Enamel - Hero Digital Display",
+    "name": "أوليمبيك سخان",
     "specs": {},
     "model": "",
     "title": "Olympic Electric Water Heater/Hero / 30 Lt Enamel - Hero Digital Display",
@@ -766,7 +766,7 @@
   {
     "asin": "B0CJ7YY6KV",
     "brand": "فريش",
-    "name": "Fresh Relax Electric Water Heater, 50 Litres - White",
+    "name": "فريش سخان",
     "specs": {},
     "model": "",
     "title": "Fresh Relax Electric Water Heater, 50 Litres - White",
@@ -786,7 +786,7 @@
   {
     "asin": "B098V1D4DC",
     "brand": "Atlantic",
-    "name": "Atlantic 30 لتر 1200 وات",
+    "name": "Atlantic سخان 30لتر 1200وات",
     "specs": {
       "cap": "30",
       "watt": "1200"
@@ -809,7 +809,7 @@
   {
     "asin": "B0CNZK65L6",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic Shopping 30 لتر 1200 وات",
+    "name": "Atlantic سخان 30لتر 1200وات",
     "specs": {
       "cap": "30",
       "watt": "1200"
@@ -832,7 +832,7 @@
   {
     "asin": "B0CN5T356K",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic Shopping 50 لتر 1500 وات",
+    "name": "Atlantic سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -855,7 +855,7 @@
   {
     "asin": "B0H4DP9ZHZ",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic Shopping 80 لتر 1500 وات",
+    "name": "سخان 80لتر 1500وات",
     "specs": {
       "cap": "80",
       "watt": "1500"
@@ -878,7 +878,7 @@
   {
     "asin": "B0C3DZTDH1",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic Shopping 1500 وات",
+    "name": "Atlantic سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -900,7 +900,7 @@
   {
     "asin": "B0GHN7X5D6",
     "brand": "GMC",
-    "name": "GMC 15 لتر",
+    "name": "GMC سخان 15لتر",
     "specs": {
       "cap": "15"
     },
@@ -922,7 +922,7 @@
   {
     "asin": "B09691DXQ7",
     "brand": "Super Star",
-    "name": "Super Star 30 لتر",
+    "name": "Super سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -944,7 +944,7 @@
   {
     "asin": "B0G3PWP99F",
     "brand": "THOMSON",
-    "name": "THOMSON 16 لتر",
+    "name": "THOMSON سخان 16لتر",
     "specs": {
       "cap": "16"
     },
@@ -966,7 +966,7 @@
   {
     "asin": "B09BDP8R65",
     "brand": "NOVASERVIS",
-    "name": "NOVASERVIS 50 لتر (NEWH50L)",
+    "name": "Nova سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -988,7 +988,7 @@
   {
     "asin": "B0GHNPX4Z9",
     "brand": "GMC",
-    "name": "GMC 50 لتر",
+    "name": "GMC سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -1010,7 +1010,7 @@
   {
     "asin": "B0GM2DSN75",
     "brand": "غير محدد",
-    "name": "Electric Water Heater (Hitter) Portable Travel And Trips, Copper, 1500 Watt",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1032,7 +1032,7 @@
   {
     "asin": "B0HN95BHS6",
     "brand": "غير محدد",
-    "name": "Electric Immersion Water Heater For Trips Copper Heating Element 1500 Watt | Flexible wire, home use, cop",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1054,7 +1054,7 @@
   {
     "asin": "B0HQ54N4DS",
     "brand": "غير محدد",
-    "name": "3000W Manual Electric Water Heater Fast Heating Heater Heater Heating | Copper, 3000 Watt",
+    "name": "3000W سخان 3000وات",
     "specs": {
       "watt": "3000"
     },
@@ -1076,7 +1076,7 @@
   {
     "asin": "B0HNJ4SH4C",
     "brand": "غير محدد",
-    "name": "Long Life Gas Water Heater 10 Liter, Works on Natural Gas Only | Pure Copper Serpentine, Low Water Pressu",
+    "name": "Long سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1098,7 +1098,7 @@
   {
     "asin": "B0HN94Y21J",
     "brand": "عام",
-    "name": "عام 1500 وات",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1120,7 +1120,7 @@
   {
     "asin": "B0HQ3ZRTY9",
     "brand": "غير محدد",
-    "name": "Portable Water Heater For Travel And Trips Easy To Use | Waterproof, Thermal Galvanic Tube, 3000W, Flexib",
+    "name": "سخان 3000وات",
     "specs": {
       "watt": "3000"
     },
@@ -1142,7 +1142,7 @@
   {
     "asin": "B0GM24MW8C",
     "brand": "غير محدد",
-    "name": "1500W Copper Portable Electric Water Heater for Travel and Trip",
+    "name": "1500W سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1164,7 +1164,7 @@
   {
     "asin": "B0G3PYNHCF",
     "brand": "THOMSON",
-    "name": "THOMSON Instant Electric Tankless Water Heater 7KW Fast Heating Constant Temperature Energy Saving سخان ط",
+    "name": "THOMSON سخان",
     "specs": {},
     "model": "",
     "title": "THOMSON Instant Electric Tankless Water Heater 7KW Fast Heating Constant Temperature Energy Saving سخان طومسون فوري كهرباء ٧ كيلو وات Compact Design for Home Shower & Kitchen",
@@ -1184,7 +1184,7 @@
   {
     "asin": "B0FBK9PMHB",
     "brand": "BOMAN",
-    "name": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group Warranty-black",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "",
     "title": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group Warranty-black",
@@ -1204,7 +1204,7 @@
   {
     "asin": "B0GFY54V1Z",
     "brand": "غير محدد",
-    "name": "Instant Electric Water Heater for Faucet with Digital Display",
+    "name": "Instant سخان",
     "specs": {},
     "model": "",
     "title": "Instant Electric Water Heater for Faucet with Digital Display",
@@ -1224,7 +1224,7 @@
   {
     "asin": "B0DNMTTMRG",
     "brand": "adbeni",
-    "name": "Adbeni Imported Electric Water Heater | Tankless Instant Hot Water Faucet | Digital Display, Fast Heating",
+    "name": "Adbeni سخان",
     "specs": {},
     "model": "",
     "title": "Adbeni Imported Electric Water Heater | Tankless Instant Hot Water Faucet | Digital Display, Fast Heating Tap for Kitchen & Bathroom | Electric Water Geyser for Efficient Hot Water Supply",
@@ -1244,7 +1244,7 @@
   {
     "asin": "B0F5J98RP6",
     "brand": "BOMAN",
-    "name": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى black بضمان برايم جروب",
+    "name": "سخان",
     "specs": {},
     "model": "WZL13",
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى black بضمان برايم جروب",
@@ -1264,7 +1264,7 @@
   {
     "asin": "B0CP8KW5VM",
     "brand": "Omeron",
-    "name": "Omeron Instant Tap Geyser Heater for Kitchen/Bathroom Tankless Hot and Cold Water Geyser Water Heater Fau",
+    "name": "Omeron سخان",
     "specs": {},
     "model": "",
     "title": "Omeron Instant Tap Geyser Heater for Kitchen/Bathroom Tankless Hot and Cold Water Geyser Water Heater Faucet Fast Heating Tap with LED Digital For Instant Hot Water Heater-01",
@@ -1284,7 +1284,7 @@
   {
     "asin": "B07CSSY8H1",
     "brand": "Aura",
-    "name": "AURA Ihlas microcontrol electric water heater 5 safe",
+    "name": "AURA سخان",
     "specs": {},
     "model": "",
     "title": "AURA Ihlas microcontrol electric water heater 5 safe",
@@ -1304,7 +1304,7 @@
   {
     "asin": "B0FBKD5LKK",
     "brand": "BOMAN",
-    "name": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى white gold بضمان برايم جروب",
+    "name": "سخان",
     "specs": {},
     "model": "WZL13",
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى white gold بضمان برايم جروب",
@@ -1324,7 +1324,7 @@
   {
     "asin": "B0FBKCDRZY",
     "brand": "غير محدد",
-    "name": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى Silver بضمان برايم جروب",
+    "name": "سخان",
     "specs": {},
     "model": "WZL13",
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى Silver بضمان برايم جروب",
@@ -1344,7 +1344,7 @@
   {
     "asin": "B0GF2YQX8P",
     "brand": "غير محدد",
-    "name": "Electric Quick Water Heater for Bucket, Copper Large Size with Mounting Load",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Electric Quick Water Heater for Bucket, Copper Large Size with Mounting Load",
@@ -1364,7 +1364,7 @@
   {
     "asin": "B0DKDBVRY4",
     "brand": "غير محدد",
-    "name": "سخان موقد الفول الدسة عين واحدة ECONY في استهلاك الكهرباء وعازل للحرارة 220 فولت - 120 وات",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "سخان موقد الفول الدسة عين واحدة ECONY في استهلاك الكهرباء وعازل للحرارة 220 فولت - 120 وات",
@@ -1384,7 +1384,7 @@
   {
     "asin": "B0DWXTKSWX",
     "brand": "زانوسي",
-    "name": "زانوسي 50 لتر",
+    "name": "زانوسي سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -1406,7 +1406,7 @@
   {
     "asin": "B0101SMY2M",
     "brand": "تورنيدو",
-    "name": "تورنيدو 6 لتر (C06CNE-S)",
+    "name": "تورنيدو سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -1428,7 +1428,7 @@
   {
     "asin": "B0GS79LBDF",
     "brand": "أريستون",
-    "name": "أريستون 6 لتر",
+    "name": "أريستون سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -1450,7 +1450,7 @@
   {
     "asin": "B0101S4RCM",
     "brand": "تورنيدو",
-    "name": "تورنيدو 10 لتر (MP10SN-W)",
+    "name": "تورنيدو سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1472,7 +1472,7 @@
   {
     "asin": "B0101S5CAS",
     "brand": "تورنيدو",
-    "name": "تورنيدو 6 لتر (C06CTE-W)",
+    "name": "تورنيدو سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -1494,7 +1494,7 @@
   {
     "asin": "B092DZ9KDW",
     "brand": "أريستون",
-    "name": "Ariston Pro ECO 80 V 1.5K EG Tank Water Heater-White",
+    "name": "أريستون سخان",
     "specs": {},
     "model": "",
     "title": "Ariston Pro ECO 80 V 1.5K EG Tank Water Heater-White",
@@ -1514,7 +1514,7 @@
   {
     "asin": "B09234NMY1",
     "brand": "فريش",
-    "name": "Fresh Electric Instant Water Heater, 9 KW, Sliver - Fast 9",
+    "name": "فريش سخان",
     "specs": {},
     "model": "",
     "title": "Fresh Electric Instant Water Heater, 9 KW, Sliver - Fast 9",
@@ -1534,7 +1534,7 @@
   {
     "asin": "B0D9ZVGW7L",
     "brand": "بيكو",
-    "name": "Beko Natural Gas Water Heater - 6 Litres - With Chimney - Digital Screen - USB Adaptor - Full Safety (Whi",
+    "name": "بيكو سخان",
     "specs": {},
     "model": "WHITE",
     "title": "Beko Natural Gas Water Heater - 6 Litres - With Chimney - Digital Screen - USB Adaptor - Full Safety (White)",
@@ -1554,7 +1554,7 @@
   {
     "asin": "B0957GN7Z6",
     "brand": "تورنيدو",
-    "name": "TORNADO Gas Water Heater 6 Litre without a chimney, Digital For Natural Gas In White Color GH-6SN-W",
+    "name": "تورنيدو سخان",
     "specs": {},
     "model": "",
     "title": "TORNADO Gas Water Heater 6 Litre without a chimney, Digital For Natural Gas In White Color GH-6SN-W",
@@ -1574,7 +1574,7 @@
   {
     "asin": "B0GRVV6MP1",
     "brand": "غير محدد",
-    "name": "Atlantic Horizontal Electric Water Heater 50L, White, Opro 1500W",
+    "name": "Atlantic سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -1597,7 +1597,7 @@
   {
     "asin": "B098TZPS39",
     "brand": "AFI",
-    "name": "AFI 50 لتر 1500 وات",
+    "name": "Atlantic سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -1620,7 +1620,7 @@
   {
     "asin": "B0DHSX7BQJ",
     "brand": "غير محدد",
-    "name": "Electric Water Heater, Horizontal, 80 liter, Power 1500 watt, Fast Heating 3X Model O’pro pro 8530940",
+    "name": "سخان 80لتر 1500وات",
     "specs": {
       "cap": "80",
       "watt": "1500"
@@ -1643,7 +1643,7 @@
   {
     "asin": "B0G4GPYB2S",
     "brand": "غير محدد",
-    "name": "Portable Travel Water Heater, 1500W Electric Heater with Spiral Wire, White and Purple, for Trip and Trav",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1665,7 +1665,7 @@
   {
     "asin": "B0HJ14X7BR",
     "brand": "Purity101",
-    "name": "Purity101 5 لتر (GRAY)",
+    "name": "Purity سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -1687,7 +1687,7 @@
   {
     "asin": "B0HJ16C8NW",
     "brand": "Purity101",
-    "name": "Purity101 5 لتر (P101)",
+    "name": "Purity سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -1709,7 +1709,7 @@
   {
     "asin": "B0H1HB5KQ3",
     "brand": "City Greens",
-    "name": "City Greens 500 وات",
+    "name": "City سخان 500وات",
     "specs": {
       "watt": "500"
     },
@@ -1731,7 +1731,7 @@
   {
     "asin": "B0G4GVMZZC",
     "brand": "غير محدد",
-    "name": "1500W Portable Electric Travel Water Heater, Copper Spiral Wire",
+    "name": "1500W سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1753,7 +1753,7 @@
   {
     "asin": "B0CV2C3BFL",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic Shopping 25 لتر",
+    "name": "Atlantic سخان 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -1775,7 +1775,7 @@
   {
     "asin": "B0G2DZQMBS",
     "brand": "غير محدد",
-    "name": "Portable Travel Water Heater, 1500W Electric Heater with Spiral Cord, Green and Blue",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1797,7 +1797,7 @@
   {
     "asin": "B0FVY6LH71",
     "brand": "Rich Home",
-    "name": "Rich Home 50 لتر",
+    "name": "Rich سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -1819,7 +1819,7 @@
   {
     "asin": "B0DSJRZ65V",
     "brand": "غير محدد",
-    "name": "سخان هتر ماء/كبير الحجم/سريع 1500 وات/وضع داخل الاناء المملى بالماء و معلقة على حافة ه",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1841,7 +1841,7 @@
   {
     "asin": "B0G48P7PL6",
     "brand": "غير محدد",
-    "name": "Portable Travel Water Heater, 1500W Electric Heater with Spiral Cord, Green and Blue, for Trips and Trave",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1863,7 +1863,7 @@
   {
     "asin": "B0HNJ5SSDL",
     "brand": "غير محدد",
-    "name": "Long Life S8 Gas Water Heater 10L Low Water Pressure Copper Serpentine Full | Get instant and continuous ",
+    "name": "Long سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1885,7 +1885,7 @@
   {
     "asin": "B0119IVTOC",
     "brand": "JAC",
-    "name": "JAC 10 لتر",
+    "name": "JAC سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1907,7 +1907,7 @@
   {
     "asin": "B0G2DLJ1WN",
     "brand": "غير محدد",
-    "name": "HEATER Portable Water Heater 1500 Watt Water Heater for Water Heating and Travel",
+    "name": "HEATER سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1929,7 +1929,7 @@
   {
     "asin": "B0923S4SSW",
     "brand": "AFI",
-    "name": "AFI 30 لتر",
+    "name": "Atlantic سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -1951,7 +1951,7 @@
   {
     "asin": "B0HNJ6YFFB",
     "brand": "غير محدد",
-    "name": "Longlife Chemet Decor Military Factory Gas Water Heater, 10 Liter | . Digital Temperature Display, Batter",
+    "name": "Longlife سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1973,7 +1973,7 @@
   {
     "asin": "B0CN9LZPSX",
     "brand": "Long Life",
-    "name": "Long Life 10 لتر",
+    "name": "Long سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1995,7 +1995,7 @@
   {
     "asin": "B0GHP2FYTK",
     "brand": "GMC",
-    "name": "GMC 30 لتر",
+    "name": "GMC سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -2017,7 +2017,7 @@
   {
     "asin": "B0D428NVZW",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DCE- S 10/12 Plus |Gold|220 V|Accurate temperature selection from",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- S 10/12 Plus |Gold|220 V|Accurate temperature selection from 20 °C to 60 °C|3I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -2037,7 +2037,7 @@
   {
     "asin": "B0F5MWDBKS",
     "brand": "BOMAN",
-    "name": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group-White",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "",
     "title": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group-White",
@@ -2057,7 +2057,7 @@
   {
     "asin": "B0D9FRYZMW",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron |Instant Water Heater |DCE- C 10/12 trend|Sea|220V |Outlet temperature fixed at 55 °C, Ene",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron |Instant Water Heater |DCE- C 10/12 trend|Sea|220V |Outlet temperature fixed at 55 °C, Energy-Saving| 2i Technology |15-Year Lifespan |2 years Warranty| Energy Class A| Made in Germany",
@@ -2077,7 +2077,7 @@
   {
     "asin": "B0DPJ4W3YQ",
     "brand": "TEKCOOL",
-    "name": "TEKCOOL Instant Electric Water Heater Faucet - Tankless Hot Water Heater for Kitchen and Bathroom, Energy",
+    "name": "TEKCOOL سخان",
     "specs": {},
     "model": "",
     "title": "TEKCOOL Instant Electric Water Heater Faucet - Tankless Hot Water Heater for Kitchen and Bathroom, Energy Efficient with Adjustable Temperature Control",
@@ -2097,7 +2097,7 @@
   {
     "asin": "B0GRR1N37B",
     "brand": "غير محدد",
-    "name": "Copper Water Heater with Thermostat, Electric Heater for Heaters, High Quality Copper Connector",
+    "name": "Copper سخان",
     "specs": {},
     "model": "",
     "title": "Copper Water Heater with Thermostat, Electric Heater for Heaters, High Quality Copper Connector",
@@ -2117,7 +2117,7 @@
   {
     "asin": "B0D9FQFK3M",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Sand|220 V|Temperature adjustment 0.5 °C,Di",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Sand|220 V|Temperature adjustment 0.5 °C,Digital Display|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -2137,7 +2137,7 @@
   {
     "asin": "B0D42823HW",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Gold|220 V|Temperature adjustment 0.5 °C,Di",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Gold|220 V|Temperature adjustment 0.5 °C,Digital Display|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -2157,7 +2157,7 @@
   {
     "asin": "B0HPB1VWRQ",
     "brand": "Purity",
-    "name": "Purity Digital Instant Electric Water Heater - 7 kW - Remote Control - P101 7 KW BL",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Digital Instant Electric Water Heater - 7 kW - Remote Control - P101 7 KW BL",
@@ -2177,7 +2177,7 @@
   {
     "asin": "B0CSZ1BJXJ",
     "brand": "NARDI",
-    "name": "Nardi-Instant Electric Water Heater-7 kw",
+    "name": "Nardi-Instant سخان",
     "specs": {},
     "model": "",
     "title": "Nardi-Instant Electric Water Heater-7 kw",
@@ -2197,7 +2197,7 @@
   {
     "asin": "B0DLL38R92",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron |Instant Water Heater |DCE- C 10/12 trend|Pearl|220V |Outlet temperature fixed at 55 °C, E",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron |Instant Water Heater |DCE- C 10/12 trend|Pearl|220V |Outlet temperature fixed at 55 °C, Energy-Saving| 2i Technology |15Year Lifespan |2 years Warranty| Energy Class A| Made in Germany",
@@ -2217,7 +2217,7 @@
   {
     "asin": "B0CMGR7BKM",
     "brand": "veito",
-    "name": "Veito Electric Instant Tankless Water Heater flow 12 White",
+    "name": "Veito سخان",
     "specs": {},
     "model": "",
     "title": "Veito Electric Instant Tankless Water Heater flow 12 White",
@@ -2237,7 +2237,7 @@
   {
     "asin": "B0HGG4725Q",
     "brand": "Purity",
-    "name": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – P101 11 kW BL",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – P101 11 kW BL",
@@ -2257,7 +2257,7 @@
   {
     "asin": "B0HN513BSF",
     "brand": "Purity",
-    "name": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – White - P101 11 KW WH",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – White - P101 11 KW WH",
@@ -2277,7 +2277,7 @@
   {
     "asin": "B0H4NLG1VB",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control ",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "WHITE",
     "title": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (White)",
@@ -2297,7 +2297,7 @@
   {
     "asin": "B0B5VJ8QGQ",
     "brand": "EZILYF",
-    "name": "EZILYF 304 Grade Braided Stainless Steel Connection Hose Pipe for Wash Basin, Kitchen Sink, Geyser - Heav",
+    "name": "EZILYF سخان",
     "specs": {},
     "model": "",
     "title": "EZILYF 304 Grade Braided Stainless Steel Connection Hose Pipe for Wash Basin, Kitchen Sink, Geyser - Heavy, Flexible, 18 Inch (2 Pieces Set, Pack of 1 Pair)",
@@ -2317,7 +2317,7 @@
   {
     "asin": "B0H4P6VTY6",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control ",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "BLACK",
     "title": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (Black)",
@@ -2337,7 +2337,7 @@
   {
     "asin": "B0DZVMVFT2",
     "brand": "INSTA",
-    "name": "INSTA IH-6 Electric Water Heater, 6 kW, Digital Display, 30-55°C Temperature Control, 220-240V",
+    "name": "INSTA سخان",
     "specs": {},
     "model": "",
     "title": "INSTA IH-6 Electric Water Heater, 6 kW, Digital Display, 30-55°C Temperature Control, 220-240V",
@@ -2357,7 +2357,7 @@
   {
     "asin": "B0HP82JG4S",
     "brand": "Purity",
-    "name": "Purity Digital Instant Electric Water Heater - 9 kW - Remote Control - Black - P101 9 kW BL",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Digital Instant Electric Water Heater - 9 kW - Remote Control - Black - P101 9 kW BL",
@@ -2377,7 +2377,7 @@
   {
     "asin": "B0FBKD33P9",
     "brand": "BOMAN",
-    "name": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى White بضمان برايم جروب",
+    "name": "سخان",
     "specs": {},
     "model": "WZL13",
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى White بضمان برايم جروب",
@@ -2397,7 +2397,7 @@
   {
     "asin": "B0H4N9SCLM",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control ",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "GREY",
     "title": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (Grey)",
@@ -2417,7 +2417,7 @@
   {
     "asin": "B0H4NBFGBK",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 9kW Tankless High-Efficiency Digital System, with Remote Control",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "GREY",
     "title": "Purity101 Electric Instant Water Heater, 9kW Tankless High-Efficiency Digital System, with Remote Control – P101 9k (Grey)",
@@ -2437,7 +2437,7 @@
   {
     "asin": "B09GLJKX5Z",
     "brand": "Aquieen",
-    "name": "Aquieen SS Connection Pipe for Geyser & Basin Grade AISI 304 (2-Pack) (12\")",
+    "name": "Aquieen سخان",
     "specs": {},
     "model": "2-PACK",
     "title": "Aquieen SS Connection Pipe for Geyser & Basin Grade AISI 304 (2-Pack) (12\")",
@@ -2457,7 +2457,7 @@
   {
     "asin": "B08HX4GQDG",
     "brand": "RUDRAKSHA",
-    "name": "Rudraksha® Geyser Connection Installation Kit 1 Set of Connection Pipe 24inch, 1 PTFE Tape, 1 Fastener Ki",
+    "name": "Rudraksha سخان",
     "specs": {},
     "model": "",
     "title": "Rudraksha® Geyser Connection Installation Kit 1 Set of Connection Pipe 24inch, 1 PTFE Tape, 1 Fastener Kit",
@@ -2477,7 +2477,7 @@
   {
     "asin": "B0H4NKB864",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Contr",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "BLACK",
     "title": "Purity101 Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Control – P101 11k (Black)",
@@ -2497,7 +2497,7 @@
   {
     "asin": "B0HN4X3Z99",
     "brand": "Purity",
-    "name": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – Gray – P101 11 KW GR",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – Gray – P101 11 KW GR",
@@ -2517,7 +2517,7 @@
   {
     "asin": "B0H4NKQP9C",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 9kW Tankless High-Efficiency Digital System, with Remote Control",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "WHITE",
     "title": "Purity101 Electric Instant Water Heater, 9kW Tankless High-Efficiency Digital System, with Remote Control – P101 9k (White)",
@@ -2537,7 +2537,7 @@
   {
     "asin": "B0HP9WT1HL",
     "brand": "Purity",
-    "name": "Purity Digital Instant Electric Water Heater - 7 kW - Remote Control - P101 7 KW GR",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Digital Instant Electric Water Heater - 7 kW - Remote Control - P101 7 KW GR",
@@ -2557,7 +2557,7 @@
   {
     "asin": "B0D2BJ3692",
     "brand": "Sas Electric",
-    "name": "SAS Electric NUV Water Heater Switch with Indicator Light White – 80-503",
+    "name": "SAS سخان",
     "specs": {},
     "model": "",
     "title": "SAS Electric NUV Water Heater Switch with Indicator Light White – 80-503",
@@ -2577,7 +2577,7 @@
   {
     "asin": "B0HP7VKTFB",
     "brand": "Purity",
-    "name": "Purity Electric Instant Water Heater - 13kW - Remote Control – P101 13 kW GR",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Electric Instant Water Heater - 13kW - Remote Control – P101 13 kW GR",
@@ -2597,7 +2597,7 @@
   {
     "asin": "B0HP88RL9T",
     "brand": "Purity",
-    "name": "Purity Digital Instant Electric Water Heater - 9 kW - Remote Control - P101 9 kW GR",
+    "name": "Purity سخان",
     "specs": {},
     "model": "P101",
     "title": "Purity Digital Instant Electric Water Heater - 9 kW - Remote Control - P101 9 kW GR",
@@ -2617,7 +2617,7 @@
   {
     "asin": "B0HJ6KHVHZ",
     "brand": "غير محدد",
-    "name": "Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Control – P101 ",
+    "name": "سخان",
     "specs": {},
     "model": "BLACK",
     "title": "Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Control – P101 11k (Black)",
@@ -2637,7 +2637,7 @@
   {
     "asin": "B0HJ6KPJYL",
     "brand": "غير محدد",
-    "name": "Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k",
+    "name": "سخان",
     "specs": {},
     "model": "BLACK",
     "title": "Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (Black)",
@@ -2657,7 +2657,7 @@
   {
     "asin": "B0DZTPK7XQ",
     "brand": "INSTA",
-    "name": "INSTA IH-12 Electric Water Heater, 12 KW, 220-240V, 8 Temperature Levels, 41.8x24x7 cm",
+    "name": "INSTA سخان",
     "specs": {},
     "model": "",
     "title": "INSTA IH-12 Electric Water Heater, 12 KW, 220-240V, 8 Temperature Levels, 41.8x24x7 cm",
@@ -2677,7 +2677,7 @@
   {
     "asin": "B0H4P1GH5W",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Contr",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "GREY",
     "title": "Purity101 Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Control – P101 11k (Grey)",
@@ -2697,7 +2697,7 @@
   {
     "asin": "B0DZTRWYHG",
     "brand": "INSTA",
-    "name": "INSTA IH-12 Electric Water Heater, 12 KW, 220-240V, 41.8x24x7 cm, Temperature Range 30-55°C",
+    "name": "INSTA سخان",
     "specs": {},
     "model": "",
     "title": "INSTA IH-12 Electric Water Heater, 12 KW, 220-240V, 41.8x24x7 cm, Temperature Range 30-55°C",
@@ -2717,7 +2717,7 @@
   {
     "asin": "B07SK1SLDP",
     "brand": "TAVALAX",
-    "name": "Tavalax Fast Electric Water Heater & Small Instantaneous Water Heater & Boiler & Electric Tankless Water ",
+    "name": "Tavalax سخان",
     "specs": {},
     "model": "",
     "title": "Tavalax Fast Electric Water Heater & Small Instantaneous Water Heater & Boiler & Electric Tankless Water Heater & Electric Tap (Limited Edition)",
@@ -2737,7 +2737,7 @@
   {
     "asin": "B0DKDBH6YJ",
     "brand": "غير محدد",
-    "name": "سخان كهربائي لعشاق القهوة و محبيبن السفر بحجم صغير و سريع 50 وات لون فضي",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "سخان كهربائي لعشاق القهوة و محبيبن السفر بحجم صغير و سريع 50 وات لون فضي",
@@ -2757,7 +2757,7 @@
   {
     "asin": "B0HL3YFH4N",
     "brand": "BOMAN",
-    "name": "Bowman DSK-85EL-Black Instant Electric Water Heater 8.5KW Black Prime Group Warranty",
+    "name": "Bowman سخان",
     "specs": {},
     "model": "",
     "title": "Bowman DSK-85EL-Black Instant Electric Water Heater 8.5KW Black Prime Group Warranty",
@@ -2777,7 +2777,7 @@
   {
     "asin": "B099SDCWG3",
     "brand": "MCGRAWHILL",
-    "name": "Closed Feedwater Heaters for Power Generation: A Working Guide ,Ed. :1",
+    "name": "Closed سخان",
     "specs": {},
     "model": "",
     "title": "Closed Feedwater Heaters for Power Generation: A Working Guide ,Ed. :1",
@@ -2797,7 +2797,7 @@
   {
     "asin": "B0D4273Q2H",
     "brand": "غير محدد",
-    "name": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Silver|380 V|Temperature adjustment 0.5 °C,Digital Dis",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Silver|380 V|Temperature adjustment 0.5 °C,Digital Display,I-Menu,2 Memory|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -2817,7 +2817,7 @@
   {
     "asin": "B01KVAXKAU",
     "brand": "فريش",
-    "name": "فريش 50 لتر",
+    "name": "فريش سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -2839,7 +2839,7 @@
   {
     "asin": "B098TVSTYJ",
     "brand": "أريستون",
-    "name": "أريستون 50 لتر",
+    "name": "أريستون سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -2861,7 +2861,7 @@
   {
     "asin": "B0101S995W",
     "brand": "تورنيدو",
-    "name": "تورنيدو 30 لتر",
+    "name": "تورنيدو سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -2883,7 +2883,7 @@
   {
     "asin": "B0DWXWFBD8",
     "brand": "زانوسي",
-    "name": "زانوسي 50 لتر",
+    "name": "زانوسي سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -2905,7 +2905,7 @@
   {
     "asin": "B07Y28SBBM",
     "brand": "أريستون",
-    "name": "أريستون 50 لتر",
+    "name": "أريستون سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -2927,7 +2927,7 @@
   {
     "asin": "B091JFLP2N",
     "brand": "BOMAN",
-    "name": "Bowman DSK-85EL Instant Electric Water Heater 8.5KW Prime Group Warranty",
+    "name": "Bowman سخان",
     "specs": {},
     "model": "",
     "title": "Bowman DSK-85EL Instant Electric Water Heater 8.5KW Prime Group Warranty",
@@ -2947,7 +2947,7 @@
   {
     "asin": "B0HN92S9T6",
     "brand": "عام",
-    "name": "عام 1500 وات",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -2969,7 +2969,7 @@
   {
     "asin": "B0FBK93PDY",
     "brand": "BOMAN",
-    "name": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group Warranty-Grey",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "",
     "title": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group Warranty-Grey",
@@ -2989,7 +2989,7 @@
   {
     "asin": "B0F5X5GMWH",
     "brand": "Thermoflow",
-    "name": "Thermoflow ELEX12 Instant Electric Water Heater 12KW Prime Group Warranty",
+    "name": "Thermoflow سخان",
     "specs": {},
     "model": "ELEX12",
     "title": "Thermoflow ELEX12 Instant Electric Water Heater 12KW Prime Group Warranty",
@@ -3009,7 +3009,7 @@
   {
     "asin": "B0GW8X2DMS",
     "brand": "غير محدد",
-    "name": "HEJ Electric Water Heater Fast Heating 1000W 220-240V Model HJ-119",
+    "name": "HEJ سخان 1000وات",
     "specs": {
       "watt": "1000"
     },
@@ -3031,7 +3031,7 @@
   {
     "asin": "B0GV8Y9TNK",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DHB-E 27 |Gold|380 V|Temperature selection 30-60 °C,Output contro",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHB-E 27 |Gold|380 V|Temperature selection 30-60 °C,Output control|3I Technology|15-Yr Lifespan|2 Yr Warranty|Energy Class A| Made in Germany",
@@ -3051,7 +3051,7 @@
   {
     "asin": "B0GV9CV8CC",
     "brand": "غير محدد",
-    "name": "Stiebel Eltron | Instant Water Heater | DHB-E 27 |Silver|380 V|Temperature selection 30-60 °C,Output cont",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHB-E 27 |Silver|380 V|Temperature selection 30-60 °C,Output control|3I Technology|15-Yr Lifespan|2 Yr Warranty|Energy Class A| Made in Germany",
@@ -3071,7 +3071,7 @@
   {
     "asin": "B0DJL4LL32",
     "brand": "غير محدد",
-    "name": "80 liter Electric Water Heater, Horizontal, 1500 watt, 3X Fast Heating, O’pro pro 8530940 White",
+    "name": "سخان 80لتر 1500وات",
     "specs": {
       "cap": "80",
       "watt": "1500"
@@ -3094,7 +3094,7 @@
   {
     "asin": "B0DSLMJ462",
     "brand": "زانوسي",
-    "name": "زانوسي 50 لتر",
+    "name": "زانوسي سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -3116,7 +3116,7 @@
   {
     "asin": "B0G3PX48SF",
     "brand": "THOMSON",
-    "name": "THOMSON Instant Electric Tankless Water Heater 9KW High Power Constant Temperature Quick Heating Compact ",
+    "name": "THOMSON سخان",
     "specs": {},
     "model": "",
     "title": "THOMSON Instant Electric Tankless Water Heater 9KW High Power Constant Temperature Quick Heating Compact Design Overheat Protection",
@@ -3136,7 +3136,7 @@
   {
     "asin": "B0GWDYRLZG",
     "brand": "غير محدد",
-    "name": "Stainless Boiler - High Quality 2 Liter Capacity Electric Water Heater with Sturdy Plastic Bottom, 1500 W",
+    "name": "Stainless سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -3158,7 +3158,7 @@
   {
     "asin": "B0D9FRGZHY",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Sea|220 V|Temperature adjustment 0.5 °C,Dig",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Sea|220 V|Temperature adjustment 0.5 °C,Digital Display|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -3178,7 +3178,7 @@
   {
     "asin": "B0HCJQDNBG",
     "brand": "Thermoflow",
-    "name": "ThermoFlow ELEX12 Instant Electric Water Heater 12KW Black by Prime Group Warranty",
+    "name": "ThermoFlow سخان",
     "specs": {},
     "model": "ELEX12",
     "title": "ThermoFlow ELEX12 Instant Electric Water Heater 12KW Black by Prime Group Warranty",
@@ -3198,7 +3198,7 @@
   {
     "asin": "B091JJQJCT",
     "brand": "Atlantic",
-    "name": "Atlantic 80 لتر",
+    "name": "Atlantic سخان 80لتر",
     "specs": {
       "cap": "80"
     },
@@ -3220,7 +3220,7 @@
   {
     "asin": "B0H4NHGPMN",
     "brand": "Purity101",
-    "name": "Purity101 Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Contr",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "WHITE",
     "title": "Purity101 Electric Instant Water Heater, 11kW Tankless High-Performance Digital System, with Remote Control – P101 11k (White)",
@@ -3240,7 +3240,7 @@
   {
     "asin": "B0C434C1KW",
     "brand": "Levon",
-    "name": "Levon 50 لتر 2000 وات",
+    "name": "Levon سخان 50لتر 2000وات",
     "specs": {
       "cap": "50",
       "watt": "2000"
@@ -3263,7 +3263,7 @@
   {
     "asin": "B0BVJ6PFG5",
     "brand": "غير محدد",
-    "name": "one year warranty_Electric Water Heater Smart Wireless Water Dispenser Mineral Water Automatic Water Disp",
+    "name": "one سخان",
     "specs": {},
     "model": "",
     "title": "one year warranty_Electric Water Heater Smart Wireless Water Dispenser Mineral Water Automatic Water Dispenser Wholesale Barreled Wireless Water Pump",
@@ -3283,7 +3283,7 @@
   {
     "asin": "B0F5X1PBX1",
     "brand": "Thermoflow",
-    "name": "Thermoflow Instant Electric Water Heater 3IN1 (24-21-18) KW Prime Group Warranty",
+    "name": "Thermoflow سخان",
     "specs": {},
     "model": "24-21-18",
     "title": "Thermoflow Instant Electric Water Heater 3IN1 (24-21-18) KW Prime Group Warranty",
@@ -3303,7 +3303,7 @@
   {
     "asin": "B0GV95SL1W",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | PHB 18 | White | 380 V | Two Adjustable Stages | Hydraulically Co",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | PHB 18 | White | 380 V | Two Adjustable Stages | Hydraulically Controlled | 15-Yr Lifespan | 2 Yr Warranty | Energy Class A | Made in Germany",
@@ -3323,7 +3323,7 @@
   {
     "asin": "B0CN3VL6T2",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic Shopping 80 لتر 2000 وات",
+    "name": "سخان 80لتر 2000وات",
     "specs": {
       "cap": "80",
       "watt": "2000"
@@ -3346,7 +3346,7 @@
   {
     "asin": "B0D426YH42",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Dark Gray|380 V|Temperature adjustment 0.5 °C,Digital ",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Dark Gray|380 V|Temperature adjustment 0.5 °C,Digital Display,I-Menu,2 Memory|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -3366,7 +3366,7 @@
   {
     "asin": "B0CJYFFTQF",
     "brand": "Cemsan",
-    "name": "Cemsan Instant Water Heater 24 KW",
+    "name": "Cemsan سخان",
     "specs": {},
     "model": "",
     "title": "Cemsan Instant Water Heater 24 KW",
@@ -3386,7 +3386,7 @@
   {
     "asin": "B0DFM7ZYY8",
     "brand": "ميديا",
-    "name": "ميديا 10 لتر",
+    "name": "ميديا سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -3408,7 +3408,7 @@
   {
     "asin": "B09QQLPZTD",
     "brand": "Cointra",
-    "name": "Cointra 6 لتر",
+    "name": "Cointra سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -3430,7 +3430,7 @@
   {
     "asin": "B0HCNZFMWG",
     "brand": "Thermoflow",
-    "name": "ThermoFlow ELEX10 10KW Instant Electric Water Heater, White with Prime Group Warranty",
+    "name": "ThermoFlow سخان",
     "specs": {},
     "model": "ELEX10",
     "title": "ThermoFlow ELEX10 10KW Instant Electric Water Heater, White with Prime Group Warranty",
@@ -3450,7 +3450,7 @@
   {
     "asin": "B09HL2KZSN",
     "brand": "فريش",
-    "name": "فريش 6 لتر",
+    "name": "سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -3472,7 +3472,7 @@
   {
     "asin": "B09GBLMWV5",
     "brand": "Lamborghini",
-    "name": "Lamborghini 50 لتر 1500 وات",
+    "name": "Lamborghini سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -3495,7 +3495,7 @@
   {
     "asin": "B0GKHVGFXG",
     "brand": "غير محدد",
-    "name": "80L 1500W Horizontal Electric Water Heater Fast Heating Model Opro",
+    "name": "80L سخان 80لتر 1500وات",
     "specs": {
       "cap": "80",
       "watt": "1500"
@@ -3518,7 +3518,7 @@
   {
     "asin": "B0CQXBTVLC",
     "brand": "LIFEJXWEN",
-    "name": "LIFEJXWEN 3000 وات",
+    "name": "Instant سخان 3000وات",
     "specs": {
       "watt": "3000"
     },
@@ -3540,7 +3540,7 @@
   {
     "asin": "B0D425B2TD",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Rose Gold|380 V|Temperature adjustment 0.5 °C,Digital ",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Rose Gold|380 V|Temperature adjustment 0.5 °C,Digital Display,I-Menu,2 Memory|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -3560,7 +3560,7 @@
   {
     "asin": "B0G3PXBB8X",
     "brand": "THOMSON",
-    "name": "THOMSON Instant Electric Tankless Water Heater 12KW Powerful Instant Heating Constant Temperature Digital",
+    "name": "THOMSON سخان",
     "specs": {},
     "model": "",
     "title": "THOMSON Instant Electric Tankless Water Heater 12KW Powerful Instant Heating Constant Temperature Digital Display for Large Homes",
@@ -3580,7 +3580,7 @@
   {
     "asin": "B09ZJ7YFXB",
     "brand": "Deals",
-    "name": "Deals -TAP ELECTRIC MIXER PLUG HOT WATER BOILER WITH DISPLAY",
+    "name": "Deals سخان",
     "specs": {},
     "model": "",
     "title": "Deals -TAP ELECTRIC MIXER PLUG HOT WATER BOILER WITH DISPLAY",
@@ -3600,7 +3600,7 @@
   {
     "asin": "B0CJYDQPN4",
     "brand": "Cemsan",
-    "name": "Cemsan Instant Water Heater 21 KW",
+    "name": "Cemsan سخان",
     "specs": {},
     "model": "",
     "title": "Cemsan Instant Water Heater 21 KW",
@@ -3620,7 +3620,7 @@
   {
     "asin": "B09JKX3ZNL",
     "brand": "غير محدد",
-    "name": "Electric Water Heater Smart Wireless Water Dispenser Mineral Water Automatic Water Dispenser Wholesale Ba",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Electric Water Heater Smart Wireless Water Dispenser Mineral Water Automatic Water Dispenser Wholesale Barreled Wireless Water Pumpco4063",
@@ -3640,7 +3640,7 @@
   {
     "asin": "B0GRR63KLD",
     "brand": "غير محدد",
-    "name": "Water Heater Thermostat, Copper Rod, Heater Temperature Control",
+    "name": "Water سخان",
     "specs": {},
     "model": "",
     "title": "Water Heater Thermostat, Copper Rod, Heater Temperature Control",
@@ -3660,7 +3660,7 @@
   {
     "asin": "B0DQD89ZHW",
     "brand": "جري",
-    "name": "Instant Hot Water Heater Faucet - Electric Faucet 360 Degree Rotation for Fast Heating and Simple Setup, ",
+    "name": "جري سخان",
     "specs": {},
     "model": "",
     "title": "Instant Hot Water Heater Faucet - Electric Faucet 360 Degree Rotation for Fast Heating and Simple Setup, Perfect for Kitchens and Bathrooms with Modern LED Features",
@@ -3680,7 +3680,7 @@
   {
     "asin": "B0GKQLPYKZ",
     "brand": "غير محدد",
-    "name": "HEATER Electric Water Heater Copper Element Gold Head 2 Heating Elements",
+    "name": "HEATER سخان",
     "specs": {},
     "model": "",
     "title": "HEATER Electric Water Heater Copper Element Gold Head 2 Heating Elements",
@@ -3700,7 +3700,7 @@
   {
     "asin": "B0CC1TNGRC",
     "brand": "TUMAHE",
-    "name": "TUMAHE Instant Hot Water Faucet, Electric Faucet Water Heater, Instant Hot Water Faucet Heater Cold Tankl",
+    "name": "TUMAHE سخان",
     "specs": {},
     "model": "",
     "title": "TUMAHE Instant Hot Water Faucet, Electric Faucet Water Heater, Instant Hot Water Faucet Heater Cold Tankless Faucet, Instantaneous Water Heater Quick Heating 3S Natyc",
@@ -3720,7 +3720,7 @@
   {
     "asin": "B0HBCYVTW8",
     "brand": "غير محدد",
-    "name": "Generic Electric Kettle, 2L Classic Electric Kettle, Water Level Indicator, Water Heater for Home Use Gen",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Generic Electric Kettle, 2L Classic Electric Kettle, Water Level Indicator, Water Heater for Home Use Generic",
@@ -3740,7 +3740,7 @@
   {
     "asin": "B091BQCJ3X",
     "brand": "غير محدد",
-    "name": "Instant Electric Water Heater Heating Faucet",
+    "name": "Instant سخان",
     "specs": {},
     "model": "",
     "title": "Instant Electric Water Heater Heating Faucet",
@@ -3760,7 +3760,7 @@
   {
     "asin": "B0D427ZTQP",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DHE 18/21/24 |Dark Gray |380 V|Temperature adjustment 0.5 °C,Digi",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHE 18/21/24 |Dark Gray |380 V|Temperature adjustment 0.5 °C,Digital Display,I-Menu,2 Memory|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -3780,7 +3780,7 @@
   {
     "asin": "B0DG595YD3",
     "brand": "غير محدد",
-    "name": "Nasosteel Stainless Steel Boiler for Restaurants and Cafes, 6 liters - Silver (Stanless)",
+    "name": "سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -3802,7 +3802,7 @@
   {
     "asin": "B0GWDYZK1M",
     "brand": "غير محدد",
-    "name": "Stainless Boiler - High Quality 2 Liter Capacity Electric Water Heater with Sturdy Plastic Bottom, 1500 W",
+    "name": "Stainless سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -3824,7 +3824,7 @@
   {
     "asin": "B0CJYFM65J",
     "brand": "Cemsan",
-    "name": "Cemsan Instant Water Heater 10.5 KW",
+    "name": "Cemsan سخان",
     "specs": {},
     "model": "",
     "title": "Cemsan Instant Water Heater 10.5 KW",
@@ -3844,7 +3844,7 @@
   {
     "asin": "B0BQC58R5C",
     "brand": "Vaileal",
-    "name": "Vaileal Foldable Electric Kettle: Portable Travel kettle with Separable Power Cord, Electric Water Heater",
+    "name": "Vaileal سخان",
     "specs": {},
     "model": "",
     "title": "Vaileal Foldable Electric Kettle: Portable Travel kettle with Separable Power Cord, Electric Water Heater Collapses, Silicone Folding Electric Kettle for Indoor, Outdoor, Camping, Travel",
@@ -3864,7 +3864,7 @@
   {
     "asin": "B0HFX7TXX7",
     "brand": "Purity101",
-    "name": "Purity101 Digital Instant Water Heater - Pink Color, German Technology, Full Digital Display with Remote ",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "",
     "title": "Purity101 Digital Instant Water Heater - Pink Color, German Technology, Full Digital Display with Remote Control & Complete Safety System - (13 kW)",
@@ -3884,7 +3884,7 @@
   {
     "asin": "B0FL7XG846",
     "brand": "غير محدد",
-    "name": "Stainless Steel Boiler for Restaurants and Cafes, 6 liters - Silver Black",
+    "name": "سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -3906,7 +3906,7 @@
   {
     "asin": "B0GWFF3BDD",
     "brand": "غير محدد",
-    "name": "Premium Design Smart Electric Water Kettle with Direct Pour Out – Instant Water Heater with Touch Screen ",
+    "name": "Premium سخان",
     "specs": {},
     "model": "",
     "title": "Premium Design Smart Electric Water Kettle with Direct Pour Out – Instant Water Heater with Touch Screen & Precise Temperature Control – Fast & Elegant Tea & Coffee Brewing with Easy & Professional",
@@ -3926,7 +3926,7 @@
   {
     "asin": "B0966RSK7J",
     "brand": "وايت بوينت",
-    "name": "White Point Wpewh50D Electric Water Heater 50 Litre , White",
+    "name": "وايت سخان",
     "specs": {},
     "model": "",
     "title": "White Point Wpewh50D Electric Water Heater 50 Litre , White",
@@ -3946,7 +3946,7 @@
   {
     "asin": "B0969C4G76",
     "brand": "veito",
-    "name": "VEITO ELECTRICAL INSTANT WATER HEATER 24 KW DIGITAL BLUE S",
+    "name": "VEITO سخان",
     "specs": {},
     "model": "",
     "title": "VEITO ELECTRICAL INSTANT WATER HEATER 24 KW DIGITAL BLUE S",
@@ -3966,7 +3966,7 @@
   {
     "asin": "B0H4NS2QVP",
     "brand": "Purity101",
-    "name": "Purity101 Cemsan Electric Instant Water Heater, 24kW Tankless High-Performance System, Digital Temperatur",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "B24",
     "title": "Purity101 Cemsan Electric Instant Water Heater, 24kW Tankless High-Performance System, Digital Temperature Control – B24, White",
@@ -3986,7 +3986,7 @@
   {
     "asin": "B0DG5ML5GS",
     "brand": "غير محدد",
-    "name": "Nasosteel Stainless Steel Boiler for Restaurants and Cafes, 10 liters - Silver (Stanless)",
+    "name": "سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -4008,7 +4008,7 @@
   {
     "asin": "B0BW67S6T4",
     "brand": "ECVV",
-    "name": "ECVV Travel Foldable Silicon Water Heater Jug Collapsible Mini Portable Electric Kettle (White)",
+    "name": "ECVV سخان",
     "specs": {},
     "model": "WHITE",
     "title": "ECVV Travel Foldable Silicon Water Heater Jug Collapsible Mini Portable Electric Kettle (White)",
@@ -4028,7 +4028,7 @@
   {
     "asin": "B0H3PJJ6LQ",
     "brand": "غير محدد",
-    "name": "Electric Water Heater White 50Liters",
+    "name": "سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -4050,7 +4050,7 @@
   {
     "asin": "B0H5K83WWL",
     "brand": "غير محدد",
-    "name": "SS35HD 3.5L Electric Water Boiler Large Capacity Home Use Practical Hot Drink Kettle",
+    "name": "SS35HD سخان",
     "specs": {},
     "model": "SS35HD",
     "title": "SS35HD 3.5L Electric Water Boiler Large Capacity Home Use Practical Hot Drink Kettle",
@@ -4070,7 +4070,7 @@
   {
     "asin": "B091FT5JF7",
     "brand": "Deals",
-    "name": "Deals - Electric Mixer Tap with Hot Water Boiler Plug with Display",
+    "name": "Deals سخان",
     "specs": {},
     "model": "",
     "title": "Deals - Electric Mixer Tap with Hot Water Boiler Plug with Display",
@@ -4090,7 +4090,7 @@
   {
     "asin": "B0HHBYN7FG",
     "brand": "غير محدد",
-    "name": "Electric Car Water Boiler 250W 0.5L Travel Trip KK1287 | CATL Car On 24V Lighter Socket, Hidden Stainless",
+    "name": "سخان",
     "specs": {},
     "model": "KK1287",
     "title": "Electric Car Water Boiler 250W 0.5L Travel Trip KK1287 | CATL Car On 24V Lighter Socket, Hidden Stainless Steel Heater, Dry Boiled Protection and Auto-Off with Light Indicator",
@@ -4110,7 +4110,7 @@
   {
     "asin": "B0H7BVT1JN",
     "brand": "غير محدد",
-    "name": "Portable Mini Electric Kettle Foldable Travel Kettle, Silicone Water Heater Kettle for Heating and Campin",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Portable Mini Electric Kettle Foldable Travel Kettle, Silicone Water Heater Kettle for Heating and Camping, Easy Storage with Detachable Power Cord",
@@ -4130,7 +4130,7 @@
   {
     "asin": "B0HG9S4V7R",
     "brand": "غير محدد",
-    "name": "Car Boiler, Hot Water Boiler Electric Kettle Travel Water Heating Kettle for Cars Trucks (24V, 1L) by Mok",
+    "name": "Car سخان",
     "specs": {},
     "model": "",
     "title": "Car Boiler, Hot Water Boiler Electric Kettle Travel Water Heating Kettle for Cars Trucks (24V, 1L) by Moka Store",
@@ -4150,7 +4150,7 @@
   {
     "asin": "B0H5K26VMF",
     "brand": "غير محدد",
-    "name": "Electric Water Boiler 2.5L 1500W MY-6607 Large Capacity Home Office Use Practical Hot Drink Kettle",
+    "name": "سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -4172,7 +4172,7 @@
   {
     "asin": "B0GYV31F83",
     "brand": "AKANE",
-    "name": "AKANE 2200 وات",
+    "name": "AKANE سخان 2200وات",
     "specs": {
       "watt": "2200"
     },
@@ -4194,7 +4194,7 @@
   {
     "asin": "B0GS77B1TY",
     "brand": "أريستون",
-    "name": "أريستون 10 لتر",
+    "name": "أريستون سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -4216,7 +4216,7 @@
   {
     "asin": "B0FRC4VCRT",
     "brand": "فريش",
-    "name": "فريش 30 لتر",
+    "name": "فريش سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -4238,7 +4238,7 @@
   {
     "asin": "B09HKZBCVD",
     "brand": "فريش",
-    "name": "فريش 10 لتر",
+    "name": "فريش سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -4260,7 +4260,7 @@
   {
     "asin": "B0HHQ2CY66",
     "brand": "CLAGE",
-    "name": "CLAGE DCX Next Comfort Electronic Instant Water Heater, 18-27 kW, 400V, Tankless Water Heater for Shower ",
+    "name": "CLAGE سخان",
     "specs": {},
     "model": "",
     "title": "CLAGE DCX Next Comfort Electronic Instant Water Heater, 18-27 kW, 400V, Tankless Water Heater for Shower & Bath",
@@ -4280,7 +4280,7 @@
   {
     "asin": "B0C4361ZZV",
     "brand": "Levon",
-    "name": "Levon 50 لتر 1500 وات",
+    "name": "Levon سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -4303,7 +4303,7 @@
   {
     "asin": "B07Y2CN11V",
     "brand": "أريستون",
-    "name": "Ariston pro R 80 V EG Tank Water Heater-White",
+    "name": "أريستون سخان",
     "specs": {},
     "model": "",
     "title": "Ariston pro R 80 V EG Tank Water Heater-White",
@@ -4323,7 +4323,7 @@
   {
     "asin": "B09YQLD94L",
     "brand": "فريش",
-    "name": "فريش 15 لتر",
+    "name": "فريش سخان 15لتر",
     "specs": {
       "cap": "15"
     },
@@ -4345,7 +4345,7 @@
   {
     "asin": "B0HJ15VX9M",
     "brand": "Purity101",
-    "name": "Purity101 5 لتر (WHITE)",
+    "name": "Purity سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -4367,7 +4367,7 @@
   {
     "asin": "B0DK711YKZ",
     "brand": "STRATG",
-    "name": "StraTG AC/DC Power Supply Adapter 3V 2A | Universal Adapter for CCTV Cameras & Gas Water Heater Ignition ",
+    "name": "StraTG سخان",
     "specs": {},
     "model": "",
     "title": "StraTG AC/DC Power Supply Adapter 3V 2A | Universal Adapter for CCTV Cameras & Gas Water Heater Ignition | Output Overvoltage, Short Circuit, and Surge Protection",
@@ -4387,7 +4387,7 @@
   {
     "asin": "B0H6VDD25Z",
     "brand": "غير محدد",
-    "name": "INSTA COMFORT+ Instant Water Heater – 12 KW (White) | Heater",
+    "name": "INSTA سخان",
     "specs": {},
     "model": "WHITE",
     "title": "INSTA COMFORT+ Instant Water Heater – 12 KW (White) | Heater",
@@ -4407,7 +4407,7 @@
   {
     "asin": "B0CV2QHB3T",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic Shopping 40 لتر",
+    "name": "Atlantic سخان 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -4429,7 +4429,7 @@
   {
     "asin": "B0922WF6JD",
     "brand": "Atlantic",
-    "name": "Atlantic 50 لتر",
+    "name": "Atlantic سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -4451,7 +4451,7 @@
   {
     "asin": "B0DM2CSWNK",
     "brand": "غير محدد",
-    "name": "Aquarium Submersible Heater with Temperature Adjustment, Glass, for Fish Tank Water Heater 50w",
+    "name": "Aquarium سخان",
     "specs": {},
     "model": "",
     "title": "Aquarium Submersible Heater with Temperature Adjustment, Glass, for Fish Tank Water Heater 50w",
@@ -4471,7 +4471,7 @@
   {
     "asin": "B08ZNTBT1M",
     "brand": "أريون",
-    "name": "أريون 10 لتر",
+    "name": "أريون سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -4493,7 +4493,7 @@
   {
     "asin": "B09HL1D4RJ",
     "brand": "فريش",
-    "name": "فريش 6 لتر",
+    "name": "فريش سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -4515,7 +4515,7 @@
   {
     "asin": "B0HFX8VTPN",
     "brand": "Purity101",
-    "name": "Purity101 Digital Instant Water Heater - Pink Color, German Technology, Full Digital Display with Remote ",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "",
     "title": "Purity101 Digital Instant Water Heater - Pink Color, German Technology, Full Digital Display with Remote Control & Complete Safety System - (9 kW)",
@@ -4535,7 +4535,7 @@
   {
     "asin": "B0DJJQ2QV2",
     "brand": "غير محدد",
-    "name": "غلاية كهربائية قابل للطي مصنوع من السيليكون ، سهل التخزين ، سخان وعاء الماء سريع للشاي والقهوه ، مقاس 600",
+    "name": "سخان",
     "specs": {},
     "model": "WHITE",
     "title": "غلاية كهربائية قابل للطي مصنوع من السيليكون ، سهل التخزين ، سخان وعاء الماء سريع للشاي والقهوه ، مقاس 600 ملى - Sold By (Black Fire) (White)",
@@ -4555,7 +4555,7 @@
   {
     "asin": "B0HCP44RHB",
     "brand": "تورنيدو",
-    "name": "فلانشة سخان تورنيدو تعديل خاصModified Flange for Tornado Water Heater 21.7cm 8-Bolt",
+    "name": "تورنيدو سخان",
     "specs": {},
     "model": "",
     "title": "فلانشة سخان تورنيدو تعديل خاصModified Flange for Tornado Water Heater 21.7cm 8-Bolt",
@@ -4575,7 +4575,7 @@
   {
     "asin": "B0HFX4MSVD",
     "brand": "Purity101",
-    "name": "Purity101 Digital Instant Water Heater - Pink Color, German Technology, Full Digital Display with Remote ",
+    "name": "Purity101 سخان",
     "specs": {},
     "model": "",
     "title": "Purity101 Digital Instant Water Heater - Pink Color, German Technology, Full Digital Display with Remote Control & Complete Safety System - (7 kW)",
@@ -4595,7 +4595,7 @@
   {
     "asin": "B0FDL843Y1",
     "brand": "غير محدد",
-    "name": "Electric water boiler,Healthy Tea Pot,Hot Milk Warmer,Multifunctional Thermostatic Kettle,72 Hours Consta",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Electric water boiler,Healthy Tea Pot,Hot Milk Warmer,Multifunctional Thermostatic Kettle,72 Hours Constant Temperature",
@@ -4615,7 +4615,7 @@
   {
     "asin": "B0H6V3CB64",
     "brand": "غير محدد",
-    "name": "INSTA ESSENTIAL Instant Water Heater – 9 KW",
+    "name": "INSTA سخان",
     "specs": {},
     "model": "",
     "title": "INSTA ESSENTIAL Instant Water Heater – 9 KW",
@@ -4635,7 +4635,7 @@
   {
     "asin": "B0DLL6Y6TS",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | PHB 13 | White | 380 V | Two Adjustable Stages | Hydraulically Co",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | PHB 13 | White | 380 V | Two Adjustable Stages | Hydraulically Controlled | 15-Yr Lifespan | 2 Yr Warranty | Energy Class A | Made in Germany",
@@ -4655,7 +4655,7 @@
   {
     "asin": "B0DHPBV89V",
     "brand": "بيكو",
-    "name": "بيكو 6 لتر",
+    "name": "بيكو سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -4677,7 +4677,7 @@
   {
     "asin": "B088DZNLK1",
     "brand": "MATEU",
-    "name": "MATEU SS Fil-Nox Stainless Steel Flexible Water Heater Connection Hose (1/2in x 1/2 in Female, 600mm)",
+    "name": "MATEU سخان",
     "specs": {},
     "model": "",
     "title": "MATEU SS Fil-Nox Stainless Steel Flexible Water Heater Connection Hose (1/2in x 1/2 in Female, 600mm)",
@@ -4697,7 +4697,7 @@
   {
     "asin": "B088DYLKCZ",
     "brand": "MATEU",
-    "name": "MATEU SS Connection Stainless Steel Flexible Water Heater Hose -1/2x1/2in Female, 450mm",
+    "name": "MATEU سخان",
     "specs": {},
     "model": "",
     "title": "MATEU SS Connection Stainless Steel Flexible Water Heater Hose -1/2x1/2in Female, 450mm",
@@ -4717,7 +4717,7 @@
   {
     "asin": "B0H3QP1R3H",
     "brand": "غير محدد",
-    "name": "Brass Water Heater Hose 60cm EPDM -1/2 x 1/2 NPT- 3 Pieces",
+    "name": "Brass سخان",
     "specs": {},
     "model": "",
     "title": "Brass Water Heater Hose 60cm EPDM -1/2 x 1/2 NPT- 3 Pieces",
@@ -4737,7 +4737,7 @@
   {
     "asin": "B0D9ZYTL9F",
     "brand": "بيكو",
-    "name": "Beko Natural Gas Water Heater - 10 Litres - With Chimney - Digital Screen - USB Adaptor - Full Safety (Wh",
+    "name": "بيكو سخان",
     "specs": {},
     "model": "WHITE",
     "title": "Beko Natural Gas Water Heater - 10 Litres - With Chimney - Digital Screen - USB Adaptor - Full Safety (White)",
@@ -4757,7 +4757,7 @@
   {
     "asin": "B0CNVLX9Z4",
     "brand": "فريش",
-    "name": "فريش 6 لتر",
+    "name": "سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -4779,7 +4779,7 @@
   {
     "asin": "B0DLBQNZQT",
     "brand": "غير محدد",
-    "name": "سخان غاز طبيعى 6لتر ريستون اشعال كهربائي مزود ب2 صمام ريستون",
+    "name": "سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -4801,7 +4801,7 @@
   {
     "asin": "B09V874T68",
     "brand": "غير محدد",
-    "name": "سخان بلاطه كهرباء للتسخين الشاي والقهوه والفول",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "سخان بلاطه كهرباء للتسخين الشاي والقهوه والفول",
@@ -4821,7 +4821,7 @@
   {
     "asin": "B0D9FQ72NX",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel Eltron | Instant Water Heater | DCE- S 10/12 Plus |Sand|220 V|Accurate temperature selection from",
+    "name": "Stiebel سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- S 10/12 Plus |Sand|220 V|Accurate temperature selection from 20 °C to 60 °C|3I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -4841,7 +4841,7 @@
   {
     "asin": "B091DF6L7W",
     "brand": "كريازي",
-    "name": "كريازي 5 لتر",
+    "name": "كريازي سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -4863,7 +4863,7 @@
   {
     "asin": "B08YP2F4LF",
     "brand": "غير محدد",
-    "name": "Instant Electric Water Heater Heating Faucet",
+    "name": "Instant سخان",
     "specs": {},
     "model": "",
     "title": "Instant Electric Water Heater Heating Faucet",

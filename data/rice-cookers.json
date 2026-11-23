@@ -2,7 +2,7 @@
   {
     "asin": "B0119L4YPA",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 1 لتر 350 وات (RC1050)",
+    "name": "بلاك طباخ أرز 1لتر",
     "specs": {
       "cap": "1",
       "watt": "350"
@@ -25,7 +25,7 @@
   {
     "asin": "B098TXLKX3",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 2.8 لتر 1100 وات",
+    "name": "بلاك طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8",
       "watt": "1100"
@@ -48,7 +48,7 @@
   {
     "asin": "B0F1KP5357",
     "brand": "تيفال",
-    "name": "تيفال 1.5 لتر 700 وات (RK3611)",
+    "name": "تيفال طباخ أرز 1.5لتر",
     "specs": {
       "cap": "1.5",
       "watt": "700"
@@ -71,7 +71,7 @@
   {
     "asin": "B09BMQP4VV",
     "brand": "تيفال",
-    "name": "تيفال 1.5 لتر 750 وات (RK5221)",
+    "name": "تيفال طباخ أرز 1.5لتر",
     "specs": {
       "cap": "1.5",
       "watt": "750"
@@ -94,7 +94,7 @@
   {
     "asin": "B0BXDFKVVX",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 9.5 لتر 1500 وات",
+    "name": "نيوتريكوك طباخ أرز 9.5لتر",
     "specs": {
       "cap": "9.5",
       "watt": "1500"
@@ -117,7 +117,7 @@
   {
     "asin": "B0119L4ZV8",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 1.8 لتر (RC1860-B5)",
+    "name": "بلاك طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -139,7 +139,7 @@
   {
     "asin": "B0119L51A2",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 2.8 لتر (RC2850-B5)",
+    "name": "بلاك طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8"
     },
@@ -161,7 +161,7 @@
   {
     "asin": "B0FW4GBH2F",
     "brand": "كينوود",
-    "name": "كينوود 1.8 لتر (RCM19)",
+    "name": "كينوود طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -183,7 +183,7 @@
   {
     "asin": "B0119L4Z40",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 0.6 لتر (RC650-B5)",
+    "name": "بلاك طباخ أرز 0.6لتر",
     "specs": {
       "cap": "0.6"
     },
@@ -205,7 +205,7 @@
   {
     "asin": "B098W2DZB1",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 2.8 لتر",
+    "name": "بلاك طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8"
     },
@@ -227,7 +227,7 @@
   {
     "asin": "B0CY2KZPZN",
     "brand": "شاومي",
-    "name": "شاومي 3 لتر",
+    "name": "شاومي طباخ أرز 3لتر",
     "specs": {
       "cap": "3"
     },
@@ -249,7 +249,7 @@
   {
     "asin": "B08W8QQLWD",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 2.6 لتر",
+    "name": "نيوتريكوك طباخ أرز 2.6لتر",
     "specs": {
       "cap": "2.6"
     },
@@ -271,7 +271,7 @@
   {
     "asin": "B0GCMYZDMH",
     "brand": "كينوود",
-    "name": "كينوود 1.8 لتر (RCM18)",
+    "name": "كينوود طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -293,7 +293,7 @@
   {
     "asin": "B0FGY1L22M",
     "brand": "فيليبس",
-    "name": "فيليبس 1.8 لتر (HD3008/30)",
+    "name": "فيليبس طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -315,7 +315,7 @@
   {
     "asin": "B0BPS4RNWW",
     "brand": "فيليبس",
-    "name": "فيليبس 1.5 لتر (HD4539/62)",
+    "name": "فيليبس طباخ أرز 1.5لتر",
     "specs": {
       "cap": "1.5"
     },
@@ -337,7 +337,7 @@
   {
     "asin": "B0DQV2F82P",
     "brand": "شاومي",
-    "name": "شاومي 4 لتر",
+    "name": "شاومي طباخ أرز 4لتر",
     "specs": {
       "cap": "4"
     },
@@ -359,7 +359,7 @@
   {
     "asin": "B076KPF7SR",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 1.8 لتر (RC1850-B5-SP)",
+    "name": "بلاك طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -381,7 +381,7 @@
   {
     "asin": "B0GCNMWTLQ",
     "brand": "كينوود",
-    "name": "كينوود 2.8 لتر",
+    "name": "كينوود طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8"
     },
@@ -403,7 +403,7 @@
   {
     "asin": "B0DTJ8F6CM",
     "brand": "فيليبس",
-    "name": "فيليبس 1.8 لتر (HD4717/30)",
+    "name": "فيليبس طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -425,7 +425,7 @@
   {
     "asin": "B08JKF1L2K",
     "brand": "كينوود",
-    "name": "كينوود 2.8 لتر (RCM71)",
+    "name": "كينوود طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8"
     },
@@ -447,7 +447,7 @@
   {
     "asin": "B0BKY74LXB",
     "brand": "فيليبس",
-    "name": "فيليبس 1.8 لتر (HD4515/55)",
+    "name": "فيليبس طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -469,7 +469,7 @@
   {
     "asin": "B07PZ85XP1",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 1.8 لتر",
+    "name": "بلاك طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -491,7 +491,7 @@
   {
     "asin": "B091DPY2NF",
     "brand": "تيفال",
-    "name": "TEFAL Mecha Sperical 1.8 Litre Electrical Rice Cooker, Silver/White, Stainless Steel/Plastic, RK242127",
+    "name": "تيفال طباخ أرز",
     "specs": {},
     "model": "RK242127",
     "title": "TEFAL Mecha Sperical 1.8 Litre Electrical Rice Cooker, Silver/White, Stainless Steel/Plastic, RK242127",
@@ -511,7 +511,7 @@
   {
     "asin": "B0H6T1572Z",
     "brand": "DENX",
-    "name": "DENX 1 لتر 400 وات (DX2002)",
+    "name": "DENX طباخ أرز 1لتر",
     "specs": {
       "cap": "1",
       "watt": "400"
@@ -534,7 +534,7 @@
   {
     "asin": "B0HNM6418V",
     "brand": "جاماكي",
-    "name": "جاماكي 2.8 لتر 1000 وات",
+    "name": "جاماكي طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8",
       "watt": "1000"
@@ -557,7 +557,7 @@
   {
     "asin": "B0HJZWDNLH",
     "brand": "غير محدد",
-    "name": "JAMAKY Electric Rice Cooker JMK7501 2.8L 1000W | Non-stick inner bowl, keep warm function, built-in steam",
+    "name": "JAMAKY طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8",
       "watt": "1000"
@@ -580,7 +580,7 @@
   {
     "asin": "B0DFH2RN7J",
     "brand": "غير محدد",
-    "name": "DSP 5.0L Digital Multifunction Rice Cooker 700W kb5004 12 Cooking Programs Silver/Black",
+    "name": "طباخ أرز 5لتر 700وات",
     "specs": {
       "cap": "5",
       "watt": "700"
@@ -603,7 +603,7 @@
   {
     "asin": "B0HRFVVK85",
     "brand": "غير محدد",
-    "name": "JAMAKY Electric Rice Cooker JMK7501 2.8L | 1000W capacity, built-in steam bowl, fashion design, easy to u",
+    "name": "JAMAKY طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8",
       "watt": "1000"
@@ -626,7 +626,7 @@
   {
     "asin": "B08YY223ZQ",
     "brand": "غير محدد",
-    "name": "MediaTech Healthy Food Steamer, 500 Watt, 3-Tier Bowls, 3 Baskets, Rice Bowl/Rice Cooker, Steam Cooker wi",
+    "name": "طباخ أرز 500وات",
     "specs": {
       "watt": "500"
     },
@@ -648,7 +648,7 @@
   {
     "asin": "B09DD464NF",
     "brand": "غير محدد",
-    "name": "Home rice cooker 1.8L NG810 Silver",
+    "name": "طباخ أرز 1.8لتر",
     "specs": {
       "cap": "1.8"
     },
@@ -670,7 +670,7 @@
   {
     "asin": "B01DC9C1IY",
     "brand": "Tupperware",
-    "name": "Tupperware 3 لتر",
+    "name": "TUPPERWARE طباخ أرز 3لتر",
     "specs": {
       "cap": "3"
     },
@@ -692,7 +692,7 @@
   {
     "asin": "B0C9DZYZTD",
     "brand": "Heinrichs",
-    "name": "Heinrichs 800 وات",
+    "name": "Heinrichs طباخ أرز 800وات",
     "specs": {
       "watt": "800"
     },
@@ -714,7 +714,7 @@
   {
     "asin": "B0HCVW9979",
     "brand": "غير محدد",
-    "name": "Electric Rice Cooker with Heat Retention Function Easy to Use for Perfectly Cooked Rice and Hot Meals Mod",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Electric Rice Cooker with Heat Retention Function Easy to Use for Perfectly Cooked Rice and Hot Meals Model 7501",
@@ -734,7 +734,7 @@
   {
     "asin": "B0DJ97WMNM",
     "brand": "Winning Star",
-    "name": "Electric Rice Cooker",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Electric Rice Cooker",
@@ -754,7 +754,7 @@
   {
     "asin": "B099MSS6T6",
     "brand": "Home Glory",
-    "name": "Home Rice cooker NG 519 , 2725619457769",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Home Rice cooker NG 519 , 2725619457769",
@@ -774,7 +774,7 @@
   {
     "asin": "B091KQ246D",
     "brand": "Tupperware",
-    "name": "Tupperware - Microwave Rice Cooker",
+    "name": "Tupperware طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Tupperware - Microwave Rice Cooker",
@@ -794,7 +794,7 @@
   {
     "asin": "B0H958G7J9",
     "brand": "غير محدد",
-    "name": "Metal Rice Cooker – Non-Stick Coating | Metal Handle and Durable Material for Daily Use",
+    "name": "Metal طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Metal Rice Cooker – Non-Stick Coating | Metal Handle and Durable Material for Daily Use",
@@ -814,7 +814,7 @@
   {
     "asin": "B09BDYHLN4",
     "brand": "Tupperware",
-    "name": "Tupperware Ani Microwave Rice Cooker - 2724290898700",
+    "name": "Tupperware طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Tupperware Ani Microwave Rice Cooker - 2724290898700",
@@ -834,7 +834,7 @@
   {
     "asin": "B0GBZBB7JS",
     "brand": "غير محدد",
-    "name": "Electric Rice Cooker Easy Disassembly and Clean with Spoon Measuring Cup Strainer Vegetable Steamer",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Electric Rice Cooker Easy Disassembly and Clean with Spoon Measuring Cup Strainer Vegetable Steamer",
@@ -854,7 +854,7 @@
   {
     "asin": "B091FFPNG4",
     "brand": "Tupperware",
-    "name": "Tupperware microwave rice cooker - Capacity: 3.0 litres - Purple - 31046 Large Rice Cooker",
+    "name": "Tupperware طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Tupperware microwave rice cooker - Capacity: 3.0 litres - Purple - 31046 Large Rice Cooker",
@@ -874,7 +874,7 @@
   {
     "asin": "B07V3SD4QQ",
     "brand": "جيباس",
-    "name": "جيباس 2.2 لتر",
+    "name": "جيباس طباخ أرز 2.2لتر",
     "specs": {
       "cap": "2.2"
     },
@@ -896,7 +896,7 @@
   {
     "asin": "B07PCKLKMJ",
     "brand": "أرشيا",
-    "name": "Arshia Digital Rice Cooker Black",
+    "name": "أرشيا طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Arshia Digital Rice Cooker Black",
@@ -916,7 +916,7 @@
   {
     "asin": "B07NQVX261",
     "brand": "أرشيا",
-    "name": "Arshia RC145-2174 Digital Rice Cooker",
+    "name": "أرشيا طباخ أرز",
     "specs": {},
     "model": "RC145-2174",
     "title": "Arshia RC145-2174 Digital Rice Cooker",
@@ -936,7 +936,7 @@
   {
     "asin": "B0HF1YVL9R",
     "brand": "غير محدد",
-    "name": "DSP Digital Multifunction Rice Cooker 5.0L 700W kb5004 | 12 Cooking Programs, Induction Switch, Overheat ",
+    "name": "طباخ أرز 5لتر 700وات",
     "specs": {
       "cap": "5",
       "watt": "700"
@@ -959,7 +959,7 @@
   {
     "asin": "B0CZSJQB34",
     "brand": "غير محدد",
-    "name": "Rice Cooker Multifunction Electric Pressure Cooker 5 Liter 700 Watt",
+    "name": "Rice طباخ أرز 5لتر",
     "specs": {
       "cap": "5",
       "watt": "700"
@@ -982,7 +982,7 @@
   {
     "asin": "B0H8HFRVTC",
     "brand": "غير محدد",
-    "name": "Italy Jamky Multi-Purpose Electric Rice Cooker 2.8L/6.5L - 1000W - Sturdy Metal Body Non-Stick Lining Kee",
+    "name": "Italy طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8",
       "watt": "1000"
@@ -1005,7 +1005,7 @@
   {
     "asin": "B0009KA4CA",
     "brand": "Gastroback",
-    "name": "Gastroback 450 وات",
+    "name": "GASTROBACK طباخ أرز 450وات",
     "specs": {
       "watt": "450"
     },
@@ -1027,7 +1027,7 @@
   {
     "asin": "B087JXV5R1",
     "brand": "MAGEFESA",
-    "name": "MAGEFESA 8 لتر",
+    "name": "Magefesa طباخ أرز 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -1049,7 +1049,7 @@
   {
     "asin": "B0G93KFVNY",
     "brand": "Feller",
-    "name": "Feller 3 لتر (WHITE)",
+    "name": "Feller طباخ أرز 3لتر",
     "specs": {
       "cap": "3"
     },
@@ -1071,7 +1071,7 @@
   {
     "asin": "B00453ZU3K",
     "brand": "Steba",
-    "name": "Steba 700 وات",
+    "name": "Steba طباخ أرز 700وات",
     "specs": {
       "watt": "700"
     },
@@ -1093,7 +1093,7 @@
   {
     "asin": "B0993VP6K7",
     "brand": "غير محدد",
-    "name": "Home Rice cooker NG 810",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Home Rice cooker NG 810",
@@ -1113,7 +1113,7 @@
   {
     "asin": "B0H82GKT4Z",
     "brand": "غير محدد",
-    "name": "Premium Rice Heat Diffuser Plate with Stainless Steel Handle, Round/Square Rice Cooker Simmer Plate, Nons",
+    "name": "Premium طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Premium Rice Heat Diffuser Plate with Stainless Steel Handle, Round/Square Rice Cooker Simmer Plate, Nonstick Pot Protector, Heat Distribution Pad for Rice, Stuffed Vegetables, Slow Cooking",
@@ -1133,7 +1133,7 @@
   {
     "asin": "B091HWQH29",
     "brand": "MAGEFESA",
-    "name": "Magefesa 12 Liter Stainless Steel Rice Cooker -",
+    "name": "Magefesa طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Magefesa 12 Liter Stainless Steel Rice Cooker -",
@@ -1153,7 +1153,7 @@
   {
     "asin": "B0H2WVY2RD",
     "brand": "غير محدد",
-    "name": "Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 1PC,",
+    "name": "Wheat طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 1PC, Random Color",
@@ -1173,7 +1173,7 @@
   {
     "asin": "B0DRTZ4BC9",
     "brand": "MENGYUEXUAN",
-    "name": "Tumbler Anti-Stick Rice Spoon - Heat-Resistant Kitchen Paddle, Stands Upright & Easy to Clean, Non-Slip D",
+    "name": "Tumbler طباخ أرز",
     "specs": {},
     "model": "3PCS",
     "title": "Tumbler Anti-Stick Rice Spoon - Heat-Resistant Kitchen Paddle, Stands Upright & Easy to Clean, Non-Slip Design for Rice Cookers, Pots, and Cooking Essentials (3Pcs)",
@@ -1193,7 +1193,7 @@
   {
     "asin": "B0F1LRR2YK",
     "brand": "غير محدد",
-    "name": "Vegetable Steamer Basket – Adjustable Stainless Steel Steamer Strainer, Suitable for Pans, Casserole, Pre",
+    "name": "Vegetable طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Vegetable Steamer Basket – Adjustable Stainless Steel Steamer Strainer, Suitable for Pans, Casserole, Pressure Cooker, Rice Cooker",
@@ -1213,7 +1213,7 @@
   {
     "asin": "B0DY7GHQ36",
     "brand": "DILUSILK",
-    "name": "Silicone Rice Spoon, Non-Stick, Heat Resistant, Rice Paddle, Kitchen Utensil, Rice Shovel, Cooking Utensi",
+    "name": "Silicone طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Silicone Rice Spoon, Non-Stick, Heat Resistant, Rice Paddle, Kitchen Utensil, Rice Shovel, Cooking Utensils, Rice Cooker, Spoon for Rice, Salads",
@@ -1233,7 +1233,7 @@
   {
     "asin": "B0FHHGKGBV",
     "brand": "غير محدد",
-    "name": "Microwave Cooking Shields - 200Pcs Thicken Disposable Covers for Rice Cookers, Offering Durable Protectio",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Microwave Cooking Shields - 200Pcs Thicken Disposable Covers for Rice Cookers, Offering Durable Protection and Hassle-Free Cleanup in Your Kitchen",
@@ -1253,7 +1253,7 @@
   {
     "asin": "B0H2X3WXVQ",
     "brand": "غير محدد",
-    "name": "Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC,",
+    "name": "Wheat طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
@@ -1273,7 +1273,7 @@
   {
     "asin": "B0H7F46M7C",
     "brand": "غير محدد",
-    "name": "Wheat Straw Spoon Rest Holder with Suction Cup, Heat-Resistant Plastic Spoon Holder for Pots, Rice Cooker",
+    "name": "Wheat طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Wheat Straw Spoon Rest Holder with Suction Cup, Heat-Resistant Plastic Spoon Holder for Pots, Rice Cooker & Cooking Utensils, Kitchen Spoon Stand, Mess-Free Countertop Drip Tray",
@@ -1293,7 +1293,7 @@
   {
     "asin": "B0GVPHPXW7",
     "brand": "غير محدد",
-    "name": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoo",
+    "name": "Rabbit-Shaped طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 1PC, Random Color",
@@ -1313,7 +1313,7 @@
   {
     "asin": "B0H8H5YMY8",
     "brand": "غير محدد",
-    "name": "Italy Jamky Multi-Purpose Electric Rice Cooker 2.8L/6.5L - 1000W - Sturdy Metal Body Non-Stick Lining Kee",
+    "name": "Italy طباخ أرز 2.8لتر",
     "specs": {
       "cap": "2.8",
       "watt": "1000"
@@ -1336,7 +1336,7 @@
   {
     "asin": "B0FHHCVJ3J",
     "brand": "غير محدد",
-    "name": "Rice Cooker Shields - Maximize Your Kitchen's Cleanliness with 200Pcs Durable Thicken Covers, Ideal for P",
+    "name": "Rice طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Rice Cooker Shields - Maximize Your Kitchen's Cleanliness with 200Pcs Durable Thicken Covers, Ideal for Protecting Microwaves and Small Appliances",
@@ -1356,7 +1356,7 @@
   {
     "asin": "B0GVGHR8H8",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Y",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Year Warranty",
@@ -1376,7 +1376,7 @@
   {
     "asin": "B0GT3MHFVN",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Y",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Year Warranty",
@@ -1396,7 +1396,7 @@
   {
     "asin": "B0GT3YY2M1",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
@@ -1416,7 +1416,7 @@
   {
     "asin": "B0GVGC69CC",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
@@ -1436,7 +1436,7 @@
   {
     "asin": "B0GT47YCJB",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
@@ -1456,7 +1456,7 @@
   {
     "asin": "B0GT461M6M",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
@@ -1476,7 +1476,7 @@
   {
     "asin": "B0GT37ZDBX",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
@@ -1496,7 +1496,7 @@
   {
     "asin": "B0HQ52NN1L",
     "brand": "غير محدد",
-    "name": "Rabbit-Shaped Wheat Straw Rice Spoon – Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon ",
+    "name": "Rabbit-Shaped طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Rabbit-Shaped Wheat Straw Rice Spoon – Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
@@ -1516,7 +1516,7 @@
   {
     "asin": "B0GVC2HH6W",
     "brand": "غير محدد",
-    "name": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoo",
+    "name": "Rabbit-Shaped طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
@@ -1536,7 +1536,7 @@
   {
     "asin": "B0GVC1QRPW",
     "brand": "غير محدد",
-    "name": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoo",
+    "name": "Rabbit-Shaped طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
@@ -1556,7 +1556,7 @@
   {
     "asin": "B0GVPPW3BT",
     "brand": "غير محدد",
-    "name": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoo",
+    "name": "Rabbit-Shaped طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
@@ -1576,7 +1576,7 @@
   {
     "asin": "B0GT2VKP49",
     "brand": "غير محدد",
-    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "name": "طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
@@ -1596,7 +1596,7 @@
   {
     "asin": "B0HFRBGBMW",
     "brand": "غير محدد",
-    "name": "3-Piece Smiley Face Rice Paddle Set, Plastic Textured Serving Spoons with Upright Standing Handles, Non-S",
+    "name": "3-Piece طباخ أرز",
     "specs": {},
     "model": "",
     "title": "3-Piece Smiley Face Rice Paddle Set, Plastic Textured Serving Spoons with Upright Standing Handles, Non-Stick Scoops for Rice Cooker, Sushi, Kitchen and Daily Meal Serving",
@@ -1616,7 +1616,7 @@
   {
     "asin": "B0H7FCQNY1",
     "brand": "غير محدد",
-    "name": "Cooking Spoon Rest Holder, Wheat Straw Utensil Holder with Suction Cup, Kitchen Spoon Stand for Rice Cook",
+    "name": "Cooking طباخ أرز",
     "specs": {},
     "model": "",
     "title": "Cooking Spoon Rest Holder, Wheat Straw Utensil Holder with Suction Cup, Kitchen Spoon Stand for Rice Cooker, Pots, Pans, Ceramic Surfaces, Easy Clean Design",

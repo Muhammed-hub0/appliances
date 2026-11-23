@@ -2,7 +2,7 @@
   {
     "asin": "B0DK3X4DKF",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 2 شرائح 850 وات (TS201)",
+    "name": "نيوتريكوك محمصة 2شرائح 850وات",
     "specs": {
       "slots": "2",
       "watt": "850"
@@ -25,7 +25,7 @@
   {
     "asin": "B0DK3V1MHH",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 4 شرائح 1450 وات (TS401)",
+    "name": "نيوتريكوك محمصة 4شرائح 1450وات",
     "specs": {
       "slots": "4",
       "watt": "1450"
@@ -48,7 +48,7 @@
   {
     "asin": "B0GY938JCB",
     "brand": "AKANE",
-    "name": "AKANE 2 شرائح 750 وات",
+    "name": "AKANE محمصة 2شرائح 750وات",
     "specs": {
       "slots": "2",
       "watt": "750"
@@ -71,7 +71,7 @@
   {
     "asin": "B0DJJXSRKS",
     "brand": "فيليبس",
-    "name": "فيليبس 2 شرائح (HD2510/90)",
+    "name": "فيليبس محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -93,7 +93,7 @@
   {
     "asin": "B07XBTK7T5",
     "brand": "كينوود",
-    "name": "كينوود 2 شرائح (TCM01)",
+    "name": "كينوود محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -115,7 +115,7 @@
   {
     "asin": "B01N9XEUH6",
     "brand": "فيليبس",
-    "name": "فيليبس 900 وات (HD2581/01)",
+    "name": "فيليبس محمصة 900وات",
     "specs": {
       "watt": "900"
     },
@@ -137,7 +137,7 @@
   {
     "asin": "B0CXPL7BD1",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 2100 وات",
+    "name": "بلاك محمصة 2100وات",
     "specs": {
       "watt": "2100"
     },
@@ -159,7 +159,7 @@
   {
     "asin": "B0926S79HS",
     "brand": "براون",
-    "name": "براون 900 وات (HT1010WH)",
+    "name": "براون محمصة 900وات",
     "specs": {
       "watt": "900"
     },
@@ -181,7 +181,7 @@
   {
     "asin": "B09274PQ2R",
     "brand": "براون",
-    "name": "براون 900 وات (HT1010BK)",
+    "name": "براون محمصة 900وات",
     "specs": {
       "watt": "900"
     },
@@ -203,7 +203,7 @@
   {
     "asin": "B0CXP3B2NY",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 1050 وات",
+    "name": "بلاك محمصة 1050وات",
     "specs": {
       "watt": "1050"
     },
@@ -225,7 +225,7 @@
   {
     "asin": "B08D6S7H5G",
     "brand": "بوش",
-    "name": "بوش 970 وات",
+    "name": "بوش محمصة 970وات",
     "specs": {
       "watt": "970"
     },
@@ -247,7 +247,7 @@
   {
     "asin": "B0CP67N1BH",
     "brand": "فيليبس",
-    "name": "فيليبس 950 وات (HD2650/31)",
+    "name": "فيليبس محمصة 950وات",
     "specs": {
       "watt": "950"
     },
@@ -269,7 +269,7 @@
   {
     "asin": "B0HRZGY8CX",
     "brand": "سوكاني",
-    "name": "سوكاني 2200 وات",
+    "name": "سوكاني محمصة 2200وات",
     "specs": {
       "watt": "2200"
     },
@@ -293,7 +293,7 @@
   {
     "asin": "B0CJK2F11P",
     "brand": "بوش",
-    "name": "Bosch Mymoment Infuse Tat3M123Gb - Compact 2-Slice Toaster With Reheat/Defrost, Foldable Bun Warmer, Auto",
+    "name": "بوش محمصة",
     "specs": {},
     "model": "",
     "title": "Bosch Mymoment Infuse Tat3M123Gb - Compact 2-Slice Toaster With Reheat/Defrost, Foldable Bun Warmer, Auto Shut-Off, High Lift And Crumb Tray, In Matte Black",
@@ -313,7 +313,7 @@
   {
     "asin": "B0DDCGQFVG",
     "brand": "فيليبس",
-    "name": "Philips Essentials collection Toaster 1000 Series",
+    "name": "فيليبس محمصة",
     "specs": {},
     "model": "",
     "title": "Philips Essentials collection Toaster 1000 Series",
@@ -333,7 +333,7 @@
   {
     "asin": "B092LHS69K",
     "brand": "تورنيدو",
-    "name": "تورنيدو 2 شرائح 800 وات",
+    "name": "تورنيدو محمصة 2شرائح 800وات",
     "specs": {
       "slots": "2",
       "watt": "800"
@@ -356,7 +356,7 @@
   {
     "asin": "B0CGRC87VG",
     "brand": "بيكو",
-    "name": "بيكو 2 شرائح 800 وات",
+    "name": "بيكو محمصة 2شرائح 800وات",
     "specs": {
       "slots": "2",
       "watt": "800"
@@ -379,7 +379,7 @@
   {
     "asin": "B098V3FYNZ",
     "brand": "تورنيدو",
-    "name": "تورنيدو 2 شرائح 850 وات",
+    "name": "تورنيدو محمصة 2شرائح 850وات",
     "specs": {
       "slots": "2",
       "watt": "850"
@@ -402,7 +402,7 @@
   {
     "asin": "B07XCXNY61",
     "brand": "كينوود",
-    "name": "كينوود 2 شرائح (TCP01)",
+    "name": "كينوود محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -424,7 +424,7 @@
   {
     "asin": "B0DLBNKP89",
     "brand": "شاومي",
-    "name": "شاومي 930 وات",
+    "name": "شاومي محمصة 930وات",
     "specs": {
       "watt": "930"
     },
@@ -446,7 +446,7 @@
   {
     "asin": "B07MWHT412",
     "brand": "مولينكس",
-    "name": "Moulinex Toaster, with 2 Slots Principio, White, LT160127, 1 year warranty",
+    "name": "مولينكس محمصة",
     "specs": {},
     "model": "LT160127",
     "title": "Moulinex Toaster, with 2 Slots Principio, White, LT160127, 1 year warranty",
@@ -466,7 +466,7 @@
   {
     "asin": "B08BJ45C3T",
     "brand": "بوش",
-    "name": "Bosch Designline Stainless Steel Toaster, Two Slice - Silver, Tat3P420Gb",
+    "name": "بوش محمصة",
     "specs": {},
     "model": "",
     "title": "Bosch Designline Stainless Steel Toaster, Two Slice - Silver, Tat3P420Gb",
@@ -486,7 +486,7 @@
   {
     "asin": "B0B188BQ7P",
     "brand": "فيليبس",
-    "name": "Philips Viva Collection Toaster, Rose Gold, White HD2637/11",
+    "name": "فيليبس محمصة",
     "specs": {},
     "model": "HD2637/11",
     "title": "Philips Viva Collection Toaster, Rose Gold, White HD2637/11",
@@ -506,7 +506,7 @@
   {
     "asin": "B01N7XJPG7",
     "brand": "فيليبس",
-    "name": "Philips Daily Collection Toaster - White, HD2581, Plastic",
+    "name": "فيليبس محمصة",
     "specs": {},
     "model": "HD2581",
     "title": "Philips Daily Collection Toaster - White, HD2581, Plastic",
@@ -526,7 +526,7 @@
   {
     "asin": "B0838HMHB1",
     "brand": "كينوود",
-    "name": "Kenwood Sandwich Maker 3 In 1 Sandwich, Grill/Griddle, Waffle, Dual Plate Press For Toasties, Easy To Use",
+    "name": "كينوود محمصة",
     "specs": {},
     "model": "SMM01",
     "title": "Kenwood Sandwich Maker 3 In 1 Sandwich, Grill/Griddle, Waffle, Dual Plate Press For Toasties, Easy To Use & Clean, Non-Stick Plates, Compact Size Bread Toaster Black/Metal Smm01.Aobk",
@@ -546,7 +546,7 @@
   {
     "asin": "B0BWN4N758",
     "brand": "سوكاني",
-    "name": "Sokany sk-907 portable 7 in 1 electric grill bread toaster sand machine",
+    "name": "سوكاني محمصة",
     "specs": {},
     "model": "",
     "title": "Sokany sk-907 portable 7 in 1 electric grill bread toaster sand machine",
@@ -566,7 +566,7 @@
   {
     "asin": "B0FGWKRYH6",
     "brand": "غير محدد",
-    "name": "Electric Toaster 1400W Toaster Sandwich Toaster 4 Slice Toaster Control Removable Crumb Tray Stainless St",
+    "name": "محمصة 4شرائح 1400وات",
     "specs": {
       "slots": "4",
       "watt": "1400"
@@ -589,7 +589,7 @@
   {
     "asin": "B01MQIXEUP",
     "brand": "Ariete",
-    "name": "Ariete 2 شرائح 810 وات (ATR155/14)",
+    "name": "Ariete محمصة 2شرائح 810وات",
     "specs": {
       "slots": "2",
       "watt": "810"
@@ -612,7 +612,7 @@
   {
     "asin": "B0DD2FCJKF",
     "brand": "جاماكي",
-    "name": "جاماكي 2 شرائح 760 وات (JMK2706)",
+    "name": "جاماكي محمصة 2شرائح 760وات",
     "specs": {
       "slots": "2",
       "watt": "760"
@@ -635,7 +635,7 @@
   {
     "asin": "B0HF3DMHMY",
     "brand": "جاماكي",
-    "name": "جاماكي 2 شرائح 760 وات",
+    "name": "جاماكي محمصة 2شرائح 760وات",
     "specs": {
       "slots": "2",
       "watt": "760"
@@ -658,7 +658,7 @@
   {
     "asin": "B0HKGTVZYD",
     "brand": "غير محدد",
-    "name": "JAMAKY Electric Toaster 2 Slice JMK2705 640-760W | 7 levels of roast, auto shut off and output, freezer m",
+    "name": "JAMAKY محمصة 2شرائح 760وات",
     "specs": {
       "slots": "2",
       "watt": "760"
@@ -681,7 +681,7 @@
   {
     "asin": "B07Q5QJPPH",
     "brand": "Profi Cook",
-    "name": "Profi Cook 2 شرائح 850 وات (REMOVABLE)",
+    "name": "ProfiCook محمصة 2شرائح 850وات",
     "specs": {
       "slots": "2",
       "watt": "850"
@@ -704,7 +704,7 @@
   {
     "asin": "B0GYTVW2JB",
     "brand": "غير محدد",
-    "name": "JMK2701 Electric Toaster, Double Slice, 7 Temperatures, Removable Tray, 700 Watts",
+    "name": "JMK2701 محمصة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -726,7 +726,7 @@
   {
     "asin": "B0GYK664H4",
     "brand": "غير محدد",
-    "name": "Electric Sandwich Toaster, Ribbed Grilling Plates, Black, 750 Watts",
+    "name": "محمصة 750وات",
     "specs": {
       "watt": "750"
     },
@@ -748,7 +748,7 @@
   {
     "asin": "B08Y8VNDVZ",
     "brand": "SONAI",
-    "name": "SONAI 730 وات",
+    "name": "Sonai محمصة 730وات",
     "specs": {
       "watt": "730"
     },
@@ -770,7 +770,7 @@
   {
     "asin": "B0HC5FKB7P",
     "brand": "غير محدد",
-    "name": "Toaster 640W | 640 W, Toaster",
+    "name": "Toaster محمصة 640وات",
     "specs": {
       "watt": "640"
     },
@@ -792,7 +792,7 @@
   {
     "asin": "B09KVLCB8C",
     "brand": "SONAI",
-    "name": "SONAI 870 وات",
+    "name": "Sonai محمصة 870وات",
     "specs": {
       "watt": "870"
     },
@@ -814,7 +814,7 @@
   {
     "asin": "B084K8583P",
     "brand": "Ariete",
-    "name": "Ariete 2 شرائح",
+    "name": "Ariete محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -836,7 +836,7 @@
   {
     "asin": "B09LMQMC3W",
     "brand": "SONAI",
-    "name": "SONAI 1400 وات",
+    "name": "Sonai محمصة 1400وات",
     "specs": {
       "watt": "1400"
     },
@@ -858,7 +858,7 @@
   {
     "asin": "B0FHGHYDZH",
     "brand": "غير محدد",
-    "name": "Sookani Toaster Toaster with 6 Gears Removable Baking Tray (700W, White)",
+    "name": "Sookani محمصة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -880,7 +880,7 @@
   {
     "asin": "B0GXMWB8S7",
     "brand": "غير محدد",
-    "name": "محمصة خبزمن شريحتين بقوة 760 وات من جاماكى مع 7 مستويات حرارة مع 3 وظائف (إعادة التسخين – الإلغاء – إذابة",
+    "name": "محمصة 760وات",
     "specs": {
       "watt": "760"
     },
@@ -902,7 +902,7 @@
   {
     "asin": "B0DFD3L63B",
     "brand": "غير محدد",
-    "name": "DSP 850W Toaster (Bread Warmer) KC2045 - Black",
+    "name": "محمصة 850وات",
     "specs": {
       "watt": "850"
     },
@@ -924,7 +924,7 @@
   {
     "asin": "B0CTHRHD1Q",
     "brand": "LumaBella",
-    "name": "LumaBella Luma Bella - Toaster -022 60X45X12 cm White",
+    "name": "LumaBella محمصة",
     "specs": {},
     "model": "",
     "title": "LumaBella Luma Bella - Toaster -022 60X45X12 cm White",
@@ -944,7 +944,7 @@
   {
     "asin": "B0HCMBYX1V",
     "brand": "غير محدد",
-    "name": "محمصة خبز كهربائية من جاماكى توستر 2706 بقدرة 750 واط | موديل 2706, 750 واط, كهربائية, توستر منزلي لون اس",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "محمصة خبز كهربائية من جاماكى توستر 2706 بقدرة 750 واط | موديل 2706, 750 واط, كهربائية, توستر منزلي لون اسود ضمان سنه",
@@ -964,7 +964,7 @@
   {
     "asin": "B0HJNVKGW8",
     "brand": "Zuru",
-    "name": "Zuru - MAX Build More Premium Home Collection Toaster Machine (181 PCS)",
+    "name": "Zuru محمصة",
     "specs": {},
     "model": "",
     "title": "Zuru - MAX Build More Premium Home Collection Toaster Machine (181 PCS)",
@@ -984,7 +984,7 @@
   {
     "asin": "B0HP8C5LJS",
     "brand": "غير محدد",
-    "name": "Toaster with Colorful Motifs, 2 Slots | Art Hand Pattern, Italian Design, Metal Chassis, Daily Use, Multi",
+    "name": "Toaster محمصة",
     "specs": {},
     "model": "",
     "title": "Toaster with Colorful Motifs, 2 Slots | Art Hand Pattern, Italian Design, Metal Chassis, Daily Use, Multicolor Bright",
@@ -1004,7 +1004,7 @@
   {
     "asin": "B0FVTWM7HG",
     "brand": "غير محدد",
-    "name": "محمصة خبز jmk-2701 220-240 فولت 50/60 هرتز 600-700 واط من جاماكى",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "محمصة خبز jmk-2701 220-240 فولت 50/60 هرتز 600-700 واط من جاماكى",
@@ -1024,7 +1024,7 @@
   {
     "asin": "B0F1DGXWYX",
     "brand": "gaoerjiefu",
-    "name": "gaoerjiefu toaster with tools",
+    "name": "gaoerjiefu محمصة",
     "specs": {},
     "model": "",
     "title": "gaoerjiefu toaster with tools",
@@ -1044,7 +1044,7 @@
   {
     "asin": "B0HCPTF2BD",
     "brand": "VOMA",
-    "name": "VOMA Electric Grill Maker with Non-Stick Coating - Quick Panini Sandwich Maker, Modern Home Toast Toaster",
+    "name": "VOMA محمصة",
     "specs": {},
     "model": "",
     "title": "VOMA Electric Grill Maker with Non-Stick Coating - Quick Panini Sandwich Maker, Modern Home Toast Toaster and Professional Grill Plates",
@@ -1064,7 +1064,7 @@
   {
     "asin": "B08356D4M9",
     "brand": "بيكو",
-    "name": "بيكو 2 شرائح 900 وات",
+    "name": "بيكو محمصة 2شرائح 900وات",
     "specs": {
       "slots": "2",
       "watt": "900"
@@ -1087,7 +1087,7 @@
   {
     "asin": "B08LHG12J9",
     "brand": "مورفي ريتشاردز",
-    "name": "مورفي ريتشاردز 2 شرائح 800 وات",
+    "name": "مورفي محمصة 2شرائح 800وات",
     "specs": {
       "slots": "2",
       "watt": "800"
@@ -1110,7 +1110,7 @@
   {
     "asin": "B0CKM9SXS5",
     "brand": "بيكو",
-    "name": "بيكو 900 وات",
+    "name": "بيكو محمصة 900وات",
     "specs": {
       "watt": "900"
     },
@@ -1132,7 +1132,7 @@
   {
     "asin": "B09N2H9XNN",
     "brand": "فيليبس",
-    "name": "فيليبس 950 وات (HD2650/91)",
+    "name": "فيليبس محمصة 950وات",
     "specs": {
       "watt": "950"
     },
@@ -1154,7 +1154,7 @@
   {
     "asin": "B0DST4QR2T",
     "brand": "بيكو",
-    "name": "بيكو 950 وات",
+    "name": "بيكو محمصة 950وات",
     "specs": {
       "watt": "950"
     },
@@ -1176,7 +1176,7 @@
   {
     "asin": "B07VMQXXV8",
     "brand": "فيليبس",
-    "name": "فيليبس 950 وات (HD2650/90)",
+    "name": "فيليبس محمصة 950وات",
     "specs": {
       "watt": "950"
     },
@@ -1198,7 +1198,7 @@
   {
     "asin": "B0DJK3JM9H",
     "brand": "أرشيا",
-    "name": "أرشيا 4 شرائح (BT118-3072)",
+    "name": "أرشيا محمصة 4شرائح",
     "specs": {
       "slots": "4"
     },
@@ -1220,7 +1220,7 @@
   {
     "asin": "B09TBCL7QF",
     "brand": "أكاي",
-    "name": "Akai Electric Toaster BL685 - محمصة خبز كهربائية من اكاي BL685 - Made in Turkey",
+    "name": "أكاي محمصة",
     "specs": {},
     "model": "BL685",
     "title": "Akai Electric Toaster BL685 - محمصة خبز كهربائية من اكاي BL685 - Made in Turkey",
@@ -1240,7 +1240,7 @@
   {
     "asin": "B08FMSVPNK",
     "brand": "جري",
-    "name": "2-Slice Toaster, Vintage Look, Stainless Steel Housing, Bun Attachment, Adjustable Browning Degree, Centr",
+    "name": "جري محمصة",
     "specs": {},
     "model": "",
     "title": "2-Slice Toaster, Vintage Look, Stainless Steel Housing, Bun Attachment, Adjustable Browning Degree, Centring Function, Crumb Drawer, Anthracite",
@@ -1260,7 +1260,7 @@
   {
     "asin": "B09BFM3XFD",
     "brand": "فيليبس",
-    "name": "Philips Toaster 5000 Series Eco, Bio-based Plastics, 8 Settings, 2 Slot | 8 browning settings – compact 2",
+    "name": "فيليبس محمصة",
     "specs": {},
     "model": "HD2640/11",
     "title": "Philips Toaster 5000 Series Eco, Bio-based Plastics, 8 Settings, 2 Slot | 8 browning settings – compact 2-slot design, even results, silk white matt finish (HD2640/11)",
@@ -1280,7 +1280,7 @@
   {
     "asin": "B0CNS47H2L",
     "brand": "Feller",
-    "name": "Feller 4 شرائح 1630 وات",
+    "name": "Feller محمصة 4شرائح 1630وات",
     "specs": {
       "slots": "4",
       "watt": "1630"
@@ -1303,7 +1303,7 @@
   {
     "asin": "B099WQTM1T",
     "brand": "غير محدد",
-    "name": "GASTROBACK #42395 Design Toaster Digital 2S, 2 Slices, Integrated Bun Attachment, 7 Toast Programmes, LCD",
+    "name": "محمصة 2شرائح 800وات",
     "specs": {
       "slots": "2",
       "watt": "800"
@@ -1326,7 +1326,7 @@
   {
     "asin": "B01N0DQ8Z5",
     "brand": "Ariete",
-    "name": "Ariete 2 شرائح 810 وات",
+    "name": "Ariete محمصة 2شرائح 810وات",
     "specs": {
       "slots": "2",
       "watt": "810"
@@ -1349,7 +1349,7 @@
   {
     "asin": "B00NSUDDOY",
     "brand": "Smeg",
-    "name": "Smeg 2 شرائح 950 وات (TSF01BLUK)",
+    "name": "Smeg محمصة 2شرائح 950وات",
     "specs": {
       "slots": "2",
       "watt": "950"
@@ -1372,7 +1372,7 @@
   {
     "asin": "B0BR9W7XBB",
     "brand": "KARACA",
-    "name": "KARACA 4 شرائح 1800 وات",
+    "name": "Karaca محمصة 4شرائح 1800وات",
     "specs": {
       "slots": "4",
       "watt": "1800"
@@ -1395,7 +1395,7 @@
   {
     "asin": "B0DNBNTLJV",
     "brand": "Feller",
-    "name": "Feller 4 شرائح 1630 وات (TO490)",
+    "name": "Feller محمصة 4شرائح 1630وات",
     "specs": {
       "slots": "4",
       "watt": "1630"
@@ -1418,7 +1418,7 @@
   {
     "asin": "B07JZ6S98Z",
     "brand": "Ariete",
-    "name": "Ariete 2 شرائح 500 وات",
+    "name": "Ariete محمصة 2شرائح 500وات",
     "specs": {
       "slots": "2",
       "watt": "500"
@@ -1441,7 +1441,7 @@
   {
     "asin": "B0GVPPKJ7R",
     "brand": "غير محدد",
-    "name": "Toaster 149 Modern 2 Slice with Tongs, Automatic Ejection, Crumb Drawer, Defrosting and Warming Function,",
+    "name": "Toaster محمصة 2شرائح 800وات",
     "specs": {
       "slots": "2",
       "watt": "800"
@@ -1464,7 +1464,7 @@
   {
     "asin": "B01C8PFVTO",
     "brand": "Smeg",
-    "name": "Smeg 4 شرائح 1500 وات (TSF02PGUK)",
+    "name": "Smeg محمصة 4شرائح 1500وات",
     "specs": {
       "slots": "4",
       "watt": "1500"
@@ -1487,7 +1487,7 @@
   {
     "asin": "B09LD21P78",
     "brand": "Solac",
-    "name": "Solac 1400 وات",
+    "name": "Solac محمصة 1400وات",
     "specs": {
       "watt": "1400"
     },
@@ -1509,7 +1509,7 @@
   {
     "asin": "B00V555FAE",
     "brand": "Smeg",
-    "name": "Smeg 4 شرائح (TSF02CRUK)",
+    "name": "Smeg محمصة 4شرائح",
     "specs": {
       "slots": "4"
     },
@@ -1531,7 +1531,7 @@
   {
     "asin": "B0BDMF7NWM",
     "brand": "Heinrichs",
-    "name": "Heinrichs 900 وات",
+    "name": "American محمصة 900وات",
     "specs": {
       "watt": "900"
     },
@@ -1553,7 +1553,7 @@
   {
     "asin": "B0HFMF15CT",
     "brand": "غير محدد",
-    "name": "Danny Home Cream Two Slice Toaster 23.5cm | 2 Slice Capacity, Cream Finish",
+    "name": "Danny محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1575,7 +1575,7 @@
   {
     "asin": "B0HBYYLY54",
     "brand": "Castle",
-    "name": "Castle 900 وات (TS1090-BK)",
+    "name": "Castle محمصة 900وات",
     "specs": {
       "watt": "900"
     },
@@ -1597,7 +1597,7 @@
   {
     "asin": "B0BR9XKL54",
     "brand": "KARACA",
-    "name": "KARACA 1800 وات",
+    "name": "Karaca محمصة 1800وات",
     "specs": {
       "watt": "1800"
     },
@@ -1619,7 +1619,7 @@
   {
     "asin": "B0H9JV8H1N",
     "brand": "غير محدد",
-    "name": "Toaster 850W | 850 watt, toaster",
+    "name": "Toaster محمصة 850وات",
     "specs": {
       "watt": "850"
     },
@@ -1641,7 +1641,7 @@
   {
     "asin": "B00XNUIGD2",
     "brand": "Smeg",
-    "name": "Smeg 4 شرائح",
+    "name": "Smeg محمصة 4شرائح",
     "specs": {
       "slots": "4"
     },
@@ -1663,7 +1663,7 @@
   {
     "asin": "B0HP8C8GNK",
     "brand": "غير محدد",
-    "name": "Rowlett Regent 6 Slice Toaster | Six Holes, Shiny Metal Body, Professional Design, Suitable For Commercia",
+    "name": "Rowlett محمصة 6شرائح",
     "specs": {
       "slots": "6"
     },
@@ -1685,7 +1685,7 @@
   {
     "asin": "B0GWKYVTWT",
     "brand": "غير محدد",
-    "name": "محمصة خبز من جاماكى 2 شريحة 700 واط مع 5 مستويات تحميص أداء سريع لتحميص الخبز في وقت قياسي مزودة بنظام حم",
+    "name": "محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1707,7 +1707,7 @@
   {
     "asin": "B097LLCHHM",
     "brand": "SONAI",
-    "name": "SONAI 2 شرائح",
+    "name": "Sonai محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1729,7 +1729,7 @@
   {
     "asin": "B010TSW0PA",
     "brand": "Smeg",
-    "name": "Smeg 2 شرائح (BLACK)",
+    "name": "SMEG محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1751,7 +1751,7 @@
   {
     "asin": "B0CNS4L9BW",
     "brand": "Feller",
-    "name": "Feller 815 وات (TO290)",
+    "name": "Feller محمصة 815وات",
     "specs": {
       "watt": "815"
     },
@@ -1773,7 +1773,7 @@
   {
     "asin": "B0DMMR1KT9",
     "brand": "غير محدد",
-    "name": "DSP Toaster 850W Electric Toaster DSP -Model KC2038",
+    "name": "محمصة 850وات",
     "specs": {
       "watt": "850"
     },
@@ -1795,7 +1795,7 @@
   {
     "asin": "B00MJ236DK",
     "brand": "Smeg",
-    "name": "Smeg 4 شرائح (TSF02BLEU)",
+    "name": "Smeg محمصة 4شرائح",
     "specs": {
       "slots": "4"
     },
@@ -1817,7 +1817,7 @@
   {
     "asin": "B0CFQYG7PQ",
     "brand": "Smeg",
-    "name": "Smeg 2 شرائح",
+    "name": "Smeg محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1839,7 +1839,7 @@
   {
     "asin": "B0HMJL8HGF",
     "brand": "غير محدد",
-    "name": "DSP 2-Slice Toaster and Electric Kettle Set, 1.7L, Black -KS0008 | 2200W Kettle, 850W Toaster, Reheat Fun",
+    "name": "محمصة 2200وات",
     "specs": {
       "watt": "2200"
     },
@@ -1861,7 +1861,7 @@
   {
     "asin": "B077HXLKRZ",
     "brand": "Smeg",
-    "name": "Smeg 2 شرائح (TSF01WHUK)",
+    "name": "Smeg محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1883,7 +1883,7 @@
   {
     "asin": "B0D7YSDQFS",
     "brand": "Hazel Quinn",
-    "name": "Hazel Quinn 815 وات",
+    "name": "Hazel محمصة 815وات",
     "specs": {
       "watt": "815"
     },
@@ -1905,7 +1905,7 @@
   {
     "asin": "B0783NK589",
     "brand": "Smeg",
-    "name": "Smeg 2 شرائح (TSF01)",
+    "name": "Smeg محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1927,7 +1927,7 @@
   {
     "asin": "B06X3RGN2F",
     "brand": "Smeg",
-    "name": "Smeg 1500 وات (TSF02PKUK)",
+    "name": "Smeg محمصة 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1949,7 +1949,7 @@
   {
     "asin": "B0HKSVW3L6",
     "brand": "غير محدد",
-    "name": "محمصة قهوة هوم ماستر 800 واط 400 جرام | 800W Power, 400g Capacity",
+    "name": "محمصة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -1971,7 +1971,7 @@
   {
     "asin": "B00ZVCJ1YS",
     "brand": "Smeg",
-    "name": "Smeg -Slice Toaster 2-by Green Smeg Pastel",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg -Slice Toaster 2-by Green Smeg Pastel",
@@ -1991,7 +1991,7 @@
   {
     "asin": "B01EHPISLG",
     "brand": "Smeg",
-    "name": "Smeg 50's Retro 4 - slice toaster (Pink)",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "PINK",
     "title": "Smeg 50's Retro 4 - slice toaster (Pink)",
@@ -2011,7 +2011,7 @@
   {
     "asin": "B00Y1GXFBK",
     "brand": "Smeg",
-    "name": "Smeg 2-Slice Toaster-Pastel Blue by SMEG",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg 2-Slice Toaster-Pastel Blue by SMEG",
@@ -2031,7 +2031,7 @@
   {
     "asin": "B0FQJ1DKG5",
     "brand": "GQ",
-    "name": "GQ Silicone Toaster Cover Lids, 2-Pack, Temperature Resistant -40°C to 230°C, Grey Dust Protector for Kit",
+    "name": "GQ محمصة",
     "specs": {},
     "model": "",
     "title": "GQ Silicone Toaster Cover Lids, 2-Pack, Temperature Resistant -40°C to 230°C, Grey Dust Protector for Kitchen Appliances",
@@ -2051,7 +2051,7 @@
   {
     "asin": "B07V3NFH2F",
     "brand": "Smeg",
-    "name": "SMEG Tsf01goeu Toaster 2x2",
+    "name": "SMEG محمصة",
     "specs": {},
     "model": "TSF01GOEU",
     "title": "SMEG Tsf01goeu Toaster 2x2",
@@ -2071,7 +2071,7 @@
   {
     "asin": "B09SQB6G2C",
     "brand": "غير محدد",
-    "name": "DSP El Fady Home Toaster KC2001",
+    "name": "محمصة",
     "specs": {},
     "model": "KC2001",
     "title": "DSP El Fady Home Toaster KC2001",
@@ -2091,7 +2091,7 @@
   {
     "asin": "B00LL0CICG",
     "brand": "Smeg",
-    "name": "Smeg xiaoniubenben Smeg TSF01PKEU Toaster 2 Scheiben, cadillacpink",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "TSF01PKEU",
     "title": "Smeg xiaoniubenben Smeg TSF01PKEU Toaster 2 Scheiben, cadillacpink",
@@ -2111,7 +2111,7 @@
   {
     "asin": "B01EHPISEI",
     "brand": "Smeg",
-    "name": "Smeg 50's Retro 4 - slice toaster (Pastel Green)",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg 50's Retro 4 - slice toaster (Pastel Green)",
@@ -2131,7 +2131,7 @@
   {
     "asin": "B07V5QDV6W",
     "brand": "Smeg",
-    "name": "SMEG Tsf01rgeu Toaster",
+    "name": "SMEG محمصة",
     "specs": {},
     "model": "TSF01RGEU",
     "title": "SMEG Tsf01rgeu Toaster",
@@ -2151,7 +2151,7 @@
   {
     "asin": "B0FR3BFC1G",
     "brand": "Royalstar",
-    "name": "Royalstar Vintage Style 2-Slice Toaster，Retro，2 Extra Wide Bread Slots，Quality Enamel Finish，Stainless St",
+    "name": "Royalstar محمصة",
     "specs": {},
     "model": "",
     "title": "Royalstar Vintage Style 2-Slice Toaster，Retro，2 Extra Wide Bread Slots，Quality Enamel Finish，Stainless Steel Construction，Defrost and Cancel Features ，Ideal for a Variety of Breads",
@@ -2171,7 +2171,7 @@
   {
     "asin": "B0GVPCLKN1",
     "brand": "غير محدد",
-    "name": "Round granite toaster, direct flame, 24 * 18",
+    "name": "Round محمصة",
     "specs": {},
     "model": "",
     "title": "Round granite toaster, direct flame, 24 * 18",
@@ -2191,7 +2191,7 @@
   {
     "asin": "B0DJBX5KN3",
     "brand": "Smeg",
-    "name": "Smeg - 2-Slice Toaster, Anni50, Storm blue TSF01SBMEU",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "ANNI50",
     "title": "Smeg - 2-Slice Toaster, Anni50, Storm blue TSF01SBMEU",
@@ -2211,7 +2211,7 @@
   {
     "asin": "B0HP44D16Q",
     "brand": "غير محدد",
-    "name": "Smeg Classic Breakfast Set Electric Kettle and Toaster Saga Green | 2-Piece Set, Retro 50s Style, Chrome ",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Saga Green | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2231,7 +2231,7 @@
   {
     "asin": "B0HP3J7Z9R",
     "brand": "غير محدد",
-    "name": "Smeg Classic Breakfast Set Electric Kettle and Toaster Baby Blue | 2-Piece Set, Retro 50s Style, Chrome A",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Baby Blue | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2251,7 +2251,7 @@
   {
     "asin": "B0HP44LXVD",
     "brand": "غير محدد",
-    "name": "Smeg Classic Breakfast Set Electric Kettle and Toaster Red | 2-Piece Set, Retro 50s Style, Chrome Accents",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Red | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2271,7 +2271,7 @@
   {
     "asin": "B0BMG2TDBD",
     "brand": "Profi Cook",
-    "name": "Profi Cook 2 شرائح 850 وات (REMOVABLE)",
+    "name": "ProfiCook محمصة 2شرائح 850وات",
     "specs": {
       "slots": "2",
       "watt": "850"
@@ -2294,7 +2294,7 @@
   {
     "asin": "B0HF2WD7DG",
     "brand": "جاماكي",
-    "name": "جاماكي 2 شرائح 760 وات",
+    "name": "جاماكي محمصة 2شرائح 760وات",
     "specs": {
       "slots": "2",
       "watt": "760"
@@ -2317,7 +2317,7 @@
   {
     "asin": "B09KVHQF45",
     "brand": "SONAI",
-    "name": "SONAI 870 وات",
+    "name": "Sonai محمصة 870وات",
     "specs": {
       "watt": "870"
     },
@@ -2339,7 +2339,7 @@
   {
     "asin": "B0GV4LFTB1",
     "brand": "Next store",
-    "name": "Next store Electric Grill Maker with Non-Stick Coating - Quick Panini Sandwich Maker, Modern Home Toaster",
+    "name": "Next محمصة",
     "specs": {},
     "model": "",
     "title": "Next store Electric Grill Maker with Non-Stick Coating - Quick Panini Sandwich Maker, Modern Home Toaster and Professional Grill Plates",
@@ -2359,7 +2359,7 @@
   {
     "asin": "B0FDL3LJTV",
     "brand": "غير محدد",
-    "name": "Toaster Making Sandwiches/ 3 Shapes : Grill, Toast, Waffle/Electricity/800 Watt/Non-Stick/Easy Clean/Lamp",
+    "name": "Toaster محمصة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -2381,7 +2381,7 @@
   {
     "asin": "B0GYK12PFJ",
     "brand": "AKANE",
-    "name": "AKANE 750 وات",
+    "name": "AKANE محمصة 750وات",
     "specs": {
       "watt": "750"
     },
@@ -2403,7 +2403,7 @@
   {
     "asin": "B0H18QWV4X",
     "brand": "Homagator",
-    "name": "Homagator 4 شرائح 1200 وات",
+    "name": "WINNING محمصة 4شرائح 1200وات",
     "specs": {
       "slots": "4",
       "watt": "1200"
@@ -2426,7 +2426,7 @@
   {
     "asin": "B08Y5R44YG",
     "brand": "DeLonghi",
-    "name": "DeLonghi 2 شرائح (CTOT2003)",
+    "name": "ديلونجي محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -2448,7 +2448,7 @@
   {
     "asin": "B07NF182SV",
     "brand": "فيليبس",
-    "name": "فيليبس 2 شرائح (HD2581/01)",
+    "name": "فيليبس محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -2470,7 +2470,7 @@
   {
     "asin": "B0H71DQR3T",
     "brand": "غير محدد",
-    "name": "3 Pcs Silicone Toaster Tongs Toast Trivet Tongs for Cooking Long Non-Slip Kitchen Tweezer, Heat Resistant",
+    "name": "محمصة",
     "specs": {},
     "model": "MULTICOLOR",
     "title": "3 Pcs Silicone Toaster Tongs Toast Trivet Tongs for Cooking Long Non-Slip Kitchen Tweezer, Heat Resistant Barbecue Grilling Tool for Toaster Pan Fried Steak Food Barbecue Salad (multicolor)",
@@ -2490,7 +2490,7 @@
   {
     "asin": "B0FK5D29NF",
     "brand": "غير محدد",
-    "name": "Toaster Jig Glow in The Dark Fishing Hook with Tails for Imagination 90g/Hawk Size 0/3.Tan - Vietnamese",
+    "name": "Toaster محمصة",
     "specs": {},
     "model": "",
     "title": "Toaster Jig Glow in The Dark Fishing Hook with Tails for Imagination 90g/Hawk Size 0/3.Tan - Vietnamese",
@@ -2510,7 +2510,7 @@
   {
     "asin": "B0CFQXSL5S",
     "brand": "Smeg",
-    "name": "Smeg 2 شرائح (TSF01PGAU)",
+    "name": "Smeg محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -2532,7 +2532,7 @@
   {
     "asin": "B0HP3T5WTV",
     "brand": "غير محدد",
-    "name": "Smeg Classic Breakfast Set Electric Kettle and Toaster Black | 2-Piece Set, Retro 50s Style, Chrome Accen",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Black | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2552,7 +2552,7 @@
   {
     "asin": "B0HNV1GT23",
     "brand": "غير محدد",
-    "name": "Smeg Classic Breakfast Set Electric Kettle and Toaster pink | 2-Piece Set, Retro 50s Style, Chrome Accent",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster pink | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2572,7 +2572,7 @@
   {
     "asin": "B0HP6DGLY3",
     "brand": "غير محدد",
-    "name": "Smeg Summer Bundle Kettle, Toaster, Blender and Juicer _ Cream | Pastel Blue Finish, 4-Piece Set, Retro S",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Summer Bundle Kettle, Toaster, Blender and Juicer _ Cream | Pastel Blue Finish, 4-Piece Set, Retro Style Design, Chrome Accents, Matching Collection",
@@ -2592,7 +2592,7 @@
   {
     "asin": "B0CH6P86Y4",
     "brand": "غير محدد",
-    "name": "Dsp Electric Waffle Maker Grill Sandwich Maker Toaster 4 in 1 Multifunctional Non-Stick Plates Panineuse ",
+    "name": "محمصة 1200وات",
     "specs": {
       "watt": "1200"
     },
@@ -2614,7 +2614,7 @@
   {
     "asin": "B0CP61R334",
     "brand": "Smeg",
-    "name": "Smeg 2 شرائح",
+    "name": "محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -2636,7 +2636,7 @@
   {
     "asin": "B0GMGL9YH3",
     "brand": "Aibiju",
-    "name": "Aibiju Microwave Top Rack, Garbage Bin Top Rack, 3 Adjustable Shelves, Refrigerator Top Rack, Laundry Rac",
+    "name": "Aibiju محمصة",
     "specs": {},
     "model": "",
     "title": "Aibiju Microwave Top Rack, Garbage Bin Top Rack, 3 Adjustable Shelves, Refrigerator Top Rack, Laundry Rack, Width 60, Depth 40 cm, Slim, Toaster Rack, Condiment Storage Rack, Space-saving, Load",
@@ -2656,7 +2656,7 @@
   {
     "asin": "B0GDN82RF5",
     "brand": "zain",
-    "name": "ZAIN Arabic Toaster Spider Car, Kids Toy Vehicle",
+    "name": "ZAIN محمصة",
     "specs": {},
     "model": "",
     "title": "ZAIN Arabic Toaster Spider Car, Kids Toy Vehicle",

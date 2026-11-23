@@ -2,7 +2,7 @@
   {
     "asin": "B0D1474ZT6",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر 1700 وات تاتش (BLACK)",
+    "name": "فيليبس قلاية 6.2لتر 1700وات",
     "specs": {
       "cap": "6.2",
       "watt": "1700",
@@ -26,7 +26,7 @@
   {
     "asin": "B0DC6BBRKW",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 8 لتر 1700 وات تاتش (SAF80W-B5)",
+    "name": "بلاك قلاية 8لتر 1700وات",
     "specs": {
       "cap": "8",
       "watt": "1700",
@@ -50,7 +50,7 @@
   {
     "asin": "B0CWP7M17B",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر 1700 وات تاتش (NA230/00)",
+    "name": "فيليبس قلاية 6.2لتر 1700وات",
     "specs": {
       "cap": "6.2",
       "watt": "1700",
@@ -74,7 +74,7 @@
   {
     "asin": "B0CPGPD4BY",
     "brand": "فيليبس",
-    "name": "فيليبس 9 لتر 2750 وات تاتش (NA350/00)",
+    "name": "فيليبس قلاية 9لتر 2750وات",
     "specs": {
       "cap": "9",
       "watt": "2750",
@@ -98,7 +98,7 @@
   {
     "asin": "B0DC68KYSS",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 8 لتر 1700 وات تاتش (SAF80-B5)",
+    "name": "بلاك قلاية 8لتر 1700وات",
     "specs": {
       "cap": "8",
       "watt": "1700",
@@ -122,7 +122,7 @@
   {
     "asin": "B0F2J2RGMS",
     "brand": "أريون",
-    "name": "أريون 28 لتر 1600 وات رقمي (1600W)",
+    "name": "أريون قلاية 28لتر 1600وات",
     "specs": {
       "cap": "28",
       "watt": "1600",
@@ -146,7 +146,7 @@
   {
     "asin": "B0DJQXKM7L",
     "brand": "كينوود",
-    "name": "كينوود 7 لتر 1800 وات رقمي (HFP72)",
+    "name": "كينوود قلاية 7لتر 1800وات",
     "specs": {
       "cap": "7",
       "watt": "1800",
@@ -170,7 +170,7 @@
   {
     "asin": "B0HQT5CDGC",
     "brand": "جري",
-    "name": "جري 6 لتر 2400 وات تاتش",
+    "name": "جري قلاية 6لتر 2400وات",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -194,7 +194,7 @@
   {
     "asin": "B0BG9629CQ",
     "brand": "كينوود",
-    "name": "كينوود 4 لتر 1500 وات رقمي (HFP31)",
+    "name": "كينوود قلاية 4لتر 1500وات",
     "specs": {
       "cap": "4",
       "watt": "1500",
@@ -218,7 +218,7 @@
   {
     "asin": "B0DJR78662",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر 1700 وات تاتش (NA230)",
+    "name": "فيليبس قلاية 6.2لتر 1700وات",
     "specs": {
       "cap": "6.2",
       "watt": "1700",
@@ -242,7 +242,7 @@
   {
     "asin": "B0FQCM5738",
     "brand": "تورنيدو",
-    "name": "تورنيدو 8 لتر 1800 وات تاتش (A1808TS1A)",
+    "name": "تورنيدو قلاية 8لتر 1800وات",
     "specs": {
       "cap": "8",
       "watt": "1800",
@@ -266,7 +266,7 @@
   {
     "asin": "B0DYK9SXY5",
     "brand": "بوش",
-    "name": "بوش 6.1 لتر تاتش (MAF462B0)",
+    "name": "بوش قلاية 6.1لتر تاتش",
     "specs": {
       "cap": "6.1",
       "type": "تاتش"
@@ -289,7 +289,7 @@
   {
     "asin": "B0CWP7WXB6",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر تاتش (NA230/09)",
+    "name": "فيليبس قلاية 6.2لتر تاتش",
     "specs": {
       "cap": "6.2",
       "type": "تاتش"
@@ -312,7 +312,7 @@
   {
     "asin": "B0FCS4NLY7",
     "brand": "ميديا",
-    "name": "ميديا 9 لتر تاتش (CY85WK)",
+    "name": "ميديا قلاية 9لتر تاتش",
     "specs": {
       "cap": "9",
       "type": "تاتش"
@@ -335,7 +335,7 @@
   {
     "asin": "B0CQVST8JP",
     "brand": "تورنيدو",
-    "name": "تورنيدو 4 لتر 1550 وات",
+    "name": "تورنيدو قلاية 4لتر 1550وات",
     "specs": {
       "cap": "4",
       "watt": "1550"
@@ -358,7 +358,7 @@
   {
     "asin": "B0GD7K4M6Z",
     "brand": "فريش",
-    "name": "فريش 5 لتر 1500 وات رقمي (D1500B)",
+    "name": "فريش قلاية 5لتر 1500وات",
     "specs": {
       "cap": "5",
       "watt": "1500",
@@ -384,7 +384,7 @@
   {
     "asin": "B0CJNXLBWT",
     "brand": "أكاي",
-    "name": "أكاي 5.5 لتر 1350 وات",
+    "name": "أكاي قلاية 5.5لتر 1350وات",
     "specs": {
       "cap": "5.5",
       "watt": "1350"
@@ -407,7 +407,7 @@
   {
     "asin": "B09GKWKDV2",
     "brand": "مينتا",
-    "name": "مينتا 1500 وات (AF47434A)",
+    "name": "مينتا قلاية 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -431,7 +431,7 @@
   {
     "asin": "B0C6QZNL42",
     "brand": "سوكاني",
-    "name": "Sokany Air fryer SK-ZG- 8027",
+    "name": "سوكاني قلاية",
     "specs": {},
     "model": "",
     "title": "Sokany Air fryer SK-ZG- 8027",
@@ -451,7 +451,7 @@
   {
     "asin": "B0C99Q42K7",
     "brand": "RAF",
-    "name": "RAF 6.8 لتر 1500 وات",
+    "name": "RAF قلاية 6.8لتر 1500وات",
     "specs": {
       "cap": "6.8",
       "watt": "1500"
@@ -474,7 +474,7 @@
   {
     "asin": "B0HQPHVV6D",
     "brand": "فريش",
-    "name": "فريش 5 لتر 1500 وات رقمي (D1500B)",
+    "name": "فريش قلاية 5لتر 1500وات",
     "specs": {
       "cap": "5",
       "watt": "1500",
@@ -498,7 +498,7 @@
   {
     "asin": "B0D4ZBVYCP",
     "brand": "فريش",
-    "name": "فريش 20 لتر تاتش",
+    "name": "فريش قلاية 20لتر تاتش",
     "specs": {
       "cap": "20",
       "type": "تاتش"
@@ -521,7 +521,7 @@
   {
     "asin": "B0CZDF33C6",
     "brand": "RAF",
-    "name": "RAF 6 لتر 1500 وات",
+    "name": "RAF قلاية 6لتر 1500وات",
     "specs": {
       "cap": "6",
       "watt": "1500"
@@ -544,7 +544,7 @@
   {
     "asin": "B0GYGCHY7J",
     "brand": "أورايمو",
-    "name": "أورايمو تاتش (OAF-261A)",
+    "name": "أورايمو قلاية تاتش",
     "specs": {
       "type": "تاتش"
     },
@@ -566,7 +566,7 @@
   {
     "asin": "B0BKYGXN9V",
     "brand": "سوكاني",
-    "name": "سوكاني 5.5 لتر 1300 وات رقمي",
+    "name": "سوكاني قلاية 5.5لتر 1300وات",
     "specs": {
       "cap": "5.5",
       "watt": "1300",
@@ -590,7 +590,7 @@
   {
     "asin": "B0HG58R1XJ",
     "brand": "مينتا",
-    "name": "مينتا 5.5 لتر 1500 وات (AFLV047S)",
+    "name": "مينتا قلاية 5.5لتر 1500وات",
     "specs": {
       "cap": "5.5",
       "watt": "1500"
@@ -613,7 +613,7 @@
   {
     "asin": "B07YN9KLC9",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 2.5 لتر (AF250G-B5)",
+    "name": "بلاك قلاية 2.5لتر",
     "specs": {
       "cap": "2.5"
     },
@@ -635,7 +635,7 @@
   {
     "asin": "B0D1VGDCNF",
     "brand": "فريش",
-    "name": "فريش 7 لتر 1800 وات",
+    "name": "فريش قلاية 7لتر 1800وات",
     "specs": {
       "cap": "7",
       "watt": "1800"
@@ -658,7 +658,7 @@
   {
     "asin": "B09QJWQFB6",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 4 لتر 1500 وات (AF400)",
+    "name": "بلاك قلاية 4لتر 1500وات",
     "specs": {
       "cap": "4",
       "watt": "1500"
@@ -681,7 +681,7 @@
   {
     "asin": "B01L93HM20",
     "brand": "فريش",
-    "name": "فريش 7 لتر 1800 وات رقمي",
+    "name": "فريش قلاية 7لتر 1800وات",
     "specs": {
       "cap": "7",
       "watt": "1800",
@@ -705,7 +705,7 @@
   {
     "asin": "B0CW681BVJ",
     "brand": "فريش",
-    "name": "فريش 1800 وات",
+    "name": "فريش قلاية 1800وات",
     "specs": {
       "watt": "1800"
     },
@@ -727,7 +727,7 @@
   {
     "asin": "B09CQCF1FH",
     "brand": "تيفال",
-    "name": "تيفال 4.2 لتر 550 وات (EY501)",
+    "name": "تيفال قلاية 4.2لتر 550وات",
     "specs": {
       "cap": "4.2",
       "watt": "550"
@@ -752,7 +752,7 @@
   {
     "asin": "B0CBGCRPLH",
     "brand": "سوكاني",
-    "name": "سوكاني 8 لتر",
+    "name": "سوكاني قلاية 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -774,7 +774,7 @@
   {
     "asin": "B0C3V5J7PS",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 5.5 لتر رقمي (AF5539-B5)",
+    "name": "بلاك قلاية 5.5لتر رقمي",
     "specs": {
       "cap": "5.5",
       "type": "رقمي"
@@ -797,7 +797,7 @@
   {
     "asin": "B0BB2NP5B8",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 5.6 لتر 1800 وات رقمي (AF625-B5)",
+    "name": "بلاك قلاية 5.6لتر 1800وات",
     "specs": {
       "cap": "5.6",
       "watt": "1800",
@@ -823,7 +823,7 @@
   {
     "asin": "B0GY9N6ZR6",
     "brand": "AKANE",
-    "name": "AKANE 8 لتر 1700 وات",
+    "name": "AKANE قلاية 8لتر 1700وات",
     "specs": {
       "cap": "8",
       "watt": "1700"
@@ -846,7 +846,7 @@
   {
     "asin": "B0C9DKD8GJ",
     "brand": "سوكاني",
-    "name": "سوكاني 8 لتر 1800 وات",
+    "name": "سوكاني قلاية 8لتر 1800وات",
     "specs": {
       "cap": "8",
       "watt": "1800"
@@ -869,7 +869,7 @@
   {
     "asin": "B08KGDTNG6",
     "brand": "فيليبس",
-    "name": "فيليبس 4.1 لتر 1400 وات (HD9200)",
+    "name": "فيليبس قلاية 4.1لتر 1400وات",
     "specs": {
       "cap": "4.1",
       "watt": "1400"
@@ -892,7 +892,7 @@
   {
     "asin": "B0D3F5F1JW",
     "brand": "فيليبس",
-    "name": "فيليبس 4.1 لتر 1500 وات (NA120/00)",
+    "name": "فيليبس قلاية 4.1لتر 1500وات",
     "specs": {
       "cap": "4.1",
       "watt": "1500"
@@ -915,7 +915,7 @@
   {
     "asin": "B0BSFM7XLD",
     "brand": "تيفال",
-    "name": "تيفال 3.5 لتر 1430 وات (EY1308EG)",
+    "name": "تيفال قلاية 3.5لتر 1430وات",
     "specs": {
       "cap": "3.5",
       "watt": "1430"
@@ -940,7 +940,7 @@
   {
     "asin": "B08XQCDLXK",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 4.3 لتر رقمي (AF700)",
+    "name": "بلاك قلاية 4.3لتر رقمي",
     "specs": {
       "cap": "4.3",
       "type": "رقمي"
@@ -963,7 +963,7 @@
   {
     "asin": "B08XQDNG71",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 12 لتر رقمي (AOF100-B5)",
+    "name": "بلاك قلاية 12لتر رقمي",
     "specs": {
       "cap": "12",
       "type": "رقمي"
@@ -986,7 +986,7 @@
   {
     "asin": "B091NRLB9V",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 5.5 لتر",
+    "name": "نيوتريكوك قلاية 5.5لتر",
     "specs": {
       "cap": "5.5"
     },
@@ -1008,7 +1008,7 @@
   {
     "asin": "B09S18BFPH",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 4.3 لتر رقمي (AF700)",
+    "name": "بلاك قلاية 4.3لتر رقمي",
     "specs": {
       "cap": "4.3",
       "type": "رقمي"
@@ -1031,7 +1031,7 @@
   {
     "asin": "B0D8WHQMHT",
     "brand": "شاومي",
-    "name": "شاومي 4.5 لتر",
+    "name": "شاومي قلاية 4.5لتر",
     "specs": {
       "cap": "4.5"
     },
@@ -1053,7 +1053,7 @@
   {
     "asin": "B0CZDKRF1V",
     "brand": "Rafal",
-    "name": "Rafal 5 لتر 1450 وات",
+    "name": "Rafal قلاية 5لتر 1450وات",
     "specs": {
       "cap": "5",
       "watt": "1450"
@@ -1076,7 +1076,7 @@
   {
     "asin": "B0CRRHF45Q",
     "brand": "باناسونيك",
-    "name": "باناسونيك 6 لتر تاتش (CC600AUA)",
+    "name": "باناسونيك قلاية 6لتر تاتش",
     "specs": {
       "cap": "6",
       "type": "تاتش"
@@ -1099,7 +1099,7 @@
   {
     "asin": "B0GY1DZTZN",
     "brand": "أورايمو",
-    "name": "أورايمو رقمي (OAO-561A)",
+    "name": "أورايمو قلاية رقمي",
     "specs": {
       "type": "رقمي"
     },
@@ -1123,7 +1123,7 @@
   {
     "asin": "B0FFHMBKCL",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 1700 وات رقمي (AF7010-B5)",
+    "name": "بلاك قلاية 1700وات رقمي",
     "specs": {
       "watt": "1700",
       "type": "رقمي"
@@ -1146,7 +1146,7 @@
   {
     "asin": "B0F1NB8JKK",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 7.2 لتر 1800 وات تاتش (AF7210-B5)",
+    "name": "بلاك قلاية 7.2لتر 1800وات",
     "specs": {
       "cap": "7.2",
       "watt": "1800",
@@ -1170,7 +1170,7 @@
   {
     "asin": "B0D91TKYWJ",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 5.7 لتر تاتش (AF7257-B5)",
+    "name": "بلاك قلاية 5.7لتر تاتش",
     "specs": {
       "cap": "5.7",
       "type": "تاتش"
@@ -1193,7 +1193,7 @@
   {
     "asin": "B0DRC9MRH3",
     "brand": "فيليبس",
-    "name": "فيليبس 4.2 لتر (NA322/09)",
+    "name": "فيليبس قلاية 4.2لتر",
     "specs": {
       "cap": "4.2"
     },
@@ -1215,7 +1215,7 @@
   {
     "asin": "B0D8QNH6HK",
     "brand": "فيليبس",
-    "name": "فيليبس 4.2 لتر (NA220/00)",
+    "name": "فيليبس قلاية 4.2لتر",
     "specs": {
       "cap": "4.2"
     },
@@ -1237,7 +1237,7 @@
   {
     "asin": "B08HN18T49",
     "brand": "كينوود",
-    "name": "كينوود 11 لتر 2000 وات (HFP90)",
+    "name": "كينوود قلاية 11لتر 2000وات",
     "specs": {
       "cap": "11",
       "watt": "2000"
@@ -1260,7 +1260,7 @@
   {
     "asin": "B0C8NV1365",
     "brand": "فيليبس",
-    "name": "فيليبس رقمي (HD9257/80)",
+    "name": "فيليبس قلاية رقمي",
     "specs": {
       "type": "رقمي"
     },
@@ -1282,7 +1282,7 @@
   {
     "asin": "B0C53F58XL",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 5.5 لتر 1700 وات رقمي",
+    "name": "نيوتريكوك قلاية 5.5لتر 1700وات",
     "specs": {
       "cap": "5.5",
       "watt": "1700",
@@ -1306,7 +1306,7 @@
   {
     "asin": "B0BB2Q9DQR",
     "brand": "بلاك أند ديكر",
-    "name": "Black & Decker Air Fryer, AF575-B5 - 220V supply voltage and 50Hz with International warranty",
+    "name": "بلاك قلاية",
     "specs": {},
     "model": "AF575-B5",
     "title": "Black & Decker Air Fryer, AF575-B5 - 220V supply voltage and 50Hz with International warranty",
@@ -1326,7 +1326,7 @@
   {
     "asin": "B0DXLJL5K6",
     "brand": "شارب",
-    "name": "شارب 7 لتر 1650 وات تاتش (AF70RT-ES2)",
+    "name": "شارب قلاية 7لتر 1650وات",
     "specs": {
       "cap": "7",
       "watt": "1650",
@@ -1352,7 +1352,7 @@
   {
     "asin": "B09STVM86X",
     "brand": "كينوود",
-    "name": "كينوود 4 لتر رقمي (HFM75)",
+    "name": "كينوود قلاية 4لتر رقمي",
     "specs": {
       "cap": "4",
       "type": "رقمي"
@@ -1375,7 +1375,7 @@
   {
     "asin": "B0HPG4QJ3B",
     "brand": "سوكاني",
-    "name": "سوكاني 7.5 لتر 2000 وات",
+    "name": "سوكاني قلاية 7.5لتر 2000وات",
     "specs": {
       "cap": "7.5",
       "watt": "2000"
@@ -1398,7 +1398,7 @@
   {
     "asin": "B0CKFKTBZH",
     "brand": "شاومي",
-    "name": "شاومي 6.5 لتر",
+    "name": "شاومي قلاية 6.5لتر",
     "specs": {
       "cap": "6.5"
     },
@@ -1420,7 +1420,7 @@
   {
     "asin": "B0D14861L9",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر 1700 وات (BLACK)",
+    "name": "فيليبس قلاية 6.2لتر 1700وات",
     "specs": {
       "cap": "6.2",
       "watt": "1700"
@@ -1443,7 +1443,7 @@
   {
     "asin": "B0FV8JH3S2",
     "brand": "توشيبا",
-    "name": "توشيبا 7.4 لتر رقمي",
+    "name": "توشيبا قلاية 7.4لتر رقمي",
     "specs": {
       "cap": "7.4",
       "type": "رقمي"
@@ -1466,7 +1466,7 @@
   {
     "asin": "B08KSBMSZB",
     "brand": "كينوود",
-    "name": "كينوود 3.8 لتر 1500 وات (HFP30)",
+    "name": "كينوود قلاية 3.8لتر 1500وات",
     "specs": {
       "cap": "3.8",
       "watt": "1500"
@@ -1489,7 +1489,7 @@
   {
     "asin": "B0BRKXWPSQ",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 5.7 لتر 1700 وات (AF357V)",
+    "name": "نيوتريكوك قلاية 5.7لتر 1700وات",
     "specs": {
       "cap": "5.7",
       "watt": "1700"
@@ -1512,7 +1512,7 @@
   {
     "asin": "B08WJBVM5G",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر رقمي (HD9270/90)",
+    "name": "فيليبس قلاية 6.2لتر رقمي",
     "specs": {
       "cap": "6.2",
       "type": "رقمي"
@@ -1535,7 +1535,7 @@
   {
     "asin": "B0C4C72Y9Y",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر رقمي (HD9270/90)",
+    "name": "فيليبس قلاية 6.2لتر رقمي",
     "specs": {
       "cap": "6.2",
       "type": "رقمي"
@@ -1560,7 +1560,7 @@
   {
     "asin": "B09VLK78F8",
     "brand": "مينتا",
-    "name": "مينتا 8 لتر (AF47634A)",
+    "name": "مينتا قلاية 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -1582,7 +1582,7 @@
   {
     "asin": "B07ZYB62YW",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 12 لتر 1800 وات",
+    "name": "نيوتريكوك قلاية 12لتر 1800وات",
     "specs": {
       "cap": "12",
       "watt": "1800"
@@ -1605,7 +1605,7 @@
   {
     "asin": "B0F89L37HK",
     "brand": "شارب",
-    "name": "شارب 8 لتر 1800 وات تاتش (DF80RT-EK2)",
+    "name": "شارب قلاية 8لتر 1800وات",
     "specs": {
       "cap": "8",
       "watt": "1800",
@@ -1629,7 +1629,7 @@
   {
     "asin": "B0C4Q9131G",
     "brand": "شارب",
-    "name": "شارب 7 لتر 1600 وات (AF70RT-S3)",
+    "name": "شارب قلاية 7لتر 1600وات",
     "specs": {
       "cap": "7",
       "watt": "1600"
@@ -1654,7 +1654,7 @@
   {
     "asin": "B0FXBFHBDP",
     "brand": "NC",
-    "name": "NC AIR FRYER SLIM XXXLNC-AFS330",
+    "name": "NC قلاية",
     "specs": {},
     "model": "AFS330",
     "title": "NC AIR FRYER SLIM XXXLNC-AFS330",
@@ -1674,7 +1674,7 @@
   {
     "asin": "B0CPFT191B",
     "brand": "نينجا",
-    "name": "نينجا 6.2 لتر (AF180EU)",
+    "name": "نينجا قلاية 6.2لتر",
     "specs": {
       "cap": "6.2"
     },
@@ -1696,7 +1696,7 @@
   {
     "asin": "B0CP43NP25",
     "brand": "نينجا",
-    "name": "نينجا 6.2 لتر رقمي (AF180UK)",
+    "name": "نينجا قلاية 6.2لتر رقمي",
     "specs": {
       "cap": "6.2",
       "type": "رقمي"
@@ -1721,7 +1721,7 @@
   {
     "asin": "B0C79TRMNQ",
     "brand": "ديلونجي",
-    "name": "ديلونجي 2200 وات (FH1396/1)",
+    "name": "ديلونجي قلاية 2200وات",
     "specs": {
       "watt": "2200"
     },
@@ -1743,7 +1743,7 @@
   {
     "asin": "B0FV3C1ZB1",
     "brand": "NC",
-    "name": "NC 30 لتر (AFTO330K)",
+    "name": "NC قلاية 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -1765,7 +1765,7 @@
   {
     "asin": "B0767DNSMH",
     "brand": "فيليبس",
-    "name": "فيليبس 7.3 لتر 2200 وات (HD9650/90)",
+    "name": "فيليبس قلاية 7.3لتر 2200وات",
     "specs": {
       "cap": "7.3",
       "watt": "2200"
@@ -1788,7 +1788,7 @@
   {
     "asin": "B0DQLM3KFX",
     "brand": "فيليبس",
-    "name": "فيليبس 9 لتر (NA555/09)",
+    "name": "فيليبس قلاية 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -1810,7 +1810,7 @@
   {
     "asin": "B0F21BT1PH",
     "brand": "نينجا",
-    "name": "نينجا 9.5 لتر (SL400SM)",
+    "name": "نينجا قلاية 9.5لتر",
     "specs": {
       "cap": "9.5"
     },
@@ -1832,7 +1832,7 @@
   {
     "asin": "B0BYNVWYMB",
     "brand": "نينجا",
-    "name": "نينجا 5.7 لتر (ON400EU)",
+    "name": "نينجا قلاية 5.7لتر",
     "specs": {
       "cap": "5.7"
     },
@@ -1854,7 +1854,7 @@
   {
     "asin": "B0F99K7DS9",
     "brand": "نينجا",
-    "name": "نينجا 3.8 لتر 1700 وات (FN101EUGY)",
+    "name": "نينجا قلاية 3.8لتر 1700وات",
     "specs": {
       "cap": "3.8",
       "watt": "1700"
@@ -1877,7 +1877,7 @@
   {
     "asin": "B0C7QP7951",
     "brand": "فيليبس",
-    "name": "فيليبس 8.3 لتر 2200 وات (HD9880/90)",
+    "name": "فيليبس قلاية 8.3لتر 2200وات",
     "specs": {
       "cap": "8.3",
       "watt": "2200"
@@ -1900,7 +1900,7 @@
   {
     "asin": "B0CJVNGMFL",
     "brand": "نينجا",
-    "name": "نينجا 10.4 لتر (AF500EUCP)",
+    "name": "نينجا قلاية 10.4لتر",
     "specs": {
       "cap": "10.4"
     },
@@ -1922,7 +1922,7 @@
   {
     "asin": "B0F4KKN7BD",
     "brand": "نينجا",
-    "name": "نينجا 9.5 لتر رقمي (DZ400UK)",
+    "name": "نينجا قلاية 9.5لتر رقمي",
     "specs": {
       "cap": "9.5",
       "type": "رقمي"
@@ -1945,7 +1945,7 @@
   {
     "asin": "B0HRCKKR69",
     "brand": "نينجا",
-    "name": "نينجا رقمي",
+    "name": "نينجا قلاية رقمي",
     "specs": {
       "type": "رقمي"
     },
@@ -1967,7 +1967,7 @@
   {
     "asin": "B0DCNXSY24",
     "brand": "فيليبس",
-    "name": "فيليبس 3.2 لتر 1300 وات (NA110/00)",
+    "name": "فيليبس قلاية 3.2لتر 1300وات",
     "specs": {
       "cap": "3.2",
       "watt": "1300"
@@ -1990,7 +1990,7 @@
   {
     "asin": "B0GLQ9WQY1",
     "brand": "سوكاني",
-    "name": "سوكاني 7.5 لتر 2200 وات رقمي",
+    "name": "سوكاني قلاية 7.5لتر 2200وات",
     "specs": {
       "cap": "7.5",
       "watt": "2200",
@@ -2016,7 +2016,7 @@
   {
     "asin": "B08W8J6RW6",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 5.5 لتر 1700 وات رقمي",
+    "name": "نيوتريكوك قلاية 5.5لتر 1700وات",
     "specs": {
       "cap": "5.5",
       "watt": "1700",
@@ -2040,7 +2040,7 @@
   {
     "asin": "B0FXXJ95Z5",
     "brand": "أورايمو",
-    "name": "أورايمو 8 لتر رقمي (AF510N)",
+    "name": "أورايمو قلاية 8لتر رقمي",
     "specs": {
       "cap": "8",
       "type": "رقمي"
@@ -2063,7 +2063,7 @@
   {
     "asin": "B0H42BFCNX",
     "brand": "تورنيدو",
-    "name": "تورنيدو 8 لتر 1800 وات (A1808MS1A)",
+    "name": "تورنيدو قلاية 8لتر 1800وات",
     "specs": {
       "cap": "8",
       "watt": "1800"
@@ -2086,7 +2086,7 @@
   {
     "asin": "B0D9W76ZDV",
     "brand": "فيليبس",
-    "name": "فيليبس 7.2 لتر (NA342/09)",
+    "name": "فيليبس قلاية 7.2لتر",
     "specs": {
       "cap": "7.2"
     },
@@ -2108,7 +2108,7 @@
   {
     "asin": "B0CJVRLY8T",
     "brand": "تيفال",
-    "name": "تيفال 8.3 لتر (EY905B)",
+    "name": "تيفال قلاية 8.3لتر",
     "specs": {
       "cap": "8.3"
     },
@@ -2130,7 +2130,7 @@
   {
     "asin": "B0CVNH19PJ",
     "brand": "ميديا",
-    "name": "ميديا 4 لتر رقمي (BLACK)",
+    "name": "ميديا قلاية 4لتر رقمي",
     "specs": {
       "cap": "4",
       "type": "رقمي"
@@ -2153,7 +2153,7 @@
   {
     "asin": "B0DJ8PQNRZ",
     "brand": "تيفال",
-    "name": "تيفال 4.2 لتر 1600 وات رقمي (EY111BEG)",
+    "name": "تيفال قلاية 4.2لتر 1600وات",
     "specs": {
       "cap": "4.2",
       "watt": "1600",
@@ -2177,7 +2177,7 @@
   {
     "asin": "B0FX2VVTS2",
     "brand": "مينتا",
-    "name": "مينتا 5.7 لتر 1750 وات رقمي (AF47835A)",
+    "name": "مينتا قلاية 5.7لتر 1750وات",
     "specs": {
       "cap": "5.7",
       "watt": "1750",
@@ -2201,7 +2201,7 @@
   {
     "asin": "B0FXTX853Y",
     "brand": "أريون",
-    "name": "أريون 10 لتر 1900 وات تاتش",
+    "name": "أريون قلاية 10لتر 1900وات",
     "specs": {
       "cap": "10",
       "watt": "1900",
@@ -2225,7 +2225,7 @@
   {
     "asin": "B0FXTW9724",
     "brand": "أريون",
-    "name": "أريون 6.5 لتر 1800 وات رقمي",
+    "name": "أريون قلاية 6.5لتر 1800وات",
     "specs": {
       "cap": "6.5",
       "watt": "1800",
@@ -2249,7 +2249,7 @@
   {
     "asin": "B0HNFVX75D",
     "brand": "Rafal",
-    "name": "Rafal 5 لتر 1450 وات رقمي",
+    "name": "Rafal قلاية 5لتر 1450وات",
     "specs": {
       "cap": "5",
       "watt": "1450",
@@ -2273,7 +2273,7 @@
   {
     "asin": "B0HDLM962J",
     "brand": "فريش",
-    "name": "فريش 5.5 لتر 1800 وات رقمي",
+    "name": "فريش قلاية 5.5لتر 1800وات",
     "specs": {
       "cap": "5.5",
       "watt": "1800",
@@ -2297,7 +2297,7 @@
   {
     "asin": "B0FPCZ7KJT",
     "brand": "كينوود",
-    "name": "كينوود 7 لتر (HFS92)",
+    "name": "كينوود قلاية 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -2319,7 +2319,7 @@
   {
     "asin": "B0GPD6FHK5",
     "brand": "كينوود",
-    "name": "كينوود 11 لتر رقمي (HFV11)",
+    "name": "كينوود قلاية 11لتر رقمي",
     "specs": {
       "cap": "11",
       "type": "رقمي"
@@ -2342,7 +2342,7 @@
   {
     "asin": "B0CBBB83KB",
     "brand": "فيليبس",
-    "name": "فيليبس 8.3 لتر (HD9880/90)",
+    "name": "فيليبس قلاية 8.3لتر",
     "specs": {
       "cap": "8.3"
     },
@@ -2364,7 +2364,7 @@
   {
     "asin": "B0GDF8W3XL",
     "brand": "NC",
-    "name": "NC DUOSTACK AIR FRYER PRO 9.6LNC-AFDS330",
+    "name": "NC قلاية",
     "specs": {},
     "model": "AFDS330",
     "title": "NC DUOSTACK AIR FRYER PRO 9.6LNC-AFDS330",
@@ -2384,7 +2384,7 @@
   {
     "asin": "B0FSKXFH69",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 10 لتر (BLACK)",
+    "name": "نيوتريكوك قلاية 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -2406,7 +2406,7 @@
   {
     "asin": "B0FM4GVBJ2",
     "brand": "تورنيدو",
-    "name": "تورنيدو 8 لتر 2500 وات رقمي (TURKEY)",
+    "name": "تورنيدو قلاية 8لتر 2500وات",
     "specs": {
       "cap": "8",
       "watt": "2500",
@@ -2430,7 +2430,7 @@
   {
     "asin": "B0DQLPD1CG",
     "brand": "فيليبس",
-    "name": "Philips 1000 Series Airfryer Dual Basket NA150/09",
+    "name": "فيليبس قلاية",
     "specs": {},
     "model": "NA150/09",
     "title": "Philips 1000 Series Airfryer Dual Basket NA150/09",
@@ -2450,7 +2450,7 @@
   {
     "asin": "B0F63KPYR6",
     "brand": "فيليبس",
-    "name": "فيليبس 9 لتر (NA555/00)",
+    "name": "فيليبس قلاية 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -2472,7 +2472,7 @@
   {
     "asin": "B0DRWB41MB",
     "brand": "كينوود",
-    "name": "كينوود 7.5 لتر (HFP76)",
+    "name": "كينوود قلاية 7.5لتر",
     "specs": {
       "cap": "7.5"
     },
@@ -2494,7 +2494,7 @@
   {
     "asin": "B0DSLCV151",
     "brand": "كينوود",
-    "name": "كينوود 5 لتر (HFP52)",
+    "name": "كينوود قلاية 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -2516,7 +2516,7 @@
   {
     "asin": "B0BQBVRZYG",
     "brand": "سوكاني",
-    "name": "سوكاني 8 لتر 1800 وات تاتش",
+    "name": "سوكاني قلاية 8لتر 1800وات",
     "specs": {
       "cap": "8",
       "watt": "1800",
@@ -2540,7 +2540,7 @@
   {
     "asin": "B0BWFB7JNF",
     "brand": "شارب",
-    "name": "شارب 1600 وات (KFAF70MST)",
+    "name": "شارب قلاية 1600وات",
     "specs": {
       "watt": "1600"
     },
@@ -2562,7 +2562,7 @@
   {
     "asin": "B0DXD96SY7",
     "brand": "Air",
-    "name": "Air 5 لتر 1450 وات",
+    "name": "قلاية 5لتر 1450وات",
     "specs": {
       "cap": "5",
       "watt": "1450"
@@ -2585,7 +2585,7 @@
   {
     "asin": "B0G4DS48WR",
     "brand": "باناسونيك",
-    "name": "باناسونيك 4.5 لتر",
+    "name": "باناسونيك قلاية 4.5لتر",
     "specs": {
       "cap": "4.5"
     },
@@ -2607,7 +2607,7 @@
   {
     "asin": "B0CVNGY6ZM",
     "brand": "ميديا",
-    "name": "ميديا 4 لتر رقمي (CN40D29)",
+    "name": "ميديا قلاية 4لتر رقمي",
     "specs": {
       "cap": "4",
       "type": "رقمي"
@@ -2630,7 +2630,7 @@
   {
     "asin": "B0837H1TCV",
     "brand": "نينجا",
-    "name": "NINJA Air Fryer MAX AF160EU",
+    "name": "نينجا قلاية",
     "specs": {},
     "model": "AF160EU",
     "title": "NINJA Air Fryer MAX AF160EU",
@@ -2650,7 +2650,7 @@
   {
     "asin": "B08GC1QZ5W",
     "brand": "نينجا",
-    "name": "Ninja - Foodi Dual Zone Air Fryer AF300EU",
+    "name": "نينجا قلاية",
     "specs": {},
     "model": "AF300EU",
     "title": "Ninja - Foodi Dual Zone Air Fryer AF300EU",
@@ -2670,7 +2670,7 @@
   {
     "asin": "B0BQRL7F8N",
     "brand": "نيوتريكوك",
-    "name": "نيوتريكوك 9 لتر",
+    "name": "نيوتريكوك قلاية 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -2692,7 +2692,7 @@
   {
     "asin": "B0C4ZXCR5J",
     "brand": "تيفال",
-    "name": "Tefal Airfryer EY801D Easy Fry & Grill XXL (EY801D15)",
+    "name": "تيفال قلاية",
     "specs": {},
     "model": "EY801D15",
     "title": "Tefal Airfryer EY801D Easy Fry & Grill XXL (EY801D15)",
@@ -2712,7 +2712,7 @@
   {
     "asin": "B0CKDN3PCJ",
     "brand": "بيكو",
-    "name": "بيكو 8.5 لتر 2400 وات",
+    "name": "بيكو قلاية 8.5لتر 2400وات",
     "specs": {
       "cap": "8.5",
       "watt": "2400"
@@ -2735,7 +2735,7 @@
   {
     "asin": "B0DJK2YDNH",
     "brand": "أرشيا",
-    "name": "أرشيا 9 لتر (AF360-3185)",
+    "name": "أرشيا قلاية 9لتر",
     "specs": {
       "cap": "9"
     },
@@ -2757,7 +2757,7 @@
   {
     "asin": "B0CGZYSP69",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 4 لتر 1500 وات رقمي (AF4037)",
+    "name": "بلاك قلاية 4لتر 1500وات",
     "specs": {
       "cap": "4",
       "watt": "1500",
@@ -2781,7 +2781,7 @@
   {
     "asin": "B08KQHCCDK",
     "brand": "فيليبس",
-    "name": "فيليبس 2000 وات رقمي (HD9270/90)",
+    "name": "فيليبس قلاية 2000وات رقمي",
     "specs": {
       "watt": "2000",
       "type": "رقمي"
@@ -2804,7 +2804,7 @@
   {
     "asin": "B0DFYRN3GC",
     "brand": "نينجا",
-    "name": "نينجا 10.4 لتر",
+    "name": "نينجا قلاية 10.4لتر",
     "specs": {
       "cap": "10.4"
     },
@@ -2826,7 +2826,7 @@
   {
     "asin": "B0FDGLCR1H",
     "brand": "غير محدد",
-    "name": "Air Fryer 6 Liter 2400W Multifunction Touch Screen - Black",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -2850,7 +2850,7 @@
   {
     "asin": "B0H7FJ5WST",
     "brand": "غير محدد",
-    "name": "Air Fryer 8L 2400W Power Air Fryer with LCD Digital Touch Screen Cooking Window Variable Options for Cook",
+    "name": "قلاية 8لتر 2400وات تاتش",
     "specs": {
       "cap": "8",
       "watt": "2400",
@@ -2874,7 +2874,7 @@
   {
     "asin": "B0H6H1X522",
     "brand": "غير محدد",
-    "name": "Electric Air Fryer, 6L Capacity, 1400-2400W, LCD Touch Screen, Non-Stick Basket, 360° Air Circulation, Bl",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -2898,7 +2898,7 @@
   {
     "asin": "B0HMXH8KYF",
     "brand": "غير محدد",
-    "name": "Digital Air Fryer, 2400W Power, 6L Capacity With Multifunction Touch Screen - Black",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -2922,7 +2922,7 @@
   {
     "asin": "B0HJ6CRHHK",
     "brand": "غير محدد",
-    "name": "Capri Digital Air Fryer, 2400W Power, 6L Capacity With Multifunction Touch Screen - Black",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -2946,7 +2946,7 @@
   {
     "asin": "B0CP8WWZFZ",
     "brand": "غير محدد",
-    "name": "Hi-Way 12L Digital Oil-Free Air Fryer, 2800W, 1-Year Warranty -",
+    "name": "قلاية 12لتر 2800وات رقمي",
     "specs": {
       "cap": "12",
       "watt": "2800",
@@ -2970,7 +2970,7 @@
   {
     "asin": "B0H6MGMGZJ",
     "brand": "غير محدد",
-    "name": "Silver Crest Air Fryer, 6L capacity, 2400W power, digital touch screen for healthy oil-free frying",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -2994,7 +2994,7 @@
   {
     "asin": "B0G4K8FTXB",
     "brand": "غير محدد",
-    "name": "Digital Air Fryer Multifunction Touch 6L 2400W Black",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -3018,7 +3018,7 @@
   {
     "asin": "B0HJ4KXLNR",
     "brand": "غير محدد",
-    "name": "Air Fryer 6L 2400W Healthy Food Preparation Multifunction Digital LCD Touch Screen Non-Stick Basket",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -3042,7 +3042,7 @@
   {
     "asin": "B0HJ6C7XZD",
     "brand": "غير محدد",
-    "name": "Capri Digital Air Fryer Bundle, 2400W Touch Screen Air Fryer, 6L, Oil Sprayer, 50 Liners And 80 Kitchen W",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -3066,7 +3066,7 @@
   {
     "asin": "B0CQMYP3LF",
     "brand": "غير محدد",
-    "name": "Silver Crest 8 Liter Air Fryer Performance Range 2400 Watt Rapid Air Convection Heating, 18 - (Internatio",
+    "name": "قلاية 8لتر 2400وات",
     "specs": {
       "cap": "8",
       "watt": "2400"
@@ -3089,7 +3089,7 @@
   {
     "asin": "B0F5JVMLDP",
     "brand": "غير محدد",
-    "name": "Dollar Air Fryer L - 2500W, 50Hz, 6L, 1kg, Analog, Rapid Air Technology, HomeID Connected, Black - HD9200",
+    "name": "قلاية 6لتر 2500وات",
     "specs": {
       "cap": "6",
       "watt": "2500"
@@ -3112,7 +3112,7 @@
   {
     "asin": "B0FQ5TCDPP",
     "brand": "غير محدد",
-    "name": "Air Fryer 6L - 2400W - Modern Design and High Quality Practical for Healthy and Delicious Food without Oi",
+    "name": "قلاية 6لتر 2400وات",
     "specs": {
       "cap": "6",
       "watt": "2400"
@@ -3135,7 +3135,7 @@
   {
     "asin": "B0FG1XQHJP",
     "brand": "فريش",
-    "name": "فريش 6 لتر 2400 وات تاتش",
+    "name": "فريش قلاية 6لتر 2400وات",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -3159,7 +3159,7 @@
   {
     "asin": "B0C3V86BJB",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 5.8 لتر 1800 وات تاتش (AF5800-B5)",
+    "name": "بلاك قلاية 5.8لتر 1800وات",
     "specs": {
       "cap": "5.8",
       "watt": "1800",
@@ -3183,7 +3183,7 @@
   {
     "asin": "B08H89XTDT",
     "brand": "فيليبس",
-    "name": "فيليبس 6.2 لتر 2000 وات تاتش (HD9270/90)",
+    "name": "فيليبس قلاية 6.2لتر 2000وات",
     "specs": {
       "cap": "6.2",
       "watt": "2000",
@@ -3207,7 +3207,7 @@
   {
     "asin": "B0C5NNC6KV",
     "brand": "كينوود",
-    "name": "كينوود 3.8 لتر 1500 وات رقمي (HFP30)",
+    "name": "كينوود قلاية 3.8لتر 1500وات",
     "specs": {
       "cap": "3.8",
       "watt": "1500",
@@ -3231,7 +3231,7 @@
   {
     "asin": "B0GLQX16BH",
     "brand": "سوكاني",
-    "name": "سوكاني 7 لتر 1700 وات رقمي",
+    "name": "سوكاني قلاية 7لتر 1700وات",
     "specs": {
       "cap": "7",
       "watt": "1700",
@@ -3255,7 +3255,7 @@
   {
     "asin": "B0CWFCQDXF",
     "brand": "سوكاني",
-    "name": "سوكاني 8.5 لتر 1800 وات رقمي",
+    "name": "سوكاني قلاية 8.5لتر 1800وات",
     "specs": {
       "cap": "8.5",
       "watt": "1800",
@@ -3279,7 +3279,7 @@
   {
     "asin": "B0CZTQ8GX1",
     "brand": "بيكو",
-    "name": "بيكو 7.6 لتر 1750 وات",
+    "name": "بيكو قلاية 7.6لتر 1750وات",
     "specs": {
       "cap": "7.6",
       "watt": "1750"
@@ -3302,7 +3302,7 @@
   {
     "asin": "B09GNR8WJR",
     "brand": "فريش",
-    "name": "فريش 5.5 لتر 1800 وات",
+    "name": "فريش قلاية 5.5لتر 1800وات",
     "specs": {
       "cap": "5.5",
       "watt": "1800"
@@ -3325,7 +3325,7 @@
   {
     "asin": "B0D9JTSCSB",
     "brand": "فيليبس",
-    "name": "فيليبس 4.2 لتر تاتش (NA220/00)",
+    "name": "فيليبس قلاية 4.2لتر تاتش",
     "specs": {
       "cap": "4.2",
       "type": "تاتش"
@@ -3348,7 +3348,7 @@
   {
     "asin": "B0C1J53X89",
     "brand": "فيليبس",
-    "name": "فيليبس 4.1 لتر 1400 وات (HD9200/90)",
+    "name": "فيليبس قلاية 4.1لتر 1400وات",
     "specs": {
       "cap": "4.1",
       "watt": "1400"
@@ -3371,7 +3371,7 @@
   {
     "asin": "B0C99ML17F",
     "brand": "RAF",
-    "name": "RAF 5.8 لتر 1500 وات",
+    "name": "RAF قلاية 5.8لتر 1500وات",
     "specs": {
       "cap": "5.8",
       "watt": "1500"
@@ -3394,7 +3394,7 @@
   {
     "asin": "B09833F2TW",
     "brand": "شاومي",
-    "name": "شاومي 3.5 لتر",
+    "name": "شاومي قلاية 3.5لتر",
     "specs": {
       "cap": "3.5"
     },
@@ -3416,7 +3416,7 @@
   {
     "asin": "B09PJLNPW8",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 4 لتر",
+    "name": "قلاية 4لتر",
     "specs": {
       "cap": "4"
     },
@@ -3438,7 +3438,7 @@
   {
     "asin": "B0DWXXHH8D",
     "brand": "فريش",
-    "name": "فريش 25 لتر",
+    "name": "oven قلاية 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -3460,7 +3460,7 @@
   {
     "asin": "B095HR3T63",
     "brand": "كينوود",
-    "name": "كينوود 3.8 لتر (HFP30)",
+    "name": "كينوود قلاية 3.8لتر",
     "specs": {
       "cap": "3.8"
     },
@@ -3482,7 +3482,7 @@
   {
     "asin": "B09PNF7F6W",
     "brand": "فيليبس",
-    "name": "فيليبس 2000 وات (HD9863/91)",
+    "name": "فيليبس قلاية 2000وات",
     "specs": {
       "watt": "2000"
     },
@@ -3504,7 +3504,7 @@
   {
     "asin": "B0DW996VGV",
     "brand": "نيوتريكوك",
-    "name": "NUTRICOOK AIR FRYER SLIM 5LNC-AFS100",
+    "name": "نيوتريكوك قلاية",
     "specs": {},
     "model": "AFS100",
     "title": "NUTRICOOK AIR FRYER SLIM 5LNC-AFS100",
@@ -3524,7 +3524,7 @@
   {
     "asin": "B0BZSHS2FV",
     "brand": "فيليبس",
-    "name": "Philips 5000 Series Air Fryer XXL Connected HD9285/90",
+    "name": "فيليبس قلاية",
     "specs": {},
     "model": "HD9285/90",
     "title": "Philips 5000 Series Air Fryer XXL Connected HD9285/90",
@@ -3544,7 +3544,7 @@
   {
     "asin": "B07YRXCBPJ",
     "brand": "بلاك أند ديكر",
-    "name": "Black & Decker Xl Air Fryer Aerofry, Black",
+    "name": "بلاك قلاية",
     "specs": {},
     "model": "",
     "title": "Black & Decker Xl Air Fryer Aerofry, Black",
@@ -3564,7 +3564,7 @@
   {
     "asin": "B08882TF9T",
     "brand": "فيليبس",
-    "name": "Philips Air Fryer 1.4 kg XXL smart sensor HD9860/94",
+    "name": "فيليبس قلاية",
     "specs": {},
     "model": "HD9860/94",
     "title": "Philips Air Fryer 1.4 kg XXL smart sensor HD9860/94",
@@ -3584,7 +3584,7 @@
   {
     "asin": "B0H8KJKC3S",
     "brand": "غير محدد",
-    "name": "DSP Digital Air Fryer KB2139, 7.5 Liter, 1600 Watts | Digital Touch Display, Removable Basket, Fast Air T",
+    "name": "قلاية 7.5لتر 1600وات تاتش",
     "specs": {
       "cap": "7.5",
       "watt": "1600",
@@ -3608,7 +3608,7 @@
   {
     "asin": "B0GLHX2G8Y",
     "brand": "Carnival",
-    "name": "Carnival 6 لتر 1500 وات تاتش",
+    "name": "Carnival قلاية 6لتر 1500وات",
     "specs": {
       "cap": "6",
       "watt": "1500",
@@ -3632,7 +3632,7 @@
   {
     "asin": "B0G4LQ28Z4",
     "brand": "غير محدد",
-    "name": "Silvertine 6L Large Capacity Air Fryer, 2400W, Digital LCD Display, Green and Gold",
+    "name": "قلاية 6لتر 2400وات رقمي",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -3656,7 +3656,7 @@
   {
     "asin": "B0H79CN7SG",
     "brand": "غير محدد",
-    "name": "Silver Creat Electric Air Fryer, 6 Liter, 2400 Watts, LCD Touch Screen, Digital Healthy Cooking, Use 1 Sp",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -3680,7 +3680,7 @@
   {
     "asin": "B0G2ST6GPF",
     "brand": "Pluto",
-    "name": "Pluto 7.2 لتر 1800 وات رقمي",
+    "name": "Pluto قلاية 7.2لتر 1800وات",
     "specs": {
       "cap": "7.2",
       "watt": "1800",
@@ -3704,7 +3704,7 @@
   {
     "asin": "B0GCXNVDVV",
     "brand": "غير محدد",
-    "name": "Digital Electric Air Fryer, 6 Liter, 1400 Watts, Digital LED Display, Black and Rose Gold, Healthy Frying",
+    "name": "قلاية 6لتر 1400وات رقمي",
     "specs": {
       "cap": "6",
       "watt": "1400",
@@ -3728,7 +3728,7 @@
   {
     "asin": "B0CW1ZPM6B",
     "brand": "EDISON ELECTRIC",
-    "name": "EDISON ELECTRIC 3.2 لتر 1400 وات رقمي",
+    "name": "EDISON قلاية 3.2لتر 1400وات",
     "specs": {
       "cap": "3.2",
       "watt": "1400",
@@ -3752,7 +3752,7 @@
   {
     "asin": "B0FLKFVM4W",
     "brand": "غير محدد",
-    "name": "Air Fryer Multifunction Touch 6L 2400W Black",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -3776,7 +3776,7 @@
   {
     "asin": "B0GZLQ82CC",
     "brand": "غير محدد",
-    "name": "Benz Air Fryer Digital, 8L, 1700W, Stainless Steel, LED Display, 10 Preset Programs, Fry, Grill, Roast, R",
+    "name": "قلاية 8لتر 1700وات رقمي",
     "specs": {
       "cap": "8",
       "watt": "1700",
@@ -3800,7 +3800,7 @@
   {
     "asin": "B0D7W725P1",
     "brand": "غير محدد",
-    "name": "Sonai Cook Master Pro Classic Air Fryer, 7 Liter, 2000 Watt,Silver - MAR-710-S",
+    "name": "قلاية 7لتر 2000وات",
     "specs": {
       "cap": "7",
       "watt": "2000"
@@ -3823,7 +3823,7 @@
   {
     "asin": "B0F5JV89KP",
     "brand": "غير محدد",
-    "name": "Air Fryer 5L Electric Air Fryer/5L Large Capacity 1200W | Home Use",
+    "name": "قلاية 5لتر 1200وات",
     "specs": {
       "cap": "5",
       "watt": "1200"
@@ -3846,7 +3846,7 @@
   {
     "asin": "B0CB23TYNY",
     "brand": "غير محدد",
-    "name": "Royal Silver Crest 8 Liter Air Fryer 1.Kg Performance Range 2400 Watt Rapid Air Convection Heating, 18 - ",
+    "name": "قلاية 8لتر 2400وات",
     "specs": {
       "cap": "8",
       "watt": "2400"
@@ -3869,7 +3869,7 @@
   {
     "asin": "B0GWPJCBVH",
     "brand": "غير محدد",
-    "name": "Air Fryer, 6L 2400W Multifunctional Air Fryer, Black, Suitable for Family, Time and Temperature Control, ",
+    "name": "قلاية 6لتر 2400وات",
     "specs": {
       "cap": "6",
       "watt": "2400"
@@ -3892,7 +3892,7 @@
   {
     "asin": "B0CQMSVN5W",
     "brand": "جاماكي",
-    "name": "جاماكي 8 لتر 2500 وات",
+    "name": "جاماكي قلاية 8لتر 2500وات",
     "specs": {
       "cap": "8",
       "watt": "2500"
@@ -3915,7 +3915,7 @@
   {
     "asin": "B0CH55PDC7",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 12L With Convection Oven, Without Oil 1700W KB2029",
+    "name": "قلاية 12لتر 1700وات",
     "specs": {
       "cap": "12",
       "watt": "1700"
@@ -3938,7 +3938,7 @@
   {
     "asin": "B0CW21CZ2N",
     "brand": "EDISON ELECTRIC",
-    "name": "EDISON ELECTRIC 22 لتر 1900 وات",
+    "name": "EDISON قلاية 22لتر 1900وات",
     "specs": {
       "cap": "22",
       "watt": "1900"
@@ -3961,7 +3961,7 @@
   {
     "asin": "B0HC3MYP16",
     "brand": "غير محدد",
-    "name": "Air Fryer 8 Liter 1500 Watt Black & Rose Gold GM-998A | Non-Stick Stick Basket, Black and Rose Gold Desig",
+    "name": "قلاية 8لتر 1500وات",
     "specs": {
       "cap": "8",
       "watt": "1500"
@@ -3984,7 +3984,7 @@
   {
     "asin": "B0HB5GFGBW",
     "brand": "غير محدد",
-    "name": "Electric Air Fryer, 1400 Watts, LCD Display, High Quality, Healthy and Delicious Food without Oil S18",
+    "name": "قلاية 1400وات",
     "specs": {
       "watt": "1400"
     },
@@ -4006,7 +4006,7 @@
   {
     "asin": "B09YY9D5WR",
     "brand": "فيليبس",
-    "name": "فيليبس 1400 وات (HD9200/10)",
+    "name": "فيليبس قلاية 1400وات",
     "specs": {
       "watt": "1400"
     },
@@ -4028,7 +4028,7 @@
   {
     "asin": "B0H795X4CY",
     "brand": "غير محدد",
-    "name": "Air Fryer Electric 8 Liter 2400 Watts, LCD Touch Screen, For Healthy Cooking Digtal Technology Heat Fast ",
+    "name": "قلاية 8لتر 2400وات تاتش",
     "specs": {
       "cap": "8",
       "watt": "2400",
@@ -4052,7 +4052,7 @@
   {
     "asin": "B0FPJPHF6K",
     "brand": "غير محدد",
-    "name": "Digital Air Fryer Multifunction Touch 6L 2400W Black",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -4076,7 +4076,7 @@
   {
     "asin": "B0D6WHHJCW",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 4.5 لتر تاتش (AF4500-B5)",
+    "name": "بلاك قلاية 4.5لتر تاتش",
     "specs": {
       "cap": "4.5",
       "type": "تاتش"
@@ -4099,7 +4099,7 @@
   {
     "asin": "B0BVKNGX9Y",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 1350W - 3.5L - KB2109 - Color: Black",
+    "name": "قلاية 3.5لتر 1350وات",
     "specs": {
       "cap": "3.5",
       "watt": "1350"
@@ -4122,7 +4122,7 @@
   {
     "asin": "B0CQVN6GDY",
     "brand": "جاماكي",
-    "name": "جاماكي 7 لتر 1800 وات (JMK5007)",
+    "name": "جاماكي قلاية 7لتر 1800وات",
     "specs": {
       "cap": "7",
       "watt": "1800"
@@ -4145,7 +4145,7 @@
   {
     "asin": "B0DG7J9H3S",
     "brand": "جاماكي",
-    "name": "جاماكي 7 لتر 1800 وات تاتش",
+    "name": "جاماكي قلاية 7لتر 1800وات",
     "specs": {
       "cap": "7",
       "watt": "1800",
@@ -4169,7 +4169,7 @@
   {
     "asin": "B0C1ZJJ1XG",
     "brand": "غير محدد",
-    "name": "Silver Crest 8 Liter Air Fryer 1.Kg Performance Range 1800 Watt Rapid Air Convection Heating,DR-8803S - (",
+    "name": "قلاية 8لتر 1800وات",
     "specs": {
       "cap": "8",
       "watt": "1800"
@@ -4192,7 +4192,7 @@
   {
     "asin": "B0BKYFW226",
     "brand": "سوكاني",
-    "name": "سوكاني 5 لتر 1500 وات رقمي",
+    "name": "سوكاني قلاية 5لتر 1500وات",
     "specs": {
       "cap": "5",
       "watt": "1500",
@@ -4216,7 +4216,7 @@
   {
     "asin": "B0BWKLDVDQ",
     "brand": "فيليبس",
-    "name": "فيليبس 8.3 لتر (HD9880/90)",
+    "name": "فيليبس قلاية 8.3لتر",
     "specs": {
       "cap": "8.3"
     },
@@ -4238,7 +4238,7 @@
   {
     "asin": "B0CQMXPQHZ",
     "brand": "جاماكي",
-    "name": "جاماكي 7 لتر 1800 وات (JMK5007)",
+    "name": "جاماكي قلاية 7لتر 1800وات",
     "specs": {
       "cap": "7",
       "watt": "1800"
@@ -4261,7 +4261,7 @@
   {
     "asin": "B0DYJPQFM5",
     "brand": "غير محدد",
-    "name": "Hiway Air Fryer Oven with Grill, 25 Liter Capacity, Gray/Black",
+    "name": "قلاية 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -4283,7 +4283,7 @@
   {
     "asin": "B0FSF1GRXR",
     "brand": "براون",
-    "name": "براون 10 لتر 2400 وات تاتش (TD5030IBK)",
+    "name": "براون قلاية 10لتر 2400وات",
     "specs": {
       "cap": "10",
       "watt": "2400",
@@ -4307,7 +4307,7 @@
   {
     "asin": "B01L93HNEM",
     "brand": "فريش",
-    "name": "فريش 7 لتر (D1500GM)",
+    "name": "فريش قلاية 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -4329,7 +4329,7 @@
   {
     "asin": "B0H3FBFBJG",
     "brand": "غير محدد",
-    "name": "Electric Air Fryer, 6L Capacity, 1400-2400W, LCD Touch Screen, Non-Stick Basket, Versatile",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -4353,7 +4353,7 @@
   {
     "asin": "B0F4Q2Q6C4",
     "brand": "غير محدد",
-    "name": "Generic Extra Large Air Fryer, 6L Capacity, 2400W, Digital Display, Black and Rose Gold",
+    "name": "قلاية 6لتر 2400وات رقمي",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -4377,7 +4377,7 @@
   {
     "asin": "B0GZKCGXC2",
     "brand": "غير محدد",
-    "name": "Benz Digital Air Fryer, 5.5 Litre, 1450W, Non-Stick Removable Basket, 6 Preset Programs, LED Touch Displa",
+    "name": "قلاية 5.5لتر 1450وات تاتش",
     "specs": {
       "cap": "5.5",
       "watt": "1450",
@@ -4401,7 +4401,7 @@
   {
     "asin": "B0CB1JN86W",
     "brand": "غير محدد",
-    "name": "RAF Air Fryer,R.5329,8L 1600W,Black*Silver",
+    "name": "قلاية 1600وات",
     "specs": {
       "watt": "1600"
     },
@@ -4423,7 +4423,7 @@
   {
     "asin": "B0DWLW83XD",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer, 2.6L, 1350W Power, Healthy Oil-Free Cooking, Dual Protection Circuit, Dishwasher-Safe, Sta",
+    "name": "قلاية 2.6لتر 1350وات تاتش",
     "specs": {
       "cap": "2.6",
       "watt": "1350",
@@ -4447,7 +4447,7 @@
   {
     "asin": "B0GPWH531F",
     "brand": "Nouval",
-    "name": "Nouval 6 لتر 1500 وات تاتش",
+    "name": "Nouval قلاية 6لتر 1500وات",
     "specs": {
       "cap": "6",
       "watt": "1500",
@@ -4471,7 +4471,7 @@
   {
     "asin": "B095PZ1TMZ",
     "brand": "فيليبس",
-    "name": "فيليبس 4.1 لتر 1400 وات رقمي (HD9252/90)",
+    "name": "فيليبس قلاية 4.1لتر 1400وات",
     "specs": {
       "cap": "4.1",
       "watt": "1400",
@@ -4495,7 +4495,7 @@
   {
     "asin": "B0GZLCY71W",
     "brand": "غير محدد",
-    "name": "Air Fryer Bundle Set, 4 PCS, 6L Digital Touch Screen, with Oil Sprayer, 50 Liners & 80 Kitchen Wipes",
+    "name": "قلاية 6لتر تاتش",
     "specs": {
       "cap": "6",
       "type": "تاتش"
@@ -4518,7 +4518,7 @@
   {
     "asin": "B0CFYCKHTS",
     "brand": "سوكاني",
-    "name": "سوكاني 7 لتر 1450 وات",
+    "name": "سوكاني قلاية 7لتر 1450وات",
     "specs": {
       "cap": "7",
       "watt": "1450"
@@ -4541,7 +4541,7 @@
   {
     "asin": "B0H7KY6QKJ",
     "brand": "غير محدد",
-    "name": "Air Fryer 6L - 2400W - ModernDigital LCD touch screen - Modern design and high quality, practical for pre",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -4565,7 +4565,7 @@
   {
     "asin": "B0HFV4WKM2",
     "brand": "غير محدد",
-    "name": "White Life Digital Healthy Air Fryer 11L 3300W Oilless Air Fryer with | Top and Bottom Heating, 15 Cookin",
+    "name": "قلاية 11لتر 3300وات رقمي",
     "specs": {
       "cap": "11",
       "watt": "3300",
@@ -4589,7 +4589,7 @@
   {
     "asin": "B0HCMDTLNM",
     "brand": "Acasia",
-    "name": "Acasia 5 لتر رقمي",
+    "name": "Acasia قلاية 5لتر رقمي",
     "specs": {
       "cap": "5",
       "type": "رقمي"
@@ -4612,7 +4612,7 @@
   {
     "asin": "B0G3Q7WG3S",
     "brand": "غير محدد",
-    "name": "Electric Air Fryer, 6L, 2400W, LCD Touch Screen, Black and Rose Gold, Healthy Cooking",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -4636,7 +4636,7 @@
   {
     "asin": "B09MLXH6R8",
     "brand": "Heinrichs",
-    "name": "Heinrichs 12 لتر 1800 وات تاتش",
+    "name": "HEINRICHS قلاية 12لتر 1800وات",
     "specs": {
       "cap": "12",
       "watt": "1800",
@@ -4660,7 +4660,7 @@
   {
     "asin": "B0CQZ1VD11",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 6.5 Liter Performance Range 1800 Watt Rapid Air Convection Heating, KB2031 White",
+    "name": "قلاية 6.5لتر 1800وات",
     "specs": {
       "cap": "6.5",
       "watt": "1800"
@@ -4683,7 +4683,7 @@
   {
     "asin": "B0DH4YYK8J",
     "brand": "MediaTech",
-    "name": "MediaTech 7.2 لتر (AF3000M)",
+    "name": "MediaTech قلاية 7.2لتر",
     "specs": {
       "cap": "7.2"
     },
@@ -4705,7 +4705,7 @@
   {
     "asin": "B0D41TB4S9",
     "brand": "تورنيدو",
-    "name": "تورنيدو 4 لتر 1550 وات",
+    "name": "تورنيدو قلاية 4لتر 1550وات",
     "specs": {
       "cap": "4",
       "watt": "1550"
@@ -4728,7 +4728,7 @@
   {
     "asin": "B0FL1975S1",
     "brand": "غير محدد",
-    "name": "Air Fryer - Enjoy crispy and delicious meals with our innovative air fryer that uses hot air for frying w",
+    "name": "قلاية",
     "specs": {},
     "model": "",
     "title": "Air Fryer - Enjoy crispy and delicious meals with our innovative air fryer that uses hot air for frying without unhealthy oils or fats, perfect for guilt-free cooking.",
@@ -4748,7 +4748,7 @@
   {
     "asin": "B0FM4C69YC",
     "brand": "MediaTech",
-    "name": "MediaTech 8 لتر 2000 وات تاتش (AF5000D)",
+    "name": "MediaTech قلاية 8لتر 2000وات",
     "specs": {
       "cap": "8",
       "watt": "2000",
@@ -4772,7 +4772,7 @@
   {
     "asin": "B0HF69SG4T",
     "brand": "DENX",
-    "name": "DENX 12 لتر 1350 وات رقمي (DX2081)",
+    "name": "DENX قلاية 12لتر 1350وات",
     "specs": {
       "cap": "12",
       "watt": "1350",
@@ -4796,7 +4796,7 @@
   {
     "asin": "B0HK2FRB6M",
     "brand": "غير محدد",
-    "name": "JAMAKY Air Fryer Without Oil JMK5003 5L 1800W | Heat and Time Control, Non-Stick Pot, Grease Clearing Gri",
+    "name": "JAMAKY قلاية 5لتر 1800وات",
     "specs": {
       "cap": "5",
       "watt": "1800"
@@ -4819,7 +4819,7 @@
   {
     "asin": "B0C3V7QMRW",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 4 لتر 1700 وات رقمي (DZAF1700-B5)",
+    "name": "بلاك قلاية 4لتر 1700وات",
     "specs": {
       "cap": "4",
       "watt": "1700",
@@ -4843,7 +4843,7 @@
   {
     "asin": "B076VQNYXV",
     "brand": "DeLonghi",
-    "name": "DeLonghi 1.7 لتر (FH1363BK)",
+    "name": "ديلونجي قلاية 1.7لتر",
     "specs": {
       "cap": "1.7"
     },
@@ -4865,7 +4865,7 @@
   {
     "asin": "B01L93HUOA",
     "brand": "فريش",
-    "name": "فريش 7 لتر",
+    "name": "فريش قلاية 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -4887,7 +4887,7 @@
   {
     "asin": "B0C1ZD5L7C",
     "brand": "غير محدد",
-    "name": "Silver Crest Royal Essential Air Fryer, AF-16, Digital Screen, 5.5L Capacity, 1700 Watt, White, 50 hz, 22",
+    "name": "قلاية 5.5لتر 1700وات رقمي",
     "specs": {
       "cap": "5.5",
       "watt": "1700",
@@ -4911,7 +4911,7 @@
   {
     "asin": "B0CJ7ZB81S",
     "brand": "فريش",
-    "name": "فريش 5.5 لتر",
+    "name": "فريش قلاية 5.5لتر",
     "specs": {
       "cap": "5.5"
     },
@@ -4933,7 +4933,7 @@
   {
     "asin": "B0C8NXYT44",
     "brand": "غير محدد",
-    "name": "Silver Crest JD689B Air Fryer 1400W 8 Litres -LCD Touch Control",
+    "name": "قلاية 8لتر 1400وات تاتش",
     "specs": {
       "cap": "8",
       "watt": "1400",
@@ -4957,7 +4957,7 @@
   {
     "asin": "B0CZD87P6S",
     "brand": "غير محدد",
-    "name": "RAF Essential Air fryer R.5340, 1800 Watt, 14 Liter, 220v, 50Hz, Silver",
+    "name": "قلاية 14لتر 1800وات",
     "specs": {
       "cap": "14",
       "watt": "1800"
@@ -4980,7 +4980,7 @@
   {
     "asin": "B0CW1YGGZ5",
     "brand": "EDISON ELECTRIC",
-    "name": "EDISON ELECTRIC 22 لتر 1900 وات",
+    "name": "EDISON قلاية 22لتر 1900وات",
     "specs": {
       "cap": "22",
       "watt": "1900"
@@ -5003,7 +5003,7 @@
   {
     "asin": "B07FSR8LYK",
     "brand": "فيليبس",
-    "name": "Philips Avance Collection 1.4 Kg Airfryer XXL - HD9650/91 ( International warranty ) - 220V supply voltag",
+    "name": "فيليبس قلاية",
     "specs": {},
     "model": "HD9650/91",
     "title": "Philips Avance Collection 1.4 Kg Airfryer XXL - HD9650/91 ( International warranty ) - 220V supply voltage and 50Hz",
@@ -5023,7 +5023,7 @@
   {
     "asin": "B0G1519N3S",
     "brand": "Hosaki",
-    "name": "Hosaki 1950 وات تاتش",
+    "name": "Hosaki قلاية 1950وات تاتش",
     "specs": {
       "watt": "1950",
       "type": "تاتش"
@@ -5046,7 +5046,7 @@
   {
     "asin": "B0CW3LK2Z6",
     "brand": "EDISON ELECTRIC",
-    "name": "EDISON ELECTRIC 6.5 لتر 1800 وات",
+    "name": "EDISON قلاية 6.5لتر 1800وات",
     "specs": {
       "cap": "6.5",
       "watt": "1800"
@@ -5069,7 +5069,7 @@
   {
     "asin": "B0C99N9BQ6",
     "brand": "غير محدد",
-    "name": "RAF Air Fryer,R.5309,8L 1700W,Black*Silver",
+    "name": "قلاية 1700وات",
     "specs": {
       "watt": "1700"
     },
@@ -5091,7 +5091,7 @@
   {
     "asin": "B0DVTKRZ6Z",
     "brand": "Rafal",
-    "name": "Rafal 7.5 لتر 1800 وات",
+    "name": "Rafal قلاية 7.5لتر 1800وات",
     "specs": {
       "cap": "7.5",
       "watt": "1800"
@@ -5114,7 +5114,7 @@
   {
     "asin": "B0CXTPK12L",
     "brand": "نينجا",
-    "name": "نينجا 9.5 لتر (SL400UK)",
+    "name": "نينجا قلاية 9.5لتر",
     "specs": {
       "cap": "9.5"
     },
@@ -5136,7 +5136,7 @@
   {
     "asin": "B0C59JRLM4",
     "brand": "Ariete",
-    "name": "Ariete 7 لتر",
+    "name": "Ariete قلاية 7لتر",
     "specs": {
       "cap": "7"
     },
@@ -5158,7 +5158,7 @@
   {
     "asin": "B08Z48GGZG",
     "brand": "غير محدد",
-    "name": "DSP KB2062 Multi-Functional Air Fryer, 1350 W, 2.5 L - Black",
+    "name": "قلاية 2.5لتر 1350وات",
     "specs": {
       "cap": "2.5",
       "watt": "1350"
@@ -5181,7 +5181,7 @@
   {
     "asin": "B0CZ3YNB61",
     "brand": "تورنيدو",
-    "name": "تورنيدو 4 لتر 1550 وات",
+    "name": "تورنيدو قلاية 4لتر 1550وات",
     "specs": {
       "cap": "4",
       "watt": "1550"
@@ -5206,7 +5206,7 @@
   {
     "asin": "B0D3FTKSXN",
     "brand": "Daga",
-    "name": "Air Fryer Crispy Bread Maker, Premium Multi-Purpose Air Fryer with Grill Mesh Tray, Non-Stick Square Pan ",
+    "name": "قلاية",
     "specs": {},
     "model": "",
     "title": "Air Fryer Crispy Bread Maker, Premium Multi-Purpose Air Fryer with Grill Mesh Tray, Non-Stick Square Pan Design, Oven Safe",
@@ -5226,7 +5226,7 @@
   {
     "asin": "B0DKKL9152",
     "brand": "فيليبس",
-    "name": "Philips 5000 Series Dual Basket Airfryer",
+    "name": "فيليبس قلاية",
     "specs": {},
     "model": "",
     "title": "Philips 5000 Series Dual Basket Airfryer",
@@ -5246,7 +5246,7 @@
   {
     "asin": "B0F31QZ5SZ",
     "brand": "كينوود",
-    "name": "كينوود 8 لتر (GHF40)",
+    "name": "كينوود قلاية 8لتر",
     "specs": {
       "cap": "8"
     },
@@ -5268,7 +5268,7 @@
   {
     "asin": "B0CVVB332D",
     "brand": "سوكاني",
-    "name": "سوكاني 8.5 لتر 1800 وات رقمي",
+    "name": "سوكاني قلاية 8.5لتر 1800وات",
     "specs": {
       "cap": "8.5",
       "watt": "1800",
@@ -5292,7 +5292,7 @@
   {
     "asin": "B0D9S94PWM",
     "brand": "فيليبس",
-    "name": "فيليبس 7.2 لتر (NA340/00)",
+    "name": "فيليبس قلاية 7.2لتر",
     "specs": {
       "cap": "7.2"
     },
@@ -5314,7 +5314,7 @@
   {
     "asin": "B0BKYDCCH3",
     "brand": "سوكاني",
-    "name": "سوكاني 5 لتر",
+    "name": "سوكاني قلاية 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -5336,7 +5336,7 @@
   {
     "asin": "B09TBGR44Q",
     "brand": "فيليبس",
-    "name": "فيليبس 2225 وات (HD9870/20)",
+    "name": "فيليبس قلاية 2225وات",
     "specs": {
       "watt": "2225"
     },
@@ -5358,7 +5358,7 @@
   {
     "asin": "B0BVKRD8VR",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 1200W - 3.5L - Model KB2078 Color: Black",
+    "name": "قلاية 3.5لتر 1200وات",
     "specs": {
       "cap": "3.5",
       "watt": "1200"
@@ -5381,7 +5381,7 @@
   {
     "asin": "B0GQMLSP6G",
     "brand": "غير محدد",
-    "name": "JMK5007 Air Fryer 1800W 7L, Silver and Black",
+    "name": "قلاية 7لتر 1800وات",
     "specs": {
       "cap": "7",
       "watt": "1800"
@@ -5404,7 +5404,7 @@
   {
     "asin": "B0HF6KYM3C",
     "brand": "DENX",
-    "name": "DENX 11 لتر 2800 وات رقمي (DX4001)",
+    "name": "DENX قلاية 11لتر 2800وات",
     "specs": {
       "cap": "11",
       "watt": "2800",
@@ -5428,7 +5428,7 @@
   {
     "asin": "B0HFN16SX8",
     "brand": "Rafal",
-    "name": "Rafal 5 لتر 1450 وات رقمي",
+    "name": "Rafal قلاية 5لتر 1450وات",
     "specs": {
       "cap": "5",
       "watt": "1450",
@@ -5452,7 +5452,7 @@
   {
     "asin": "B0993S1HS7",
     "brand": "سوكاني",
-    "name": "سوكاني 5 لتر 1500 وات رقمي",
+    "name": "سوكاني قلاية 5لتر 1500وات",
     "specs": {
       "cap": "5",
       "watt": "1500",
@@ -5476,7 +5476,7 @@
   {
     "asin": "B08XRRRSJZ",
     "brand": "تيفال",
-    "name": "تيفال 1500 وات (FZ727825)",
+    "name": "تيفال قلاية 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -5498,7 +5498,7 @@
   {
     "asin": "B0783SSSPY",
     "brand": "فيليبس",
-    "name": "Philips avance collection 1.4 kg airfryer xxl - hd9650/94, black - 220v supply voltage and 50hz",
+    "name": "فيليبس قلاية",
     "specs": {},
     "model": "HD9650/94",
     "title": "Philips avance collection 1.4 kg airfryer xxl - hd9650/94, black - 220v supply voltage and 50hz",
@@ -5518,7 +5518,7 @@
   {
     "asin": "B08WJNF9PZ",
     "brand": "سوكاني",
-    "name": "سوكاني 5 لتر",
+    "name": "سوكاني قلاية 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -5540,7 +5540,7 @@
   {
     "asin": "B07R3JV8Z8",
     "brand": "DeLonghi",
-    "name": "De'Longhi MultiFry Air Fryer With Surround Heating System, Multi Cooker Grilling, Broiling, Roasting, Coo",
+    "name": "ديلونجي قلاية",
     "specs": {},
     "model": "FH1175/2",
     "title": "De'Longhi MultiFry Air Fryer With Surround Heating System, Multi Cooker Grilling, Broiling, Roasting, Cooking, Baking, and Toasting, 1.5 Kg Capacity, Programmable, FH1175/2, White & Black",
@@ -5560,7 +5560,7 @@
   {
     "asin": "B09DDD156M",
     "brand": "تيفال",
-    "name": "تيفال 4.2 لتر 1550 وات رقمي (EY505D)",
+    "name": "تيفال قلاية 4.2لتر 1550وات",
     "specs": {
       "cap": "4.2",
       "watt": "1550",
@@ -5584,7 +5584,7 @@
   {
     "asin": "B0CWVVWMC8",
     "brand": "غير محدد",
-    "name": "Digital Air Fryer 8.5L 1800W 10004",
+    "name": "قلاية 8.5لتر 1800وات رقمي",
     "specs": {
       "cap": "8.5",
       "watt": "1800",
@@ -5608,7 +5608,7 @@
   {
     "asin": "B0BW4FMR47",
     "brand": "فيليبس",
-    "name": "فيليبس 7.2 لتر تاتش (HD9285/90)",
+    "name": "فيليبس قلاية 7.2لتر تاتش",
     "specs": {
       "cap": "7.2",
       "type": "تاتش"
@@ -5631,7 +5631,7 @@
   {
     "asin": "B0DJZCP7L4",
     "brand": "غير محدد",
-    "name": "Al Saif Digital Air Fryer, 9 Liter XXXL, 1800 Watts, Black",
+    "name": "Al قلاية 9لتر 1800وات",
     "specs": {
       "cap": "9",
       "watt": "1800",
@@ -5655,7 +5655,7 @@
   {
     "asin": "B0H6QWTW39",
     "brand": "غير محدد",
-    "name": "Electric Air Fryer, 6 Liters, 1400 Watts, LCD Touch Screen, Modern Design, High Quality Practical for Hea",
+    "name": "قلاية 6لتر 1400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "1400",
@@ -5679,7 +5679,7 @@
   {
     "asin": "B0HMV7BGMG",
     "brand": "غير محدد",
-    "name": "Air Fryer Electric 8 Liter 2400 Watts, LCD Touch Screen, For Healthy Cooking Digtal Technology Heat Fast ",
+    "name": "قلاية 8لتر 2400وات تاتش",
     "specs": {
       "cap": "8",
       "watt": "2400",
@@ -5703,7 +5703,7 @@
   {
     "asin": "B0HMXCYZZ5",
     "brand": "غير محدد",
-    "name": "Digital Air Fryer Bundle, 2400W Touch Screen Air Fryer, 6L, Oil Sprayer, 50 Liners And 80 Kitchen Wipes -",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -5727,7 +5727,7 @@
   {
     "asin": "B08X5YGT5M",
     "brand": "سوكاني",
-    "name": "سوكاني 5 لتر",
+    "name": "سوكاني قلاية 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -5749,7 +5749,7 @@
   {
     "asin": "B0DRN5WW2J",
     "brand": "غير محدد",
-    "name": "Jamaky Healthy Air Fryer 10L 2000W Digital Oil-Free LCD Touch Screen Fast Heat Heat Technology Time and T",
+    "name": "Jamaky قلاية 10لتر 2000وات",
     "specs": {
       "cap": "10",
       "watt": "2000",
@@ -5773,7 +5773,7 @@
   {
     "asin": "B0DG7P5612",
     "brand": "جاماكي",
-    "name": "جاماكي 8 لتر 2500 وات تاتش",
+    "name": "جاماكي قلاية 8لتر 2500وات",
     "specs": {
       "cap": "8",
       "watt": "2500",
@@ -5797,7 +5797,7 @@
   {
     "asin": "B09GKSSH91",
     "brand": "مينتا",
-    "name": "مينتا 5.5 لتر 1700 وات (AF47234A)",
+    "name": "مينتا قلاية 5.5لتر 1700وات",
     "specs": {
       "cap": "5.5",
       "watt": "1700"
@@ -5820,7 +5820,7 @@
   {
     "asin": "B0D58Q5RHM",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 1300W, Enjoy Healthy Cooking with 2.6L Capacity, Easy Cleanup, Precise Control, and Safety ",
+    "name": "قلاية 2.6لتر 1300وات",
     "specs": {
       "cap": "2.6",
       "watt": "1300"
@@ -5843,7 +5843,7 @@
   {
     "asin": "B0BZWKPNZN",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 1700W Non-Oil Frying Fri, 8.5 Liter, Black - kb2066",
+    "name": "قلاية 8.5لتر 1700وات",
     "specs": {
       "cap": "8.5",
       "watt": "1700"
@@ -5866,7 +5866,7 @@
   {
     "asin": "B0F6LJYHFS",
     "brand": "غير محدد",
-    "name": "Jmaki Healthy Oilless Air Fryer 6.5L - 1600W Digital LCD Touch Screen, Fast Air Convection Technology (Mo",
+    "name": "Jmaki قلاية 6.5لتر 1600وات",
     "specs": {
       "cap": "6.5",
       "watt": "1600",
@@ -5890,7 +5890,7 @@
   {
     "asin": "B0DWLX7N2H",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer with 1350W Power, 5.5L Capacity, Precise Temperature Control, and Auto Shut-Off Timer - Enj",
+    "name": "قلاية 5.5لتر 1350وات",
     "specs": {
       "cap": "5.5",
       "watt": "1350"
@@ -5913,7 +5913,7 @@
   {
     "asin": "B0D4B657TH",
     "brand": "غير محدد",
-    "name": "MediaTech Healthy Air Fryer XXL, 7.2L, Digital Touch Control,Oil-Less Fryer, Easy Clean Basket, 8 Preset ",
+    "name": "قلاية 7.2لتر تاتش",
     "specs": {
       "cap": "7.2",
       "type": "تاتش"
@@ -5936,7 +5936,7 @@
   {
     "asin": "B09GNYYG9L",
     "brand": "غير محدد",
-    "name": "DSP 1700w Air Fryer - 6L, kb2065, black",
+    "name": "قلاية 6لتر 1700وات",
     "specs": {
       "cap": "6",
       "watt": "1700"
@@ -5959,7 +5959,7 @@
   {
     "asin": "B0DJTBJ7YX",
     "brand": "غير محدد",
-    "name": "Generic Air Fryer, 1500W, Quick Heating, Versatile Cooking, Auto Shut-Off & Thermal Shield",
+    "name": "قلاية 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -5981,7 +5981,7 @@
   {
     "asin": "B0DHVYVB8F",
     "brand": "غير محدد",
-    "name": "Castle AFS1210 Oilless Air Fryer, 10 Liter, 2200 Watt, Digital Touch Control, Silver",
+    "name": "قلاية 10لتر 2200وات تاتش",
     "specs": {
       "cap": "10",
       "watt": "2200",
@@ -6005,7 +6005,7 @@
   {
     "asin": "B0F9TD3S3P",
     "brand": "غير محدد",
-    "name": "Digital Air Fryer 6L – No Oil | Healthy Electric Fryer for Cooking Potatoes, Chicken, Meat and Bakery | T",
+    "name": "قلاية 6لتر تاتش",
     "specs": {
       "cap": "6",
       "type": "تاتش"
@@ -6028,7 +6028,7 @@
   {
     "asin": "B0CZDFBLJQ",
     "brand": "RAF",
-    "name": "RAF 4.8 لتر 1350 وات",
+    "name": "RAF قلاية 4.8لتر 1350وات",
     "specs": {
       "cap": "4.8",
       "watt": "1350"
@@ -6051,7 +6051,7 @@
   {
     "asin": "B0C1ZHD658",
     "brand": "غير محدد",
-    "name": "Silver Crest Royal Essential Air Fryer, AF-18, Digital Screen, 8L Capacity, 2400 Watt - Black",
+    "name": "قلاية 8لتر 2400وات رقمي",
     "specs": {
       "cap": "8",
       "watt": "2400",
@@ -6075,7 +6075,7 @@
   {
     "asin": "B0FJFT1PN9",
     "brand": "بيكو",
-    "name": "بيكو 6.8 لتر 1875 وات",
+    "name": "بيكو قلاية 6.8لتر 1875وات",
     "specs": {
       "cap": "6.8",
       "watt": "1875"
@@ -6098,7 +6098,7 @@
   {
     "asin": "B0DJZDT31P",
     "brand": "غير محدد",
-    "name": "Al Saif Digital Air Fryer, 9 Liter XXXL, 1800 Watts, Touch White",
+    "name": "Al قلاية 9لتر 1800وات",
     "specs": {
       "cap": "9",
       "watt": "1800",
@@ -6122,7 +6122,7 @@
   {
     "asin": "B0CQZ292NG",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 5.5 Liter Performance Range 1800 Watt Rapid Air Convection Heating, KB2087 Black",
+    "name": "قلاية 5.5لتر 1800وات",
     "specs": {
       "cap": "5.5",
       "watt": "1800"
@@ -6145,7 +6145,7 @@
   {
     "asin": "B0DRN3VD87",
     "brand": "غير محدد",
-    "name": "Jamaky Healthy Air Fryer 8.5L 1800W Digital Oilless LCD Touch Screen Fast Heat Heat Technology Time and T",
+    "name": "Jamaky قلاية 8.5لتر 1800وات",
     "specs": {
       "cap": "8.5",
       "watt": "1800",
@@ -6169,7 +6169,7 @@
   {
     "asin": "B0H78TGYTG",
     "brand": "غير محدد",
-    "name": "6L Air Fryer 2400W – Multifunction Digital Hot Air Fryer with Touch Screen Control, Large Capacity Oil-Fr",
+    "name": "6L قلاية 6لتر 2400وات",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -6193,7 +6193,7 @@
   {
     "asin": "B0HMXJYKT1",
     "brand": "غير محدد",
-    "name": "Digital Air Fryer Bundle, 2400W Touch Screen Air Fryer, 6L, Oil Sprayer, 50 Liners And 80 Kitchen Wipes -",
+    "name": "قلاية 6لتر 2400وات تاتش",
     "specs": {
       "cap": "6",
       "watt": "2400",
@@ -6217,7 +6217,7 @@
   {
     "asin": "B0CQZ1GSQ6",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer 2.5 Liter Performance Range 800 Watt Rapid Air Convection Heating, KB2062 White",
+    "name": "قلاية 2.5لتر 800وات",
     "specs": {
       "cap": "2.5",
       "watt": "800"
@@ -6240,7 +6240,7 @@
   {
     "asin": "B0HL6JQND5",
     "brand": "غير محدد",
-    "name": "Black & White Digital Air Fryer 12L 2000W Touch Screen 7 Programs - Black | 12 Liter & 2000 Watts capacit",
+    "name": "قلاية 12لتر 2000وات تاتش",
     "specs": {
       "cap": "12",
       "watt": "2000",
@@ -6264,7 +6264,7 @@
   {
     "asin": "B0DM6RM21W",
     "brand": "براون",
-    "name": "براون 4.3 لتر 1500 وات تاتش",
+    "name": "براون قلاية 4.3لتر 1500وات",
     "specs": {
       "cap": "4.3",
       "watt": "1500",
@@ -6288,7 +6288,7 @@
   {
     "asin": "B0C99KZW6R",
     "brand": "RAF",
-    "name": "RAF 5.8 لتر 1700 وات",
+    "name": "RAF قلاية 5.8لتر 1700وات",
     "specs": {
       "cap": "5.8",
       "watt": "1700"
@@ -6311,7 +6311,7 @@
   {
     "asin": "B08YY27DJF",
     "brand": "غير محدد",
-    "name": "DSP KB2029 Multifunctional Air Fryer with Oven, 1700 W, 12 L - Black",
+    "name": "قلاية 12لتر 1700وات",
     "specs": {
       "cap": "12",
       "watt": "1700"
@@ -6334,7 +6334,7 @@
   {
     "asin": "B0F144M8JL",
     "brand": "غير محدد",
-    "name": "Air Fryer 8.5L Digital Touch Screen H.MA 1038",
+    "name": "قلاية 8.5لتر تاتش",
     "specs": {
       "cap": "8.5",
       "type": "تاتش"
@@ -6357,7 +6357,7 @@
   {
     "asin": "B0G1MVX733",
     "brand": "Briva",
-    "name": "Briva 6 لتر",
+    "name": "Briva قلاية 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -6379,7 +6379,7 @@
   {
     "asin": "B0DJF77CTV",
     "brand": "نينجا",
-    "name": "نينجا 6.2 لتر رقمي (AF180ME)",
+    "name": "نينجا قلاية 6.2لتر رقمي",
     "specs": {
       "cap": "6.2",
       "type": "رقمي"
@@ -6402,7 +6402,7 @@
   {
     "asin": "B0BMGG34J2",
     "brand": "غير محدد",
-    "name": "Silver Crest S-18 Digital Electric Air Fryer ,2400 Watts 220V supply voltage, Color:Green/Gold",
+    "name": "قلاية 2400وات رقمي",
     "specs": {
       "watt": "2400",
       "type": "رقمي"
@@ -6425,7 +6425,7 @@
   {
     "asin": "B0D7NZT9DF",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 2.5 لتر (AF200-B5)",
+    "name": "بلاك قلاية 2.5لتر",
     "specs": {
       "cap": "2.5"
     },
@@ -6447,7 +6447,7 @@
   {
     "asin": "B0C4ZWBFKF",
     "brand": "كينوود",
-    "name": "كينوود 5.5 لتر تاتش (HFP50)",
+    "name": "كينوود قلاية 5.5لتر تاتش",
     "specs": {
       "cap": "5.5",
       "type": "تاتش"
@@ -6470,7 +6470,7 @@
   {
     "asin": "B0GY97YL8C",
     "brand": "AKANE",
-    "name": "AKANE 11 لتر 2800 وات",
+    "name": "AKANE قلاية 11لتر 2800وات",
     "specs": {
       "cap": "11",
       "watt": "2800"
@@ -6493,7 +6493,7 @@
   {
     "asin": "B0DZXFD47S",
     "brand": "أرزوم",
-    "name": "أرزوم رقمي (COPPER)",
+    "name": "أرزوم قلاية رقمي",
     "specs": {
       "type": "رقمي"
     },
@@ -6515,7 +6515,7 @@
   {
     "asin": "B07YF98R2X",
     "brand": "نينجا",
-    "name": "نينجا 5.7 لتر (AG301UK)",
+    "name": "نينجا قلاية 5.7لتر",
     "specs": {
       "cap": "5.7"
     },
@@ -6537,7 +6537,7 @@
   {
     "asin": "B0CXN576L6",
     "brand": "SONAI",
-    "name": "Sonai Air Fryer Cook Master pro classic",
+    "name": "Sonai قلاية",
     "specs": {},
     "model": "",
     "title": "Sonai Air Fryer Cook Master pro classic",
@@ -6557,7 +6557,7 @@
   {
     "asin": "B0DF83CVD8",
     "brand": "غير محدد",
-    "name": "DSP Air Fryer, 1800W, 8L, Digital Display, Black, KB2163",
+    "name": "قلاية 8لتر 1800وات رقمي",
     "specs": {
       "cap": "8",
       "watt": "1800",
@@ -6581,7 +6581,7 @@
   {
     "asin": "B0BV7LG5ZR",
     "brand": "CORNELL",
-    "name": "CORNELL 3.5 لتر (S3601BX)",
+    "name": "CORNELL قلاية 3.5لتر",
     "specs": {
       "cap": "3.5"
     },
@@ -6603,7 +6603,7 @@
   {
     "asin": "B0DHP8XVSS",
     "brand": "غير محدد",
-    "name": "Air Fryer 8 Liter Electric Without Oil 1500 Watt Model No.: 610D",
+    "name": "قلاية 8لتر 1500وات",
     "specs": {
       "cap": "8",
       "watt": "1500"
@@ -6626,7 +6626,7 @@
   {
     "asin": "B0DDKNKWS7",
     "brand": "جري",
-    "name": "جري 4.2 لتر 1400 وات تاتش (SF1010)",
+    "name": "جري قلاية 4.2لتر 1400وات",
     "specs": {
       "cap": "4.2",
       "watt": "1400",
@@ -6650,7 +6650,7 @@
   {
     "asin": "B0GZLTW46R",
     "brand": "غير محدد",
-    "name": "Benz Digital Air Fryer, 6.5L Capacity, 1700W, Stainless Steel, with 10 Preset Cooking Programmes and 360°",
+    "name": "قلاية 6.5لتر 1700وات رقمي",
     "specs": {
       "cap": "6.5",
       "watt": "1700",
@@ -6674,7 +6674,7 @@
   {
     "asin": "B0GZLSTSQ9",
     "brand": "غير محدد",
-    "name": "Benz Digital Air Fryer, Dual Basket, 11 Litre, 2800W, Stainless Steel, 13 Cooking Programs, BAFB1104",
+    "name": "قلاية 11لتر 2800وات رقمي",
     "specs": {
       "cap": "11",
       "watt": "2800",

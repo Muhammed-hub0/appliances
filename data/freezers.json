@@ -2,7 +2,7 @@
   {
     "asin": "B0GLKLWWRF",
     "brand": "يونيون إير",
-    "name": "يونيون إير 145 لتر أفقي",
+    "name": "يونيون فريزر 145لتر أفقي",
     "specs": {
       "cap": "145",
       "type": "أفقي"
@@ -25,7 +25,7 @@
   {
     "asin": "B091J72861",
     "brand": "فريش",
-    "name": "فريش 255 لتر أفقي",
+    "name": "فريزر 255لتر أفقي",
     "specs": {
       "cap": "255",
       "type": "أفقي"
@@ -48,7 +48,7 @@
   {
     "asin": "B0D6C6RDYM",
     "brand": "فريش",
-    "name": "فريش 165 لتر أفقي",
+    "name": "فريش فريزر 165لتر أفقي",
     "specs": {
       "cap": "165",
       "type": "أفقي"
@@ -71,7 +71,7 @@
   {
     "asin": "B0CLW1MHQH",
     "brand": "فريش",
-    "name": "فريش 200 لتر أفقي",
+    "name": "فريش فريزر 200لتر أفقي",
     "specs": {
       "cap": "200",
       "type": "أفقي"
@@ -94,7 +94,7 @@
   {
     "asin": "B0HR39T3ZZ",
     "brand": "يونيون إير",
-    "name": "يونيون إير 282 لتر أفقي",
+    "name": "يونيون فريزر 282لتر أفقي",
     "specs": {
       "cap": "282",
       "type": "أفقي"
@@ -117,7 +117,7 @@
   {
     "asin": "B0CLSX3Q64",
     "brand": "فريش",
-    "name": "فريش 472 لتر أفقي",
+    "name": "فريش فريزر 472لتر أفقي",
     "specs": {
       "cap": "472",
       "type": "أفقي"
@@ -140,7 +140,7 @@
   {
     "asin": "B0F9VLF8MF",
     "brand": "إل جي",
-    "name": "إل جي 205 لتر أفقي (ES250)",
+    "name": "إل جي فريزر 205لتر",
     "specs": {
       "cap": "205",
       "type": "أفقي"
@@ -163,7 +163,7 @@
   {
     "asin": "B09QSZ4YT5",
     "brand": "إل جي",
-    "name": "إل جي 303 لتر أفقي (ES341L)",
+    "name": "إل جي فريزر 303لتر",
     "specs": {
       "cap": "303",
       "type": "أفقي"
@@ -186,7 +186,7 @@
   {
     "asin": "B0D7SJVFCY",
     "brand": "بيكو",
-    "name": "بيكو 405 لتر أفقي",
+    "name": "بيكو فريزر 405لتر أفقي",
     "specs": {
       "cap": "405",
       "type": "أفقي"
@@ -209,7 +209,7 @@
   {
     "asin": "B091NZQXPS",
     "brand": "كريازي",
-    "name": "كريازي 217 لتر أفقي (E220)",
+    "name": "كريازي فريزر 217لتر أفقي",
     "specs": {
       "cap": "217",
       "type": "أفقي"
@@ -232,7 +232,7 @@
   {
     "asin": "B0H1SZ1YR1",
     "brand": "يونيون إير",
-    "name": "يونيون إير 205 لتر عمودي",
+    "name": "يونيون فريزر 205لتر عمودي",
     "specs": {
       "cap": "205",
       "type": "عمودي"
@@ -255,7 +255,7 @@
   {
     "asin": "B0FHQG5KGL",
     "brand": "بيكو",
-    "name": "بيكو 220 لتر عمودي (SILVER)",
+    "name": "بيكو فريزر 220لتر عمودي",
     "specs": {
       "cap": "220",
       "type": "عمودي"
@@ -278,7 +278,7 @@
   {
     "asin": "B0CBZKTF5R",
     "brand": "بيكو",
-    "name": "بيكو 168 لتر عمودي (RFNM200E20S)",
+    "name": "بيكو فريزر 168لتر عمودي",
     "specs": {
       "cap": "168",
       "type": "عمودي"
@@ -301,7 +301,7 @@
   {
     "asin": "B0FHQG1SYR",
     "brand": "بيكو",
-    "name": "بيكو 220 لتر عمودي (BLACK)",
+    "name": "بيكو فريزر 220لتر عمودي",
     "specs": {
       "cap": "220",
       "type": "عمودي"
@@ -324,7 +324,7 @@
   {
     "asin": "B0HRM7HM65",
     "brand": "يونيون إير",
-    "name": "يونيون إير 230 لتر عمودي",
+    "name": "يونيون فريزر 230لتر عمودي",
     "specs": {
       "cap": "230",
       "type": "عمودي"
@@ -347,7 +347,7 @@
   {
     "asin": "B0DST5YFRW",
     "brand": "بيكو",
-    "name": "بيكو 205 لتر أفقي (HS20510SEG)",
+    "name": "بيكو فريزر 205لتر أفقي",
     "specs": {
       "cap": "205",
       "type": "أفقي"
@@ -370,7 +370,7 @@
   {
     "asin": "B0HNWK4R2W",
     "brand": "إل جي",
-    "name": "إل جي 203 لتر أفقي (ES241)",
+    "name": "إل جي فريزر 203لتر",
     "specs": {
       "cap": "203",
       "type": "أفقي"
@@ -393,7 +393,7 @@
   {
     "asin": "B0CLVWV5Z3",
     "brand": "فريش",
-    "name": "فريش 250 لتر أفقي",
+    "name": "فريش فريزر 250لتر أفقي",
     "specs": {
       "cap": "250",
       "type": "أفقي"
@@ -416,7 +416,7 @@
   {
     "asin": "B0C7884Y4K",
     "brand": "كريازي",
-    "name": "كريازي 336 لتر أفقي",
+    "name": "كريازي فريزر 336لتر أفقي",
     "specs": {
       "cap": "336",
       "type": "أفقي"
@@ -439,7 +439,7 @@
   {
     "asin": "B0CLVVV6J2",
     "brand": "فريش",
-    "name": "فريش 403 لتر أفقي",
+    "name": "فريش فريزر 403لتر أفقي",
     "specs": {
       "cap": "403",
       "type": "أفقي"
@@ -462,7 +462,7 @@
   {
     "asin": "B0DJPNSTQR",
     "brand": "فريش",
-    "name": "فريش 130 لتر عمودي (L251S)",
+    "name": "فريزر 130لتر عمودي",
     "specs": {
       "cap": "130",
       "type": "عمودي"
@@ -485,7 +485,7 @@
   {
     "asin": "B0F3XQPQ3F",
     "brand": "بيكو",
-    "name": "بيكو 286 لتر عمودي",
+    "name": "بيكو فريزر 286لتر عمودي",
     "specs": {
       "cap": "286",
       "type": "عمودي"
@@ -508,7 +508,7 @@
   {
     "asin": "B0F74DZXBM",
     "brand": "بيكو",
-    "name": "بيكو 260 لتر عمودي",
+    "name": "بيكو فريزر 260لتر عمودي",
     "specs": {
       "cap": "260",
       "type": "عمودي"
@@ -531,7 +531,7 @@
   {
     "asin": "B0DYYHS4K6",
     "brand": "توشيبا",
-    "name": "توشيبا 238 لتر عمودي (RU312WE-DMN)",
+    "name": "توشيبا فريزر 238لتر عمودي",
     "specs": {
       "cap": "238",
       "type": "عمودي"
@@ -554,7 +554,7 @@
   {
     "asin": "B0DJPPR8ZJ",
     "brand": "فريش",
-    "name": "فريش 230 لتر عمودي (MT301IB)",
+    "name": "فريش فريزر 230لتر عمودي",
     "specs": {
       "cap": "230",
       "type": "عمودي"
@@ -577,7 +577,7 @@
   {
     "asin": "B0DJPNZ6F5",
     "brand": "فريش",
-    "name": "فريش 230 لتر عمودي (MT301IT)",
+    "name": "فريزر 230لتر عمودي",
     "specs": {
       "cap": "230",
       "type": "عمودي"
@@ -600,7 +600,7 @@
   {
     "asin": "B0DJPN1PRC",
     "brand": "فريش",
-    "name": "فريش 200 لتر عمودي (MT271B)",
+    "name": "فريش فريزر 200لتر عمودي",
     "specs": {
       "cap": "200",
       "type": "عمودي"
@@ -623,7 +623,7 @@
   {
     "asin": "B01LVXKFZ1",
     "brand": "فريش",
-    "name": "فريش أفقي",
+    "name": "فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -645,7 +645,7 @@
   {
     "asin": "B091NYQJXB",
     "brand": "كريازي",
-    "name": "كريازي أفقي (KH338)",
+    "name": "كريازي فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -667,7 +667,7 @@
   {
     "asin": "B09TW2FPF8",
     "brand": "فريش",
-    "name": "فريش 270 لتر",
+    "name": "فريش فريزر 270لتر",
     "specs": {
       "cap": "270"
     },
@@ -689,7 +689,7 @@
   {
     "asin": "B091NXQ4G3",
     "brand": "كريازي",
-    "name": "كريازي أفقي (KH225)",
+    "name": "كريازي فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -711,7 +711,7 @@
   {
     "asin": "B09ZRWLL38",
     "brand": "فريش",
-    "name": "فريش 107 لتر",
+    "name": "فريش فريزر 107لتر",
     "specs": {
       "cap": "107"
     },
@@ -733,7 +733,7 @@
   {
     "asin": "B0GV12XWLJ",
     "brand": "يونيون إير",
-    "name": "يونيون إير 185 لتر",
+    "name": "يونيون فريزر 185لتر",
     "specs": {
       "cap": "185"
     },
@@ -755,7 +755,7 @@
   {
     "asin": "B091NXP8HG",
     "brand": "كريازي",
-    "name": "كريازي أفقي (E336)",
+    "name": "كريازي فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -777,7 +777,7 @@
   {
     "asin": "B0C5TS22MY",
     "brand": "فريش",
-    "name": "فريش 255 لتر",
+    "name": "فريزر 255لتر",
     "specs": {
       "cap": "255"
     },
@@ -799,7 +799,7 @@
   {
     "asin": "B0DSWBTGNG",
     "brand": "فريش",
-    "name": "فريش عمودي (L250BC)",
+    "name": "فريش فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -821,7 +821,7 @@
   {
     "asin": "B0GLJWLZXC",
     "brand": "يونيون إير",
-    "name": "يونيون إير 250 لتر",
+    "name": "يونيون فريزر 250لتر",
     "specs": {
       "cap": "250"
     },
@@ -843,7 +843,7 @@
   {
     "asin": "B0CRZ6VTZW",
     "brand": "توشيبا",
-    "name": "توشيبا 238 لتر",
+    "name": "توشيبا فريزر 238لتر",
     "specs": {
       "cap": "238"
     },
@@ -865,7 +865,7 @@
   {
     "asin": "B0GZRSFVZM",
     "brand": "ميديا",
-    "name": "ميديا 392 لتر (MDRU528FEN46)",
+    "name": "ميديا فريزر 392لتر",
     "specs": {
       "cap": "392"
     },
@@ -887,7 +887,7 @@
   {
     "asin": "B0D5D2YDZT",
     "brand": "فريش",
-    "name": "فريش عمودي (LR250BC)",
+    "name": "فريش فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -909,7 +909,7 @@
   {
     "asin": "B0DVTKFFXC",
     "brand": "هيتاشي",
-    "name": "هيتاشي 420 لتر",
+    "name": "هيتاشي فريزر 420لتر",
     "specs": {
       "cap": "420"
     },
@@ -931,7 +931,7 @@
   {
     "asin": "B091NYR1YG",
     "brand": "كريازي",
-    "name": "كريازي 250 لتر (KH256)",
+    "name": "كريازي فريزر 250لتر",
     "specs": {
       "cap": "250"
     },
@@ -953,7 +953,7 @@
   {
     "asin": "B0DSWFTR73",
     "brand": "فريش",
-    "name": "فريش عمودي (MT270BC)",
+    "name": "فريش فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -975,7 +975,7 @@
   {
     "asin": "B091NZ3242",
     "brand": "كريازي",
-    "name": "كريازي 270 لتر (KH256)",
+    "name": "كريازي فريزر 270لتر",
     "specs": {
       "cap": "270"
     },
@@ -997,7 +997,7 @@
   {
     "asin": "B0DSWCGZ6S",
     "brand": "فريش",
-    "name": "فريش عمودي (MT270T)",
+    "name": "فريش فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -1019,7 +1019,7 @@
   {
     "asin": "B0DSWB3NDG",
     "brand": "فريش",
-    "name": "فريش عمودي (MT300BC)",
+    "name": "فريش فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -1041,7 +1041,7 @@
   {
     "asin": "B0B36MW521",
     "brand": "فريش",
-    "name": "FRESH FDF-190 Horizontal Deep Freezer",
+    "name": "فريش فريزر",
     "specs": {},
     "model": "",
     "title": "FRESH FDF-190 Horizontal Deep Freezer",
@@ -1061,7 +1061,7 @@
   {
     "asin": "B0GP1H6NFD",
     "brand": "ميديا",
-    "name": "Midea Deep Freezer MDRU385FEN46, Inverter, Conversion from Freezer to Fridge, Super Freeze Function, Mult",
+    "name": "ميديا فريزر",
     "specs": {},
     "model": "MDRU385FEN46",
     "title": "Midea Deep Freezer MDRU385FEN46, Inverter, Conversion from Freezer to Fridge, Super Freeze Function, Multi Air Flow System, No Frost, Digital Control, 8 Drawers, bru steel",
@@ -1081,7 +1081,7 @@
   {
     "asin": "B0D5CZSM5N",
     "brand": "فريش",
-    "name": "Fresh FNU-LR250S 5-Drawer Silver Freezer – Without Handle",
+    "name": "فريزر",
     "specs": {},
     "model": "LR250S",
     "title": "Fresh FNU-LR250S 5-Drawer Silver Freezer – Without Handle",
@@ -1101,7 +1101,7 @@
   {
     "asin": "B091NYZMQ1",
     "brand": "كريازي",
-    "name": "Kiriazi e230n5/3 digital freezer 5 drawers- 8 feet, silver",
+    "name": "كريازي فريزر",
     "specs": {},
     "model": "E230N5/3",
     "title": "Kiriazi e230n5/3 digital freezer 5 drawers- 8 feet, silver",
@@ -1121,7 +1121,7 @@
   {
     "asin": "B0DFX16TS4",
     "brand": "فريش",
-    "name": "Fresh Deep Freezer 6 Drawer Stainless Without Handle FNU-MRT270T",
+    "name": "فريش فريزر",
     "specs": {},
     "model": "MRT270T",
     "title": "Fresh Deep Freezer 6 Drawer Stainless Without Handle FNU-MRT270T",
@@ -1141,7 +1141,7 @@
   {
     "asin": "B0DTB5BBLY",
     "brand": "غير محدد",
-    "name": "Lavenero Chest Freezer 341 Liter Net Silver Inner Tub Stainless FDF340",
+    "name": "فريزر 341لتر أفقي",
     "specs": {
       "cap": "341",
       "type": "أفقي"
@@ -1164,7 +1164,7 @@
   {
     "asin": "B08WT25HVZ",
     "brand": "غير محدد",
-    "name": "Passap es241 chest freezer with front control panel, 200 liters - silver",
+    "name": "فريزر 200لتر أفقي",
     "specs": {
       "cap": "200",
       "type": "أفقي"
@@ -1187,7 +1187,7 @@
   {
     "asin": "B09QSTG7BV",
     "brand": "غير محدد",
-    "name": "Penguin Chest Freezer Stainless Interior Silver, 330 l, ES390-L",
+    "name": "فريزر 330لتر أفقي",
     "specs": {
       "cap": "330",
       "type": "أفقي"
@@ -1210,7 +1210,7 @@
   {
     "asin": "B0DK5QQBLM",
     "brand": "Passap",
-    "name": "Passap 160 لتر أفقي (ES171)",
+    "name": "Passap فريزر 160لتر أفقي",
     "specs": {
       "cap": "160",
       "type": "أفقي"
@@ -1233,7 +1233,7 @@
   {
     "asin": "B096L7DB5M",
     "brand": "غير محدد",
-    "name": "Hamburg cf-180-ss chest freezer, 180 liters - silver",
+    "name": "فريزر 180لتر أفقي",
     "specs": {
       "cap": "180",
       "type": "أفقي"
@@ -1256,7 +1256,7 @@
   {
     "asin": "B0DK5PFZR6",
     "brand": "Passap",
-    "name": "Passap 505 لتر أفقي (ES571)",
+    "name": "Passap فريزر 505لتر أفقي",
     "specs": {
       "cap": "505",
       "type": "أفقي"
@@ -1279,7 +1279,7 @@
   {
     "asin": "B0FBL4DJGY",
     "brand": "Passap",
-    "name": "Passap 250 لتر أفقي (ES335)",
+    "name": "Passap فريزر 250لتر أفقي",
     "specs": {
       "cap": "250",
       "type": "أفقي"
@@ -1302,7 +1302,7 @@
   {
     "asin": "B0FBL3PGHM",
     "brand": "Passap",
-    "name": "Passap 330 لتر أفقي (ES435)",
+    "name": "Passap فريزر 330لتر أفقي",
     "specs": {
       "cap": "330",
       "type": "أفقي"
@@ -1325,7 +1325,7 @@
   {
     "asin": "B0FN87LG6V",
     "brand": "WAlaska",
-    "name": "WAlaska 377 لتر أفقي (BLACK)",
+    "name": "Chest فريزر 377لتر أفقي",
     "specs": {
       "cap": "377",
       "type": "أفقي"
@@ -1348,7 +1348,7 @@
   {
     "asin": "B0HKW4M7VR",
     "brand": "OTCHA",
-    "name": "OTCHA 170 لتر أفقي",
+    "name": "OCHA فريزر 170لتر أفقي",
     "specs": {
       "cap": "170",
       "type": "أفقي"
@@ -1371,7 +1371,7 @@
   {
     "asin": "B0HL5HTC1L",
     "brand": "OTCHA",
-    "name": "OTCHA 440 لتر أفقي",
+    "name": "OCHA فريزر 440لتر أفقي",
     "specs": {
       "cap": "440",
       "type": "أفقي"
@@ -1394,7 +1394,7 @@
   {
     "asin": "B096MRX466",
     "brand": "غير محدد",
-    "name": "Hamburg CF-485-SS Chest Freezer, 485 Liters - Silver",
+    "name": "فريزر 485لتر أفقي",
     "specs": {
       "cap": "485",
       "type": "أفقي"
@@ -1417,7 +1417,7 @@
   {
     "asin": "B08WJMZPFH",
     "brand": "WAlaska",
-    "name": "WAlaska 208 لتر أفقي (CH200)",
+    "name": "WAlaska فريزر 208لتر أفقي",
     "specs": {
       "cap": "208",
       "type": "أفقي"
@@ -1440,7 +1440,7 @@
   {
     "asin": "B08WT11327",
     "brand": "غير محدد",
-    "name": "Passap ES341L Stainless Steel Chest Freezer with Front Control Panel, 300 L - Silver",
+    "name": "فريزر 341لتر أفقي",
     "specs": {
       "cap": "341",
       "type": "أفقي"
@@ -1463,7 +1463,7 @@
   {
     "asin": "B0979NSWPG",
     "brand": "غير محدد",
-    "name": "Alaska UP190 Upright Freezer 4 Drawer 190 Liter, Silver",
+    "name": "فريزر 190لتر عمودي",
     "specs": {
       "cap": "190",
       "type": "عمودي"
@@ -1486,7 +1486,7 @@
   {
     "asin": "B0HNWPBG6P",
     "brand": "غير محدد",
-    "name": "Passap Turkish Upright No-Frost Freezer 280L - 7 Drawers - Silver VFV380",
+    "name": "فريزر 280لتر عمودي",
     "specs": {
       "cap": "280",
       "type": "عمودي"
@@ -1509,7 +1509,7 @@
   {
     "asin": "B09HHGKLCL",
     "brand": "Ocean",
-    "name": "Ocean 113 لتر عمودي",
+    "name": "Ocean فريزر 113لتر عمودي",
     "specs": {
       "cap": "113",
       "type": "عمودي"
@@ -1532,7 +1532,7 @@
   {
     "asin": "B0FM8VQ2JG",
     "brand": "غير محدد",
-    "name": "Hamburg Upright Freezer, Defrost, 5 Drawers, 220 Liters, Silver - H.VF2025S",
+    "name": "فريزر 220لتر عمودي",
     "specs": {
       "cap": "220",
       "type": "عمودي"
@@ -1555,7 +1555,7 @@
   {
     "asin": "B0DTGSLYMS",
     "brand": "Ocean",
-    "name": "Ocean 113 لتر عمودي (CVK100)",
+    "name": "Ocean فريزر 113لتر عمودي",
     "specs": {
       "cap": "113",
       "type": "عمودي"
@@ -1578,7 +1578,7 @@
   {
     "asin": "B0FM9B29XW",
     "brand": "غير محدد",
-    "name": "Hamburg Upright Freezer, Defrost, 6 Drawers, 260 Liters, Silver - H.VF2029S",
+    "name": "فريزر 260لتر عمودي",
     "specs": {
       "cap": "260",
       "type": "عمودي"
@@ -1601,7 +1601,7 @@
   {
     "asin": "B0D46ZKYZJ",
     "brand": "غير محدد",
-    "name": "White Whale WF-3070 HB 7 Drawer No Frost Upright Freezer with Digital Display, 306 Liter Capacity, Black",
+    "name": "فريزر 306لتر عمودي",
     "specs": {
       "cap": "306",
       "type": "عمودي"
@@ -1624,7 +1624,7 @@
   {
     "asin": "B0D928GT2M",
     "brand": "Passap",
-    "name": "Passap 235 لتر عمودي (NVF240)",
+    "name": "Passap فريزر 235لتر عمودي",
     "specs": {
       "cap": "235",
       "type": "عمودي"
@@ -1647,7 +1647,7 @@
   {
     "asin": "B0DXGPS7YB",
     "brand": "غير محدد",
-    "name": "ديب فريزر افقى 250 من يونيون اير لونTQD – UC250لو نفضي السعه الصافية 185لتر",
+    "name": "ديب فريزر 185لتر",
     "specs": {
       "cap": "185"
     },
@@ -1669,7 +1669,7 @@
   {
     "asin": "B0BJQCVT6F",
     "brand": "غير محدد",
-    "name": "Deep Freezer Horizontal 140 Liter - Alaska - CH140 (Silver)",
+    "name": "فريزر 140لتر",
     "specs": {
       "cap": "140"
     },
@@ -1691,7 +1691,7 @@
   {
     "asin": "B0BPCNTLJB",
     "brand": "غير محدد",
-    "name": "Deep Freezer Horizontal 400 Liter - Alaska - CH400 (Silver)",
+    "name": "فريزر 400لتر",
     "specs": {
       "cap": "400"
     },
@@ -1713,7 +1713,7 @@
   {
     "asin": "B0BJQ68K31",
     "brand": "غير محدد",
-    "name": "Deep Freezer Horizontal 200L - Alaska - CH200 (Silver)",
+    "name": "فريزر 200لتر",
     "specs": {
       "cap": "200"
     },
@@ -1735,7 +1735,7 @@
   {
     "asin": "B0DQB1YC8R",
     "brand": "Ocean",
-    "name": "Ocean 113 لتر (CVK100TIA)",
+    "name": "Ocean فريزر 113لتر",
     "specs": {
       "cap": "113"
     },
@@ -1757,7 +1757,7 @@
   {
     "asin": "B09TZ1KKRP",
     "brand": "غير محدد",
-    "name": "Deep Freezer Upright 5 Drawer De Frost - Alaska - UP270 - Silver",
+    "name": "فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -1779,7 +1779,7 @@
   {
     "asin": "B0BJQG8S4H",
     "brand": "Heinrichs",
-    "name": "Heinrichs 85 لتر",
+    "name": "3-Drawer فريزر 85لتر",
     "specs": {
       "cap": "85"
     },
@@ -1801,7 +1801,7 @@
   {
     "asin": "B09SHXZBZ2",
     "brand": "غير محدد",
-    "name": "Deep Freezer Upright 5 Drawer No Frost - Alaska - UP180NF - Silver",
+    "name": "فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -1823,7 +1823,7 @@
   {
     "asin": "B0H7SSRFZZ",
     "brand": "غير محدد",
-    "name": "Hamburg Vertical Freezer 5 Drawers 220L Silver VF2025 | Single Door, Large Capacity, Silver Finish, 5 Sto",
+    "name": "فريزر 220لتر",
     "specs": {
       "cap": "220"
     },
@@ -1845,7 +1845,7 @@
   {
     "asin": "B096L6696X",
     "brand": "غير محدد",
-    "name": "Hamburg VF-2029 UP-Right 6 Drawer Freezer, 245 Liters - Silver",
+    "name": "فريزر 245لتر",
     "specs": {
       "cap": "245"
     },
@@ -1867,7 +1867,7 @@
   {
     "asin": "B0B34M6C43",
     "brand": "غير محدد",
-    "name": "Deep Freezer Horizontal 270 Liter - Alaska - CH270, Silver",
+    "name": "فريزر 270لتر",
     "specs": {
       "cap": "270"
     },
@@ -1889,7 +1889,7 @@
   {
     "asin": "B0GYTFF9BR",
     "brand": "غير محدد",
-    "name": "TRUST Deep Freezer, 350 Liters, Silver, Inside Stainless Steel, Fast Freeze, 5 Years Warranty",
+    "name": "فريزر 350لتر",
     "specs": {
       "cap": "350"
     },
@@ -1911,7 +1911,7 @@
   {
     "asin": "B0CQRTF14N",
     "brand": "major appliances",
-    "name": "major appliances Deep Freezer 7 Drawer Black 1 Shelf FNU-MT301B",
+    "name": "major فريزر",
     "specs": {},
     "model": "MT301B",
     "title": "major appliances Deep Freezer 7 Drawer Black 1 Shelf FNU-MT301B",
@@ -1931,7 +1931,7 @@
   {
     "asin": "B0D6CFF2J8",
     "brand": "فريش",
-    "name": "فريش 334 لتر أفقي",
+    "name": "فريش فريزر 334لتر أفقي",
     "specs": {
       "cap": "334",
       "type": "أفقي"
@@ -1954,7 +1954,7 @@
   {
     "asin": "B0F7RH3M2G",
     "brand": "إل جي",
-    "name": "إل جي 317 لتر أفقي (ES350)",
+    "name": "إل جي فريزر 317لتر",
     "specs": {
       "cap": "317",
       "type": "أفقي"
@@ -1977,7 +1977,7 @@
   {
     "asin": "B0DWLT52S7",
     "brand": "إل جي",
-    "name": "إل جي 303 لتر أفقي (ES350)",
+    "name": "إل جي فريزر 303لتر",
     "specs": {
       "cap": "303",
       "type": "أفقي"
@@ -2000,7 +2000,7 @@
   {
     "asin": "B0F5WXS1P2",
     "brand": "زانوسي",
-    "name": "زانوسي 210 لتر أفقي (ZCB2100A-W)",
+    "name": "زانوسي فريزر 210لتر أفقي",
     "specs": {
       "cap": "210",
       "type": "أفقي"
@@ -2023,7 +2023,7 @@
   {
     "asin": "B0F5WVRMDP",
     "brand": "زانوسي",
-    "name": "زانوسي 300 لتر أفقي (ZCB3000A-W)",
+    "name": "زانوسي فريزر 300لتر أفقي",
     "specs": {
       "cap": "300",
       "type": "أفقي"
@@ -2046,7 +2046,7 @@
   {
     "asin": "B09R1YTLR5",
     "brand": "إل جي",
-    "name": "إل جي 250 لتر أفقي (ES290-L)",
+    "name": "إل جي فريزر 250لتر",
     "specs": {
       "cap": "250",
       "type": "أفقي"
@@ -2069,7 +2069,7 @@
   {
     "asin": "B0F5WW2DX5",
     "brand": "زانوسي",
-    "name": "زانوسي 260 لتر أفقي (ZCB2600A-W)",
+    "name": "زانوسي فريزر 260لتر أفقي",
     "specs": {
       "cap": "260",
       "type": "أفقي"
@@ -2092,7 +2092,7 @@
   {
     "asin": "B0DJPNPFWY",
     "brand": "فريش",
-    "name": "فريش 130 لتر عمودي (LR251BC)",
+    "name": "فريش فريزر 130لتر عمودي",
     "specs": {
       "cap": "130",
       "type": "عمودي"
@@ -2115,7 +2115,7 @@
   {
     "asin": "B0CBZJVBKT",
     "brand": "بيكو",
-    "name": "بيكو 168 لتر عمودي (RFNM200E20B)",
+    "name": "بيكو فريزر 168لتر عمودي",
     "specs": {
       "cap": "168",
       "type": "عمودي"
@@ -2138,7 +2138,7 @@
   {
     "asin": "B0GD1N7183",
     "brand": "بيكو",
-    "name": "بيكو 404 لتر عمودي (RFNE448E35XB)",
+    "name": "بيكو فريزر 404لتر عمودي",
     "specs": {
       "cap": "404",
       "type": "عمودي"
@@ -2161,7 +2161,7 @@
   {
     "asin": "B0DJPN979Z",
     "brand": "فريش",
-    "name": "فريش 200 لتر عمودي (MT271T)",
+    "name": "فريزر 200لتر عمودي",
     "specs": {
       "cap": "200",
       "type": "عمودي"
@@ -2184,7 +2184,7 @@
   {
     "asin": "B08X5YW8NC",
     "brand": "فريش",
-    "name": "فريش 230 لتر عمودي (MT300T)",
+    "name": "فريزر 230لتر عمودي",
     "specs": {
       "cap": "230",
       "type": "عمودي"
@@ -2207,7 +2207,7 @@
   {
     "asin": "B0G1TJRRPH",
     "brand": "ويرلبول",
-    "name": "ويرلبول 584 لتر عمودي",
+    "name": "ويرلبول فريزر 584لتر عمودي",
     "specs": {
       "cap": "584",
       "type": "عمودي"
@@ -2230,7 +2230,7 @@
   {
     "asin": "B08Z4BG4VG",
     "brand": "فريش",
-    "name": "فريش 200 لتر عمودي (MT270B)",
+    "name": "فريش فريزر 200لتر عمودي",
     "specs": {
       "cap": "200",
       "type": "عمودي"
@@ -2253,7 +2253,7 @@
   {
     "asin": "B0DSWBWJQ9",
     "brand": "فريش",
-    "name": "فريش عمودي (LR251S)",
+    "name": "فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -2275,7 +2275,7 @@
   {
     "asin": "B0DSWB1HZM",
     "brand": "فريش",
-    "name": "فريش عمودي (MT300T)",
+    "name": "فريش فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -2297,7 +2297,7 @@
   {
     "asin": "B07PKHZGGL",
     "brand": "أريستون",
-    "name": "أريستون 290 لتر",
+    "name": "أريستون فريزر 290لتر",
     "specs": {
       "cap": "290"
     },
@@ -2319,7 +2319,7 @@
   {
     "asin": "B08WJMDXMF",
     "brand": "فريش",
-    "name": "فريش 200 لتر",
+    "name": "فريش فريزر 200لتر",
     "specs": {
       "cap": "200"
     },
@@ -2341,7 +2341,7 @@
   {
     "asin": "B08Z37MGWX",
     "brand": "نيكاي",
-    "name": "نيكاي عمودي (NUF400FSS)",
+    "name": "نيكاي فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -2363,7 +2363,7 @@
   {
     "asin": "B099MHF2V4",
     "brand": "يونيون إير",
-    "name": "Unionaire Stainless Steel Deep Freezer with 5 Drawers UF (205VSN-C10,27247408_13642)",
+    "name": "يونيون فريزر",
     "specs": {},
     "model": "C10",
     "title": "Unionaire Stainless Steel Deep Freezer with 5 Drawers UF (205VSN-C10,27247408_13642)",
@@ -2383,7 +2383,7 @@
   {
     "asin": "B093G4HV4D",
     "brand": "كريازي",
-    "name": "Kiriazi E250N 6/3 Digital Freezer 6 Drawers-12 Feet, silver",
+    "name": "كريازي فريزر",
     "specs": {},
     "model": "E250N",
     "title": "Kiriazi E250N 6/3 Digital Freezer 6 Drawers-12 Feet, silver",
@@ -2403,7 +2403,7 @@
   {
     "asin": "B09W43XLL7",
     "brand": "توشيبا",
-    "name": "TOSHIBA - Deep Freezer - 7 Drawer- No Frost - Digital- Satin Grey - GR-RU312WE",
+    "name": "توشيبا فريزر",
     "specs": {},
     "model": "RU312WE",
     "title": "TOSHIBA - Deep Freezer - 7 Drawer- No Frost - Digital- Satin Grey - GR-RU312WE",
@@ -2423,7 +2423,7 @@
   {
     "asin": "B08WT1SKPX",
     "brand": "وايت بوينت",
-    "name": "White Point Deep Freezer WPVF 371 B - Black",
+    "name": "وايت فريزر",
     "specs": {},
     "model": "",
     "title": "White Point Deep Freezer WPVF 371 B - Black",
@@ -2443,7 +2443,7 @@
   {
     "asin": "B0C4BGPXRL",
     "brand": "فريش",
-    "name": "Fresh Freezer 6D Glass Inverter/FNU-MT270IGBH",
+    "name": "فريش فريزر",
     "specs": {},
     "model": "MT270IGBH",
     "title": "Fresh Freezer 6D Glass Inverter/FNU-MT270IGBH",
@@ -2463,7 +2463,7 @@
   {
     "asin": "B08X6N56C4",
     "brand": "بيكو",
-    "name": "Beko deep freezer 7 drawers Black",
+    "name": "بيكو فريزر",
     "specs": {},
     "model": "",
     "title": "Beko deep freezer 7 drawers Black",
@@ -2483,7 +2483,7 @@
   {
     "asin": "B0H599CRZL",
     "brand": "بوش",
-    "name": "Free-standing Freezer, 172 x 59.5 cm",
+    "name": "Free-standing فريزر",
     "specs": {},
     "model": "",
     "title": "Free-standing Freezer, 172 x 59.5 cm",
@@ -2503,7 +2503,7 @@
   {
     "asin": "B08Z7HQYKT",
     "brand": "بيكو",
-    "name": "Beko No Frost Deep Freezer, 8 Drawers, Black - RFNE312K13B",
+    "name": "بيكو فريزر",
     "specs": {},
     "model": "RFNE312K13B",
     "title": "Beko No Frost Deep Freezer, 8 Drawers, Black - RFNE312K13B",
@@ -2523,7 +2523,7 @@
   {
     "asin": "B08WSZG5SJ",
     "brand": "غير محدد",
-    "name": "Passap ES241L Chest Freezer with Front Control Panel, 200 Liters - Silver",
+    "name": "فريزر 241لتر أفقي",
     "specs": {
       "cap": "241",
       "type": "أفقي"
@@ -2546,7 +2546,7 @@
   {
     "asin": "B091NX2FVZ",
     "brand": "غير محدد",
-    "name": "Passap es341l stainless steel chest freezer with front control panel, 283 l - silver",
+    "name": "فريزر 341لتر أفقي",
     "specs": {
       "cap": "341",
       "type": "أفقي"
@@ -2569,7 +2569,7 @@
   {
     "asin": "B08WJL2HYY",
     "brand": "WAlaska",
-    "name": "WAlaska 547 لتر أفقي (CH650)",
+    "name": "WAlaska فريزر 547لتر أفقي",
     "specs": {
       "cap": "547",
       "type": "أفقي"
@@ -2592,7 +2592,7 @@
   {
     "asin": "B08WJMZDNZ",
     "brand": "WAlaska",
-    "name": "WAlaska 265 لتر أفقي",
+    "name": "WAlaska فريزر 265لتر أفقي",
     "specs": {
       "cap": "265",
       "type": "أفقي"
@@ -2615,7 +2615,7 @@
   {
     "asin": "B08WJLB9WK",
     "brand": "WAlaska",
-    "name": "WAlaska 135 لتر أفقي (CH140)",
+    "name": "WAlaska فريزر 135لتر أفقي",
     "specs": {
       "cap": "135",
       "type": "أفقي"
@@ -2638,7 +2638,7 @@
   {
     "asin": "B0F48ZHD5L",
     "brand": "WAlaska",
-    "name": "WAlaska 270 لتر أفقي (BLACK)",
+    "name": "Alaska فريزر 270لتر أفقي",
     "specs": {
       "cap": "270",
       "type": "أفقي"
@@ -2661,7 +2661,7 @@
   {
     "asin": "B0HD7QPPYR",
     "brand": "غير محدد",
-    "name": "Fresh Matrix Chest Deep Freezer, 255 Liters, Defrost, Freestanding, Silver, 500018325",
+    "name": "فريزر 255لتر أفقي",
     "specs": {
       "cap": "255",
       "type": "أفقي"
@@ -2684,7 +2684,7 @@
   {
     "asin": "B08WJJ6XH6",
     "brand": "WAlaska",
-    "name": "WAlaska 335 لتر أفقي",
+    "name": "WAlaska فريزر 335لتر أفقي",
     "specs": {
       "cap": "335",
       "type": "أفقي"
@@ -2707,7 +2707,7 @@
   {
     "asin": "B0FD8W41RK",
     "brand": "غير محدد",
-    "name": "Electrostar Chest Freezer Silver Stainless Steel 220 L LC220SLSTD",
+    "name": "فريزر 220لتر أفقي",
     "specs": {
       "cap": "220",
       "type": "أفقي"
@@ -2730,7 +2730,7 @@
   {
     "asin": "B0CTKYT2VT",
     "brand": "غير محدد",
-    "name": "Rich Home RH-CFD 170SS Free-Standing Chest Deep Freezer 170 Liter - Silver",
+    "name": "فريزر 170لتر أفقي",
     "specs": {
       "cap": "170",
       "type": "أفقي"
@@ -2753,7 +2753,7 @@
   {
     "asin": "B096MR5RSS",
     "brand": "غير محدد",
-    "name": "Hamburg CF-270-SS Chest Freezer, 270 Liters - Silver",
+    "name": "فريزر 270لتر أفقي",
     "specs": {
       "cap": "270",
       "type": "أفقي"
@@ -2776,7 +2776,7 @@
   {
     "asin": "B096MS5TC8",
     "brand": "غير محدد",
-    "name": "Hamburg CF-350-SS Chest Freezer, 350 Liters - Silver",
+    "name": "فريزر 350لتر أفقي",
     "specs": {
       "cap": "350",
       "type": "أفقي"
@@ -2799,7 +2799,7 @@
   {
     "asin": "B09QSS8V5T",
     "brand": "غير محدد",
-    "name": "Penguin Chest Freezer Metal interior 404 l ES461-L Silver",
+    "name": "فريزر 404لتر أفقي",
     "specs": {
       "cap": "404",
       "type": "أفقي"
@@ -2822,7 +2822,7 @@
   {
     "asin": "B09695YQFM",
     "brand": "غير محدد",
-    "name": "Passap ES571 Chest Freezer, 505L - Silver",
+    "name": "فريزر 505لتر أفقي",
     "specs": {
       "cap": "505",
       "type": "أفقي"
@@ -2845,7 +2845,7 @@
   {
     "asin": "B092325BZW",
     "brand": "Penguin",
-    "name": "Penguin 170 لتر أفقي (ES170L)",
+    "name": "Penguin فريزر 170لتر أفقي",
     "specs": {
       "cap": "170",
       "type": "أفقي"
@@ -2868,7 +2868,7 @@
   {
     "asin": "B0HL548HHQ",
     "brand": "OTCHA",
-    "name": "OTCHA 350 لتر أفقي",
+    "name": "OCHA فريزر 350لتر أفقي",
     "specs": {
       "cap": "350",
       "type": "أفقي"
@@ -2891,7 +2891,7 @@
   {
     "asin": "B091J7FQ7G",
     "brand": "Penguin Cold Caps",
-    "name": "Penguin Cold Caps 404 لتر أفقي (ES461-L)",
+    "name": "Penguin فريزر 404لتر أفقي",
     "specs": {
       "cap": "404",
       "type": "أفقي"
@@ -2916,7 +2916,7 @@
   {
     "asin": "B0HKWBLYN6",
     "brand": "OTCHA",
-    "name": "OTCHA 270 لتر أفقي",
+    "name": "OCHA فريزر 270لتر أفقي",
     "specs": {
       "cap": "270",
       "type": "أفقي"
@@ -2939,7 +2939,7 @@
   {
     "asin": "B09QSRGBBJ",
     "brand": "غير محدد",
-    "name": "Penguin Chest Freezer Metal interior 505 l ES571-L Silver",
+    "name": "فريزر 505لتر أفقي",
     "specs": {
       "cap": "505",
       "type": "أفقي"
@@ -2962,7 +2962,7 @@
   {
     "asin": "B0HNWJZ5DW",
     "brand": "Passap",
-    "name": "Passap 280 لتر عمودي (VFV380)",
+    "name": "Passap فريزر 280لتر عمودي",
     "specs": {
       "cap": "280",
       "type": "عمودي"
@@ -2985,7 +2985,7 @@
   {
     "asin": "B0FWBKSC6F",
     "brand": "غير محدد",
-    "name": "Ocean Upright Freezer, 195 Liters, 6 Drawers, No Frost, Digital Control, A+ Energy Saver, Country of Orig",
+    "name": "فريزر 195لتر عمودي",
     "specs": {
       "cap": "195",
       "type": "عمودي"
@@ -3008,7 +3008,7 @@
   {
     "asin": "B0CKXCK1V2",
     "brand": "غير محدد",
-    "name": "Ocean Upright Deep Freezer, No Frost, 6 Drawers, 195 Liters, Silver - CVK 316 NF S A+",
+    "name": "فريزر 195لتر عمودي",
     "specs": {
       "cap": "195",
       "type": "عمودي"
@@ -3031,7 +3031,7 @@
   {
     "asin": "B0D92CCHVF",
     "brand": "Passap",
-    "name": "Passap 280 لتر عمودي (NVF280)",
+    "name": "Passap فريزر 280لتر عمودي",
     "specs": {
       "cap": "280",
       "type": "عمودي"
@@ -3054,7 +3054,7 @@
   {
     "asin": "B09HHGFBM1",
     "brand": "غير محدد",
-    "name": "Ocean Upright Electric Drawer Freezers 307 Liter 307 L 200 W CVK397NFXA+ Silver",
+    "name": "فريزر 307لتر عمودي",
     "specs": {
       "cap": "307",
       "type": "عمودي"
@@ -3077,7 +3077,7 @@
   {
     "asin": "B0FWBNWNG4",
     "brand": "Ocean",
-    "name": "Ocean 195 لتر عمودي (CVK316NFBA)",
+    "name": "Ocean فريزر 195لتر عمودي",
     "specs": {
       "cap": "195",
       "type": "عمودي"
@@ -3100,7 +3100,7 @@
   {
     "asin": "B0HD7KJ6RG",
     "brand": "غير محدد",
-    "name": "Fresh Upright Deep Freezer, 130 Liters, 5 Drawers, No Frost, LED Light, Silver,500017158-FNU-LR250S",
+    "name": "فريزر 130لتر عمودي",
     "specs": {
       "cap": "130",
       "type": "عمودي"
@@ -3123,7 +3123,7 @@
   {
     "asin": "B0D341Q3NF",
     "brand": "غير محدد",
-    "name": "Yun Yun 250 Horizontal Deep Freezer Digital Silver UC-250-DS 185L Net",
+    "name": "فريزر 185لتر",
     "specs": {
       "cap": "185"
     },
@@ -3145,7 +3145,7 @@
   {
     "asin": "B0D3M2KRQT",
     "brand": "Heinrichs",
-    "name": "Heinrichs 33 لتر (BLACK)",
+    "name": "Heinrichs فريزر 33لتر",
     "specs": {
       "cap": "33"
     },
@@ -3167,7 +3167,7 @@
   {
     "asin": "B0F3KV4DYC",
     "brand": "غير محدد",
-    "name": "Yun Yun Deep Freezer Horizontal 250 Net 185L Touch Screen Silver",
+    "name": "فريزر 185لتر",
     "specs": {
       "cap": "185"
     },
@@ -3189,7 +3189,7 @@
   {
     "asin": "B0F48GYPSS",
     "brand": "غير محدد",
-    "name": "Deep Freezer Horizontal 310 Liter - Alaska - CH300 (Silver)",
+    "name": "فريزر 310لتر",
     "specs": {
       "cap": "310"
     },
@@ -3211,7 +3211,7 @@
   {
     "asin": "B0DXG5Z7LW",
     "brand": "غير محدد",
-    "name": "ديب فريزر افقى 250 من يونيون اير فضي تحكم ديجتال 185لتر صافي UC250BDS",
+    "name": "ديب فريزر 185لتر",
     "specs": {
       "cap": "185"
     },
@@ -3233,7 +3233,7 @@
   {
     "asin": "B08WJS9H6M",
     "brand": "غير محدد",
-    "name": "Electrostar LD260DMJD0 Defrost Majesta Deep Freezer, 6 Drawers, 260 L - Silver",
+    "name": "فريزر 260لتر",
     "specs": {
       "cap": "260"
     },
@@ -3255,7 +3255,7 @@
   {
     "asin": "B0B21FYJGX",
     "brand": "غير محدد",
-    "name": "Heinrich’s Freezer, No-Frost Protection, 5 Drawers + 1 Compartment, LED Display, MultiAirflow, Changeable",
+    "name": "فريزر 194لتر",
     "specs": {
       "cap": "194"
     },
@@ -3277,7 +3277,7 @@
   {
     "asin": "B08WJL6LX9",
     "brand": "غير محدد",
-    "name": "Electrostar LD215DMJD0 Defrost Majesta Deep Freezer, 5 Drawers, 215 L - Silver",
+    "name": "فريزر 215لتر",
     "specs": {
       "cap": "215"
     },
@@ -3299,7 +3299,7 @@
   {
     "asin": "B0HRZVJ4LT",
     "brand": "Electrostar",
-    "name": "Electrostar عمودي",
+    "name": "Electrostar فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -3321,7 +3321,7 @@
   {
     "asin": "B09WYVT23L",
     "brand": "WAlaska",
-    "name": "WAlaska عمودي (UP180NF)",
+    "name": "Deep فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -3343,7 +3343,7 @@
   {
     "asin": "B097F6M33J",
     "brand": "غير محدد",
-    "name": "Walaska Up 180 Nf Deep Freezer No Frost 5 Drawer Silver - 135 Liter",
+    "name": "فريزر 135لتر",
     "specs": {
       "cap": "135"
     },
@@ -3365,7 +3365,7 @@
   {
     "asin": "B0DV4VGF5M",
     "brand": "Ocean",
-    "name": "Ocean عمودي (CVK316NFBA)",
+    "name": "Ocean فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -3387,7 +3387,7 @@
   {
     "asin": "B0GYTHPNJW",
     "brand": "غير محدد",
-    "name": "Trust Deep Freezer with Glass Door, 500 Liter Capacity, White and Blue",
+    "name": "Trust فريزر 500لتر",
     "specs": {
       "cap": "500"
     },
@@ -3409,7 +3409,7 @@
   {
     "asin": "B0DNXRTM4M",
     "brand": "غير محدد",
-    "name": "Durable Aluminum Base for Deep Freezer - 62 x 64 cm, Silver",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "Durable Aluminum Base for Deep Freezer - 62 x 64 cm, Silver",
@@ -3429,7 +3429,7 @@
   {
     "asin": "B091NY6KKH",
     "brand": "فريش",
-    "name": "فريش أفقي",
+    "name": "فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -3451,7 +3451,7 @@
   {
     "asin": "B0C5TV1SK2",
     "brand": "فريش",
-    "name": "فريش أفقي",
+    "name": "فريش فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -3473,7 +3473,7 @@
   {
     "asin": "B0D6C8RJCF",
     "brand": "فريش",
-    "name": "فريش 200 لتر أفقي",
+    "name": "فريش فريزر 200لتر أفقي",
     "specs": {
       "cap": "200",
       "type": "أفقي"
@@ -3496,7 +3496,7 @@
   {
     "asin": "B0GLJWN8SV",
     "brand": "يونيون إير",
-    "name": "يونيون إير 282 لتر أفقي",
+    "name": "يونيون فريزر 282لتر أفقي",
     "specs": {
       "cap": "282",
       "type": "أفقي"
@@ -3519,7 +3519,7 @@
   {
     "asin": "B0CLVVV864",
     "brand": "فريش",
-    "name": "فريش 200 لتر أفقي",
+    "name": "فريش فريزر 200لتر أفقي",
     "specs": {
       "cap": "200",
       "type": "أفقي"
@@ -3542,7 +3542,7 @@
   {
     "asin": "B01LW40C83",
     "brand": "فريش",
-    "name": "فريش 200 لتر أفقي",
+    "name": "فريزر 200لتر أفقي",
     "specs": {
       "cap": "200",
       "type": "أفقي"
@@ -3565,7 +3565,7 @@
   {
     "asin": "B0BVRWF4BM",
     "brand": "فريش",
-    "name": "فريش 255 لتر",
+    "name": "فريش فريزر 255لتر",
     "specs": {
       "cap": "255"
     },
@@ -3587,7 +3587,7 @@
   {
     "asin": "B09QSQFZYF",
     "brand": "غير محدد",
-    "name": "Penguin Chest freezer stainless interior 160 l es171 silver",
+    "name": "فريزر 160لتر أفقي",
     "specs": {
       "cap": "160",
       "type": "أفقي"
@@ -3610,7 +3610,7 @@
   {
     "asin": "B0DWLR8Q51",
     "brand": "إل جي",
-    "name": "إل جي 303 لتر أفقي (ES350)",
+    "name": "إل جي فريزر 303لتر",
     "specs": {
       "cap": "303",
       "type": "أفقي"
@@ -3633,7 +3633,7 @@
   {
     "asin": "B0F9VMHM2P",
     "brand": "إل جي",
-    "name": "إل جي 205 لتر أفقي (ES250)",
+    "name": "إل جي فريزر 205لتر",
     "specs": {
       "cap": "205",
       "type": "أفقي"
@@ -3656,7 +3656,7 @@
   {
     "asin": "B0CJC625XB",
     "brand": "Heinrichs",
-    "name": "Heinrichs 85 لتر",
+    "name": "Heinrichs فريزر 85لتر",
     "specs": {
       "cap": "85"
     },
@@ -3678,7 +3678,7 @@
   {
     "asin": "B0FBL46WC9",
     "brand": "Passap",
-    "name": "Passap 250 لتر أفقي (ES335)",
+    "name": "Passap فريزر 250لتر أفقي",
     "specs": {
       "cap": "250",
       "type": "أفقي"
@@ -3701,7 +3701,7 @@
   {
     "asin": "B0CLW4MS7V",
     "brand": "فريش",
-    "name": "فريش أفقي",
+    "name": "فريش فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -3723,7 +3723,7 @@
   {
     "asin": "B09QSSC4PQ",
     "brand": "غير محدد",
-    "name": "Penguin Chest Freezer Stainless interior 250 l ES290-L Silver",
+    "name": "فريزر 250لتر أفقي",
     "specs": {
       "cap": "250",
       "type": "أفقي"
@@ -3746,7 +3746,7 @@
   {
     "asin": "B0FD8Y2K9S",
     "brand": "غير محدد",
-    "name": "Electrostar Chest Freezer Silver Stainless Steel 150 LC150SLST0",
+    "name": "فريزر أفقي",
     "specs": {
       "type": "أفقي"
     },
@@ -3768,7 +3768,7 @@
   {
     "asin": "B0FD8VP513",
     "brand": "غير محدد",
-    "name": "Electrostar Chest Freezer Silver Stainless Steel 300 L LC300SLSTD",
+    "name": "فريزر 300لتر أفقي",
     "specs": {
       "cap": "300",
       "type": "أفقي"
@@ -3791,7 +3791,7 @@
   {
     "asin": "B0HDJCG1NV",
     "brand": "فريش",
-    "name": "فريش 200 لتر أفقي",
+    "name": "فريش فريزر 200لتر أفقي",
     "specs": {
       "cap": "200",
       "type": "أفقي"
@@ -3814,7 +3814,7 @@
   {
     "asin": "B09TVZMR1J",
     "brand": "فريش",
-    "name": "Fresh Deep Freezer 330 Stool Trolley",
+    "name": "فريش فريزر",
     "specs": {},
     "model": "",
     "title": "Fresh Deep Freezer 330 Stool Trolley",
@@ -3834,7 +3834,7 @@
   {
     "asin": "B0FD8XDZV9",
     "brand": "غير محدد",
-    "name": "Electrostar Chest Freezer Silver Stainless Steel 400 L LC400SLSTD",
+    "name": "فريزر 400لتر أفقي",
     "specs": {
       "cap": "400",
       "type": "أفقي"
@@ -3857,7 +3857,7 @@
   {
     "asin": "B09SJ1P3P3",
     "brand": "غير محدد",
-    "name": "White Whale WCF-345 XB Horizontal 2 Shelf Deep Freezer (Black, 273L)",
+    "name": "فريزر 273لتر",
     "specs": {
       "cap": "273"
     },
@@ -3879,7 +3879,7 @@
   {
     "asin": "B0HNGMDTDM",
     "brand": "غير محدد",
-    "name": "Freezer 4U-M - فريزر 4U-M",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "Freezer 4U-M - فريزر 4U-M",
@@ -3899,7 +3899,7 @@
   {
     "asin": "B0D9284TSB",
     "brand": "Passap",
-    "name": "Passap 235 لتر عمودي (NVF240)",
+    "name": "Passap فريزر 235لتر عمودي",
     "specs": {
       "cap": "235",
       "type": "عمودي"
@@ -3922,7 +3922,7 @@
   {
     "asin": "B0CTKZ75VN",
     "brand": "Rich Home",
-    "name": "Rich Home 270 لتر",
+    "name": "Rich فريزر 270لتر",
     "specs": {
       "cap": "270"
     },
@@ -3944,7 +3944,7 @@
   {
     "asin": "B0CTL1G7D3",
     "brand": "Rich Home",
-    "name": "Deep Freezer Rich Home Defrost - RH-CFD 350ss - ديب فريزر ريتش هوم",
+    "name": "Deep فريزر",
     "specs": {},
     "model": "",
     "title": "Deep Freezer Rich Home Defrost - RH-CFD 350ss - ديب فريزر ريتش هوم",
@@ -3964,7 +3964,7 @@
   {
     "asin": "B0D3M9X79P",
     "brand": "فريش",
-    "name": "فريش 330 لتر",
+    "name": "فريش فريزر 330لتر",
     "specs": {
       "cap": "330"
     },
@@ -3986,7 +3986,7 @@
   {
     "asin": "B0HNWJSHG8",
     "brand": "Passap",
-    "name": "Passap 280 لتر عمودي (VFV380)",
+    "name": "Passap فريزر 280لتر عمودي",
     "specs": {
       "cap": "280",
       "type": "عمودي"
@@ -4009,7 +4009,7 @@
   {
     "asin": "B0H836G1VC",
     "brand": "Heinrichs",
-    "name": "Heinrichs 600 لتر",
+    "name": "Heinrichs فريزر 600لتر",
     "specs": {
       "cap": "600"
     },
@@ -4031,7 +4031,7 @@
   {
     "asin": "B08ZNSXCZ6",
     "brand": "كريازي",
-    "name": "كريازي 230 لتر",
+    "name": "كريازي فريزر 230لتر",
     "specs": {
       "cap": "230"
     },
@@ -4053,7 +4053,7 @@
   {
     "asin": "B0G233XX4X",
     "brand": "يونيون إير",
-    "name": "يونيون إير 250 لتر",
+    "name": "يونيون فريزر 250لتر",
     "specs": {
       "cap": "250"
     },
@@ -4075,7 +4075,7 @@
   {
     "asin": "B0BDX3X32F",
     "brand": "غير محدد",
-    "name": "62 * 64 Deep Freezer Aluminum Base, Silver",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "62 * 64 Deep Freezer Aluminum Base, Silver",
@@ -4095,7 +4095,7 @@
   {
     "asin": "B0F8QW29MC",
     "brand": "بيكو",
-    "name": "بيكو 286 لتر عمودي",
+    "name": "بيكو فريزر 286لتر عمودي",
     "specs": {
       "cap": "286",
       "type": "عمودي"
@@ -4118,7 +4118,7 @@
   {
     "asin": "B0GW8MJFBW",
     "brand": "غير محدد",
-    "name": "EVIL HEATER DEEP FREEZER TRIANGLE 1 COUNT MULTI",
+    "name": "EVIL فريزر",
     "specs": {},
     "model": "",
     "title": "EVIL HEATER DEEP FREEZER TRIANGLE 1 COUNT MULTI",
@@ -4138,7 +4138,7 @@
   {
     "asin": "B0CY8X24HL",
     "brand": "فريش",
-    "name": "فريش 400 لتر",
+    "name": "فريش فريزر 400لتر",
     "specs": {
       "cap": "400"
     },
@@ -4160,7 +4160,7 @@
   {
     "asin": "B0DXVKNV98",
     "brand": "غير محدد",
-    "name": "Aluminum Deep Freezer Base 61 * 61 Silver",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "Aluminum Deep Freezer Base 61 * 61 Silver",
@@ -4180,7 +4180,7 @@
   {
     "asin": "B0BQ5FCPTH",
     "brand": "غير محدد",
-    "name": "Large Size Adjustable Freezer and Washers Base Heavy Duty 4 Inch Hollow to Floor - Wheel and Brake - Maxi",
+    "name": "Large فريزر",
     "specs": {},
     "model": "",
     "title": "Large Size Adjustable Freezer and Washers Base Heavy Duty 4 Inch Hollow to Floor - Wheel and Brake - Maximum Expansion 80cm x 80cm - Weight Capacity up to 300 lbs",
@@ -4200,7 +4200,7 @@
   {
     "asin": "B0BFCG1D8F",
     "brand": "CARE HOME",
-    "name": "Fridge Deodorizer (7 Pack) - Refrigerator Deodorizer Odor Eliminator - More Effective Than Baking Soda – ",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "Fridge Deodorizer (7 Pack) - Refrigerator Deodorizer Odor Eliminator - More Effective Than Baking Soda – Natural Bamboo Activated Charcoal Fridge Odor Eliminator for Freezers, Coolers and Lunch Boxes",
@@ -4220,7 +4220,7 @@
   {
     "asin": "B07BH79CLF",
     "brand": "DCS Deals",
-    "name": "Pack of 40 Round 22 cm (9in) Pans with 50 Plate Lids - Disposable Aluminum Cake Trays - Freezer and Oven ",
+    "name": "Pack فريزر",
     "specs": {},
     "model": "",
     "title": "Pack of 40 Round 22 cm (9in) Pans with 50 Plate Lids - Disposable Aluminum Cake Trays - Freezer and Oven Safe - for Baking, Cooking, Storing, and Reheating",
@@ -4240,7 +4240,7 @@
   {
     "asin": "B0H5T4VBWM",
     "brand": "غير محدد",
-    "name": "Dunya Round Plastic Bowl with Lid-4 Liters - Large Food Storage Bowl, Clear Lid, BPA-Free, Freezer Safe U",
+    "name": "Dunya فريزر",
     "specs": {},
     "model": "GREY",
     "title": "Dunya Round Plastic Bowl with Lid-4 Liters - Large Food Storage Bowl, Clear Lid, BPA-Free, Freezer Safe Used for Fridge, Serving, Salad, Fruit & Meal Prep, 28.8 × 27.8 × 9.7 cm (Grey)",
@@ -4260,7 +4260,7 @@
   {
     "asin": "B0FHPN6DY9",
     "brand": "بيكو",
-    "name": "بيكو 260 لتر عمودي",
+    "name": "بيكو فريزر 260لتر عمودي",
     "specs": {
       "cap": "260",
       "type": "عمودي"
@@ -4283,7 +4283,7 @@
   {
     "asin": "B0D92B488M",
     "brand": "Passap",
-    "name": "Passap 280 لتر عمودي (NVF280)",
+    "name": "Passap فريزر 280لتر عمودي",
     "specs": {
       "cap": "280",
       "type": "عمودي"
@@ -4306,7 +4306,7 @@
   {
     "asin": "B09311YX7V",
     "brand": "وايت بوينت",
-    "name": "White Point WPVF 243 IX No Frost Digital Deep Freezer, 6 drawers - Silver",
+    "name": "وايت فريزر",
     "specs": {},
     "model": "",
     "title": "White Point WPVF 243 IX No Frost Digital Deep Freezer, 6 drawers - Silver",
@@ -4326,7 +4326,7 @@
   {
     "asin": "B09GW7YB71",
     "brand": "غير محدد",
-    "name": "LIEBHERR Freezer 6 Drawer GNsl 2323 Comfort NoFrost",
+    "name": "LIEBHERR فريزر",
     "specs": {},
     "model": "",
     "title": "LIEBHERR Freezer 6 Drawer GNsl 2323 Comfort NoFrost",
@@ -4346,7 +4346,7 @@
   {
     "asin": "B09G1HT1Y1",
     "brand": "غير محدد",
-    "name": "Liebherr Nufrost 7 Drawer Freezer",
+    "name": "Liebherr فريزر",
     "specs": {},
     "model": "",
     "title": "Liebherr Nufrost 7 Drawer Freezer",
@@ -4366,7 +4366,7 @@
   {
     "asin": "B09R52ZZG8",
     "brand": "توشيبا",
-    "name": "Toshiba Home Freezer Large Drawer",
+    "name": "توشيبا فريزر",
     "specs": {},
     "model": "",
     "title": "Toshiba Home Freezer Large Drawer",
@@ -4386,7 +4386,7 @@
   {
     "asin": "B0CTL1544L",
     "brand": "Rich Home",
-    "name": "Rich Home 440 لتر",
+    "name": "Rich فريزر 440لتر",
     "specs": {
       "cap": "440"
     },
@@ -4408,7 +4408,7 @@
   {
     "asin": "B07CM6695X",
     "brand": "بوش",
-    "name": "بوش 242 لتر (GSN36VL3PG)",
+    "name": "بوش فريزر 242لتر",
     "specs": {
       "cap": "242"
     },
@@ -4430,7 +4430,7 @@
   {
     "asin": "B0H2B6JQ13",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop عمودي",
+    "name": "Spaceshoop فريزر عمودي",
     "specs": {
       "type": "عمودي"
     },
@@ -4452,7 +4452,7 @@
   {
     "asin": "B09J5C52VW",
     "brand": "Tupperware",
-    "name": "FREEZER MATES II HIGH 1.1L",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "FREEZER MATES II HIGH 1.1L",
@@ -4472,7 +4472,7 @@
   {
     "asin": "B09R4Y1JZ6",
     "brand": "تورنيدو",
-    "name": "Toshiba mini stair home freezer",
+    "name": "توشيبا فريزر",
     "specs": {},
     "model": "",
     "title": "Toshiba mini stair home freezer",
@@ -4492,7 +4492,7 @@
   {
     "asin": "B0FL4KBH6T",
     "brand": "غير محدد",
-    "name": "Soup's Cubes 1/2 Cup * 6 Silicone Freezer Molds, Perfect for Storing Soups, Sauces, Juices, Desserts, Smo",
+    "name": "Soups فريزر",
     "specs": {},
     "model": "",
     "title": "Soup's Cubes 1/2 Cup * 6 Silicone Freezer Molds, Perfect for Storing Soups, Sauces, Juices, Desserts, Smoothie Prep and More, Freezer Portion Molds for Meal Prepping - Aqua 1/2 cup",
@@ -4512,7 +4512,7 @@
   {
     "asin": "B089LK3MKJ",
     "brand": "غير محدد",
-    "name": "Ice Breaker Healthy Ice Tray for Freezer by POP - Make and Serve Ice Without Touching Ice at All - No Spi",
+    "name": "Ice فريزر",
     "specs": {},
     "model": "AH175",
     "title": "Ice Breaker Healthy Ice Tray for Freezer by POP - Make and Serve Ice Without Touching Ice at All - No Spill Silicone Ice Cube Tray with Lid - Ice Cube Maker Makes 18 Ice Cubes, Aqua Blue AH175",
@@ -4532,7 +4532,7 @@
   {
     "asin": "B099DQQHTC",
     "brand": "Smukdoo",
-    "name": "Smukdoo Freezer Labels, Pack of 100 Removable Labels for Frozen Food Storage, Paper Labels for Refrigerat",
+    "name": "Smukdoo فريزر",
     "specs": {},
     "model": "",
     "title": "Smukdoo Freezer Labels, Pack of 100 Removable Labels for Frozen Food Storage, Paper Labels for Refrigerator and Freezer, Size 6 x 3 cm (2.36 x 1.18 inches)",
@@ -4552,7 +4552,7 @@
   {
     "asin": "B09R52V5L1",
     "brand": "توشيبا",
-    "name": "Toshiba freezer door shelf for 14 and 16 feet",
+    "name": "توشيبا فريزر",
     "specs": {},
     "model": "",
     "title": "Toshiba freezer door shelf for 14 and 16 feet",
@@ -4572,7 +4572,7 @@
   {
     "asin": "B098TYD2PY",
     "brand": "Tupperware",
-    "name": "freezer set 450 ml - 2 piece- Tupperware",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "freezer set 450 ml - 2 piece- Tupperware",
@@ -4592,7 +4592,7 @@
   {
     "asin": "B0C1RS9MD3",
     "brand": "VEHHE",
-    "name": "VEHHE Ice Cube Tray, 3 Pack Round Ice Cube Mold for Freezer with Lid, 1.2IN*99PCS Circle Ice Ball Maker M",
+    "name": "VEHHE فريزر",
     "specs": {},
     "model": "BLUE",
     "title": "VEHHE Ice Cube Tray, 3 Pack Round Ice Cube Mold for Freezer with Lid, 1.2IN*99PCS Circle Ice Ball Maker Mold, BPA Free Sphere Ice Cube Mold for Cocktail Whiskey Tea Coffee(Blue)",
@@ -4612,7 +4612,7 @@
   {
     "asin": "B09J59CFWC",
     "brand": "Tupperware",
-    "name": "Tupperware FREEZER MATES MINI 170ML(2)",
+    "name": "Tupperware فريزر",
     "specs": {},
     "model": "",
     "title": "Tupperware FREEZER MATES MINI 170ML(2)",
@@ -4632,7 +4632,7 @@
   {
     "asin": "B0GQ6K44S2",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop Refrigerator Lock with Keys – Rustproof Freezer Safety Lock for Child Protection, 1 Piece, Whi",
+    "name": "Spaceshoop فريزر",
     "specs": {},
     "model": "",
     "title": "Spaceshoop Refrigerator Lock with Keys – Rustproof Freezer Safety Lock for Child Protection, 1 Piece, White",
@@ -4652,7 +4652,7 @@
   {
     "asin": "B07NYZCXTJ",
     "brand": "Leostar",
-    "name": "Other Adjustable freezer/washer holder adjustable freezer/washer holder, 21w x 8.75h x 2.6d",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "Other Adjustable freezer/washer holder adjustable freezer/washer holder, 21w x 8.75h x 2.6d",
@@ -4672,7 +4672,7 @@
   {
     "asin": "B0BK3MTCHX",
     "brand": "Spaceshoop",
-    "name": "Generic Ice Trays For Freezer, Portable Ice Ball Maker Ice Mold 2-in-1 Kettle Ice Cube Trays for Freezer ",
+    "name": "فريزر",
     "specs": {},
     "model": "GREY",
     "title": "Generic Ice Trays For Freezer, Portable Ice Ball Maker Ice Mold 2-in-1 Kettle Ice Cube Trays for Freezer with Bin Round Square Diamond Large Mini Ice Cubes New (Grey), one Size",
@@ -4692,7 +4692,7 @@
   {
     "asin": "B0GRSBX6XH",
     "brand": "غير محدد",
-    "name": "Multipurpose Refrigerator Lock for Kids Safety, Child Proof Fridge Door Lock with Strong Adhesive Strap f",
+    "name": "Multipurpose فريزر",
     "specs": {},
     "model": "",
     "title": "Multipurpose Refrigerator Lock for Kids Safety, Child Proof Fridge Door Lock with Strong Adhesive Strap for Cabinets, Drawers, Cupboards and Freezer Doors, Heavy Duty Home Safety Lock",
@@ -4712,7 +4712,7 @@
   {
     "asin": "B0H2ZRF8WG",
     "brand": "غير محدد",
-    "name": "Baby Proof Refrigerator Lock Strap - Strong Adhesive Child Safety Latch for Fridge Door Cabinets Drawers ",
+    "name": "Baby فريزر",
     "specs": {},
     "model": "",
     "title": "Baby Proof Refrigerator Lock Strap - Strong Adhesive Child Safety Latch for Fridge Door Cabinets Drawers and Freezer - Durable Multipurpose Safety Lock for Kids",
@@ -4732,7 +4732,7 @@
   {
     "asin": "B0GDGXQDYP",
     "brand": "Next store",
-    "name": "Thermal Glass Set of 4 with Airtight Wood Lid with Spill Proof and Silicone Ventilation Icon, Oven, Micro",
+    "name": "Thermal فريزر",
     "specs": {},
     "model": "",
     "title": "Thermal Glass Set of 4 with Airtight Wood Lid with Spill Proof and Silicone Ventilation Icon, Oven, Microwave, Dishwasher and Freezer Safe — by Next Store",
@@ -4752,7 +4752,7 @@
   {
     "asin": "B0H11F9WGN",
     "brand": "غير محدد",
-    "name": "Imported Silicone Ice Cube Tray with Lid – 14 Grid Freezer Mold for Iced Coffee, Cold Beverages, Fruit Ic",
+    "name": "Imported فريزر",
     "specs": {},
     "model": "",
     "title": "Imported Silicone Ice Cube Tray with Lid – 14 Grid Freezer Mold for Iced Coffee, Cold Beverages, Fruit Ice Cubes, Smoothies & Kitchen Use",
@@ -4772,7 +4772,7 @@
   {
     "asin": "B0CTD2BGJB",
     "brand": "غير محدد",
-    "name": "Stackable Food Preservation Trays with Clear Plastic Lid, Dishwasher and Freezer Safe Trays Reusable Food",
+    "name": "Stackable فريزر",
     "specs": {},
     "model": "",
     "title": "Stackable Food Preservation Trays with Clear Plastic Lid, Dishwasher and Freezer Safe Trays Reusable Food Storage Trays for Vegetables, Fruits, Meat (2)",
@@ -4792,7 +4792,7 @@
   {
     "asin": "B0DWRVYWWQ",
     "brand": "QHSXMQ",
-    "name": "Ice Mold for Stanley Cup, Silicone Ice Moulds, Ice Cube Tray with Lid for Stanley Cup 20-40oz, Large Ice ",
+    "name": "Ice فريزر",
     "specs": {},
     "model": "",
     "title": "Ice Mold for Stanley Cup, Silicone Ice Moulds, Ice Cube Tray with Lid for Stanley Cup 20-40oz, Large Ice Trays for Freezer, 4 Compartments Ice Cube Moulds for Cocktails/Whisky/Drinks/Coffee（Grey）",
@@ -4812,7 +4812,7 @@
   {
     "asin": "B0HRSBC7FL",
     "brand": "غير محدد",
-    "name": "Analog Refrigerator Freezer Thermometer Stainless Steel | -30°C to 30°C | Hang & Stand | Color-Coded Zone",
+    "name": "Analog فريزر",
     "specs": {},
     "model": "",
     "title": "Analog Refrigerator Freezer Thermometer Stainless Steel | -30°C to 30°C | Hang & Stand | Color-Coded Zones | Food Safety",
@@ -4832,7 +4832,7 @@
   {
     "asin": "B09WJYM48F",
     "brand": "QKTYB",
-    "name": "QKTYB Ice Cube Trays Easy Release Silicone Ice Cube Tray with Lid,2 Pack with Non-Spill Lid for Freezer, ",
+    "name": "QKTYB فريزر",
     "specs": {},
     "model": "",
     "title": "QKTYB Ice Cube Trays Easy Release Silicone Ice Cube Tray with Lid,2 Pack with Non-Spill Lid for Freezer, Drinks, Cocktail, Dishwasher, Yogurt, and Fruits",
@@ -4852,7 +4852,7 @@
   {
     "asin": "B098TY3RBT",
     "brand": "Tupperware",
-    "name": "Tupperware freezer set 5 pcs -",
+    "name": "Tupperware فريزر",
     "specs": {},
     "model": "",
     "title": "Tupperware freezer set 5 pcs -",
@@ -4872,7 +4872,7 @@
   {
     "asin": "B0H114WGDM",
     "brand": "غير محدد",
-    "name": "14 Grid Silicone Ice Cube Tray with Plastic Frame & Transparent Lid – Reusable Ice Mold for Freezer, Easy",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "14 Grid Silicone Ice Cube Tray with Plastic Frame & Transparent Lid – Reusable Ice Mold for Freezer, Easy Release Ice Cube Maker for Juice, Coffee, Cocktails, Baby Food & Cold Drinks",
@@ -4892,7 +4892,7 @@
   {
     "asin": "B0H7XHRRDF",
     "brand": "غير محدد",
-    "name": "Ice Boxes 3 Pieces – Ice Cube Trays for Drinks | Easy to Use and Store in Freezer",
+    "name": "Ice فريزر",
     "specs": {},
     "model": "",
     "title": "Ice Boxes 3 Pieces – Ice Cube Trays for Drinks | Easy to Use and Store in Freezer",
@@ -4912,7 +4912,7 @@
   {
     "asin": "B0HJ41LQ3Z",
     "brand": "غير محدد",
-    "name": "SL-0002 Refrigerator Freezer AC Voltage Protector High Low Voltage Protector with Restart Delay LED Indic",
+    "name": "SL-0002 فريزر",
     "specs": {},
     "model": "",
     "title": "SL-0002 Refrigerator Freezer AC Voltage Protector High Low Voltage Protector with Restart Delay LED Indicators EU Plug",
@@ -4932,7 +4932,7 @@
   {
     "asin": "B0FNWK8WYN",
     "brand": "غير محدد",
-    "name": "Fridge & Freezer Freshener 120g – Natural Air Purifier, Eliminates Bad Odors, Long-Lasting, Safe for Kitc",
+    "name": "فريزر",
     "specs": {},
     "model": "",
     "title": "Fridge & Freezer Freshener 120g – Natural Air Purifier, Eliminates Bad Odors, Long-Lasting, Safe for Kitchen and Small Spaces (two pieces)",
@@ -4952,7 +4952,7 @@
   {
     "asin": "B08XS1JHP3",
     "brand": "Borgonovo",
-    "name": "Borgonovo Serving Jug with Freezer Stick, Lid and Filter, 1.5 Liters - Blue & Clear",
+    "name": "Borgonovo فريزر",
     "specs": {},
     "model": "",
     "title": "Borgonovo Serving Jug with Freezer Stick, Lid and Filter, 1.5 Liters - Blue & Clear",
@@ -4972,7 +4972,7 @@
   {
     "asin": "B0H5THJS5P",
     "brand": "غير محدد",
-    "name": "Food Storage Bowl with Lid – 4 Liters BPA-Free Plastic – Freezer Safe Round Ribbed Bowl – Kitchen, Fridge",
+    "name": "Food فريزر",
     "specs": {},
     "model": "GREEN",
     "title": "Food Storage Bowl with Lid – 4 Liters BPA-Free Plastic – Freezer Safe Round Ribbed Bowl – Kitchen, Fridge, Serving & Meal Prep – 28.8 × 27.8 × 9.7 cm (Green)",
@@ -4992,7 +4992,7 @@
   {
     "asin": "B0HJFWFM5C",
     "brand": "غير محدد",
-    "name": "Glass Jar with Bamboo Lid and Golden Deer Decoration 500ml | Heat Resistant, Tight Silicone Closure, 8 In",
+    "name": "Glass فريزر",
     "specs": {},
     "model": "",
     "title": "Glass Jar with Bamboo Lid and Golden Deer Decoration 500ml | Heat Resistant, Tight Silicone Closure, 8 Inch High, For Noodles & Pills, Freezer & Oven Safe",

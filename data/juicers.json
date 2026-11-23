@@ -2,7 +2,7 @@
   {
     "asin": "B0BNTF2VTD",
     "brand": "كينوود",
-    "name": "كينوود 800 وات طرد مركزي (JEM02)",
+    "name": "كينوود عصارة طردمركزي 800وات",
     "specs": {
       "watt": "800",
       "type": "طرد مركزي"
@@ -25,7 +25,7 @@
   {
     "asin": "B0HF654NB7",
     "brand": "فريش",
-    "name": "فريش 100 وات حمضيات (DX3238)",
+    "name": "فريش عصارة حمضيات 100وات",
     "specs": {
       "watt": "100",
       "type": "حمضيات"
@@ -48,7 +48,7 @@
   {
     "asin": "B0B31V9L4Y",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر حمضيات (CJ675-B5)",
+    "name": "بلاك عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -70,7 +70,7 @@
   {
     "asin": "B0G6VGP16N",
     "brand": "أورايمو",
-    "name": "أورايمو بطيء (OMJ-501A)",
+    "name": "أورايمو عصارة بطيء",
     "specs": {
       "type": "بطيء"
     },
@@ -92,7 +92,7 @@
   {
     "asin": "B07XJLWJCD",
     "brand": "سوكاني",
-    "name": "سوكاني 800 وات",
+    "name": "سوكاني عصارة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -114,7 +114,7 @@
   {
     "asin": "B01L1UBULU",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -136,7 +136,7 @@
   {
     "asin": "B0065GBA0C",
     "brand": "كينوود",
-    "name": "كينوود حمضيات (JE280)",
+    "name": "كينوود عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -158,7 +158,7 @@
   {
     "asin": "B0874617QX",
     "brand": "كينوود",
-    "name": "كينوود 800 وات (JEP02)",
+    "name": "كينوود عصارة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -180,7 +180,7 @@
   {
     "asin": "B07MVVZD5N",
     "brand": "كينوود",
-    "name": "كينوود 700 وات (JEM500SS)",
+    "name": "كينوود عصارة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -202,7 +202,7 @@
   {
     "asin": "B0C1NZXCTQ",
     "brand": "سوكاني",
-    "name": "سوكاني 500 وات",
+    "name": "سوكاني عصارة 500وات",
     "specs": {
       "watt": "500"
     },
@@ -224,7 +224,7 @@
   {
     "asin": "B0957HW86D",
     "brand": "تورنيدو",
-    "name": "تورنيدو حمضيات",
+    "name": "تورنيدو عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -246,7 +246,7 @@
   {
     "asin": "B0CBG2TGL9",
     "brand": "براون",
-    "name": "براون حمضيات",
+    "name": "براون عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -268,7 +268,7 @@
   {
     "asin": "B006IBO0KG",
     "brand": "براون",
-    "name": "Braun Multiquick 7 Juice Extractor - J700, Grey, Stainless Steel Material",
+    "name": "براون عصارة",
     "specs": {},
     "model": "J700",
     "title": "Braun Multiquick 7 Juice Extractor - J700, Grey, Stainless Steel Material",
@@ -288,7 +288,7 @@
   {
     "asin": "B09SZDB22D",
     "brand": "سوكاني",
-    "name": "SOKANY (Sk-623D) Electric Juicer with Lid 0.7L 45W Orange Juice Machine for Oranges and Lemons (Black)",
+    "name": "سوكاني عصارة",
     "specs": {},
     "model": "SK-623D",
     "title": "SOKANY (Sk-623D) Electric Juicer with Lid 0.7L 45W Orange Juice Machine for Oranges and Lemons (Black)",
@@ -308,7 +308,7 @@
   {
     "asin": "B0036DDGLI",
     "brand": "كينوود",
-    "name": "Kenwood Juice Extractor - JE290, White - (International Warranty)",
+    "name": "كينوود عصارة",
     "specs": {},
     "model": "JE290",
     "title": "Kenwood Juice Extractor - JE290, White - (International Warranty)",
@@ -328,7 +328,7 @@
   {
     "asin": "B0CF2GLPZW",
     "brand": "أرشيا",
-    "name": "أرشيا 300 وات حمضيات",
+    "name": "أرشيا عصارة حمضيات 300وات",
     "specs": {
       "watt": "300",
       "type": "حمضيات"
@@ -351,7 +351,7 @@
   {
     "asin": "B0G2KHYD8R",
     "brand": "أرشيا",
-    "name": "أرشيا 250 وات بطيء (SJ118-3676)",
+    "name": "أرشيا عصارة بطيء 250وات",
     "specs": {
       "watt": "250",
       "type": "بطيء"
@@ -374,7 +374,7 @@
   {
     "asin": "B0G4XRNQHG",
     "brand": "فريش",
-    "name": "فريش 300 وات بطيء",
+    "name": "فريش عصارة بطيء 300وات",
     "specs": {
       "watt": "300",
       "type": "بطيء"
@@ -397,7 +397,7 @@
   {
     "asin": "B0GLQ9W3XT",
     "brand": "سوكاني",
-    "name": "سوكاني 700 وات",
+    "name": "سوكاني عصارة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -419,7 +419,7 @@
   {
     "asin": "B006IBO1IC",
     "brand": "براون",
-    "name": "براون 800 وات (J300)",
+    "name": "براون عصارة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -441,7 +441,7 @@
   {
     "asin": "B0DL3QCQNL",
     "brand": "أرشيا",
-    "name": "أرشيا حمضيات (CJ762-3142)",
+    "name": "أرشيا عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -463,7 +463,7 @@
   {
     "asin": "B0DLTRZ4ZM",
     "brand": "فريش",
-    "name": "فريش 300 وات",
+    "name": "فريش عصارة 300وات",
     "specs": {
       "watt": "300"
     },
@@ -485,7 +485,7 @@
   {
     "asin": "B0BL1HR2G7",
     "brand": "سوكاني",
-    "name": "سوكاني حمضيات (WK-725)",
+    "name": "سوكاني عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -507,7 +507,7 @@
   {
     "asin": "B0CQYS8BV4",
     "brand": "سوكاني",
-    "name": "سوكاني 1200 وات",
+    "name": "سوكاني عصارة 1200وات",
     "specs": {
       "watt": "1200"
     },
@@ -529,7 +529,7 @@
   {
     "asin": "B0873D13ZQ",
     "brand": "كينوود",
-    "name": "Kenwood Fruit Juicer JEM02.A0BK",
+    "name": "كينوود عصارة",
     "specs": {},
     "model": "JEM02",
     "title": "Kenwood Fruit Juicer JEM02.A0BK",
@@ -549,7 +549,7 @@
   {
     "asin": "B01L93HQDA",
     "brand": "فريش",
-    "name": "Fresh Electric Orange Juicer 35 Watt",
+    "name": "فريش عصارة",
     "specs": {},
     "model": "",
     "title": "Fresh Electric Orange Juicer 35 Watt",
@@ -569,7 +569,7 @@
   {
     "asin": "B09V1JWHWP",
     "brand": "سوكاني",
-    "name": "Sokany Orange Juicer From Sokany JE-623D 45 Watt 700ml",
+    "name": "سوكاني عصارة",
     "specs": {},
     "model": "",
     "title": "Sokany Orange Juicer From Sokany JE-623D 45 Watt 700ml",
@@ -589,7 +589,7 @@
   {
     "asin": "B0D9PK8GP2",
     "brand": "مينتا",
-    "name": "Mienta JUICER ORANGE 40W CP10308B",
+    "name": "مينتا عصارة",
     "specs": {},
     "model": "CP10308B",
     "title": "Mienta JUICER ORANGE 40W CP10308B",
@@ -609,7 +609,7 @@
   {
     "asin": "B0HF3T5BFT",
     "brand": "جاماكي",
-    "name": "جاماكي 700 وات حمضيات (JMK4004)",
+    "name": "جاماكي عصارة حمضيات 700وات",
     "specs": {
       "watt": "700",
       "type": "حمضيات"
@@ -632,7 +632,7 @@
   {
     "asin": "B0HL6FV8MZ",
     "brand": "غير محدد",
-    "name": "Slow Juicing Fruit and Vegetable Juicer 300W Wide Feed Opening 80mm (500ml) | Cold Juicer at 60 RPM, feat",
+    "name": "Slow عصارة بطيء 300وات",
     "specs": {
       "watt": "300",
       "type": "بطيء"
@@ -655,7 +655,7 @@
   {
     "asin": "B0FGXSBK2B",
     "brand": "Tank",
-    "name": "Tank 300 وات (JE6009AB-GS)",
+    "name": "Tank عصارة 300وات",
     "specs": {
       "watt": "300"
     },
@@ -677,7 +677,7 @@
   {
     "asin": "B07FLKWLCV",
     "brand": "غير محدد",
-    "name": "RASSE Lemon squeezer hand manual - lime hand juice lemon squeezers press citrus press juicers squeezer, p",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -699,7 +699,7 @@
   {
     "asin": "B07C22MYGM",
     "brand": "Sunhanny",
-    "name": "Sunhanny حمضيات",
+    "name": "Sunhanny عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -721,7 +721,7 @@
   {
     "asin": "B0HJBY812M",
     "brand": "غير محدد",
-    "name": "300W Stainless Steel Fruit Juicer JH-3028 | 2 Speed Control,Includes Cleaning Brush,Full Year Warranty,Su",
+    "name": "300W عصارة 300وات",
     "specs": {
       "watt": "300"
     },
@@ -743,7 +743,7 @@
   {
     "asin": "B0G23PXF1B",
     "brand": "جاماكي",
-    "name": "جاماكي 700 وات",
+    "name": "جاماكي عصارة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -765,7 +765,7 @@
   {
     "asin": "B0CNNVX36F",
     "brand": "جاماكي",
-    "name": "جاماكي 200 وات",
+    "name": "جاماكي عصارة 200وات",
     "specs": {
       "watt": "200"
     },
@@ -787,7 +787,7 @@
   {
     "asin": "B08YY1WY9T",
     "brand": "Sonai",
-    "name": "Sonai حمضيات",
+    "name": "Sonai عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -809,7 +809,7 @@
   {
     "asin": "B0CBGG4R3K",
     "brand": "Alissa",
-    "name": "Alissa حمضيات (TOOL74405)",
+    "name": "Alissa عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -831,7 +831,7 @@
   {
     "asin": "B0GHG9KZTC",
     "brand": "غير محدد",
-    "name": "Squeezer Stainless Steel, Premium Quality Lemon Juicer, Lemon Squeezer Made, Juice Extractor Press Hand, ",
+    "name": "Squeezer عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -853,7 +853,7 @@
   {
     "asin": "B0BYZHPPN6",
     "brand": "TEZZ",
-    "name": "TEZZ حمضيات",
+    "name": "TEZZ عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -875,7 +875,7 @@
   {
     "asin": "B0HDS1MRZP",
     "brand": "جاماكي",
-    "name": "Jamaki Stainless Steel Electric Fruit Juicer 4000W Stainless Steel | 2 Speeds with Pulse, 550 ml Juice Ca",
+    "name": "جاماكي عصارة",
     "specs": {},
     "model": "",
     "title": "Jamaki Stainless Steel Electric Fruit Juicer 4000W Stainless Steel | 2 Speeds with Pulse, 550 ml Juice Capacity, 1.0 L Core Capacity, 18000 RPM, Drip Resistant",
@@ -895,7 +895,7 @@
   {
     "asin": "B0HJ5TL15J",
     "brand": "غير محدد",
-    "name": "Jmaki JMK-4027 Stainless Steel Electric Fruit Juicer 4000W | 2 Speed Operation, Centrifuge, Anti Drip, Ho",
+    "name": "Jmaki عصارة",
     "specs": {},
     "model": "",
     "title": "Jmaki JMK-4027 Stainless Steel Electric Fruit Juicer 4000W | 2 Speed Operation, Centrifuge, Anti Drip, Home and Office,Stainless Steel",
@@ -915,7 +915,7 @@
   {
     "asin": "B0FGXMYNPR",
     "brand": "Tank",
-    "name": "Tank Super Juicer Power, 30 Watts, White, JC3005-CB, 2 Year Warranty",
+    "name": "Tank عصارة",
     "specs": {},
     "model": "JC3005-CB",
     "title": "Tank Super Juicer Power, 30 Watts, White, JC3005-CB, 2 Year Warranty",
@@ -935,7 +935,7 @@
   {
     "asin": "B0BDFM3L27",
     "brand": "Spaceshoop",
-    "name": "FMQSHOP Electric Juicer, Hands-Free Portable USB Charging Powerful Cordless Fruit Juicer, Multifunctional",
+    "name": "FMQSHOP عصارة",
     "specs": {},
     "model": "",
     "title": "FMQSHOP Electric Juicer, Hands-Free Portable USB Charging Powerful Cordless Fruit Juicer, Multifunctional 1-Button Easy Press Lemon Orange Squeezer Machine for Kitchen",
@@ -955,7 +955,7 @@
   {
     "asin": "B0H5XG4YZ1",
     "brand": "غير محدد",
-    "name": "Rechargeable Electric Orange Juicer, Portable Cordless Orange Juicer with USB Charging Cable, Easy to Use",
+    "name": "Rechargeable عصارة",
     "specs": {},
     "model": "",
     "title": "Rechargeable Electric Orange Juicer, Portable Cordless Orange Juicer with USB Charging Cable, Easy to Use and Clean, Fruit Juicer, Lemon, Grapefruit",
@@ -975,7 +975,7 @@
   {
     "asin": "B0D991498B",
     "brand": "غير محدد",
-    "name": "Aslan juice Apple, 200 ml - set of 27",
+    "name": "Aslan عصارة",
     "specs": {},
     "model": "",
     "title": "Aslan juice Apple, 200 ml - set of 27",
@@ -995,7 +995,7 @@
   {
     "asin": "B0F8DF2VLH",
     "brand": "غير محدد",
-    "name": "Aslan juice Guava Juice, 200 ml - set of 27",
+    "name": "Aslan عصارة",
     "specs": {},
     "model": "",
     "title": "Aslan juice Guava Juice, 200 ml - set of 27",
@@ -1015,7 +1015,7 @@
   {
     "asin": "B07NCYSD4M",
     "brand": "Suntop",
-    "name": "Suntop juice 250 ml mango -set of 24",
+    "name": "Suntop عصارة",
     "specs": {},
     "model": "",
     "title": "Suntop juice 250 ml mango -set of 24",
@@ -1035,7 +1035,7 @@
   {
     "asin": "B0DX15RG4W",
     "brand": "غير محدد",
-    "name": "Aslan juice Cocktail Juice, 200 ml - set of 27",
+    "name": "Aslan عصارة",
     "specs": {},
     "model": "",
     "title": "Aslan juice Cocktail Juice, 200 ml - set of 27",
@@ -1055,7 +1055,7 @@
   {
     "asin": "B07NCYJ63J",
     "brand": "Suntop",
-    "name": "SunTop Orange Juice - 250ml, 24 Pieces",
+    "name": "SunTop عصارة",
     "specs": {},
     "model": "",
     "title": "SunTop Orange Juice - 250ml, 24 Pieces",
@@ -1075,7 +1075,7 @@
   {
     "asin": "B0F1NGX4G1",
     "brand": "غير محدد",
-    "name": "Aslan juice Orange, 200 ml - set of 27",
+    "name": "Aslan عصارة",
     "specs": {},
     "model": "",
     "title": "Aslan juice Orange, 200 ml - set of 27",
@@ -1095,7 +1095,7 @@
   {
     "asin": "B00LBTPWTI",
     "brand": "May",
-    "name": "May Gold Spanish Sparkling Pomegranate Juice 750 ml",
+    "name": "May عصارة",
     "specs": {},
     "model": "",
     "title": "May Gold Spanish Sparkling Pomegranate Juice 750 ml",
@@ -1115,7 +1115,7 @@
   {
     "asin": "B0DRGS7RSM",
     "brand": "غير محدد",
-    "name": "Aslan juice Tropical Fruits, 200 ml - set of 27",
+    "name": "Aslan عصارة",
     "specs": {},
     "model": "",
     "title": "Aslan juice Tropical Fruits, 200 ml - set of 27",
@@ -1135,7 +1135,7 @@
   {
     "asin": "B0FKQHLQ3F",
     "brand": "غير محدد",
-    "name": "Suntop Apple Juice, 250ml, Pack of 24",
+    "name": "Suntop عصارة",
     "specs": {},
     "model": "",
     "title": "Suntop Apple Juice, 250ml, Pack of 24",
@@ -1155,7 +1155,7 @@
   {
     "asin": "B0DB7S1BZV",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (20 Pieces, Apple 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (20 Pieces, Apple 190ml Envelope)",
@@ -1175,7 +1175,7 @@
   {
     "asin": "B0DJ727SG4",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (20 Pieces, Mango 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (20 Pieces, Mango 190ml Envelope)",
@@ -1195,7 +1195,7 @@
   {
     "asin": "B0DB84NJBX",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (40 Pieces, Fruit Cocktail 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (40 Pieces, Fruit Cocktail 190ml Envelope)",
@@ -1215,7 +1215,7 @@
   {
     "asin": "B0DB7RKRKD",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (40 Pieces, Apple 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (40 Pieces, Apple 190ml Envelope)",
@@ -1235,7 +1235,7 @@
   {
     "asin": "B0FGWXJQDD",
     "brand": "Lamar",
-    "name": "Lamar mango juice blend - 1 liter (Pack of 3)",
+    "name": "Lamar عصارة",
     "specs": {},
     "model": "",
     "title": "Lamar mango juice blend - 1 liter (Pack of 3)",
@@ -1255,7 +1255,7 @@
   {
     "asin": "B0GQR92LMF",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (40 Pieces, Apple and Cocktail Assortment 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (40 Pieces, Apple and Cocktail Assortment 190ml Envelope)",
@@ -1275,7 +1275,7 @@
   {
     "asin": "B0FGWV1Z2Z",
     "brand": "リカマン",
-    "name": "リカマン Lamar cranberry juice - 1 liter (Pack of 3)",
+    "name": "リカマン عصارة",
     "specs": {},
     "model": "",
     "title": "リカマン Lamar cranberry juice - 1 liter (Pack of 3)",
@@ -1295,7 +1295,7 @@
   {
     "asin": "B0DJ72MQM9",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (40 Pieces, Mango 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (40 Pieces, Mango 190ml Envelope)",
@@ -1315,7 +1315,7 @@
   {
     "asin": "B0DKG6BTDT",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (20 Pieces, Mango Cocktail 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (20 Pieces, Mango Cocktail 190ml Envelope)",
@@ -1335,7 +1335,7 @@
   {
     "asin": "B0BMXS73Y2",
     "brand": "Domty",
-    "name": "Domty Blends Pink Lemonade Juice 235 ml",
+    "name": "Domty عصارة",
     "specs": {},
     "model": "",
     "title": "Domty Blends Pink Lemonade Juice 235 ml",
@@ -1355,7 +1355,7 @@
   {
     "asin": "B0DKG4Z57G",
     "brand": "غير محدد",
-    "name": "Best Juice 190ml (40 Pieces, Cocktail Mango 190ml Envelope)",
+    "name": "Best عصارة",
     "specs": {},
     "model": "",
     "title": "Best Juice 190ml (40 Pieces, Cocktail Mango 190ml Envelope)",
@@ -1375,7 +1375,7 @@
   {
     "asin": "B0H2N9F74P",
     "brand": "ATTAR AYURVEDA",
-    "name": "Attar Orange Juice with Vitamin C, 20 Sachets x 40g each",
+    "name": "Attar عصارة",
     "specs": {},
     "model": "",
     "title": "Attar Orange Juice with Vitamin C, 20 Sachets x 40g each",
@@ -1395,7 +1395,7 @@
   {
     "asin": "B0FGWVFJZN",
     "brand": "choice",
-    "name": "Choice Lemon Juice - 250 Milli (Pack of 6)",
+    "name": "Choice عصارة",
     "specs": {},
     "model": "",
     "title": "Choice Lemon Juice - 250 Milli (Pack of 6)",
@@ -1415,7 +1415,7 @@
   {
     "asin": "B083BSD7CZ",
     "brand": "Donelli",
-    "name": "Donelli Alcohol-free Red Wine | Grape Juice, 750 ml",
+    "name": "Donelli عصارة",
     "specs": {},
     "model": "",
     "title": "Donelli Alcohol-free Red Wine | Grape Juice, 750 ml",
@@ -1435,7 +1435,7 @@
   {
     "asin": "B0FGWVG49K",
     "brand": "Tolido",
-    "name": "Tolido Mango Powder Juice - 500 gm (Pack of 2)",
+    "name": "Tolido عصارة",
     "specs": {},
     "model": "",
     "title": "Tolido Mango Powder Juice - 500 gm (Pack of 2)",
@@ -1455,7 +1455,7 @@
   {
     "asin": "B0H2NB44H7",
     "brand": "ATTAR AYURVEDA",
-    "name": "Attar Strawberry Instant Powder Juice Drink, 20 Sachets, 40g Each",
+    "name": "Attar عصارة",
     "specs": {},
     "model": "",
     "title": "Attar Strawberry Instant Powder Juice Drink, 20 Sachets, 40g Each",
@@ -1475,7 +1475,7 @@
   {
     "asin": "B0B2SM4CQP",
     "brand": "Almarai",
-    "name": "Almarai Juice Mango 235ml Combi Set of 27",
+    "name": "Almarai عصارة",
     "specs": {},
     "model": "",
     "title": "Almarai Juice Mango 235ml Combi Set of 27",
@@ -1495,7 +1495,7 @@
   {
     "asin": "B0B39H1GS2",
     "brand": "غير محدد",
-    "name": "Juhayna Classic Mango Juice 235Ml - 27 Pack",
+    "name": "Juhayna عصارة",
     "specs": {},
     "model": "",
     "title": "Juhayna Classic Mango Juice 235Ml - 27 Pack",
@@ -1515,7 +1515,7 @@
   {
     "asin": "B0GQNXQRYB",
     "brand": "غير محدد",
-    "name": "Acrylic Juice Jug with 2 Cups, 1.8L Capacity, Durable Handle, 2-Way Lid, Refrigerator and Dishwasher Safe",
+    "name": "Acrylic عصارة",
     "specs": {},
     "model": "",
     "title": "Acrylic Juice Jug with 2 Cups, 1.8L Capacity, Durable Handle, 2-Way Lid, Refrigerator and Dishwasher Safe -Fame",
@@ -1535,7 +1535,7 @@
   {
     "asin": "B07QGNMS7R",
     "brand": "Suntop",
-    "name": "Sun Top Orange Juice (24 Pieces, 250g)",
+    "name": "Sun عصارة",
     "specs": {},
     "model": "",
     "title": "Sun Top Orange Juice (24 Pieces, 250g)",
@@ -1555,7 +1555,7 @@
   {
     "asin": "B0GLQT3Y4K",
     "brand": "سوكاني",
-    "name": "سوكاني 800 وات بطيء",
+    "name": "سوكاني عصارة بطيء 800وات",
     "specs": {
       "watt": "800",
       "type": "بطيء"
@@ -1578,7 +1578,7 @@
   {
     "asin": "B0GBVFKR16",
     "brand": "أورايمو",
-    "name": "أورايمو بطيء",
+    "name": "أورايمو عصارة بطيء",
     "specs": {
       "type": "بطيء"
     },
@@ -1600,7 +1600,7 @@
   {
     "asin": "B081NRKLF1",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 800 وات (JE800-B5)",
+    "name": "بلاك عصارة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -1622,7 +1622,7 @@
   {
     "asin": "B07MWJ912J",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر 700 وات (PRJE700-B5)",
+    "name": "بلاك عصارة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -1644,7 +1644,7 @@
   {
     "asin": "B08NW382XZ",
     "brand": "سينبو",
-    "name": "سينبو حمضيات",
+    "name": "سينبو عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -1666,7 +1666,7 @@
   {
     "asin": "B09K6RDVCK",
     "brand": "تورنيدو",
-    "name": "تورنيدو 800 وات",
+    "name": "تورنيدو عصارة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -1688,7 +1688,7 @@
   {
     "asin": "B0CLN7SNHB",
     "brand": "سوكاني",
-    "name": "سوكاني 350 وات",
+    "name": "سوكاني عصارة 350وات",
     "specs": {
       "watt": "350"
     },
@@ -1710,7 +1710,7 @@
   {
     "asin": "B0F1QH4Z8J",
     "brand": "أرشيا",
-    "name": "Arshia Premium 6-in-1 Juicer Extractor JE786-2088",
+    "name": "أرشيا عصارة",
     "specs": {},
     "model": "JE786-2088",
     "title": "Arshia Premium 6-in-1 Juicer Extractor JE786-2088",
@@ -1730,7 +1730,7 @@
   {
     "asin": "B0FTVGN4RW",
     "brand": "فريش",
-    "name": "Next Store Jumbo Manual Fruit Orange Juicer Made of Rustproof Aluminum for Easy and Quick Healthy Fresh J",
+    "name": "فريش عصارة",
     "specs": {},
     "model": "",
     "title": "Next Store Jumbo Manual Fruit Orange Juicer Made of Rustproof Aluminum for Easy and Quick Healthy Fresh Juices",
@@ -1750,7 +1750,7 @@
   {
     "asin": "B09V1HHX4N",
     "brand": "سوكاني",
-    "name": "SOKANY WK-725 JUICER SOKANY45W 0.7L",
+    "name": "سوكاني عصارة",
     "specs": {},
     "model": "",
     "title": "SOKANY WK-725 JUICER SOKANY45W 0.7L",
@@ -1770,7 +1770,7 @@
   {
     "asin": "B0CZG2TYSM",
     "brand": "RAF",
-    "name": "RAF Orange Juicer R.615O, 25 Watt, 0.7 Liter, 220v, 50Hz, White",
+    "name": "RAF عصارة",
     "specs": {},
     "model": "",
     "title": "RAF Orange Juicer R.615O, 25 Watt, 0.7 Liter, 220v, 50Hz, White",
@@ -1790,7 +1790,7 @@
   {
     "asin": "B0HJ9RYCJF",
     "brand": "جاماكي",
-    "name": "جاماكي 750 وات حمضيات",
+    "name": "جاماكي عصارة حمضيات 750وات",
     "specs": {
       "watt": "750",
       "type": "حمضيات"
@@ -1813,7 +1813,7 @@
   {
     "asin": "B09S6T2WWS",
     "brand": "Heinrichs",
-    "name": "Heinrichs 100 وات حمضيات",
+    "name": "Heinrichs عصارة حمضيات 100وات",
     "specs": {
       "watt": "100",
       "type": "حمضيات"
@@ -1836,7 +1836,7 @@
   {
     "asin": "B0CFXB35C3",
     "brand": "Rekix",
-    "name": "Rekix حمضيات",
+    "name": "Rekix عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -1858,7 +1858,7 @@
   {
     "asin": "B0HBYMG3BY",
     "brand": "غير محدد",
-    "name": "Castle JC1460SL 1400W Titanium Blades Electric Juicer, 1 Liter Capacity, Silver",
+    "name": "عصارة 1400وات",
     "specs": {
       "watt": "1400"
     },
@@ -1880,7 +1880,7 @@
   {
     "asin": "B0HL5MGXWR",
     "brand": "غير محدد",
-    "name": "Silverlove Electric Citrus Orange Juicer 70W 700ml Copper Motor with Dual | 70W Copper Motor, Dual Rotati",
+    "name": "Silverlove عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -1902,7 +1902,7 @@
   {
     "asin": "B07DLCZT11",
     "brand": "Kuvings",
-    "name": "Kuvings بطيء (B1700)",
+    "name": "Kuvings عصارة بطيء",
     "specs": {
       "type": "بطيء"
     },
@@ -1924,7 +1924,7 @@
   {
     "asin": "B07XB6GM1Z",
     "brand": "غير محدد",
-    "name": "Hand squeezer,premium quality metal aluminum alloy lemon squeezer, manual citrus press juicer, lemon lime",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -1946,7 +1946,7 @@
   {
     "asin": "B089SG2JM7",
     "brand": "Houzemann",
-    "name": "Houzemann حمضيات",
+    "name": "Manual عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -1968,7 +1968,7 @@
   {
     "asin": "B0D8PPQPN2",
     "brand": "Caso",
-    "name": "Caso بطيء",
+    "name": "CASO عصارة بطيء",
     "specs": {
       "type": "بطيء"
     },
@@ -1990,7 +1990,7 @@
   {
     "asin": "B0CW5Z9VLM",
     "brand": "HuuppHip",
-    "name": "HuuppHip حمضيات",
+    "name": "HuuppHip عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2012,7 +2012,7 @@
   {
     "asin": "B0GH174Y41",
     "brand": "غير محدد",
-    "name": "Home 130 Watt Electric Fruit Juicer with Handle, Silver",
+    "name": "عصارة 130وات",
     "specs": {
       "watt": "130"
     },
@@ -2034,7 +2034,7 @@
   {
     "asin": "B0B3VPMPFD",
     "brand": "غير محدد",
-    "name": "Lemon Press, Stainless Steel Juicer, Manual Citrus Juicer, Mini Fruit Juicer, Silver",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2056,7 +2056,7 @@
   {
     "asin": "B0DRZCN6RX",
     "brand": "غير محدد",
-    "name": "Citrus Juicer - Reliable Manual Juicer Made of Strong Stainless Steel, Perfect for Extracting Juice from ",
+    "name": "Citrus عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2078,7 +2078,7 @@
   {
     "asin": "B0DVT6398C",
     "brand": "Winning Star",
-    "name": "Winning Star حمضيات",
+    "name": "Winning عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2100,7 +2100,7 @@
   {
     "asin": "B0DMNQ1JXT",
     "brand": "resome",
-    "name": "resome حمضيات",
+    "name": "resome عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2122,7 +2122,7 @@
   {
     "asin": "B081SRW8JG",
     "brand": "LEGLO",
-    "name": "LEGLO حمضيات",
+    "name": "LEGLO عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2144,7 +2144,7 @@
   {
     "asin": "B0B5WZZDRN",
     "brand": "DUSENHO",
-    "name": "DUSENHO حمضيات",
+    "name": "DUSENHO عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2166,7 +2166,7 @@
   {
     "asin": "B0HBLBHPWM",
     "brand": "غير محدد",
-    "name": "Portable Electric Citrus Juicer for Orange and Lemon Easy to Clean, Suitable for Multiple Fruits, Modern ",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2188,7 +2188,7 @@
   {
     "asin": "B0D2W5G57M",
     "brand": "katmerio",
-    "name": "katmerio حمضيات",
+    "name": "katmerio عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2210,7 +2210,7 @@
   {
     "asin": "B087PVPCY1",
     "brand": "Automoness",
-    "name": "Automoness حمضيات",
+    "name": "Automoness عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2232,7 +2232,7 @@
   {
     "asin": "B0C9ZSYBZH",
     "brand": "Nicehelper",
-    "name": "Nicehelper حمضيات",
+    "name": "Nicehelper عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2254,7 +2254,7 @@
   {
     "asin": "B06XRRVX6D",
     "brand": "غير محدد",
-    "name": "Alloy lemon squeezer - heavy duty hand press fruit juicer - detachable lemon lime squeezer manual citrus ",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2276,7 +2276,7 @@
   {
     "asin": "B0D33MHSSK",
     "brand": "MOUSIKI",
-    "name": "MOUSIKI حمضيات",
+    "name": "MOUSIKI عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2298,7 +2298,7 @@
   {
     "asin": "B0GGZWF63K",
     "brand": "غير محدد",
-    "name": "Home 300 Watt Electric Fruit Juicer with Handle, Silver",
+    "name": "عصارة 300وات",
     "specs": {
       "watt": "300"
     },
@@ -2320,7 +2320,7 @@
   {
     "asin": "B08836R19Q",
     "brand": "غير محدد",
-    "name": "Other Manual fruit juicer upgraded heavy duty lemon lime squeezer citrus press detachable hand juicer pre",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2342,7 +2342,7 @@
   {
     "asin": "B08CT9Y4FJ",
     "brand": "MONKKINO",
-    "name": "MONKKINO حمضيات",
+    "name": "Monkkino عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2364,7 +2364,7 @@
   {
     "asin": "B0DRZBLM3J",
     "brand": "غير محدد",
-    "name": "Citrus Juicer - High Quality Manual Juicer Made of Stainless Steel, Ergonomic Handle and Fine Strainer fo",
+    "name": "Citrus عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -2386,7 +2386,7 @@
   {
     "asin": "B0CN58GQPV",
     "brand": "iStarcas",
-    "name": "Lemon squeezer, manual juicer, efficient and easy juice | Easy to squeeze, side pivot to increase leverag",
+    "name": "Lemon عصارة",
     "specs": {},
     "model": "",
     "title": "Lemon squeezer, manual juicer, efficient and easy juice | Easy to squeeze, side pivot to increase leverage, flat fold, easy to put on, easy to clean",
@@ -2406,7 +2406,7 @@
   {
     "asin": "B0GM957R3C",
     "brand": "غير محدد",
-    "name": "Masticating Juicer with 83mm Wide Feed Chute, Cold Press Juicing Machine for Whole Fruits and Vegetables,",
+    "name": "Masticating عصارة",
     "specs": {},
     "model": "",
     "title": "Masticating Juicer with 83mm Wide Feed Chute, Cold Press Juicing Machine for Whole Fruits and Vegetables, BPA-Free Electric Juicer with Cleaning Brush",
@@ -2426,7 +2426,7 @@
   {
     "asin": "B0DFCSWDCL",
     "brand": "غير محدد",
-    "name": "DSP KJ1075, Electric Juicer - Green, 40Watt, 400 ML",
+    "name": "عصارة",
     "specs": {},
     "model": "KJ1075",
     "title": "DSP KJ1075, Electric Juicer - Green, 40Watt, 400 ML",
@@ -2446,7 +2446,7 @@
   {
     "asin": "B0HJV91CXZ",
     "brand": "غير محدد",
-    "name": "Manual Juicer 2-in-1 Fruit Press and Ice Cream Maker with Spiral Auger",
+    "name": "Manual عصارة",
     "specs": {},
     "model": "",
     "title": "Manual Juicer 2-in-1 Fruit Press and Ice Cream Maker with Spiral Auger",
@@ -2466,7 +2466,7 @@
   {
     "asin": "B0CWF7MK7M",
     "brand": "غير محدد",
-    "name": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (Grey)",
+    "name": "Mantual عصارة",
     "specs": {},
     "model": "GREY",
     "title": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (Grey)",
@@ -2486,7 +2486,7 @@
   {
     "asin": "B09TKMJ1C2",
     "brand": "STOVEORAMA",
-    "name": "Stoveorama Heavy Duty Hand Press Juicer Manual Fruit Juicer Portable Juice Presser Hand Juicer For Pomegr",
+    "name": "Stoveorama عصارة",
     "specs": {},
     "model": "",
     "title": "Stoveorama Heavy Duty Hand Press Juicer Manual Fruit Juicer Portable Juice Presser Hand Juicer For Pomegranates Lemon-Lime Squeezer Lemons, Oranges, and More",
@@ -2506,7 +2506,7 @@
   {
     "asin": "B0F7M8XT62",
     "brand": "Canoly",
-    "name": "Canoly C16 Cold Press Juicer, 6\" Extra Wide Feed Chute with Dual Strainers (Juice & Sorbet), Powerful AC ",
+    "name": "Canoly عصارة",
     "specs": {},
     "model": "C16",
     "title": "Canoly C16 Cold Press Juicer, 6\" Extra Wide Feed Chute with Dual Strainers (Juice & Sorbet), Powerful AC Brushless Motor, Self Precut System, Juicer Machines with BPA Free (Space Gray)",
@@ -2526,7 +2526,7 @@
   {
     "asin": "B0HK1DHPY5",
     "brand": "غير محدد",
-    "name": "Manual 2-in-1 Juicer and Ice Cream Maker Spiral Press Fruit Veggie",
+    "name": "Manual عصارة",
     "specs": {},
     "model": "",
     "title": "Manual 2-in-1 Juicer and Ice Cream Maker Spiral Press Fruit Veggie",
@@ -2546,7 +2546,7 @@
   {
     "asin": "B09NNYHY61",
     "brand": "غير محدد",
-    "name": "Fruit juicer,Aluminium Manual Juicer Alloy Fruit Hand Squeezer Heavy Duty Lemon Orange Juicer Manual Frui",
+    "name": "Fruit عصارة",
     "specs": {},
     "model": "LN-RLTZ-VVP2",
     "title": "Fruit juicer,Aluminium Manual Juicer Alloy Fruit Hand Squeezer Heavy Duty Lemon Orange Juicer Manual Fruit Press Squeezer Fruit Juicer Extractor Tool (LN-RLTZ-VVP2)",
@@ -2566,7 +2566,7 @@
   {
     "asin": "B0CWF8L6KN",
     "brand": "غير محدد",
-    "name": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (Orange)",
+    "name": "Mantual عصارة",
     "specs": {},
     "model": "ORANGE",
     "title": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (Orange)",
@@ -2586,7 +2586,7 @@
   {
     "asin": "B087RG8GZJ",
     "brand": "DRAMA HOME",
-    "name": "Generic Lemon Squeezer Manual Fruit Juicer Lemon Orange Juicer Simple Durable Stainless Steel",
+    "name": "عصارة",
     "specs": {},
     "model": "",
     "title": "Generic Lemon Squeezer Manual Fruit Juicer Lemon Orange Juicer Simple Durable Stainless Steel",
@@ -2606,7 +2606,7 @@
   {
     "asin": "B09MN5GL31",
     "brand": "غير محدد",
-    "name": "Stainless Steel Hand Fruit Juice - Elegant Design - Silver",
+    "name": "عصارة",
     "specs": {},
     "model": "",
     "title": "Stainless Steel Hand Fruit Juice - Elegant Design - Silver",
@@ -2626,7 +2626,7 @@
   {
     "asin": "B0CWF6YQLS",
     "brand": "غير محدد",
-    "name": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (Black)",
+    "name": "Mantual عصارة",
     "specs": {},
     "model": "BLACK",
     "title": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (Black)",
@@ -2646,7 +2646,7 @@
   {
     "asin": "B06Y395RP8",
     "brand": "TEERFU",
-    "name": "TEERFU Manual Lemon Squeezer,Stainless Steel Kitchen Hand Press Manual Juicer, Lemon Orange Lime Squeezer",
+    "name": "TEERFU عصارة",
     "specs": {},
     "model": "",
     "title": "TEERFU Manual Lemon Squeezer,Stainless Steel Kitchen Hand Press Manual Juicer, Lemon Orange Lime Squeezer",
@@ -2666,7 +2666,7 @@
   {
     "asin": "B0GPKWY9TX",
     "brand": "Next store",
-    "name": "Next Store Portable Stainless Steel Manual Juicer Lemon Orange Juicer Heavy Duty Manual Fruit Vegetable J",
+    "name": "Next عصارة",
     "specs": {},
     "model": "",
     "title": "Next Store Portable Stainless Steel Manual Juicer Lemon Orange Juicer Heavy Duty Manual Fruit Vegetable Juicer for Healthy Juice, Cocktails, Cooking",
@@ -2686,7 +2686,7 @@
   {
     "asin": "B0CWF6QX5P",
     "brand": "غير محدد",
-    "name": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (White)",
+    "name": "Mantual عصارة",
     "specs": {},
     "model": "WHITE",
     "title": "Mantual Acrylic Orange juicer,Orange Squeezer And Jug 2 IN 1-1 Piece Random Color (White)",
@@ -2706,7 +2706,7 @@
   {
     "asin": "B0FGWTVN2Q",
     "brand": "Tolido",
-    "name": "Tolido Lemon with Mint Powder Juice - 500 gm (Pack of 2)",
+    "name": "Tolido عصارة",
     "specs": {},
     "model": "",
     "title": "Tolido Lemon with Mint Powder Juice - 500 gm (Pack of 2)",
@@ -2726,7 +2726,7 @@
   {
     "asin": "B0BRB8S51T",
     "brand": "Pasabahce",
-    "name": "Pasabahce Juice and Water Cups Set of 6 - Bolero- 230 ml - Turkey Origin",
+    "name": "Pasabahce عصارة",
     "specs": {},
     "model": "",
     "title": "Pasabahce Juice and Water Cups Set of 6 - Bolero- 230 ml - Turkey Origin",
@@ -2746,7 +2746,7 @@
   {
     "asin": "B0DTYMCLKG",
     "brand": "Ginger Shot",
-    "name": "Ginger Shot Premium Ginger Drink Natural Ginger Honey Lemon Juice 30ml (16)",
+    "name": "Ginger عصارة",
     "specs": {},
     "model": "",
     "title": "Ginger Shot Premium Ginger Drink Natural Ginger Honey Lemon Juice 30ml (16)",
@@ -2766,7 +2766,7 @@
   {
     "asin": "B0BRBC16D7",
     "brand": "Pasabahce",
-    "name": "Pasabahce Large Juice Cups Set of 6 - Bolero- 320 ml - Turkey Originâ€¦",
+    "name": "Pasabahce عصارة",
     "specs": {},
     "model": "",
     "title": "Pasabahce Large Juice Cups Set of 6 - Bolero- 320 ml - Turkey Originâ€¦",
@@ -2786,7 +2786,7 @@
   {
     "asin": "B0G6FMN2Y4",
     "brand": "غير محدد",
-    "name": "Cups set of 6 pieces, hexagonal lines for juices (Ribbed juice mug 300ml 6pcs)",
+    "name": "Cups عصارة",
     "specs": {},
     "model": "",
     "title": "Cups set of 6 pieces, hexagonal lines for juices (Ribbed juice mug 300ml 6pcs)",
@@ -2806,7 +2806,7 @@
   {
     "asin": "B0GYMP2H38",
     "brand": "غير محدد",
-    "name": "Cups set of 6 pieces, hexagonal lines for juices (Lorita 300 ml)",
+    "name": "Cups عصارة",
     "specs": {},
     "model": "",
     "title": "Cups set of 6 pieces, hexagonal lines for juices (Lorita 300 ml)",
@@ -2826,7 +2826,7 @@
   {
     "asin": "B0CDPTNVKQ",
     "brand": "غير محدد",
-    "name": "Square Heavy Juice Water Cups for Wine, Beer, Cocktails, Mixed Drinks",
+    "name": "Square عصارة",
     "specs": {},
     "model": "",
     "title": "Square Heavy Juice Water Cups for Wine, Beer, Cocktails, Mixed Drinks",
@@ -2846,7 +2846,7 @@
   {
     "asin": "B098TV214P",
     "brand": "Pasabahce",
-    "name": "Pasabahce set of 6 longdrink juice cups 290 ml -turkey made",
+    "name": "Pasabahce عصارة",
     "specs": {},
     "model": "",
     "title": "Pasabahce set of 6 longdrink juice cups 290 ml -turkey made",
@@ -2866,7 +2866,7 @@
   {
     "asin": "B0GQP77M44",
     "brand": "غير محدد",
-    "name": "Acrylic Juice Jug with 2 Cups, 1.8 Liter Capacity, Durable Handle, 2-Way Lid, Refrigerator and Dishwasher",
+    "name": "Acrylic عصارة",
     "specs": {},
     "model": "",
     "title": "Acrylic Juice Jug with 2 Cups, 1.8 Liter Capacity, Durable Handle, 2-Way Lid, Refrigerator and Dishwasher Safe-Clear",
@@ -2886,7 +2886,7 @@
   {
     "asin": "B0BRB87TDQ",
     "brand": "Pasabahce",
-    "name": "Pasabahce Large Juice Cups Set of 6 - Barrel- 500 ml - Turkey Origin",
+    "name": "Pasabahce عصارة",
     "specs": {},
     "model": "",
     "title": "Pasabahce Large Juice Cups Set of 6 - Barrel- 500 ml - Turkey Origin",
@@ -2906,7 +2906,7 @@
   {
     "asin": "B0F5QNDKK4",
     "brand": "غير محدد",
-    "name": "Large Juice and Water Glasses – Set of 6 Durable Drinking Cups – Ideal for Everyday Use, Parties, and Ent",
+    "name": "Large عصارة",
     "specs": {},
     "model": "",
     "title": "Large Juice and Water Glasses – Set of 6 Durable Drinking Cups – Ideal for Everyday Use, Parties, and Entertaining",
@@ -2926,7 +2926,7 @@
   {
     "asin": "B0BVGK4P8R",
     "brand": "H-Home",
-    "name": "Manual Water/juice Dispenser, holder for all gallons and bottles sizes",
+    "name": "Manual عصارة",
     "specs": {},
     "model": "",
     "title": "Manual Water/juice Dispenser, holder for all gallons and bottles sizes",
@@ -2946,7 +2946,7 @@
   {
     "asin": "B0F7JVXPFR",
     "brand": "غير محدد",
-    "name": "Small Plastic Bottles Set – Pack of 25 – Clear with Secure Cap – Ideal for Juices, Oils, Liquids & Sample",
+    "name": "Small عصارة",
     "specs": {},
     "model": "",
     "title": "Small Plastic Bottles Set – Pack of 25 – Clear with Secure Cap – Ideal for Juices, Oils, Liquids & Samples (125)",
@@ -2966,7 +2966,7 @@
   {
     "asin": "B0F9VL1XDZ",
     "brand": "OVA",
-    "name": "Portal Drinkware Ribbed Shape, Dishwasher Safe, For Juice, Parties and Picnics, Set of 6",
+    "name": "Portal عصارة",
     "specs": {},
     "model": "",
     "title": "Portal Drinkware Ribbed Shape, Dishwasher Safe, For Juice, Parties and Picnics, Set of 6",
@@ -2986,7 +2986,7 @@
   {
     "asin": "B0BM6DJV5F",
     "brand": "Egypt",
-    "name": "جلسات نفسية حتى تصل إلى السكينة د. محمد إبراهيم دار عصير الكتب ‎‎‎كتاب Arabic Book Paperback Novel Dr Moh",
+    "name": "جلسات عصارة",
     "specs": {},
     "model": "",
     "title": "جلسات نفسية حتى تصل إلى السكينة د. محمد إبراهيم دار عصير الكتب ‎‎‎كتاب Arabic Book Paperback Novel Dr Mohamed Ibrahim Psychological Sessions Until You Reach Peace DAR Easir Alkutub",
@@ -3006,7 +3006,7 @@
   {
     "asin": "B0H84G27R2",
     "brand": "غير محدد",
-    "name": "Cold Water Jug Juice Milk Cold Carafe Juice Jar for Milk Coffee Refrigerator with Cups",
+    "name": "Cold عصارة",
     "specs": {},
     "model": "",
     "title": "Cold Water Jug Juice Milk Cold Carafe Juice Jar for Milk Coffee Refrigerator with Cups",
@@ -3026,7 +3026,7 @@
   {
     "asin": "B0GYMQD745",
     "brand": "غير محدد",
-    "name": "Cups set of 6 pieces, hexagonal lines for juices (Sofia 330 ml)",
+    "name": "Cups عصارة",
     "specs": {},
     "model": "",
     "title": "Cups set of 6 pieces, hexagonal lines for juices (Sofia 330 ml)",
@@ -3046,7 +3046,7 @@
   {
     "asin": "B0BRBGZ9DF",
     "brand": "Pasabahce",
-    "name": "Pasabahce Juice Cups Set of 6 - Ambassador- 260 ml - Turkey Origin",
+    "name": "Pasabahce عصارة",
     "specs": {},
     "model": "",
     "title": "Pasabahce Juice Cups Set of 6 - Ambassador- 260 ml - Turkey Origin",
@@ -3066,7 +3066,7 @@
   {
     "asin": "B07PKF9V8F",
     "brand": "براون",
-    "name": "Braun Multiquick 7 Juice Extractor - J700, Grey, Stainless Steel Material",
+    "name": "براون عصارة",
     "specs": {},
     "model": "J700",
     "title": "Braun Multiquick 7 Juice Extractor - J700, Grey, Stainless Steel Material",
@@ -3086,7 +3086,7 @@
   {
     "asin": "B00KM2IJYU",
     "brand": "براون",
-    "name": "براون 800 وات (J300)",
+    "name": "براون عصارة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -3108,7 +3108,7 @@
   {
     "asin": "B07FC7X9WN",
     "brand": "Sunhanny",
-    "name": "Sunhanny حمضيات",
+    "name": "Sunhanny عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3130,7 +3130,7 @@
   {
     "asin": "B007JTAWLM",
     "brand": "براون",
-    "name": "براون حمضيات",
+    "name": "براون عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3152,7 +3152,7 @@
   {
     "asin": "B0HBR623B6",
     "brand": "أرشيا",
-    "name": "أرشيا 300 وات حمضيات",
+    "name": "أرشيا عصارة حمضيات 300وات",
     "specs": {
       "watt": "300",
       "type": "حمضيات"
@@ -3175,7 +3175,7 @@
   {
     "asin": "B08GLBQP6F",
     "brand": "Touch Elzenouki",
-    "name": "Touch Elzenouki 100 وات حمضيات",
+    "name": "Touch عصارة حمضيات 100وات",
     "specs": {
       "watt": "100",
       "type": "حمضيات"
@@ -3198,7 +3198,7 @@
   {
     "asin": "B0HBRKM3V6",
     "brand": "أرشيا",
-    "name": "أرشيا بطيء",
+    "name": "أرشيا عصارة بطيء",
     "specs": {
       "type": "بطيء"
     },
@@ -3220,7 +3220,7 @@
   {
     "asin": "B08GL9HFFC",
     "brand": "Touch Elzenouki",
-    "name": "Touch Elzenouki حمضيات",
+    "name": "Touch عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3242,7 +3242,7 @@
   {
     "asin": "B091BPHZDF",
     "brand": "غير محدد",
-    "name": "Stainless Steel Fruit Squeeze Juicer For Lemon And Orange",
+    "name": "Stainless عصارة",
     "specs": {},
     "model": "",
     "title": "Stainless Steel Fruit Squeeze Juicer For Lemon And Orange",
@@ -3262,7 +3262,7 @@
   {
     "asin": "B0CZGM8PGC",
     "brand": "RAF",
-    "name": "RAF Orange Juicer R.625, 45 Watt, 220v, 50Hz, White",
+    "name": "RAF عصارة",
     "specs": {},
     "model": "",
     "title": "RAF Orange Juicer R.625, 45 Watt, 220v, 50Hz, White",
@@ -3282,7 +3282,7 @@
   {
     "asin": "B0GYS6GT5Y",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3304,7 +3304,7 @@
   {
     "asin": "B0DPNHCFJK",
     "brand": "غير محدد",
-    "name": "Manual Lemon Orange Juicer Press and Twist Handle for Easy Use Directly, Manual Citrus Juicer Squeezer to",
+    "name": "Manual عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3326,7 +3326,7 @@
   {
     "asin": "B0895MSB2R",
     "brand": "Fuxinghao",
-    "name": "Fuxinghao حمضيات",
+    "name": "Fuxinghao عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3348,7 +3348,7 @@
   {
     "asin": "B0B24YRJQ2",
     "brand": "غير محدد",
-    "name": "Manual Juicer Stainless Steel Citrus Juicer Manual Juicer Lemon Orange Juicer Pomegranate Juicer",
+    "name": "Manual عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3370,7 +3370,7 @@
   {
     "asin": "B0BW6MVTNT",
     "brand": "غير محدد",
-    "name": "one year warranty_Stainless Steel - Hand Juicer",
+    "name": "one عصارة",
     "specs": {},
     "model": "",
     "title": "one year warranty_Stainless Steel - Hand Juicer",
@@ -3390,7 +3390,7 @@
   {
     "asin": "B0G46631ND",
     "brand": "جاماكي",
-    "name": "جاماكي حمضيات",
+    "name": "جاماكي عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3412,7 +3412,7 @@
   {
     "asin": "B0DVRLHJ9N",
     "brand": "Winning Star",
-    "name": "Winning Star 4 In 1 Multifunctional Juicer St-5376",
+    "name": "Winning عصارة",
     "specs": {},
     "model": "",
     "title": "Winning Star 4 In 1 Multifunctional Juicer St-5376",
@@ -3432,7 +3432,7 @@
   {
     "asin": "B0F43VZSM1",
     "brand": "TUUMIIST",
-    "name": "TUUMIIST طرد مركزي",
+    "name": "XXL عصارة طردمركزي",
     "specs": {
       "type": "طرد مركزي"
     },
@@ -3454,7 +3454,7 @@
   {
     "asin": "B0HJRW4MGY",
     "brand": "غير محدد",
-    "name": "2-in-1 Manual Juicer & Ice Cream Maker Spiral Fruit Vegetable Press",
+    "name": "2-in-1 عصارة",
     "specs": {},
     "model": "",
     "title": "2-in-1 Manual Juicer & Ice Cream Maker Spiral Fruit Vegetable Press",
@@ -3474,7 +3474,7 @@
   {
     "asin": "B0DZTQTL1J",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3496,7 +3496,7 @@
   {
     "asin": "B0H954728Z",
     "brand": "Next store",
-    "name": "Next store 4 in 1 Orange Lemon Juicer - Modern Acrylic Hand Juicer - Stainless Steel Cheese Grater and Fr",
+    "name": "Next عصارة",
     "specs": {},
     "model": "",
     "title": "Next store 4 in 1 Orange Lemon Juicer - Modern Acrylic Hand Juicer - Stainless Steel Cheese Grater and Fruit Peel with Insert Bowl and Juice Seed Filter",
@@ -3516,7 +3516,7 @@
   {
     "asin": "B08YNNYCKV",
     "brand": "غير محدد",
-    "name": "Stainless steel - hand juicer",
+    "name": "Stainless عصارة",
     "specs": {},
     "model": "",
     "title": "Stainless steel - hand juicer",
@@ -3536,7 +3536,7 @@
   {
     "asin": "B0CBGFJCQ8",
     "brand": "Aluminum",
-    "name": "Aluminum حمضيات",
+    "name": "Aluminum عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3558,7 +3558,7 @@
   {
     "asin": "B0B17CT838",
     "brand": "Spaceshoop",
-    "name": "Generic Premium Stainless Steel Manual Juicer, Heavy Duty Fruit Press Squeezer, Easy Use, Rust Resistant",
+    "name": "عصارة",
     "specs": {},
     "model": "",
     "title": "Generic Premium Stainless Steel Manual Juicer, Heavy Duty Fruit Press Squeezer, Easy Use, Rust Resistant",
@@ -3578,7 +3578,7 @@
   {
     "asin": "B0F2HP7JM9",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3600,7 +3600,7 @@
   {
     "asin": "B0BRV4W4WR",
     "brand": "Lapras",
-    "name": "Lapras حمضيات",
+    "name": "Lapras عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3622,7 +3622,7 @@
   {
     "asin": "B09WQKX9JB",
     "brand": "Migecon",
-    "name": "Migecon حمضيات",
+    "name": "Citrus عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3644,7 +3644,7 @@
   {
     "asin": "B0DRZ9VK4W",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3666,7 +3666,7 @@
   {
     "asin": "B0B1BGPD62",
     "brand": "غير محدد",
-    "name": "Heavy Duty Lemon Hand Juicer, Luxury Metal Lemon Orange, Citrus Juicer, Hand Juicer, Easy To Use and Clea",
+    "name": "Heavy عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3688,7 +3688,7 @@
   {
     "asin": "B0BSTDRQ2M",
     "brand": "Spaceshoop",
-    "name": "Orange Jumbo Juicer Aluminum Stainless Steel Lux Material Tell",
+    "name": "Orange عصارة",
     "specs": {},
     "model": "",
     "title": "Orange Jumbo Juicer Aluminum Stainless Steel Lux Material Tell",
@@ -3708,7 +3708,7 @@
   {
     "asin": "B00E2HT2Z6",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop حمضيات",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3730,7 +3730,7 @@
   {
     "asin": "B0D5DFL4BW",
     "brand": "غير محدد",
-    "name": "Generic Acrylic 2-in-1 Manual Orange Juicer",
+    "name": "عصارة",
     "specs": {},
     "model": "",
     "title": "Generic Acrylic 2-in-1 Manual Orange Juicer",
@@ -3750,7 +3750,7 @@
   {
     "asin": "B0BFRKB3ZB",
     "brand": "Biki",
-    "name": "Biki حمضيات",
+    "name": "Biki عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3772,7 +3772,7 @@
   {
     "asin": "B07K3TZ479",
     "brand": "OldPAPA",
-    "name": "OldPAPA حمضيات",
+    "name": "Manual عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3794,7 +3794,7 @@
   {
     "asin": "B0DKG4JKH8",
     "brand": "غير محدد",
-    "name": "Citrus Juicer, Manual Juicer for Orange and Lemon Squeezer, Rotating Press Press with Anti-Slip Cover Tra",
+    "name": "Citrus عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3816,7 +3816,7 @@
   {
     "asin": "B092LQ4FPF",
     "brand": "yaohuishanghang",
-    "name": "yaohuishanghang Lemon press Aluminum Alloy Stainless Steel Juicer Manual Fruit Squeezer Kitchen Tools Gad",
+    "name": "yaohuishanghang عصارة",
     "specs": {},
     "model": "",
     "title": "yaohuishanghang Lemon press Aluminum Alloy Stainless Steel Juicer Manual Fruit Squeezer Kitchen Tools Gadgets Manual Processors manual juicer",
@@ -3836,7 +3836,7 @@
   {
     "asin": "B0CBGGR2XY",
     "brand": "غير محدد",
-    "name": "Lemon Juicer Squeezer Manual Citrus Lime Squeezer Juicer Manual Lemon Squeezer Heavy Duty Lemon Fruit Squ",
+    "name": "Lemon عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3858,7 +3858,7 @@
   {
     "asin": "B0DHS4684Q",
     "brand": "Juypal Hogar",
-    "name": "Juypal Hogar حمضيات",
+    "name": "Juypal عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3880,7 +3880,7 @@
   {
     "asin": "B0DZTT196K",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3902,7 +3902,7 @@
   {
     "asin": "B08XWBF1N2",
     "brand": "غير محدد",
-    "name": "Manual Juicer Stainless Steel Portable, Lemon Orange Squeezer Manual Heavy Duty Fruit and Vegetable Juice",
+    "name": "Manual عصارة",
     "specs": {},
     "model": "",
     "title": "Manual Juicer Stainless Steel Portable, Lemon Orange Squeezer Manual Heavy Duty Fruit and Vegetable Juicer for Healthy Juicing, Cocktails, Cooking",
@@ -3922,7 +3922,7 @@
   {
     "asin": "B0DHRXXH9Q",
     "brand": "Juypal Hogar",
-    "name": "Juypal Hogar حمضيات",
+    "name": "Juypal عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3944,7 +3944,7 @@
   {
     "asin": "B0F2HNZZRV",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3966,7 +3966,7 @@
   {
     "asin": "B0DHS4VFZH",
     "brand": "Juypal Hogar",
-    "name": "Juypal Hogar حمضيات",
+    "name": "Juypal عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -3988,7 +3988,7 @@
   {
     "asin": "B08YF7NFFK",
     "brand": "غير محدد",
-    "name": "VDHJA Stainless Steel Manual Fruit Juicer Hand juicer, Fruit juicer Manual juicer Instant juicer Orange j",
+    "name": "VDHJA عصارة",
     "specs": {},
     "model": "",
     "title": "VDHJA Stainless Steel Manual Fruit Juicer Hand juicer, Fruit juicer Manual juicer Instant juicer Orange juicer, Steel Handle Juicer | Manual Lemon Juicer (Aluminium, Pack of -1)",
@@ -4008,7 +4008,7 @@
   {
     "asin": "B09KMCV16M",
     "brand": "Toshionics",
-    "name": "Toshionics حمضيات",
+    "name": "Toshionics عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4030,7 +4030,7 @@
   {
     "asin": "B0GV7YLM6Q",
     "brand": "Nopatia",
-    "name": "Nopatia حمضيات",
+    "name": "Nopatia عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4052,7 +4052,7 @@
   {
     "asin": "B08T9CRCCP",
     "brand": "غير محدد",
-    "name": "In-house lemon squeezer - heavy duty hand press fruit juicer - manual lime citrus press squeezer (color :",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4074,7 +4074,7 @@
   {
     "asin": "B0DSQ7T2H5",
     "brand": "غير محدد",
-    "name": "Manual Citrus Juicer, Heavy-Duty Metal Orange Squeezer, Silver",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4096,7 +4096,7 @@
   {
     "asin": "B0CVV8YLS2",
     "brand": "غير محدد",
-    "name": "Lemon Squeezer, Lime Citrus Fruit Juicer, Zinc Alloy Citrus Juicers for Lemons, Lime, Fruits, Juicing (Si",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4118,7 +4118,7 @@
   {
     "asin": "B0FFTHXFNK",
     "brand": "غير محدد",
-    "name": "Manual Lemon Squeezer - Premium Citrus Press Juicer for Effortless Lime & Lemon Extraction, Ideal for Fru",
+    "name": "Manual عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4140,7 +4140,7 @@
   {
     "asin": "B0CBGFZK12",
     "brand": "غير محدد",
-    "name": "Lemon Juicer Squeezer Manual Citrus Lime Squeezer Juicer Manual Lemon Squeezer Heavy Duty Lemon Fruit Squ",
+    "name": "Lemon عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4162,7 +4162,7 @@
   {
     "asin": "B0F1DG2Y4Q",
     "brand": "غير محدد",
-    "name": "Citrus Juicer - Stainless Steel Manual Juicer for Lemon and Orange, Durable and Effective with High Juice",
+    "name": "Citrus عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4184,7 +4184,7 @@
   {
     "asin": "B0DRZD5482",
     "brand": "فريش",
-    "name": "فريش حمضيات",
+    "name": "فريش عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4206,7 +4206,7 @@
   {
     "asin": "B0CS9QNLGP",
     "brand": "غير محدد",
-    "name": "Stainless steel orange - portakal and Lemon juicer squeezer hand manual - hand juice lemon squeezers pres",
+    "name": "Stainless عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4228,7 +4228,7 @@
   {
     "asin": "B0CKZH8BG7",
     "brand": "bama",
-    "name": "bama حمضيات",
+    "name": "Bama عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4250,7 +4250,7 @@
   {
     "asin": "B09KGX8DXX",
     "brand": "AUTOYSUR",
-    "name": "AUTOYSUR حمضيات",
+    "name": "Lemon عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4272,7 +4272,7 @@
   {
     "asin": "B0CNSM3RGB",
     "brand": "جاماكي",
-    "name": "جاماكي حمضيات",
+    "name": "جاماكي عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4294,7 +4294,7 @@
   {
     "asin": "B0FFTCX4MP",
     "brand": "DOMESTICA",
-    "name": "DOMESTICA بطيء",
+    "name": "DOMESTICA عصارة بطيء",
     "specs": {
       "type": "بطيء"
     },
@@ -4316,7 +4316,7 @@
   {
     "asin": "B0F7W1CM14",
     "brand": "فريش",
-    "name": "Jambolaki Stainless Steel Fruit Juicer (4000W) for fresh juice preparation – Model JMK4027 – Full 1-Year ",
+    "name": "فريش عصارة",
     "specs": {},
     "model": "4000W",
     "title": "Jambolaki Stainless Steel Fruit Juicer (4000W) for fresh juice preparation – Model JMK4027 – Full 1-Year Warranty.",
@@ -4336,7 +4336,7 @@
   {
     "asin": "B0GDS6MXLZ",
     "brand": "غير محدد",
-    "name": "Slow Juicer Fruit & Vegetable Juicer – 250W Motor – 130mm Wide Feed Opening – Triple Filtration System – ",
+    "name": "Slow عصارة بطيء 250وات",
     "specs": {
       "watt": "250",
       "type": "بطيء"
@@ -4359,7 +4359,7 @@
   {
     "asin": "B0H1SNT12R",
     "brand": "غير محدد",
-    "name": "Manual Citrus Juicer | Manual Jumbo Orange Juicer – Durable Aluminum Fruit Juicer for Orange and Lemon Ju",
+    "name": "Manual عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4381,7 +4381,7 @@
   {
     "asin": "B0F1MYTQDX",
     "brand": "غير محدد",
-    "name": "Citrus Juicer for orange and lemon, safe and permanent kitchen tool for home, use of the restaurant, 20 c",
+    "name": "Citrus عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4403,7 +4403,7 @@
   {
     "asin": "B0F2HNXYCL",
     "brand": "غير محدد",
-    "name": "Squeezer Tool - Easy-to-Use Citrus Juicer for Bars, Cocktails, and Lemonade (3 piece of the color shown)",
+    "name": "Squeezer عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4425,7 +4425,7 @@
   {
     "asin": "B0B12Y1CQS",
     "brand": "غير محدد",
-    "name": "Stainless Steel Citrus Squeezer, Aluminum Alloy Manual Juicer Pomegranate Juice Squeezer, Lemon Squeezer ",
+    "name": "Stainless عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4447,7 +4447,7 @@
   {
     "asin": "B089MDPDZG",
     "brand": "DRAMA HOME",
-    "name": "DRAMA HOME حمضيات",
+    "name": "AIQI عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4469,7 +4469,7 @@
   {
     "asin": "B0CJQ8YTJ8",
     "brand": "Smeg",
-    "name": "Smeg حمضيات (CJF11BLUK)",
+    "name": "Smeg عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4491,7 +4491,7 @@
   {
     "asin": "B0BL1FJS9L",
     "brand": "سوكاني",
-    "name": "سوكاني حمضيات (WK-627)",
+    "name": "سوكاني عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4513,7 +4513,7 @@
   {
     "asin": "B0CBGF44NC",
     "brand": "Spaceshoop",
-    "name": "Stainless steel manual juicer- detachable & easy clean, alloy fruit hand squeezer- adjustable, heavy duty",
+    "name": "Stainless عصارة",
     "specs": {},
     "model": "ETC140009",
     "title": "Stainless steel manual juicer- detachable & easy clean, alloy fruit hand squeezer- adjustable, heavy duty fruit press squeezer for lemon orange pomegranate etc140009",
@@ -4533,7 +4533,7 @@
   {
     "asin": "B0GV745S1B",
     "brand": "غير محدد",
-    "name": "Generic Stainless Steel Lemon Squeezer, Heavy-Duty, Rust-Resistant, Unbreakable Manual Citrus Juicer, .mk",
+    "name": "عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4555,7 +4555,7 @@
   {
     "asin": "B0BTYX96YK",
     "brand": "غير محدد",
-    "name": "X4CART Aluminium Manual Fruit Juicer - Heavy Duty Hand Press for Lime, Orange, Watermelon - Metal With St",
+    "name": "عصارة",
     "specs": {},
     "model": "SILVER",
     "title": "X4CART Aluminium Manual Fruit Juicer - Heavy Duty Hand Press for Lime, Orange, Watermelon - Metal With Steel Handle (Silver)",
@@ -4575,7 +4575,7 @@
   {
     "asin": "B0DVT5XM47",
     "brand": "Winning Star",
-    "name": "Winning Star حمضيات",
+    "name": "Winning عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4597,7 +4597,7 @@
   {
     "asin": "B0GW9HH2P3",
     "brand": "غير محدد",
-    "name": "DSP Professional Slow Juicer KJ3081, 300W, Whole Fruit Juicer",
+    "name": "عصارة بطيء 300وات",
     "specs": {
       "watt": "300",
       "type": "بطيء"
@@ -4620,7 +4620,7 @@
   {
     "asin": "B0HCC83VFB",
     "brand": "غير محدد",
-    "name": "Manual Lemon Orange Juicer Press and Twist Handle for Easy Use Directly Manual Citrus Juicer Extractor to",
+    "name": "Manual عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4642,7 +4642,7 @@
   {
     "asin": "B0H7N1L474",
     "brand": "Shatoora",
-    "name": "Shatoora حمضيات",
+    "name": "Shatoora عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4664,7 +4664,7 @@
   {
     "asin": "B0DZTQY25C",
     "brand": "فريش",
-    "name": "Portable Juicer - Easy Hand Press Machine for Fresh Juices from Orange, Lemon and Pomegranate, Made of Hi",
+    "name": "فريش عصارة",
     "specs": {},
     "model": "",
     "title": "Portable Juicer - Easy Hand Press Machine for Fresh Juices from Orange, Lemon and Pomegranate, Made of High Quality Aluminum",
@@ -4684,7 +4684,7 @@
   {
     "asin": "B0D4MFSZX2",
     "brand": "غير محدد",
-    "name": "Acrylic Manual Orange Juicer With Non-Slip Lid 500 Ml - Clear Turquoise Le-Marche_066",
+    "name": "Acrylic عصارة",
     "specs": {},
     "model": "",
     "title": "Acrylic Manual Orange Juicer With Non-Slip Lid 500 Ml - Clear Turquoise Le-Marche_066",
@@ -4704,7 +4704,7 @@
   {
     "asin": "B0G7LQK22Q",
     "brand": "غير محدد",
-    "name": "Juicer 2 in 1 - Dual-function kitchen tool that combines a juicer and a fine strainer in a 500ml bowl, a ",
+    "name": "Juicer عصارة",
     "specs": {},
     "model": "",
     "title": "Juicer 2 in 1 - Dual-function kitchen tool that combines a juicer and a fine strainer in a 500ml bowl, a stable silicone base, and an egg yolk separator.",
@@ -4724,7 +4724,7 @@
   {
     "asin": "B0GXWFMGTT",
     "brand": "Homagator",
-    "name": "Homagator حمضيات",
+    "name": "Winning عصارة حمضيات",
     "specs": {
       "type": "حمضيات"
     },
@@ -4746,7 +4746,7 @@
   {
     "asin": "B0DSXYQY6S",
     "brand": "Nama",
-    "name": "NAMA J2 Cold Juicer Squeezer, Automatic Feeding for Hands Free Operation, No-Residue Chewing Squeezer for",
+    "name": "NAMA عصارة",
     "specs": {},
     "model": "",
     "title": "NAMA J2 Cold Juicer Squeezer, Automatic Feeding for Hands Free Operation, No-Residue Chewing Squeezer for More Juice, Less",
@@ -4766,7 +4766,7 @@
   {
     "asin": "B0BHWJ5LLY",
     "brand": "NutriBullet",
-    "name": "NutriBullet 150 وات بطيء",
+    "name": "NutriBullet عصارة بطيء 150وات",
     "specs": {
       "watt": "150",
       "type": "بطيء"
@@ -4789,7 +4789,7 @@
   {
     "asin": "B0HBR6VGGV",
     "brand": "أرشيا",
-    "name": "أرشيا بطيء",
+    "name": "أرشيا عصارة بطيء",
     "specs": {
       "type": "بطيء"
     },
@@ -4811,7 +4811,7 @@
   {
     "asin": "B0F3W54D4T",
     "brand": "غير محدد",
-    "name": "Efficient Juicer - The Most Efficient Juicer on the Market with Cutting-Edge Airtight Features and Oversi",
+    "name": "Efficient عصارة",
     "specs": {},
     "model": "",
     "title": "Efficient Juicer - The Most Efficient Juicer on the Market with Cutting-Edge Airtight Features and Oversized Design for Quick Use",
@@ -4831,7 +4831,7 @@
   {
     "asin": "B07GC76DHD",
     "brand": "Gastroback",
-    "name": "Gastroback 1500 وات",
+    "name": "GASTROBACK عصارة 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -4853,7 +4853,7 @@
   {
     "asin": "B0GTX36LXY",
     "brand": "غير محدد",
-    "name": "طقم كوب عصير 6 قطعه سادة",
+    "name": "عصارة",
     "specs": {},
     "model": "",
     "title": "طقم كوب عصير 6 قطعه سادة",
@@ -4873,7 +4873,7 @@
   {
     "asin": "B0HM81VZG9",
     "brand": "عام",
-    "name": "Paldo Pororo Penguin Zero Apple Flavour Juice Drink – 235ML",
+    "name": "Paldo عصارة",
     "specs": {},
     "model": "",
     "title": "Paldo Pororo Penguin Zero Apple Flavour Juice Drink – 235ML",
@@ -4893,7 +4893,7 @@
   {
     "asin": "B0HM6DJT77",
     "brand": "عام",
-    "name": "OKF Tropical smoothie Juice Drink 350ml - Made in Korea",
+    "name": "OKF عصارة",
     "specs": {},
     "model": "",
     "title": "OKF Tropical smoothie Juice Drink 350ml - Made in Korea",
@@ -4913,7 +4913,7 @@
   {
     "asin": "B0HM5H145J",
     "brand": "عام",
-    "name": "OKF Red Fruit Smoothie Juice Drink 350ml - Made in Korea",
+    "name": "OKF عصارة",
     "specs": {},
     "model": "",
     "title": "OKF Red Fruit Smoothie Juice Drink 350ml - Made in Korea",
@@ -4933,7 +4933,7 @@
   {
     "asin": "B0HM8FMLBM",
     "brand": "عام",
-    "name": "Paldo Pororo Peach Flavor Juice Drink 235ml",
+    "name": "Paldo عصارة",
     "specs": {},
     "model": "",
     "title": "Paldo Pororo Peach Flavor Juice Drink 235ml",
@@ -4953,7 +4953,7 @@
   {
     "asin": "B0CZPR6HF7",
     "brand": "Luminarc",
-    "name": "Luminarc Flame Sparkle Orange 7-Piece Juice Set",
+    "name": "Luminarc عصارة",
     "specs": {},
     "model": "",
     "title": "Luminarc Flame Sparkle Orange 7-Piece Juice Set",
@@ -4973,7 +4973,7 @@
   {
     "asin": "B0H2NMFXGW",
     "brand": "ATTAR AYURVEDA",
-    "name": "Attar Tropical Fruit Juice - 20 Sachets Each 40 gm",
+    "name": "Attar عصارة",
     "specs": {},
     "model": "",
     "title": "Attar Tropical Fruit Juice - 20 Sachets Each 40 gm",
@@ -4993,7 +4993,7 @@
   {
     "asin": "B0CB74L5HV",
     "brand": "Bloom Nutrition",
-    "name": "Bloom Green Juice Powder Strawberry-Kiwi Flavor 181g 30 Services",
+    "name": "Bloom عصارة",
     "specs": {},
     "model": "",
     "title": "Bloom Green Juice Powder Strawberry-Kiwi Flavor 181g 30 Services",
@@ -5013,7 +5013,7 @@
   {
     "asin": "B0HF9HTHYT",
     "brand": "غير محدد",
-    "name": "Generic 370ml Kids' Juice Bottles,Perfect for School,Lunchboxes,Designed for daily use,370ml,Suitable for",
+    "name": "عصارة",
     "specs": {},
     "model": "",
     "title": "Generic 370ml Kids' Juice Bottles,Perfect for School,Lunchboxes,Designed for daily use,370ml,Suitable for juices,cold beverages,Ideal for school,field trips,Set includes 2 bottles .Ais",

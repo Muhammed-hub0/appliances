@@ -2,7 +2,7 @@
   {
     "asin": "B0FQY39L2P",
     "brand": "شاومي",
-    "name": "شاومي 200 وات لاسلكي (W30)",
+    "name": "شاومي مكنسة لاسلكي 200وات",
     "specs": {
       "watt": "200",
       "type": "لاسلكي"
@@ -25,7 +25,7 @@
   {
     "asin": "B0FXXLGJ95",
     "brand": "أورايمو",
-    "name": "أورايمو 500 وات",
+    "name": "أورايمو مكنسة 500وات",
     "specs": {
       "watt": "500"
     },
@@ -47,7 +47,7 @@
   {
     "asin": "B07CB9CM1V",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر لاسلكي (SVA420B-B5)",
+    "name": "بلاك مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -69,7 +69,7 @@
   {
     "asin": "B0GBTYLYSW",
     "brand": "أورايمو",
-    "name": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
+    "name": "أورايمو مكنسة",
     "specs": {},
     "model": "",
     "title": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
@@ -89,7 +89,7 @@
   {
     "asin": "B09DJDTV29",
     "brand": "بلاك أند ديكر",
-    "name": "Black & Decker BHFEA420J Stick Vacuum, White",
+    "name": "بلاك مكنسة",
     "specs": {},
     "model": "",
     "title": "Black & Decker BHFEA420J Stick Vacuum, White",
@@ -109,7 +109,7 @@
   {
     "asin": "B0FP4VNJGQ",
     "brand": "Bissell",
-    "name": "Bissell 280 وات لاسلكي",
+    "name": "Bissell مكنسة لاسلكي 280وات",
     "specs": {
       "watt": "280",
       "type": "لاسلكي"
@@ -132,7 +132,7 @@
   {
     "asin": "B0CWV9LST4",
     "brand": "شاومي",
-    "name": "شاومي روبوت",
+    "name": "شاومي مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -154,7 +154,7 @@
   {
     "asin": "B087QS3KXX",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر لاسلكي (DVA320J-B5)",
+    "name": "بلاك مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -176,7 +176,7 @@
   {
     "asin": "B087QT4TNV",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر لاسلكي (NVC115WA-B5)",
+    "name": "بلاك مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -198,7 +198,7 @@
   {
     "asin": "B0CHHMNLQP",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر لاسلكي (NVD220BP-GB)",
+    "name": "بلاك مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -220,7 +220,7 @@
   {
     "asin": "B087QT1Q68",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر يدوي (NVC115JL-B5)",
+    "name": "بلاك مكنسة يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -242,7 +242,7 @@
   {
     "asin": "B0CY94NVCZ",
     "brand": "بيكو",
-    "name": "بيكو لاسلكي",
+    "name": "بيكو مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -264,7 +264,7 @@
   {
     "asin": "B0DSV1LMMQ",
     "brand": "فريش",
-    "name": "فريش 1900 وات",
+    "name": "فريش مكنسة 1900وات",
     "specs": {
       "watt": "1900"
     },
@@ -286,7 +286,7 @@
   {
     "asin": "B0HJ4DB7VW",
     "brand": "غير محدد",
-    "name": "مكنسة كهربائية عمودي 6 في 1 مع ممسحة و خزان مياه ، تتحول لمكنسة يدوية ، قوة 600–1000 وات ، فلتر HEPA قابل",
+    "name": "مكنسة عمودي 1000وات",
     "specs": {
       "watt": "1000",
       "type": "عمودي"
@@ -309,7 +309,7 @@
   {
     "asin": "B0GVG5XHLW",
     "brand": "Bissell",
-    "name": "Bissell لاسلكي",
+    "name": "Bissell مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -331,7 +331,7 @@
   {
     "asin": "B0BDZWNBY6",
     "brand": "باناسونيك",
-    "name": "باناسونيك 1800 وات (CL603G349)",
+    "name": "باناسونيك مكنسة 1800وات",
     "specs": {
       "watt": "1800"
     },
@@ -353,7 +353,7 @@
   {
     "asin": "B0F4JZNGT8",
     "brand": "شاومي",
-    "name": "شاومي روبوت (H40)",
+    "name": "شاومي مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -375,7 +375,7 @@
   {
     "asin": "B0FNF4CP18",
     "brand": "شاومي",
-    "name": "شاومي روبوت (S40)",
+    "name": "شاومي مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -397,7 +397,7 @@
   {
     "asin": "B00IUK8018",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر لاسلكي (PD1420LP-GB)",
+    "name": "بلاك مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -419,7 +419,7 @@
   {
     "asin": "B0CTCXKL52",
     "brand": "شاومي",
-    "name": "شاومي روبوت (X20)",
+    "name": "شاومي مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -441,7 +441,7 @@
   {
     "asin": "B0DDJH4ZQF",
     "brand": "فيليبس",
-    "name": "فيليبس لاسلكي (XC5041/61)",
+    "name": "فيليبس مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -463,7 +463,7 @@
   {
     "asin": "B09QJTXZQT",
     "brand": "فيليبس",
-    "name": "فيليبس لاسلكي (XC8043/61)",
+    "name": "فيليبس مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -485,7 +485,7 @@
   {
     "asin": "B0DDTB6D9S",
     "brand": "دايسون",
-    "name": "دايسون لاسلكي",
+    "name": "دايسون مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -507,7 +507,7 @@
   {
     "asin": "B07D2C27N7",
     "brand": "بلاك أند ديكر",
-    "name": "Black & Decker 12Vdc Epp Auto Vacuum - Nv1200Av-B5, Multi Color",
+    "name": "بلاك مكنسة",
     "specs": {},
     "model": "NV1200AV-B5",
     "title": "Black & Decker 12Vdc Epp Auto Vacuum - Nv1200Av-B5, Multi Color",
@@ -527,7 +527,7 @@
   {
     "asin": "B0FTT3DPXM",
     "brand": "Bissell",
-    "name": "Bissell 200 وات لاسلكي",
+    "name": "BISSELL مكنسة لاسلكي 200وات",
     "specs": {
       "watt": "200",
       "type": "لاسلكي"
@@ -550,7 +550,7 @@
   {
     "asin": "B0DBTJ2FF6",
     "brand": "NWDEY",
-    "name": "NWDEY لاسلكي",
+    "name": "NWDEY مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -572,7 +572,7 @@
   {
     "asin": "B093W7RLYT",
     "brand": "Shark",
-    "name": "Shark لاسلكي (IZ102)",
+    "name": "Shark مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -594,7 +594,7 @@
   {
     "asin": "B0DDZVKVNJ",
     "brand": "Shark",
-    "name": "Shark لاسلكي (IP1251)",
+    "name": "Shark مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -616,7 +616,7 @@
   {
     "asin": "B0CQYTNNW7",
     "brand": "Fanttik",
-    "name": "Fanttik يدوي",
+    "name": "Fanttik مكنسة يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -638,7 +638,7 @@
   {
     "asin": "B0DBVW1RFW",
     "brand": "Shark",
-    "name": "Shark لاسلكي (IP3251)",
+    "name": "Shark مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -660,7 +660,7 @@
   {
     "asin": "B07PHSKP3T",
     "brand": "TOTAL",
-    "name": "TOTAL Wet & Dry Vacuum",
+    "name": "TOTAL مكنسة",
     "specs": {},
     "model": "",
     "title": "TOTAL Wet & Dry Vacuum",
@@ -680,7 +680,7 @@
   {
     "asin": "B0946NS3TP",
     "brand": "KÄRCHER",
-    "name": "Kärcher Home & Garden Multi Vacuum Cleaners Wd 1S Classic - 1.098-324, Yellow\"Min 1 year manufacturer war",
+    "name": "Kärcher مكنسة",
     "specs": {},
     "model": "",
     "title": "Kärcher Home & Garden Multi Vacuum Cleaners Wd 1S Classic - 1.098-324, Yellow\"Min 1 year manufacturer warranty\"",
@@ -700,7 +700,7 @@
   {
     "asin": "B09VZKGKQ5",
     "brand": "أورايمو",
-    "name": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
+    "name": "أورايمو مكنسة",
     "specs": {},
     "model": "",
     "title": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
@@ -720,7 +720,7 @@
   {
     "asin": "B0F4X6CTT8",
     "brand": "شاومي",
-    "name": "شاومي روبوت (S40C)",
+    "name": "شاومي مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -742,7 +742,7 @@
   {
     "asin": "B0GDXL6G5L",
     "brand": "شاومي",
-    "name": "شاومي روبوت (H50)",
+    "name": "شاومي مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -764,7 +764,7 @@
   {
     "asin": "B0B1PCD8SN",
     "brand": "دايسون",
-    "name": "Dyson (Yellow & Nickel) DysonV12, V12 Detect Slim Absolute Vacuum, 0.35 liters",
+    "name": "دايسون مكنسة",
     "specs": {},
     "model": "V12",
     "title": "Dyson (Yellow & Nickel) DysonV12, V12 Detect Slim Absolute Vacuum, 0.35 liters",
@@ -784,7 +784,7 @@
   {
     "asin": "B0CLGSCLZL",
     "brand": "eufy",
-    "name": "eufy روبوت (L60)",
+    "name": "eufy مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -806,7 +806,7 @@
   {
     "asin": "B0BRQ8SN77",
     "brand": "Daga",
-    "name": "Portable Electric Sanitizing and Cleaning Vacuum with UV-C Light for Pillows, Mattresses, Beddings, Sofas",
+    "name": "مكنسة",
     "specs": {},
     "model": "",
     "title": "Portable Electric Sanitizing and Cleaning Vacuum with UV-C Light for Pillows, Mattresses, Beddings, Sofas, and other Fabric Surfaces - White, Quantity: 1",
@@ -826,7 +826,7 @@
   {
     "asin": "B0CPDVV72T",
     "brand": "eufy",
-    "name": "eufy روبوت (X10)",
+    "name": "eufy مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -848,7 +848,7 @@
   {
     "asin": "B0C7VN9NWK",
     "brand": "roborock",
-    "name": "roborock روبوت",
+    "name": "roborock مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -870,7 +870,7 @@
   {
     "asin": "B0GT7LVLXC",
     "brand": "roborock",
-    "name": "roborock روبوت (Q10VF)",
+    "name": "roborock مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -892,7 +892,7 @@
   {
     "asin": "B0HP25MCPJ",
     "brand": "غير محدد",
-    "name": "مكنسة يدوية محمولة JB-107 لتنظيف السيارة والمنزل، مع فوهة للشقوق وفرشاة تنظيف، تصميم صغير وخفيف وسهولة تف",
+    "name": "مكنسة يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -914,7 +914,7 @@
   {
     "asin": "B0F38BGFV2",
     "brand": "roborock",
-    "name": "roborock روبوت",
+    "name": "roborock مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -936,7 +936,7 @@
   {
     "asin": "B0H9SW3MR1",
     "brand": "شاومي",
-    "name": "شاومي روبوت",
+    "name": "شاومي مكنسة روبوت",
     "specs": {
       "type": "روبوت"
     },
@@ -958,7 +958,7 @@
   {
     "asin": "B0CQBYDQTV",
     "brand": "Fanttik",
-    "name": "Fanttik لاسلكي (V10)",
+    "name": "Fanttik مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -980,7 +980,7 @@
   {
     "asin": "B0BQCN32GS",
     "brand": "دايسون",
-    "name": "دايسون لاسلكي",
+    "name": "دايسون مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1002,7 +1002,7 @@
   {
     "asin": "B0CHH7F1B8",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر لاسلكي",
+    "name": "بلاك مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1024,7 +1024,7 @@
   {
     "asin": "B0F1NH8KB2",
     "brand": "غير محدد",
-    "name": "Cordless Car Vacuum - Strong suction for deep cleaning seats, floors, and narrow car spaces, portable, wa",
+    "name": "Cordless مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1046,7 +1046,7 @@
   {
     "asin": "B09NY6FW94",
     "brand": "بلاك أند ديكر",
-    "name": "بلاك أند ديكر لاسلكي (BCHV001C1)",
+    "name": "بلاك مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1068,7 +1068,7 @@
   {
     "asin": "B0D8BVMNBN",
     "brand": "دايسون",
-    "name": "دايسون لاسلكي",
+    "name": "دايسون مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1090,7 +1090,7 @@
   {
     "asin": "B0GXWK43MS",
     "brand": "غير محدد",
-    "name": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair,",
+    "name": "Cordless مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1112,7 +1112,7 @@
   {
     "asin": "B0F8C5FB37",
     "brand": "غير محدد",
-    "name": "Wireless car vacuum - power 120W, 9000 PA suction, dry home cleaning, multi -colored",
+    "name": "Wireless مكنسة 120وات",
     "specs": {
       "watt": "120"
     },
@@ -1134,7 +1134,7 @@
   {
     "asin": "B0CJTXVH15",
     "brand": "دايسون",
-    "name": "دايسون لاسلكي (V15)",
+    "name": "دايسون مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1156,7 +1156,7 @@
   {
     "asin": "B0F1SNTTY1",
     "brand": "TDOO",
-    "name": "TDOO لاسلكي",
+    "name": "Cordless مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1178,7 +1178,7 @@
   {
     "asin": "B0FLYL43L2",
     "brand": "غير محدد",
-    "name": "Cordless Vacuum - Portable Handheld Cleaning Device with Strong Suction for Pet Hair and Debris Removal o",
+    "name": "Cordless مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1200,7 +1200,7 @@
   {
     "asin": "B09KZSH9PG",
     "brand": "غير محدد",
-    "name": "Generic MIK Hand Vacuum, Mini Handheld Cordless Rechargeable Portable Vacuum With LED Light, USB Powered ",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1222,7 +1222,7 @@
   {
     "asin": "B09DFY6QF4",
     "brand": "LIPUWS",
-    "name": "LIPUWS لاسلكي",
+    "name": "Handheld مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1244,7 +1244,7 @@
   {
     "asin": "B0G21ZT5DQ",
     "brand": "غير محدد",
-    "name": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair,",
+    "name": "Cordless مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1266,7 +1266,7 @@
   {
     "asin": "B0FCTS6MFP",
     "brand": "غير محدد",
-    "name": "Portable Cleaning Device - 120W Rechargeable Mini Vacuum with Strong Suction, Perfect for Tackling Dust a",
+    "name": "مكنسة 120وات",
     "specs": {
       "watt": "120"
     },
@@ -1288,7 +1288,7 @@
   {
     "asin": "B0GXX8KQY7",
     "brand": "دايسون",
-    "name": "دايسون لاسلكي (V15)",
+    "name": "دايسون مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1310,7 +1310,7 @@
   {
     "asin": "B0979R48CX",
     "brand": "دايسون",
-    "name": "دايسون لاسلكي (V15)",
+    "name": "دايسون مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1332,7 +1332,7 @@
   {
     "asin": "B0D1QQXH6V",
     "brand": "Amzany",
-    "name": "Amzany لاسلكي",
+    "name": "Amzany مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1354,7 +1354,7 @@
   {
     "asin": "B0FB59FN5M",
     "brand": "Shark",
-    "name": "Shark لاسلكي (IZ376H)",
+    "name": "Shark مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1376,7 +1376,7 @@
   {
     "asin": "B0D9KL3C8V",
     "brand": "Tineco",
-    "name": "Tineco لاسلكي",
+    "name": "Tineco مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1398,7 +1398,7 @@
   {
     "asin": "B0F1NJ48CZ",
     "brand": "غير محدد",
-    "name": "Small Car Vacuum - Cordless, efficient cleaning of car interiors, including seats, floors, and hard-to-re",
+    "name": "Small مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1420,7 +1420,7 @@
   {
     "asin": "B0DWLVCVQ3",
     "brand": "غير محدد",
-    "name": "Hand Vacuum - Enjoy powerful suction with our cordless car vacuum, perfect for cleaning dirt and dust in ",
+    "name": "Hand مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1442,7 +1442,7 @@
   {
     "asin": "B0GDNHF9DQ",
     "brand": "غير محدد",
-    "name": "Powerful Hand Vacuum - Lightweight cordless device for quick dust removal on mattresses, sofas, and uphol",
+    "name": "Powerful مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1464,7 +1464,7 @@
   {
     "asin": "B0FLYLMBGD",
     "brand": "غير محدد",
-    "name": "Electric Sweeper - Cordless Handheld Vacuum for Effective Pet Hair Removal from Car Interiors, Upholstery",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1486,7 +1486,7 @@
   {
     "asin": "B0F1NHBLS3",
     "brand": "غير محدد",
-    "name": "Compact Car Vacuum - Cordless, strong suction for cleaning vehicle interiors, ideal for seats, floors, an",
+    "name": "Compact مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1508,7 +1508,7 @@
   {
     "asin": "B0DCGD7Y8K",
     "brand": "فيليبس",
-    "name": "فيليبس لاسلكي",
+    "name": "فيليبس مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1530,7 +1530,7 @@
   {
     "asin": "B0DXV6JQXC",
     "brand": "فاكير",
-    "name": "فاكير لاسلكي",
+    "name": "فاكير مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1552,7 +1552,7 @@
   {
     "asin": "B0H2NCJT2D",
     "brand": "غير محدد",
-    "name": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair,",
+    "name": "Cordless مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1574,7 +1574,7 @@
   {
     "asin": "B0FSBWVJFX",
     "brand": "غير محدد",
-    "name": "مكنسة لمسة برميل توربن بلس 2600 وات شفط اتربه ومماء",
+    "name": "مكنسة 2600وات",
     "specs": {
       "watt": "2600"
     },
