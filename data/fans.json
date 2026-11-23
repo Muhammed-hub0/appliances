@@ -326,7 +326,7 @@
     "title": "Fresh Electric Table Fan, 0166-04",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1039,
+    "price": 910,
     "img": "https://m.media-amazon.com/images/I/515B-aMxRyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09231GFK5?tag=fineartslab-21",
     "active": true,
@@ -1203,7 +1203,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -6647,14 +6647,15 @@
     "price": 1399,
     "img": "https://m.media-amazon.com/images/I/41HUHH-T34L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H18KQC17?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B09ZQF34YG",

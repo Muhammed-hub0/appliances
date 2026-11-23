@@ -4200,14 +4200,15 @@
     "price": 21500,
     "img": "https://m.media-amazon.com/images/I/41QisZMJR7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HBN1ZQFL?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0D586MZN4",
@@ -4308,7 +4309,7 @@
     "title": "ELBA Cooker - Stainless Steel Built-in 5 Gas Burners Hob, 90 cm, Silver - ELIO 95-545 L",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 25399,
+    "price": 24690,
     "img": "https://m.media-amazon.com/images/I/41l8+YO4EvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07Y8VFFF2?tag=fineartslab-21",
     "active": true,
@@ -7057,14 +7058,15 @@
     "price": 1200,
     "img": "https://m.media-amazon.com/images/I/31oenv9AzLL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GCLFVRNR?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0HC7DSQ3D",

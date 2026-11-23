@@ -152,7 +152,7 @@
     "title": "Fresh Grand 75L Electric Oven, 2200W, Full Size – Model FR-7502RCL | 55 Litre Capacity, Model FR-5504RCL, Electric Powered, Black Finish",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5999,
+    "price": 5975,
     "img": "https://m.media-amazon.com/images/I/41mqKRoazqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HQ4MJ75Z?tag=fineartslab-21",
     "active": true,
@@ -275,7 +275,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -481,7 +481,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -527,9 +527,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
   {
@@ -1484,8 +1483,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0C827WSHJ",
@@ -1957,8 +1958,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B087C3LPG4",
@@ -2138,7 +2141,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2675,7 +2678,7 @@
     "title": "Fresh Casa Oven with Grill (45L, FR-4503R)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2920,
+    "price": 3010,
     "img": "https://m.media-amazon.com/images/I/41foJdLxfpL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09BF1KTXX?tag=fineartslab-21",
     "active": true,
@@ -2790,14 +2793,15 @@
     "price": 12490,
     "img": "https://m.media-amazon.com/images/I/418IFqLIKHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H7SLYD46?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0CBQ8GZXT",
@@ -3827,7 +3831,7 @@
     "title": "Tefal XL Intense Rectangular Oven Tray, Size 35, Brown - 403841202",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1520,
+    "price": 1495,
     "img": "https://m.media-amazon.com/images/I/319p7yhFopL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F9LMHBMB?tag=fineartslab-21",
     "active": true,

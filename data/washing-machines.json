@@ -597,7 +597,7 @@
     "title": "Fresh FTM-8S Fully Automatic Top Load Washing Machine 8kg, Digital Display, Stainless Steel Drum, Drain Pump, Hot & Cold Water Inlets, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 9590,
+    "price": 9565,
     "img": "https://m.media-amazon.com/images/I/31HwAkgXqKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HC3F3F3Y?tag=fineartslab-21",
     "active": true,
@@ -1324,9 +1324,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
   {
@@ -2986,8 +2985,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0GKWWNQ1V",
@@ -3138,7 +3139,7 @@
     "title": "Portable Safety Washing Machine Space Technology Smart Control for Fast and Efficient Washing Machine with Compact Dimensions and Stylish Design - Get It Now From Turkish Store",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 183.38,
+    "price": 183.08,
     "img": "https://m.media-amazon.com/images/I/41O884rC2hL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CPQ6GLX1?tag=fineartslab-21",
     "active": true,
@@ -3481,14 +3482,15 @@
     "price": 159.99,
     "img": "https://m.media-amazon.com/images/I/51bbgQsjEIL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BBZN6QKJ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0F8C4LMYG",
@@ -3569,8 +3571,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0HKDQ9F3Q",

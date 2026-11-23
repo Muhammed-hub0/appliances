@@ -2509,7 +2509,7 @@
     "title": "Beko No Frost Deep Freezer, 8 Drawers, Black - RFNE312K13B",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 38525,
+    "price": 38464,
     "img": "https://m.media-amazon.com/images/I/113biJnyFfL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08Z7HQYKT?tag=fineartslab-21",
     "active": true,
@@ -2908,8 +2908,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0HKWBLYN6",

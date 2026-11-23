@@ -902,7 +902,7 @@
     "title": "Beko Top Freezer Refrigerator, 465L Total Capacity, A+ Energy Rating, Frost Free, LED Lighting, Mechanical Control, Standing Installation - RDSG550M20SEG",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 17699,
+    "price": 17499,
     "img": "https://m.media-amazon.com/images/I/21cdNdyMNwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJFTW349?tag=fineartslab-21",
     "active": true,
@@ -1801,13 +1801,13 @@
     "price": 76770,
     "img": "https://m.media-amazon.com/images/I/21HITyF5NGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C26ZN9SZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -2422,7 +2422,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3362,8 +3362,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0BZ5GY7WM",

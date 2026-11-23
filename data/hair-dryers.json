@@ -3809,14 +3809,15 @@
     "price": 1075,
     "img": "https://m.media-amazon.com/images/I/31e3YBH3vaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GHTFDJDS?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0H4V47G96",
@@ -5564,7 +5565,7 @@
     "title": "2400W,Hair Dryer Brush with Black Ion Technolog,Wide Oval Design 19cm, 3 Heat Settings,360° Airflow Hot Air Brush for Fast Drying & Styling,Ionic Anti-Frizz Technology (فرشاه شعر استشوار)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 655,
+    "price": 640,
     "img": "https://m.media-amazon.com/images/I/41ksVQbevyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G1NHBKS1?tag=fineartslab-21",
     "active": true,

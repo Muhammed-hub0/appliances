@@ -45,13 +45,15 @@ h1{font-size:23px;margin:18px 0 8px}
   .social-pill{font-size:11px;padding:5px 8px}
 }
 
-.main-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:12px 0}
-.main-group{min-width:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px}
-.main-group h2{font-size:14px;line-height:1.3;margin:0 0 8px;color:var(--text);padding-inline-start:8px;border-inline-start:3px solid var(--b)}
-.main-group .subgrid{display:flex;flex-wrap:wrap;gap:5px}
-.main-group a{font-size:11px;line-height:1.2;padding:5px 7px;border-radius:8px;background:var(--surface-alt);color:var(--text);text-decoration:none;font-weight:700}
-.main-group a:hover{background:var(--b);color:#fff;text-decoration:none}
-@media(max-width:600px){.main-group{padding:8px}.main-group h2{font-size:12px}.main-group a{font-size:10px;padding:4px 5px}}
+.big-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}
+.big-group{display:flex;flex-direction:column;align-items:flex-start;gap:10px;min-height:230px;padding:22px;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
+.big-group:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
+.big-emoji{font-size:44px;line-height:1;display:flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:16px;background:var(--surface-alt)}
+.big-group b{font-size:20px;font-weight:800;color:var(--text)}
+.big-group .meta{font-size:13px;color:var(--muted)}
+.big-group .go{font-size:13px;color:var(--win);font-weight:800;margin-top:auto}
+.breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
+@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:150px;padding:16px}.big-emoji{width:54px;height:54px;font-size:32px}.big-group b{font-size:17px}}
 .searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
 .searchbox input{flex:1;min-width:0}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
@@ -81,195 +83,34 @@ h1{font-size:23px;margin:18px 0 8px}
 </div></header>
 <main class="wrap">
 <h1>كل الأجهزة المنزلية في مكان واحد 🏠</h1>
-<div class="main-groups">
-<section class="main-group" data-overview="large">
-  <h2>🏠 أجهزة منزلية كبيرة</h2>
-  <div class="subgrid"><a href="c/fridges/index.html" data-name="الثلاجات ثلاجة fridges">الثلاجات</a><a href="c/freezers/index.html" data-name="الفريزرات فريزر freezers">الفريزرات</a><a href="c/washing-machines/index.html" data-name="الغسالات غسالة washing-machines">الغسالات</a><a href="c/dishwashers/index.html" data-name="غسالات الأطباق غسالة أطباق dishwashers">غسالات الأطباق</a><a href="c/ovens/index.html" data-name="الأفران فرن ovens">الأفران</a><a href="c/cookers/index.html" data-name="البوتاجازات بوتاجاز cookers">البوتاجازات</a><a href="c/air-conditioners/index.html" data-name="التكييفات تكييف air-conditioners">التكييفات</a><a href="c/water-heaters/index.html" data-name="السخانات سخان water-heaters">السخانات</a></div>
-</section>
-<section class="main-group" data-overview="small">
-  <h2>🍳 أجهزة منزلية صغيرة</h2>
-  <div class="subgrid"><a href="c/airfryers/index.html" data-name="القلايات الهوائية قلاية هوائية airfryers">القلايات الهوائية</a><a href="c/microwaves/index.html" data-name="الميكروويف ميكروويف microwaves">الميكروويف</a><a href="c/coffee-machines/index.html" data-name="ماكينات القهوة ماكينة قهوة coffee-machines">ماكينات القهوة</a><a href="c/blenders/index.html" data-name="الخلاطات خلاط blenders">الخلاطات</a><a href="c/food-processors/index.html" data-name="محضرات الطعام محضرة طعام food-processors">محضرات الطعام</a><a href="c/vacuum-cleaners/index.html" data-name="المكانس الكهربائية مكنسة vacuum-cleaners">المكانس الكهربائية</a><a href="c/irons/index.html" data-name="المكاوي مكواة irons">المكاوي</a><a href="c/kettles/index.html" data-name="الغلايات غلاية kettles">الغلايات</a><a href="c/toasters/index.html" data-name="المحمصات محمصة toasters">المحمصات</a><a href="c/mixers/index.html" data-name="المضربات مضرب mixers">المضربات</a><a href="c/fans/index.html" data-name="المراوح مروحة fans">المراوح</a><a href="c/rice-cookers/index.html" data-name="أجهزة طهي الأرز طباخ أرز rice-cookers">أجهزة طهي الأرز</a><a href="c/pressure-cookers/index.html" data-name="قدور الضغط قدر ضغط pressure-cookers">قدور الضغط</a><a href="c/juicers/index.html" data-name="العصارات عصارة juicers">العصارات</a></div>
-</section>
-<section class="main-group" data-overview="personal">
-  <h2>🪒 العناية الشخصية</h2>
-  <div class="subgrid"><a href="c/shavers/index.html" data-name="ماكينات الحلاقة ماكينة حلاقة shavers">ماكينات الحلاقة</a><a href="c/hair-dryers/index.html" data-name="مجففات الشعر مجفف شعر hair-dryers">مجففات الشعر</a></div>
-</section>
+<p class="lead">اختر القسم الرئيسي، وبعدين نوع الجهاز، وشوف كل الأسعار والمواصفات من أمازون مصر.</p>
+<div class="big-groups">
+<a class="big-group" href="groups/large/index.html">
+  <span class="big-emoji">🏠</span>
+  <b>أجهزة منزلية كبيرة</b>
+  <span class="meta">8 أقسام · 1741 منتج</span>
+  <span class="go">اعرض الأقسام ←</span>
+</a>
+<a class="big-group" href="groups/small/index.html">
+  <span class="big-emoji">🍳</span>
+  <b>أجهزة منزلية صغيرة</b>
+  <span class="meta">14 أقسام · 2614 منتج</span>
+  <span class="go">اعرض الأقسام ←</span>
+</a>
+<a class="big-group" href="groups/personal/index.html">
+  <span class="big-emoji">🪒</span>
+  <b>العناية الشخصية</b>
+  <span class="meta">2 أقسام · 971 منتج</span>
+  <span class="go">اعرض الأقسام ←</span>
+</a>
 </div>
-<p class="lead">اختر نوع الجهاز عشان تشوف المقارنة الكاملة: الأسعار، المواصفات، والروابط من أمازون مصر. كل قسم بيتحدث تلقائيًا.</p>
-<div class="searchbox surface-card" style="padding:10px 12px">
-  <input id="catSearch" type="search" placeholder="ابحث عن نوع الجهاز... مثال: غسالة، مكواة، تكييف">
-</div>
-<div id="catGrid">
-<section class="group" data-group="large">
-  <h2>🏠 أجهزة منزلية كبيرة</h2>
-  <div class="grid">
-<a class="cat" href="c/fridges/index.html" data-name="الثلاجات ثلاجة fridges">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/31lJMEps-hL._SL500_.jpg" loading="lazy" alt="الثلاجات">
-    <b>الثلاجات</b>
-    <span class="meta">239 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/freezers/index.html" data-name="الفريزرات فريزر freezers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/111PzLu5k1L._SL500_.jpg" loading="lazy" alt="الفريزرات">
-    <b>الفريزرات</b>
-    <span class="meta">209 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/washing-machines/index.html" data-name="الغسالات غسالة washing-machines">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/31ku-V5mQUL._SL500_.jpg" loading="lazy" alt="الغسالات">
-    <b>الغسالات</b>
-    <span class="meta">212 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/dishwashers/index.html" data-name="غسالات الأطباق غسالة أطباق dishwashers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41fuu0nyJKL._SL500_.jpg" loading="lazy" alt="غسالات الأطباق">
-    <b>غسالات الأطباق</b>
-    <span class="meta">97 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/ovens/index.html" data-name="الأفران فرن ovens">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/51ysvdp-gKL._SL500_.jpg" loading="lazy" alt="الأفران">
-    <b>الأفران</b>
-    <span class="meta">250 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/cookers/index.html" data-name="البوتاجازات بوتاجاز cookers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41anIYSQJZL._SL500_.jpg" loading="lazy" alt="البوتاجازات">
-    <b>البوتاجازات</b>
-    <span class="meta">291 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/air-conditioners/index.html" data-name="التكييفات تكييف air-conditioners">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/315-8-ZKdUL._SL500_.jpg" loading="lazy" alt="التكييفات">
-    <b>التكييفات</b>
-    <span class="meta">238 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/water-heaters/index.html" data-name="السخانات سخان water-heaters">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/413AqOW46rL._SL500_.jpg" loading="lazy" alt="السخانات">
-    <b>السخانات</b>
-    <span class="meta">213 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-  </div>
-</section>
-<section class="group" data-group="small">
-  <h2>🍳 أجهزة منزلية صغيرة</h2>
-  <div class="grid">
-<a class="cat" href="c/airfryers/index.html" data-name="القلايات الهوائية قلاية هوائية airfryers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41c38DQir2L._SL500_.jpg" loading="lazy" alt="القلايات الهوائية">
-    <b>القلايات الهوائية</b>
-    <span class="meta">265 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/microwaves/index.html" data-name="الميكروويف ميكروويف microwaves">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/31EJ3mx3CrL._SL500_.jpg" loading="lazy" alt="الميكروويف">
-    <b>الميكروويف</b>
-    <span class="meta">175 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/coffee-machines/index.html" data-name="ماكينات القهوة ماكينة قهوة coffee-machines">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41OFMYdO9+L._SL500_.jpg" loading="lazy" alt="ماكينات القهوة">
-    <b>ماكينات القهوة</b>
-    <span class="meta">221 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/blenders/index.html" data-name="الخلاطات خلاط blenders">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/417AcrZmJ+L._SL500_.jpg" loading="lazy" alt="الخلاطات">
-    <b>الخلاطات</b>
-    <span class="meta">219 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/food-processors/index.html" data-name="محضرات الطعام محضرة طعام food-processors">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41-Uvf5oZfL._SL500_.jpg" loading="lazy" alt="محضرات الطعام">
-    <b>محضرات الطعام</b>
-    <span class="meta">92 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/vacuum-cleaners/index.html" data-name="المكانس الكهربائية مكنسة vacuum-cleaners">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41qM7NV0cvL._SL500_.jpg" loading="lazy" alt="المكانس الكهربائية">
-    <b>المكانس الكهربائية</b>
-    <span class="meta">64 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/irons/index.html" data-name="المكاوي مكواة irons">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/51hgMFbmXcL._SL500_.jpg" loading="lazy" alt="المكاوي">
-    <b>المكاوي</b>
-    <span class="meta">250 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/kettles/index.html" data-name="الغلايات غلاية kettles">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/510EQ6N63DL._SL500_.jpg" loading="lazy" alt="الغلايات">
-    <b>الغلايات</b>
-    <span class="meta">295 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/toasters/index.html" data-name="المحمصات محمصة toasters">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/51RS55ClqDL._SL500_.jpg" loading="lazy" alt="المحمصات">
-    <b>المحمصات</b>
-    <span class="meta">120 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/mixers/index.html" data-name="المضربات مضرب mixers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/21pv24Sa5xL._SL500_.jpg" loading="lazy" alt="المضربات">
-    <b>المضربات</b>
-    <span class="meta">162 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/fans/index.html" data-name="المراوح مروحة fans">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41ShcC9CafL._SL500_.jpg" loading="lazy" alt="المراوح">
-    <b>المراوح</b>
-    <span class="meta">315 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/rice-cookers/index.html" data-name="أجهزة طهي الأرز طباخ أرز rice-cookers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41MWbIUfW5L._SL500_.jpg" loading="lazy" alt="أجهزة طهي الأرز">
-    <b>أجهزة طهي الأرز</b>
-    <span class="meta">67 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/pressure-cookers/index.html" data-name="قدور الضغط قدر ضغط pressure-cookers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/310w3yRaayL._SL500_.jpg" loading="lazy" alt="قدور الضغط">
-    <b>قدور الضغط</b>
-    <span class="meta">152 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/juicers/index.html" data-name="العصارات عصارة juicers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41SKqMOirtL._SL500_.jpg" loading="lazy" alt="العصارات">
-    <b>العصارات</b>
-    <span class="meta">220 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-  </div>
-</section>
-<section class="group" data-group="personal">
-  <h2>🪒 العناية الشخصية</h2>
-  <div class="grid">
-<a class="cat" href="c/shavers/index.html" data-name="ماكينات الحلاقة ماكينة حلاقة shavers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/41z5L2f3GWL._SL500_.jpg" loading="lazy" alt="ماكينات الحلاقة">
-    <b>ماكينات الحلاقة</b>
-    <span class="meta">709 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-<a class="cat" href="c/hair-dryers/index.html" data-name="مجففات الشعر مجفف شعر hair-dryers">
-    <img class="cat-img" src="https://m.media-amazon.com/images/I/31hNTLS+5uL._SL500_.jpg" loading="lazy" alt="مجففات الشعر">
-    <b>مجففات الشعر</b>
-    <span class="meta">265 منتج متوفر</span>
-    <span class="go">اعرض المنتجات ←</span>
-  </a>
-  </div>
-</section>
-</div>
-<img class="banner" src="assets/banner.jpg" alt="مشترياتك صح — دليلك للمقارنة الذكية" style="width:100%;border-radius:16px;border:1px solid var(--line)">
-<p id="noCats" hidden>مفيش أقسام مطابقة للبحث.</p>
 <div class="ft">
   <div class="notice">تنويه: يجب مراجعة السعر والمواصفات الفنية من صفحة المنتج على أمازون قبل الشراء.</div>
-  <div>آخر فحص تلقائي: ٢٣ نوفمبر ٢٠٢٦ في ٣:٠٧ م · 5340 منتج معروض</div>
+  <div>آخر فحص تلقائي: ٢٣ نوفمبر ٢٠٢٦ في ٣:٤٣ م · 5326 منتج معروض</div>
   <div>كأفلييت أمازون: قد نحصل على عمولة من عمليات الشراء اللي بتحصل عن طريق روابط الصفحة، من غير أي تكلفة إضافية عليك. الأسعار بتتحدث تلقائيًا وقد تختلف لحظة الشراء.</div>
 </div>
 </main>
-<script>
-(function () {
+<script>(function () {
   var btn = document.getElementById('themeToggleBtn');
   var icon = document.getElementById('themeIcon');
   try {
@@ -285,32 +126,5 @@ h1{font-size:23px;margin:18px 0 8px}
     if (icon) icon.textContent = dark ? '🌙' : '☀️';
     try { localStorage.setItem('appliances-theme', dark ? 'light' : 'dark'); } catch (e) {}
   });
-})();
-(function(){
-  var q=document.getElementById('catSearch');
-  var cards=Array.prototype.slice.call(document.querySelectorAll('#catGrid .cat'));
-  var groups=Array.prototype.slice.call(document.querySelectorAll('#catGrid .group'));
-  var chips=Array.prototype.slice.call(document.querySelectorAll('.main-group a'));
-  var msg=document.getElementById('noCats');
-  function apply(){
-    var v=(q.value||'').trim().toLowerCase();
-    var shown=0;
-    cards.forEach(function(c){
-      var ok=!v||c.getAttribute('data-name').toLowerCase().indexOf(v)!==-1;
-      c.style.display=ok?'':'none';
-      if(ok)shown++;
-    });
-    chips.forEach(function(c){
-      var ok=!v||c.getAttribute('data-name').toLowerCase().indexOf(v)!==-1;
-      c.style.display=ok?'':'none';
-    });
-    groups.forEach(function(g){
-      var any=Array.prototype.slice.call(g.querySelectorAll('.cat')).some(function(c){return c.style.display!=='none';});
-      g.style.display=any?'':'none';
-    });
-    if(msg)msg.hidden=shown!==0;
-  }
-  q.addEventListener('input',apply);
-})();
-</script>
+})();</script>
 </body></html>

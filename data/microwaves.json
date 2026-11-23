@@ -618,7 +618,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1123,7 +1123,7 @@
     "title": "TORNADO Microwave Solo 25 Liter 900 Watt, Digital Control 8 Menus, 5 Power Levels, Multi Cooking, Defrost Function, Black TMD-25SE-BK",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7390.79,
+    "price": 7404.76,
     "img": "https://m.media-amazon.com/images/I/31Dk83i-t1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B010JCJ38S?tag=fineartslab-21",
     "active": true,
@@ -1316,8 +1316,10 @@
     "lastGood": "2026-11-23",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0BN6VTFRF",
@@ -1363,7 +1365,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1527,7 +1529,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1663,7 +1665,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1688,7 +1690,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1749,7 +1751,7 @@
     "title": "LG 42 Liter Neo Chef Inverter Microwave with Grill (MH8265CIS) - Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13998,
+    "price": 13499,
     "img": "https://m.media-amazon.com/images/I/31QNSskUpiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B1YRH6G5?tag=fineartslab-21",
     "active": true,
@@ -1922,7 +1924,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2057,7 +2059,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2081,7 +2083,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2107,7 +2109,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2934,8 +2936,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0BBBQWHK1",

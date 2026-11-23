@@ -34,7 +34,7 @@
     "title": "Black+Decker Smart Steam Pot, 1350W, 9 In 1, 10 L, Smart Programmable Electric Pressure Cooker, Black/Silver - Pcp1010-B5",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 6194.3,
+    "price": 6193,
     "img": "https://m.media-amazon.com/images/I/41UepQ341fL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09V5N7TZZ?tag=fineartslab-21",
     "active": true,
@@ -248,8 +248,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0FC2ZF9ND",

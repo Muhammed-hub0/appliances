@@ -203,7 +203,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -312,7 +312,7 @@
     "title": "Philips Steam Iron - Continuous Steam Flow of 25 Grams per minute and 90 g/min with the boost for thin/light fabrics - 2000W - 220ml - 50/60Hz - EasySpeed GC1742/46- International warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1680.07,
+    "price": 1640,
     "img": "https://m.media-amazon.com/images/I/41FkO6GJgzL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B086KFNMG3?tag=fineartslab-21",
     "active": true,

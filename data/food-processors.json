@@ -19,7 +19,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -465,7 +465,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1515,14 +1515,15 @@
     "price": 153,
     "img": "https://m.media-amazon.com/images/I/41-Uvf5oZfL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09VLBN12H?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "reason": "out-of-stock"
   },
   {
     "asin": "B0BYJJX5S1",
@@ -1972,7 +1973,7 @@
     "title": "Your's Bath Electric Mini Chopper Food Processor 4 in 1 Handheld USB Rechargeable Wireless Garlic Crusher Green",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 306.89,
+    "price": 163.77,
     "img": "https://m.media-amazon.com/images/I/41l7mbbDtBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B93ZY5WY?tag=fineartslab-21",
     "active": true,
