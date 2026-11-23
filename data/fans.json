@@ -4173,7 +4173,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0HL3XCC1L",
@@ -4259,7 +4260,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0HL4XZGZQ",
@@ -4343,7 +4345,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0HL74XD6M",
@@ -4449,7 +4452,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0H748L1N9",
@@ -4469,7 +4473,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0H74BFK6C",
@@ -4491,7 +4496,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0H74D21N1",
@@ -4513,7 +4519,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0H74MMVDM",
@@ -4535,7 +4542,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0HL6DXC2P",
@@ -4579,7 +4587,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0H748MTJ3",
@@ -4601,7 +4610,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0FMXTMC1C",
@@ -4621,7 +4631,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0DFYL6QQY",

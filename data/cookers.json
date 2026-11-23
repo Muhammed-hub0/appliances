@@ -5882,13 +5882,14 @@
     "price": 616.55,
     "img": "https://m.media-amazon.com/images/I/21H8qWLxlnL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FCN1BW3P?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0D54QQX68",
@@ -6428,13 +6429,14 @@
     "price": 244.75,
     "img": "https://m.media-amazon.com/images/I/41ZN1VBhCuL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HKLLRB7Z?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0FPMDK5CP",

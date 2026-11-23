@@ -21,7 +21,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HLLDP867",
@@ -69,7 +70,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HJ6DHTW7",
@@ -188,7 +190,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GJPYRBC8",
@@ -211,7 +214,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B08WJPZXMJ",
@@ -234,7 +238,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B091NZ7PG9",
@@ -280,7 +285,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HKFRBK73",
@@ -326,7 +332,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B08ZNT5F8R",
@@ -445,7 +452,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0F62YX1PV",
@@ -468,7 +476,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0CDV8VC24",
@@ -491,7 +500,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B08Z6GLP39",
@@ -514,7 +524,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0H4H413LQ",
@@ -537,7 +548,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HBXFM7W6",
@@ -560,7 +572,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B09HSLVK72",
@@ -606,7 +619,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0HLLDS224",
@@ -652,7 +666,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0DR78TWXH",
@@ -677,7 +692,8 @@
     "oosCount": 1,
     "reason": null,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "type": "front-load"
   },
   {
     "asin": "B0GZQYBX2D",
@@ -700,7 +716,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0BJLG3V3N",
@@ -746,7 +763,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0FPFSK7P5",
@@ -769,7 +787,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0DH4VJJX4",
@@ -792,7 +811,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0CK2NH39L",
@@ -838,7 +858,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0D9H2SG35",
@@ -930,7 +951,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0HJRFSMS7",
@@ -977,7 +999,8 @@
     "missCount": 0,
     "oosCount": 0,
     "reason": null,
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "type": "front-load"
   },
   {
     "asin": "B0DR79D5B6",
@@ -1000,7 +1023,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0H1D61L5C",
@@ -1022,7 +1046,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B091P1D477",
@@ -1066,7 +1091,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B098KPQKH4",
@@ -1088,7 +1114,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "twin-tub"
   },
   {
     "asin": "B091K4FSMH",
@@ -1108,7 +1135,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B08WJPV1WW",
@@ -1128,7 +1156,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0G1ML2LLV",
@@ -1148,7 +1177,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "twin-tub"
   },
   {
     "asin": "B09TW2ZD5G",
@@ -1168,7 +1198,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0DHLTJ3GR",
@@ -1190,7 +1221,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0DHLQTT29",
@@ -1212,7 +1244,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0HPYZ14Y5",
@@ -1256,7 +1289,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0DVTSGKKD",
@@ -1304,7 +1338,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0BBRPVB9Y",
@@ -1353,7 +1388,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GLRGGGWX",
@@ -1377,7 +1413,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0H6X6SSMB",
@@ -1473,7 +1510,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HC3LYMV9",
@@ -1521,7 +1559,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0BMBBP9FP",
@@ -1593,7 +1632,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0101SJ3P8",
@@ -1616,7 +1656,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FLJXG6QC",
@@ -1639,7 +1680,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0DR7B9JR8",
@@ -1662,7 +1704,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B09XN49D89",
@@ -1685,7 +1728,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HCZW3697",
@@ -1708,7 +1752,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "twin-tub"
   },
   {
     "asin": "B0BWJCTJ2N",
@@ -1731,7 +1776,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0CV843LTV",
@@ -1800,7 +1846,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HJ9GMZP3",
@@ -1846,7 +1893,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0GHNVXZ7C",
@@ -1869,7 +1917,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B09N6YP9F3",
@@ -1892,7 +1941,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0GC6HCCCJ",
@@ -1938,7 +1988,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B08WJJMKM5",
@@ -1961,7 +2012,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B091NY37CR",
@@ -1984,7 +2036,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B09W396PLZ",
@@ -2007,7 +2060,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B08WJMQDTP",
@@ -2030,7 +2084,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B089G8YGV2",
@@ -2053,7 +2108,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B09JN1VLT4",
@@ -2076,7 +2132,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GJFXXXYM",
@@ -2120,7 +2177,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HHPR1KHJ",
@@ -2142,7 +2200,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "twin-tub"
   },
   {
     "asin": "B0D8ZXHZ68",
@@ -2189,7 +2248,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "twin-tub"
   },
   {
     "asin": "B0DSQY55D3",
@@ -2212,7 +2272,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0GYZKHJK4",
@@ -2235,7 +2296,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "twin-tub"
   },
   {
     "asin": "B0CW3FC816",
@@ -2257,7 +2319,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0CDVHRG14",
@@ -2279,7 +2342,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0F9KW5QFR",
@@ -2301,7 +2365,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0D295MS7K",
@@ -2323,7 +2388,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0FL6K91FC",
@@ -2345,7 +2411,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B091HYGLDL",
@@ -2411,7 +2478,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0FCM8KP9R",
@@ -2431,7 +2499,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0DNWMR7QF",
@@ -2471,7 +2540,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GRV8FXX4",
@@ -2491,7 +2561,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0FYNYYBGW",
@@ -2511,7 +2582,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0CGDPP683",
@@ -2531,7 +2603,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0D294DCZ5",
@@ -2551,7 +2624,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B09ZZWK5GJ",
@@ -2571,7 +2645,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FLPZM42K",
@@ -2611,7 +2686,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0HQH1DS7Q",
@@ -2671,7 +2747,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0C1ZGPCFG",
@@ -2691,7 +2768,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0H5WQ4BTG",
@@ -2711,7 +2789,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0GGHTGWKX",
@@ -2735,7 +2814,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HLLFTX5K",
@@ -2806,7 +2886,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FTMHZYTN",
@@ -2830,7 +2911,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FTMKB2B3",
@@ -2877,7 +2959,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0GZH9XGG4",
@@ -2926,7 +3009,8 @@
     "oosCount": 1,
     "reason": null,
     "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "type": "top-load"
   },
   {
     "asin": "B091NY1NWM",
@@ -2968,7 +3052,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0DDQBTF7R",
@@ -3013,7 +3098,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0966LPQPB",
@@ -3033,7 +3119,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0GYM233BX",
@@ -3053,7 +3140,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0HFLMYQSS",
@@ -3073,7 +3161,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0H5WW3TT1",
@@ -3093,7 +3182,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0HL98PYS4",
@@ -3173,7 +3263,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0H67LYGXW",
@@ -3193,7 +3284,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0922YSST9",
@@ -3213,7 +3305,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FM72L2K7",
@@ -3253,7 +3346,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0HLG61T9B",
@@ -3273,7 +3367,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0H6MN17FH",
@@ -3293,7 +3388,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0HGRCFKRP",
@@ -3313,7 +3409,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0FXBV7P4T",
@@ -3373,7 +3470,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0BQ6L7V88",
@@ -3393,7 +3491,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0GYJKSDCK",
@@ -3433,7 +3532,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0DZTLG3QG",
@@ -3473,7 +3573,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0BBZN6QKJ",
@@ -3515,7 +3616,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0DLTDKSKD",
@@ -3537,7 +3639,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0BQ6M2Y2R",
@@ -3599,7 +3702,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0FWKQM97G",
@@ -3619,7 +3723,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0H2QH296F",
@@ -3639,7 +3744,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0DTHMZTSM",
@@ -3663,7 +3769,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GGJ3J148",
@@ -3687,7 +3794,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B09W45PFQF",
@@ -3709,7 +3817,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B096923N3X",
@@ -3754,7 +3863,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0DHVML2VZ",
@@ -3777,7 +3887,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0D8PR9QHY",
@@ -3800,7 +3911,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B092Q348ZC",
@@ -3820,7 +3932,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0DJSZQ5XS",
@@ -3840,7 +3953,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "mini"
   },
   {
     "asin": "B0CBHGWF7Q",
@@ -3864,7 +3978,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0DSR5ZJT7",
@@ -3887,7 +4002,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0CBW48X2X",
@@ -3910,7 +4026,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B08X6H8DZL",
@@ -3932,7 +4049,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GLRGCMFT",
@@ -3980,7 +4098,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GLS6PP7Q",
@@ -4051,7 +4170,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HJM8QTN9",
@@ -4098,7 +4218,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0CDV7K72H",
@@ -4144,7 +4265,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B097F4JXGD",
@@ -4167,7 +4289,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0CPVXS687",
@@ -4189,7 +4312,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0D28257HF",
@@ -4212,7 +4336,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0BX75DGR2",
@@ -4232,7 +4357,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B01KXFJY9O",
@@ -4255,7 +4381,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0D296CSVL",
@@ -4277,7 +4404,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B01KXFD49A",
@@ -4301,7 +4429,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0BX5XGF3Z",
@@ -4346,7 +4475,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0D6RYGB4H",
@@ -4414,7 +4544,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HRG1DWSQ",
@@ -4456,7 +4587,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "filtered",
+    "type": "top-load"
   },
   {
     "asin": "B0GJT6QM6L",
@@ -4762,7 +4894,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0GKVWGWHR",
@@ -4891,7 +5024,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "filtered"
+    "reason": "filtered",
+    "type": "top-load"
   },
   {
     "asin": "B0FJZHGGHM",
@@ -4973,13 +5107,14 @@
     "price": 335,
     "img": "https://m.media-amazon.com/images/I/41RkYq9tkBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D7ZWR86Q?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "audit-blocked",
+    "blocked": true
   },
   {
     "asin": "B0FXJB2K9X",

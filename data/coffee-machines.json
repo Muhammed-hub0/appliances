@@ -5615,12 +5615,13 @@
     "price": 990,
     "img": "https://m.media-amazon.com/images/I/21VRVIRqD8L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01DYCZQGI?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "audit-blocked",
+    "blocked": true
   }
 ]
