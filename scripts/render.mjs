@@ -242,6 +242,13 @@ h1{font-size:23px;margin:18px 0 8px}
 `;
 
 const HUB_CSS = `
+.main-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:12px 0}
+.main-group{min-width:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px}
+.main-group h2{font-size:14px;line-height:1.3;margin:0 0 8px;color:var(--text);padding-inline-start:8px;border-inline-start:3px solid var(--b)}
+.main-group .subgrid{display:flex;flex-wrap:wrap;gap:5px}
+.main-group a{font-size:11px;line-height:1.2;padding:5px 7px;border-radius:8px;background:var(--surface-alt);color:var(--text);text-decoration:none;font-weight:700}
+.main-group a:hover{background:var(--b);color:#fff;text-decoration:none}
+@media(max-width:600px){.main-group{padding:8px}.main-group h2{font-size:12px}.main-group a{font-size:10px;padding:4px 5px}}
 .searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
 .searchbox input{flex:1;min-width:0}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
@@ -354,6 +361,16 @@ ${cards}
 </section>`;
   }).join('\n');
 
+  // لمحة سريعة أول ما الموقع يفتح: التلات أقسام الرئيسية وجوههم الأقسام الفرعية
+  const overview = GROUPS.map((group) => {
+    const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
+    const links = cats.map((cat) => `<a href="c/${cat.id}/index.html" data-name="${esc(cat.title + ' ' + cat.short + ' ' + cat.id)}">${esc(cat.title)}</a>`).join('');
+    return `<section class="main-group" data-overview="${group.id}">
+  <h2>${group.emoji} ${esc(group.title)}</h2>
+  <div class="subgrid">${links}</div>
+</section>`;
+  }).join('\n');
+
   return `<!doctype html>
 <html lang="ar" dir="rtl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -370,14 +387,17 @@ ${tracker()}
 ${siteHeader()}
 <main class="wrap">
 <h1>كل الأجهزة المنزلية في مكان واحد 🏠</h1>
+<div class="main-groups">
+${overview}
+</div>
 <p class="lead">اختر نوع الجهاز عشان تشوف المقارنة الكاملة: الأسعار، المواصفات، والروابط من أمازون مصر. كل قسم بيتحدث تلقائيًا.</p>
-<img class="banner" src="assets/banner.jpg" alt="مشترياتك صح — دليلك للمقارنة الذكية" style="width:100%;border-radius:16px;border:1px solid var(--line)">
 <div class="searchbox surface-card" style="padding:10px 12px">
   <input id="catSearch" type="search" placeholder="ابحث عن نوع الجهاز... مثال: غسالة، مكواة، تكييف">
 </div>
 <div id="catGrid">
 ${sections}
 </div>
+<img class="banner" src="assets/banner.jpg" alt="مشترياتك صح — دليلك للمقارنة الذكية" style="width:100%;border-radius:16px;border:1px solid var(--line)">
 <p id="noCats" hidden>مفيش أقسام مطابقة للبحث.</p>
 ${footer(Object.values(stats).reduce((a, b) => a + b, 0), meta)}
 </main>
@@ -387,6 +407,7 @@ ${themeScript()}
   var q=document.getElementById('catSearch');
   var cards=Array.prototype.slice.call(document.querySelectorAll('#catGrid .cat'));
   var groups=Array.prototype.slice.call(document.querySelectorAll('#catGrid .group'));
+  var chips=Array.prototype.slice.call(document.querySelectorAll('.main-group a'));
   var msg=document.getElementById('noCats');
   function apply(){
     var v=(q.value||'').trim().toLowerCase();
@@ -395,6 +416,10 @@ ${themeScript()}
       var ok=!v||c.getAttribute('data-name').toLowerCase().indexOf(v)!==-1;
       c.style.display=ok?'':'none';
       if(ok)shown++;
+    });
+    chips.forEach(function(c){
+      var ok=!v||c.getAttribute('data-name').toLowerCase().indexOf(v)!==-1;
+      c.style.display=ok?'':'none';
     });
     groups.forEach(function(g){
       var any=Array.prototype.slice.call(g.querySelectorAll('.cat')).some(function(c){return c.style.display!=='none';});
