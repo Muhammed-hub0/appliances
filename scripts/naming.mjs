@@ -49,20 +49,37 @@ const LATIN_BRANDS = [
   'RAF', 'Rafal', 'NC', 'Beko', 'LG', 'Hisense', 'Samsung', 'Siemens',
 ];
 
-export function detectBrand(title, byLine = '') {
-  const haystack = `${title || ''} ${byLine || ''}`;
+function matchBrandMap(text) {
+  if (!text) return '';
   for (const [re, arabic] of BRAND_MAP) {
-    if (re.test(haystack)) return arabic;
+    if (re.test(text)) return arabic;
   }
   for (const arabic of ARABIC_BRANDS) {
-    if (haystack.includes(arabic)) return arabic;
+    if (text.includes(arabic)) return arabic;
   }
+  return '';
+}
+
+export function detectBrand(title, byLine = '') {
+  const line = String(byLine || '').trim();
+  const heading = String(title || '');
+
+  // براند أمازون الرسمي هو الأدق، فبنستخدمه قبل أي كلمة في العنوان
+  const fromLine = matchBrandMap(line);
+  if (fromLine) return fromLine;
+
+  const fromTitle = matchBrandMap(heading);
+  if (fromTitle) return fromTitle;
+
   for (const latin of LATIN_BRANDS) {
-    const word = new RegExp(`(^|[^a-z])${latin}([^a-z]|$)`, 'i');
     const start = new RegExp(`^\\s*(?:the\\s+)?${latin}\\b`, 'i');
-    if (word.test(byLine || '') || start.test(title || '')) return latin;
+    const word = new RegExp(`(^|[^a-z])${latin}([^a-z]|$)`, 'i');
+    if (start.test(heading) || word.test(line)) return latin;
   }
-  return cleanBrandToken(byLine) || cleanBrandToken(String(title || '').split(/[\s,|/]+/)[0]);
+
+  // byLine ساعات بيبقى جملة طويلة ("Visit the X Store") — نرفضه لو كده
+  if (line && line.split(/\s+/).length <= 4) return cleanBrandToken(line);
+  return cleanBrandToken(heading.split(/[\s,|/]+/)[0]);
 }
 
 export function isExcludedBrand(brand) {
@@ -130,7 +147,13 @@ export function buildName({ brand, specs, model, category, fallback = '' }) {
 
   let name = parts.join(' ').replace(/\s+/g, ' ').trim();
   if (model) name = `${name} (${model})`.trim();
-  if (!name) name = String(fallback || '').replace(/\s+/g, ' ').trim().slice(0, 95);
+
+  const hasSpecs = (category.specs || []).some((spec) => specs[spec.key]);
+  // لو مفيش مواصفات مستخرجة، العنوان الأصلي أوضح من اسم فيه براند بس
+  if (!name || (!hasSpecs && fallback)) {
+    const clean = String(fallback || '').replace(/\s+/g, ' ').trim();
+    if (clean) name = clean.slice(0, 105);
+  }
   return name.slice(0, 105);
 }
 

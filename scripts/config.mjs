@@ -10,12 +10,12 @@ export const API_BASE = 'https://creatorsapi.amazon';
 // حدود عامة (لكل قسم حدوده الخاصة في CATEGORIES)
 export const MIN_PRICE = 150;
 export const MAX_PRICE = 600000;
-export const SEARCH_MAX_PRICE = 80000;
+export const SEARCH_MAX_PRICE = 150000;
 export const MAX_STALE_DAYS = 7;
-export const MAX_NEW_PER_CATEGORY = 12;
-export const MAX_STORED_PER_CATEGORY = 180;
+export const MAX_NEW_PER_CATEGORY = 15;
+export const MAX_STORED_PER_CATEGORY = 90;
 export const HISTORY_LIMIT = 200;
-export const SEARCH_PAGES = [1, 2];
+export const SEARCH_PAGES = [1, 2, 3];
 export const SEARCH_ITEM_COUNT = 10;
 
 const n = (key, label, pattern, min, max, suffix = '') => ({
@@ -23,12 +23,14 @@ const n = (key, label, pattern, min, max, suffix = '') => ({
 });
 const e = (key, label, options) => ({ key, label, options, type: 'enum' });
 
-// كلمات تدل على إكسسوارات/قطع غيار/كتب بدل الجهاز نفسه
+// عبارات تدل على إكسسوارات/قطع غيار/كتب بدل الجهاز نفسه.
+// متعمّدة إنها عبارات مركّبة عشان كلمات زي "filter" أو "bag" أو "stand" بتيجي
+// كمان في عنوان الجهاز نفسه (stand mixer / bagless vacuum / air filter).
 export const ACCESSORY_RE =
-  /liner|accessor|spare|replacement|part\b|cover|case|bag|stand|holder|rack|tray|mat\b|brush|glove|tong|filter|nozzle|hose|blade\s*only|paper|parchment|silicone|mold|mould|skewer|steamer|baking|seasoning|spice|cookbook|recipe|book|guide|manual|sticker|organizer|magnet|decal|cleaning\s*kit|protection\s*film/i;
+  /\b(replacement|spare)\s+(part|parts|filter|filters|bag|bags|blade|blades|head|heads|kit|kits|brush|brushes|tray|trays|rack|racks|pot|pots|nozzle|nozzles)\b|\baccessor(y|ies)\b|\bcompatible\s+with\b|\bcookbook\b|\brecipe\s+book\b|\bcleaning\s+kit\b|\bprotective\s+(cover|case)\b|\bsilicone\s+(liner|liners|mat|mats|pot|pots|mold|mould|tray|trays)\b|\bparchment\s+paper\b|\bmagnet\b|\borganizer\b|\bsticker\b|\bdecal\b|\brefill\s+kit\b|\bwater\s+filter\s+refill\b|\bblade\s*only\b|\bcover\s+only\b|\bcase\s+only\b/i;
 
 export const GENERIC_RE =
-  /^(air|fryer|microwave|fridge|freezer|shaver|machine|electric|digital|portable|multi|multifunction|smart|home|new|white|black|8|\d+)$/i;
+  /^(air|fryer|microwave|fridge|freezer|shaver|machine|electric|digital|portable|multi|multifunction|smart|home|new|white|black|8|\d+|قلاية|قلايه|ميكروويف|مايكروويف|ثلاجة|ثلاجه|فريزر|غسالة|غساله|مكنسة|مكنسه|مكواة|مكواه|غلاية|غلايه|محمصة|محمصه|خلاط|مضرب|فرن|بوتاجاز|سخان|تكييف|مروحة|مروحه|عصارة|عصاره|قدر|ماكينة|ماكينه|جهاز|طقم|عدة|أدوات|ادوات)$/i;
 
 // تحويل أسماء الماركات الإنجليزية لعربي
 export const BRAND_MAP = [
@@ -43,19 +45,13 @@ export const BRAND_MAP = [
   [/bosch/i, 'بوش'],
   [/siemens/i, 'سيمنز'],
   [/panasonic/i, 'باناسونيك'],
-  [/sharp/i, 'شارب'],
   [/tornado/i, 'تورنيدو'],
-  [/fresh/i, 'فريش'],
   [/sokany|sokani/i, 'سوكاني'],
   [/akai/i, 'أكاي'],
   [/\bdsp\b/i, 'دي إس بي'],
   [/oraimo/i, 'أورايمو'],
   [/arion/i, 'أريون'],
-  [/\bsilver\b|silvertine/i, 'سيلفر'],
-  [/capri/i, 'كابري'],
-  [/\bbenz\b/i, 'بنز'],
   [/mienta/i, 'مينتا'],
-  [/hi-?way/i, 'هاي واي'],
   [/jamaki/i, 'جاماكي'],
   [/samsung/i, 'سامسونج'],
   [/\blg\b/i, 'إل جي'],
@@ -97,6 +93,40 @@ export const BRAND_MAP = [
   [/tcl/i, 'تي سي إل'],
   [/fuji/i, 'فوجي'],
   [/nescafe|nespresso|dolce\s*gusto/i, 'نسكافيه'],
+  [/carrier/i, 'كارير'],
+  [/nikai/i, 'نيكاي'],
+  [/sonashi/i, 'سوناشي'],
+  [/impex/i, 'إمبكس'],
+  [/hoffmans?/i, 'هوفمانز'],
+  [/\bwahl\b/i, 'وول'],
+  [/kemei/i, 'كيمي'],
+  [/konka/i, 'كونكا'],
+  [/unionaire/i, 'يونيون إير'],
+  [/white\s*point/i, 'وايت بوينت'],
+  [/\belba\b/i, 'إلبا'],
+  [/la\s*germania/i, 'لا جرمانيا'],
+  [/zanussi/i, 'زانوسي'],
+  [/bompani/i, 'بومباني'],
+  [/kiriazi/i, 'كريازي'],
+  [/olympic/i, 'أوليمبيك'],
+  [/union\s*tech/i, 'يونيون تك'],
+  [/universal/i, 'يونيفرسال'],
+  [/haier/i, 'هاير'],
+  [/tefal/i, 'تيفال'],
+  [/sencor/i, 'سينكور'],
+  [/german\s*pool/i, 'جيرمان بول'],
+  [/homestar/i, 'هوم ستار'],
+  [/geepas/i, 'جيباس'],
+  [/sanford/i, 'سانفورد'],
+  [/nova/i, 'نوفا'],
+  // أسماء ممكن تتلخبط مع كلمات وصفية (لون/صفة) — بنحطها الآخر
+  [/silvertine/i, 'سيلفر'],
+  [/\bsilver\b/i, 'سيلفر'],
+  [/\bcapri\b/i, 'كابري'],
+  [/\bbenz\b/i, 'بنز'],
+  [/hi-?way/i, 'هاي واي'],
+  [/\bsharp\b/i, 'شارب'],
+  [/\bfresh\b/i, 'فريش'],
 ];
 
 // براندات مسموح للبحث التلقائي يضيف منها منتجات
@@ -111,12 +141,18 @@ export const AUTO_ADD_BRANDS = [
   'تاكا', 'زانوسي', 'فاكير', 'سينبو', 'أرزوم', 'كومتيل', 'فيستل', 'ألتوس',
   'جولد ماستر', 'وينسا', 'سوبر جنرال', 'سونار', 'تي سي إل', 'فوجي', 'نسكافيه',
   'بيكو', 'Beko', 'LG', 'Hisense', 'Samsung', 'Siemens', 'Braun', 'Midea',
+  'كارير', 'نيكاي', 'سوناشي', 'إمبكس', 'هوفمانز', 'وول', 'كيمي', 'كونكا',
+  'يونيون إير', 'وايت بوينت', 'إلبا', 'لا جرمانيا', 'بومباني', 'كريازي',
+  'أوليمبيك', 'يونيون تك', 'يونيفرسال', 'سينكور', 'جيرمان بول', 'هوم ستار',
+  'جيباس', 'سانفورد', 'نوفا',
 ];
 
 // براندات عامة/مش ماركات حقيقية
 export const EXCLUDED_BRANDS = [
   'سيلفر', 'إير فراير', 'Dollar', 'بنز', 'Multifunctional', 'White',
   'هاي واي', 'بلاك آند وايت', 'كابري', 'GEOVINA', 'Silvertine', 'دي إس بي',
+  'Silver', 'Capri', 'Benz', 'Hi-Way', 'High Way', 'Generic', 'Unbranded',
+  'No Brand', 'NoName', 'OEM', 'Other', 'Home', 'Kitchen', 'Household',
 ];
 
 // تعريف الأقسام. كل قسم له بياناته وتاريخ أسعاره وجدوله وصفحاته الخاصة.
@@ -156,7 +192,7 @@ export const CATEGORIES = [
   },
   {
     id: 'freezers', title: 'الفريزرات', short: 'فريزر', emoji: '🧊',
-    queries: ['chest freezer', 'upright freezer', 'فريزر'],
+    queries: ['chest freezer', 'deep freezer', 'upright freezer', 'فريزر'],
     include: /freezer|فريزر/i,
     exclude: /fridge\s*freezer|ثلاجة|organizer|cover/i,
     specs: [
@@ -166,8 +202,8 @@ export const CATEGORIES = [
   },
   {
     id: 'shavers', title: 'ماكينات الحلاقة', short: 'ماكينة حلاقة', emoji: '🪒',
-    queries: ['electric shaver', 'electric razor', 'ماكينة حلاقة', 'حلاقة كهربائية'],
-    include: /shaver|razor|حلاق|ماكينة\s*حلاقة/i,
+    queries: ['electric shaver', 'electric razor', 'beard trimmer', 'ماكينة حلاقة', 'حلاقة كهربائية'],
+    include: /shaver|razor|trimmer|grooming|حلاق|ماكينة\s*حلاقة|تشذيب/i,
     exclude: /blade\s*refill|replacement\s*head|شفرات\s*بديلة/i,
     specs: [
       e('blades', 'عدد الشفرات', [[/\b5\s*blade|5\s*شفرة/i, '5 شفرات'], [/\b4\s*blade|4\s*شفرة/i, '4 شفرات'], [/\b3\s*blade|3\s*شفرة/i, '3 شفرات'], [/\b2\s*blade|2\s*شفرة/i, '2 شفرة']]),
@@ -177,9 +213,9 @@ export const CATEGORIES = [
   },
   {
     id: 'washing-machines', title: 'الغسالات', short: 'غسالة', emoji: '🧺',
-    queries: ['washing machine', 'غسالة ملابس', 'غسالة'],
-    include: /washing\s*machine|غسال/i,
-    exclude: /washing\s*machine|غسالة ملابس|tablet|salt|rinse\s*aid/i,
+    queries: ['washing machine', 'غسالة ملابس', 'غسالة أوتوماتيك'],
+    include: /washing\s*machine|غسالة\s*(?:ملابس|أوتوماتيك|اتوماتيك|فوق|تحميل)|غسال/i,
+    exclude: /dish\s?washer|غسالة\s*(?:أطباق|اطباق)|tablet|salt|rinse\s*aid|detergent|منظف/i,
     specs: [
       n('cap', 'الحمولة (كجم)', /(\d+(?:\.\d+)?)\s*(?:kg\b|كجم|كيلو)/i, 2, 25, ''),
       n('spin', 'سرعة العصر (rpm)', /(\d{3,4})\s*(?:rpm|دورة)/i, 400, 2000, ''),
@@ -188,9 +224,9 @@ export const CATEGORIES = [
   },
   {
     id: 'dishwashers', title: 'غسالات الأطباق', short: 'غسالة أطباق', emoji: '🍽️',
-    queries: ['dishwasher', 'غسالة أطباق'],
-    include: /dish\s?washer|غسالة\s*أطباق/i,
-    exclude: /washing\s*machine|غسالة ملابس|tablet|salt|rinse\s*aid/i,
+    queries: ['dishwasher', 'غسالة أطباق', 'غسالة اطباق'],
+    include: /dish\s?washer|غسالة\s*(?:أطباق|اطباق)/i,
+    exclude: /washing\s*machine|غسالة\s*ملابس|tablet|salt|rinse\s*aid|detergent|منظف/i,
     specs: [
       n('places', 'عدد الأماكن', /(\d{1,2})\s*(?:place|setting|مكان)/i, 4, 16, ''),
       e('type', 'النوع', [[/built\s*in|مدمج/i, 'مدمج'], [/countertop|سطح الطاولة/i, 'سطح الطاولة'], [/freestanding|قائم/i, 'قائم']]),
@@ -200,7 +236,7 @@ export const CATEGORIES = [
     id: 'ovens', title: 'الأفران', short: 'فرن', emoji: '🍕',
     queries: ['electric oven', 'toaster oven', 'فرن كهربائي', 'فرن'],
     include: /\boven\b|فرن|توستر/i,
-    exclude: /microwave|ميكروويف|tray|rack|mitt|glove/i,
+    exclude: /microwave|ميكروويف|mitt|glove/i,
     specs: [
       n('cap', 'السعة (لتر)', /(\d+(?:\.\d+)?)\s*(?:l\b|ltr|liter|litre|لتر)/i, 8, 120, ''),
       e('type', 'النوع', [[/convection|confirm|كونفكشن/i, 'كونفكشن'], [/gas|غاز/i, 'غاز'], [/built\s*in|مدمج/i, 'مدمج'], [/toaster|توستر/i, 'توستر']]),
@@ -211,7 +247,7 @@ export const CATEGORIES = [
     id: 'coffee-machines', title: 'ماكينات القهوة', short: 'ماكينة قهوة', emoji: '☕',
     queries: ['coffee machine', 'espresso machine', 'ماكينة قهوة'],
     include: /coffee|espresso|قهوة|كافيه/i,
-    exclude: /beans\s*only|filter\s*paper|cup|مكعبات|منظف/i,
+    exclude: /beans\s*only|filter\s*paper|مكعبات|منظف/i,
     specs: [
       e('type', 'النوع', [[/capsule|kapsul|كبسولات|nespresso|dolce/i, 'كبسولات'], [/espresso|إسبريسو/i, 'إسبريسو'], [/filter|فلتر/i, 'فلتر'], [/instant|فورية/i, 'فورية']]),
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 500, 4000, ''),
@@ -221,7 +257,7 @@ export const CATEGORIES = [
     id: 'blenders', title: 'الخلاطات', short: 'خلاط', emoji: '🥤',
     queries: ['blender', 'خلاط كهربائي', 'خلاط'],
     include: /blender|خلاط/i,
-    exclude: /food\s*processor|محضرة|juicer|عصارة|jar|كوب\s*بديل/i,
+    exclude: /food\s*processor|محضرة|juicer|عصارة|كوب\s*بديل/i,
     specs: [
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 100, 4000, ''),
       n('speed', 'السرعات', /(\d{1,2})\s*(?:speed|سرعة)/i, 1, 20, ''),
@@ -232,7 +268,7 @@ export const CATEGORIES = [
     id: 'food-processors', title: 'محضرات الطعام', short: 'محضرة طعام', emoji: '🥣',
     queries: ['food processor', 'محضرة طعام'],
     include: /food\s*processor|محضر/i,
-    exclude: /blender|خلاط|bowl|وعاء\s*بديل/i,
+    exclude: /blender|خلاط|وعاء\s*بديل/i,
     specs: [
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 100, 3000, ''),
       n('cap', 'السعة (لتر)', /(\d+(?:\.\d+)?)\s*(?:l\b|ltr|لتر)/i, 0.5, 10, ''),
@@ -240,9 +276,9 @@ export const CATEGORIES = [
   },
   {
     id: 'vacuum-cleaners', title: 'المكانس الكهربائية', short: 'مكنسة', emoji: '🧹',
-    queries: ['vacuum cleaner', 'مكنسة كهربائية', 'مكنسة'],
-    include: /vacuum|مكنس/i,
-    exclude: /filter|bag|nozzle|hose|brush|غيار|كيس/i,
+    queries: ['vacuum cleaner', 'cordless vacuum', 'مكنسة كهربائية', 'مكنسة'],
+    include: /vacuum|hoover|مكنس/i,
+    exclude: /replacement\s+filter|dust\s+bag\s+only|أكياس\s+غيار|كيس\s+غيار/i,
     specs: [
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 100, 4000, ''),
       e('type', 'النوع', [[/robot|روبوت/i, 'روبوت'], [/cordless|لاسلكي/i, 'لاسلكي'], [/upright|عمودي/i, 'عمودي'], [/handheld|يدوي/i, 'يدوي']]),
@@ -262,7 +298,7 @@ export const CATEGORIES = [
     id: 'hair-dryers', title: 'مجففات الشعر', short: 'مجفف شعر', emoji: '💨',
     queries: ['hair dryer', 'مجفف شعر', 'سيشوار'],
     include: /hair\s*dryer|blow\s*dryer|مجفف\s*شعر|سيشوار/i,
-    exclude: /diffuser|nozzle|comb|فرشاة/i,
+    exclude: /hair\s*brush|round\s*brush|فرشاة\s*شعر/i,
     specs: [
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 500, 3500, ''),
       n('speed', 'السرعات', /(\d{1,2})\s*(?:speed|سرعة)/i, 1, 10, ''),
@@ -272,7 +308,7 @@ export const CATEGORIES = [
     id: 'kettles', title: 'الغلايات', short: 'غلاية', emoji: '🫖',
     queries: ['electric kettle', 'غلاية كهربائية', 'غلاية'],
     include: /kettle|غلاي/i,
-    exclude: /filter|مقياس|غطار/i,
+    exclude: /مقياس|غطار/i,
     specs: [
       n('cap', 'السعة (لتر)', /(\d+(?:\.\d+)?)\s*(?:l\b|ltr|liter|لتر)/i, 0.5, 5, ''),
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 500, 3500, ''),
@@ -282,7 +318,7 @@ export const CATEGORIES = [
     id: 'toasters', title: 'المحمصات', short: 'محمصة', emoji: '🍞',
     queries: ['toaster', 'محمصة خبز', 'محمصة'],
     include: /toaster|محمص/i,
-    exclude: /oven|فرن|bag|غطاء/i,
+    exclude: /oven|فرن|غطاء/i,
     specs: [
       n('slots', 'عدد الشرائح', /(\d{1,2})\s*(?:slice|شرائح|شريحة)/i, 1, 6, ''),
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 400, 2500, ''),
@@ -292,7 +328,7 @@ export const CATEGORIES = [
     id: 'mixers', title: 'المضربات', short: 'مضرب', emoji: '🥄',
     queries: ['hand mixer', 'electric mixer', 'مضرب كهربائي'],
     include: /mixer|مضرب/i,
-    exclude: /blender|خلاط|attachment|قطعة\s*بديلة/i,
+    exclude: /blender|خلاط|قطعة\s*بديلة/i,
     specs: [
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 100, 2000, ''),
       n('speed', 'السرعات', /(\d{1,2})\s*(?:speed|سرعة)/i, 1, 15, ''),
@@ -300,8 +336,8 @@ export const CATEGORIES = [
   },
   {
     id: 'cookers', title: 'البوتاجازات', short: 'بوتاجاز', emoji: '🔥',
-    queries: ['cooking range', 'gas cooker', 'بوتاجاز'],
-    include: /cooker|cooking\s*range|بوتاجاز/i,
+    queries: ['cooking range', 'gas cooker', 'gas stove', 'بوتاجاز'],
+    include: /cooker|cooking\s*range|\bstove\b|بوتاجاز/i,
     exclude: /rice|pressure|قدر|oven\s*only/i,
     specs: [
       n('burners', 'عدد البوات', /(\d{1,2})\s*(?:burner|بوتاج|عين)/i, 2, 8, ''),
@@ -310,9 +346,9 @@ export const CATEGORIES = [
   },
   {
     id: 'water-heaters', title: 'السخانات', short: 'سخان', emoji: '🚿',
-    queries: ['electric water heater', 'سخان ماء', 'سخان'],
-    include: /water\s*heater|سخان/i,
-    exclude: /filter|أنبوب|قطعة/i,
+    queries: ['electric water heater', 'water geyser', 'سخان ماء', 'سخان'],
+    include: /water\s*heater|geyser|\bboiler\b|سخان/i,
+    exclude: /أنبوب|قطعة/i,
     specs: [
       n('cap', 'السعة (لتر)', /(\d+(?:\.\d+)?)\s*(?:l\b|ltr|liter|لتر)/i, 5, 200, ''),
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 500, 6000, ''),
@@ -321,8 +357,8 @@ export const CATEGORIES = [
   {
     id: 'air-conditioners', title: 'التكييفات', short: 'تكييف', emoji: '🌬️',
     queries: ['air conditioner', 'تكييف', 'مكيف'],
-    include: /air\s*conditioner|تكييف|مكيف/i,
-    exclude: /filter|cover|غلاف|remote|ريموت/i,
+    include: /air\s*conditioner|\bac\b|split\s*ac|تكييف|مكيف/i,
+    exclude: /cover|غلاف/i,
     specs: [
       n('hp', 'القدرة (حصان)', /(\d+(?:\.\d+)?)\s*(?:hp\b|حصان)/i, 0.5, 5, ''),
       e('type', 'النوع', [[/split|سبليت/i, 'سبليت'], [/window|شباك/i, 'شباك'], [/portable|متنقل/i, 'متنقل']]),
@@ -333,7 +369,7 @@ export const CATEGORIES = [
     id: 'fans', title: 'المراوح', short: 'مروحة', emoji: '🌀',
     queries: ['electric fan', 'مروحة', 'مراوح'],
     include: /\bfan\b|مروح/i,
-    exclude: /blade|cover|غلاف|motor|موتور/i,
+    exclude: /cover|غلاف/i,
     specs: [
       n('size', 'المقاس (بوصة)', /(\d{1,2})\s*(?:inch|بوصة|")/i, 8, 30, ''),
       e('type', 'النوع', [[/tower|برج/i, 'برج'], [/ceiling|سقف/i, 'سقف'], [/stand|أرضية/i, 'أرضية'], [/table|طاولة/i, 'طاولة'], [/exhaust|شفاط/i, 'شفاط']]),
@@ -353,7 +389,7 @@ export const CATEGORIES = [
     id: 'pressure-cookers', title: 'قدور الضغط', short: 'قدر ضغط', emoji: '🍲',
     queries: ['electric pressure cooker', 'قدر ضغط كهربائي', 'قدر ضغط'],
     include: /pressure\s*cooker|قدر\s*ضغط/i,
-    exclude: /gasket|ختم|قطعة|valve/i,
+    exclude: /gasket|ختم|قطعة/i,
     specs: [
       n('cap', 'السعة (لتر)', /(\d+(?:\.\d+)?)\s*(?:l\b|ltr|liter|لتر)/i, 2, 20, ''),
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 400, 2500, ''),
@@ -363,7 +399,7 @@ export const CATEGORIES = [
     id: 'juicers', title: 'العصارات', short: 'عصارة', emoji: '🍊',
     queries: ['juicer', 'عصارة', 'عصير'],
     include: /juic|عصار|عصير/i,
-    exclude: /blender|خلاط|filter|فلتر/i,
+    exclude: /blender|خلاط/i,
     specs: [
       n('watt', 'القدرة (وات)', /(\d{3,4})\s*(?:w\b|watt|وات)/i, 100, 2000, ''),
       e('type', 'النوع', [[/centrifugal|طرد مركزي/i, 'طرد مركزي'], [/slow|بطيء/i, 'بطيء'], [/citrus|حمضيات/i, 'حمضيات']]),

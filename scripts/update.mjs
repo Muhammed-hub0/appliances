@@ -117,6 +117,13 @@ function applyApiItem(offer, api, history, category) {
   return changed;
 }
 
+function scoreCandidate({ info }) {
+  // الأفضل: براند معروف + مواصفات أكتر. بنستخدمها للترتيب مش للاستبعاد.
+  const knownBrand = AUTO_ADD_BRANDS.includes(info.brand) ? 0 : 1;
+  const specCount = Object.keys(info.specs || {}).length;
+  return knownBrand * 10 - specCount;
+}
+
 async function findNewItems(category, offers, globalKnown) {
   const known = new Set(globalKnown);
   const families = new Set(
@@ -125,6 +132,10 @@ async function findNewItems(category, offers, globalKnown) {
   const found = new Map();
   const maxPrice = Math.min(category.maxPrice ?? SEARCH_MAX_PRICE, SEARCH_MAX_PRICE);
   const minPrice = category.minPrice ?? 150;
+  const stats = {
+    raw: 0, dup: 0, noTitle: 0, include: 0, accessory: 0, noImage: 0,
+    price: 0, condition: 0, availability: 0, brand: 0, weak: 0, family: 0,
+  };
 
   for (const keywords of category.queries) {
     for (const page of SEARCH_PAGES) {
@@ -143,23 +154,27 @@ async function findNewItems(category, offers, globalKnown) {
       }
 
       for (const raw of items) {
+        stats.raw++;
         const api = normalizeItem(raw);
-        if (!api.asin || known.has(api.asin)) continue;
-        if (!api.title) continue;
-        if (!category.include.test(api.title)) continue;
-        if (ACCESSORY_RE.test(api.title) || category.exclude?.test(api.title)) continue;
-        if (!api.image) continue;
-        if (!Number.isFinite(api.price) || api.price < minPrice || api.price > maxPrice) continue;
-        if (api.condition && !/^(new|unknown)$/i.test(api.condition)) continue;
-        if (api.availability && !IN_STOCK.has(api.availability)) continue;
+        if (!api.asin || known.has(api.asin)) { stats.dup++; continue; }
+        if (!api.title) { stats.noTitle++; continue; }
+        if (!category.include.test(api.title)) { stats.include++; continue; }
+        if (ACCESSORY_RE.test(api.title) || category.exclude?.test(api.title)) { stats.accessory++; continue; }
+        if (!api.image) { stats.noImage++; continue; }
+        if (!Number.isFinite(api.price) || api.price < minPrice || api.price > maxPrice) { stats.price++; continue; }
+        if (api.condition && !/^(new|unknown)$/i.test(api.condition)) { stats.condition++; continue; }
+        if (api.availability && !IN_STOCK.has(api.availability)) { stats.availability++; continue; }
 
         const info = describeProduct({ title: api.title, byLine: api.byLine }, category);
-        if (!info.brand || isExcludedBrand(info.brand)) continue;
-        if (!AUTO_ADD_BRANDS.includes(info.brand)) continue;
-        if (Object.keys(info.specs || {}).length === 0) continue;
+        if (!info.brand || isExcludedBrand(info.brand)) { stats.brand++; continue; }
+
+        const knownBrand = AUTO_ADD_BRANDS.includes(info.brand);
+        const specCount = Object.keys(info.specs || {}).length;
+        // لازم على الأقل براند معروف أو مواصفة مستخرجة — عشان منضيفش عشوائيات
+        if (!knownBrand && specCount === 0) { stats.weak++; continue; }
 
         const key = productKey({ ...info, name: info.name });
-        if (families.has(key)) continue;
+        if (families.has(key)) { stats.family++; continue; }
 
         families.add(key);
         known.add(api.asin);
@@ -168,7 +183,8 @@ async function findNewItems(category, offers, globalKnown) {
     }
   }
 
-  return [...found.values()];
+  const list = [...found.values()].sort((a, b) => scoreCandidate(a) - scoreCandidate(b));
+  return { items: list, stats };
 }
 
 function makeOffer({ api, info }, category, date) {
@@ -270,7 +286,7 @@ async function main() {
       }
 
       try {
-        const fresh = await findNewItems(cat, offers, globalKnown);
+        const { items: fresh, stats } = await findNewItems(cat, offers, globalKnown);
         for (const candidate of fresh.slice(0, MAX_NEW_PER_CATEGORY)) {
           const offer = makeOffer(candidate, cat, today());
           recordPrice(hist, offer.asin, offer.price);
@@ -280,6 +296,11 @@ async function main() {
           totalAdded++;
         }
         console.log(`  ${cat.title}: ${offers.filter((o) => o.active !== false).length} نشط · ${added} جديد`);
+        console.log(
+          `    تشخيص: خام ${stats.raw} · مكرر ${stats.dup} · مش مطابق ${stats.include} · إكسسوار ${stats.accessory}` +
+          ` · بدون صورة ${stats.noImage} · سعر ${stats.price} · حالة ${stats.condition + stats.availability}` +
+          ` · براند ${stats.brand} · ضعيف ${stats.weak} · عيلة مكررة ${stats.family}`,
+        );
       } catch (err) {
         console.warn(`  ${cat.title}: فشل البحث عن جديد — ${err.message}`);
       }
