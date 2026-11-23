@@ -88,8 +88,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0GY58SZDK",
@@ -1203,7 +1205,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 7,
+    "oosCount": 8,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1634,8 +1636,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B08Y8ZCJFJ",
@@ -1777,14 +1781,13 @@
     "price": 2950,
     "img": "https://m.media-amazon.com/images/I/217OKmb5y1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09BDKWYQK?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-23",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-23"
   },
   {
@@ -1998,7 +2001,7 @@
     "title": "SISKEYCOOC Portable Handheld Fan, Adjustable Speed (1-100), Rechargeable Personal Fan with Ice Cooler and LED Display, Gifts for Travel/Camping/Outdoor (White)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 499,
+    "price": 399,
     "img": "https://m.media-amazon.com/images/I/41knz8BqgcL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F4QXNW2H?tag=fineartslab-21",
     "active": true,
@@ -2306,7 +2309,7 @@
     "title": "DMTIVMG 5 in 1 portable mini pocket fan, rechargeable with pink USB port with 5 speeds, silent and foldable mini hand fan, suitable for home, office, camping, travel and outdoor",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 196.39,
+    "price": 196.41,
     "img": "https://m.media-amazon.com/images/I/510DCTjPVVL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C98X6JRK?tag=fineartslab-21",
     "active": false,
@@ -3327,7 +3330,7 @@
     "title": "Simpeak Portable Neck Fan, 2000mAh Battery Rechargeable USB Fan, 3 Speed Setting 360° Adjustable Mini Neck Fan, Personal Cooling Fan for Sports Office Travel",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 299,
+    "price": 250,
     "img": "https://m.media-amazon.com/images/I/51M4v6aEqVL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07R47RK6J?tag=fineartslab-21",
     "active": true,
@@ -3379,9 +3382,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
   {
@@ -5581,7 +5583,7 @@
     "title": "TORNADO Wall Fan 16 Inch, 4 Blades, Remote, White TWF-30",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2259,
+    "price": 2570,
     "img": "https://m.media-amazon.com/images/I/31Mb42zDW-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09FDTJCLK?tag=fineartslab-21",
     "active": true,
@@ -6442,7 +6444,7 @@
     "title": "Fresh Stand Fan Piano- 18 Inch, Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2589,
+    "price": 1632,
     "img": "https://m.media-amazon.com/images/I/31pCH1EMe9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08Y8Y17VJ?tag=fineartslab-21",
     "active": true,
@@ -6667,7 +6669,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"

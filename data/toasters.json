@@ -101,7 +101,7 @@
     "title": "Kenwood Metal Wrap Stylish Premium Design 2 Slice Toaster TCM01.AOBK",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2099,
+    "price": 2370,
     "img": "https://m.media-amazon.com/images/I/41vFdtvinsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07XBTK7T5?tag=fineartslab-21",
     "active": true,
@@ -285,7 +285,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1170,8 +1170,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B07VMQXXV8",
@@ -1564,13 +1566,13 @@
     "price": 1402.5,
     "img": "https://m.media-amazon.com/images/I/2152GMYdQSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HFMF15CT?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },

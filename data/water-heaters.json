@@ -109,8 +109,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0DWT49H2Z",
@@ -153,8 +155,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0B12N14DZ",
@@ -167,7 +171,7 @@
     "title": "Fresh Electric Water Heater Relax, 40 Liters",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2929,
+    "price": 3140,
     "img": "https://m.media-amazon.com/images/I/21YVMG0E5+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B12N14DZ?tag=fineartslab-21",
     "active": true,
@@ -285,7 +289,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -354,7 +358,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -632,7 +636,7 @@
     "title": "Fresh Electric Water Heater Venus 50 Litre",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3190,
+    "price": 3300,
     "img": "https://m.media-amazon.com/images/I/31x3+gp05YL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KVAXF6O?tag=fineartslab-21",
     "active": true,
@@ -680,8 +684,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0BQ7KZ62P",
@@ -760,7 +766,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1446,8 +1452,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0101S4RCM",
@@ -1482,7 +1490,7 @@
     "title": "TORNADO Gas Water Heater 6 L Petroleum Gas White GHE-C06CTE-W",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5805.69,
+    "price": 5691.87,
     "img": "https://m.media-amazon.com/images/I/21p8RsHlsJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0101S5CAS?tag=fineartslab-21",
     "active": true,
@@ -1522,7 +1530,7 @@
     "title": "Fresh Electric Instant Water Heater, 9 KW, Sliver - Fast 9",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7185,
+    "price": 7180,
     "img": "https://m.media-amazon.com/images/I/31UGorSI+2L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09234NMY1?tag=fineartslab-21",
     "active": true,
@@ -1815,8 +1823,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0DSJRZ65V",
@@ -2285,7 +2295,7 @@
     "title": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (White)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13800,
+    "price": 13590,
     "img": "https://m.media-amazon.com/images/I/31FDDhGGqKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4NLG1VB?tag=fineartslab-21",
     "active": true,
@@ -2325,7 +2335,7 @@
     "title": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (Black)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13019,
+    "price": 12999,
     "img": "https://m.media-amazon.com/images/I/31eAkZWW5tL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4P6VTY6?tag=fineartslab-21",
     "active": true,
@@ -2405,7 +2415,7 @@
     "title": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (Grey)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12999,
+    "price": 12990,
     "img": "https://m.media-amazon.com/images/I/31oKBNd9CZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4N9SCLM?tag=fineartslab-21",
     "active": true,
@@ -2425,7 +2435,7 @@
     "title": "Purity101 Electric Instant Water Heater, 9kW Tankless High-Efficiency Digital System, with Remote Control – P101 9k (Grey)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 9880,
+    "price": 9790,
     "img": "https://m.media-amazon.com/images/I/21XAzecodWL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4NBFGBK?tag=fineartslab-21",
     "active": true,
@@ -3174,8 +3184,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0HCJQDNBG",

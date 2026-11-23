@@ -65,8 +65,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B07XCX7CYQ",
@@ -195,7 +197,7 @@
     "title": "Philips electric kettle - 2200W, 1.7 L, Water level indicator, Black, Plastic - HD9318/20",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2187.05,
+    "price": 2184.5,
     "img": "https://m.media-amazon.com/images/I/31GsBJ7RE4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08CXTZF5H?tag=fineartslab-21",
     "active": true,
@@ -314,8 +316,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0D6BVC9CQ",
@@ -535,7 +539,7 @@
     "title": "Mienta Kettle, Glow, 2200W, 1.7L, Black, EK201937A | 1.7L Family Capacity - 360° Cordless Base - Water Level Indicator - Fast, Safe & Easy to Clean - Removable Anti-Scale Filter",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 875,
+    "price": 870,
     "img": "https://m.media-amazon.com/images/I/31WSxrYuomL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H83WFJTZ?tag=fineartslab-21",
     "active": true,
@@ -557,7 +561,7 @@
     "title": "Black & Decker 1.7L Concealed Coil Kettle, Jc70-B5, White, Plastic Material",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1315.6,
+    "price": 1545,
     "img": "https://m.media-amazon.com/images/I/21TlEb985jL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07MVSTKCV?tag=fineartslab-21",
     "active": true,
@@ -697,8 +701,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B08J7QDWYN",
@@ -1400,7 +1406,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 1915.83,
-    "img": "https://m.media-amazon.com/images/I/31RPxUBEBIL._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31EGGezvEbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H29XVPT7?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1499,8 +1505,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B005013GXC",
@@ -1660,7 +1668,7 @@
     "title": "Sonai Classic Kettle , Bright LED lights ,1.7L ,2200 Watt -MAR-3752",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 799,
+    "price": 788,
     "img": "https://m.media-amazon.com/images/I/41gWF7xZLZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09DQ278PX?tag=fineartslab-21",
     "active": true,
@@ -3058,7 +3066,7 @@
     "title": "Fresh Kettle Glass 1.7 Liters - Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 799,
+    "price": 770,
     "img": "https://m.media-amazon.com/images/I/31H-SlIGoBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C19HMH71?tag=fineartslab-21",
     "active": true,
@@ -3215,7 +3223,7 @@
     "title": "Sonai Plastic Electric Water Kettle, 1.7 Liter, 2200 Watt, Black - MAR-3000",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 665,
+    "price": 649,
     "img": "https://m.media-amazon.com/images/I/21hc2-ORICL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CTMSJQ1J?tag=fineartslab-21",
     "active": true,
@@ -3238,7 +3246,7 @@
     "title": "Sokany Electric Kettle 1.7L 2000W SK-SH-1076 (Red)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 799.9,
+    "price": 788.9,
     "img": "https://m.media-amazon.com/images/I/31slfkOUq4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CKZDJMVM?tag=fineartslab-21",
     "active": true,
@@ -4755,7 +4763,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -5220,7 +5228,7 @@
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
-    "missCount": 0,
+    "missCount": 1,
     "oosCount": 0,
     "reason": null
   },
@@ -6114,7 +6122,7 @@
     "title": "Mienta Ek20920A - Stainless Steel Kettle, 1.7 Liters, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1899,
+    "price": 1905,
     "img": "https://m.media-amazon.com/images/I/31jVCz1COZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJPRTFD?tag=fineartslab-21",
     "active": true,
@@ -6295,7 +6303,7 @@
     "title": "Tank Safe Touch Smart Kettle, 1.7L Capacity, 1850 Watts, Black, Y6261SE - 2 Year Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2999,
+    "price": 2965.94,
     "img": "https://m.media-amazon.com/images/I/31Px5KcQW7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FGXN6SBX?tag=fineartslab-21",
     "active": true,
@@ -6414,8 +6422,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0HHL2F6TH",

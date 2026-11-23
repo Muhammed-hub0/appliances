@@ -152,7 +152,7 @@
     "title": "Fresh Grand 75L Electric Oven, 2200W, Full Size – Model FR-7502RCL | 55 Litre Capacity, Model FR-5504RCL, Electric Powered, Black Finish",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5975,
+    "price": 5999,
     "img": "https://m.media-amazon.com/images/I/41mqKRoazqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HQ4MJ75Z?tag=fineartslab-21",
     "active": true,
@@ -275,7 +275,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 8,
+    "oosCount": 9,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -518,7 +518,7 @@
     "title": "Akai Oven 45 Liter Grill",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1539,
+    "price": 1637,
     "img": "https://m.media-amazon.com/images/I/4104cEg-WUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BH4QMRC7?tag=fineartslab-21",
     "active": true,
@@ -526,10 +526,9 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "lastSeenOut": "2026-11-23",
-    "outOfStockSince": "2026-11-23"
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B095XWWNRZ",
@@ -630,7 +629,7 @@
     "title": "Fresh Mechanical Air Fryer Oven, 25 Liter Capacity",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5255.67,
+    "price": 5100,
     "img": "https://m.media-amazon.com/images/I/31j7DwCS5EL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNQWRFQS?tag=fineartslab-21",
     "active": true,
@@ -974,7 +973,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1485,7 +1484,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1640,7 +1639,7 @@
     "title": "Elba - Built In Gas Oven With Fan and Grill Capacity 62 L, 60 CM With 8 Functions Mirror Double Glass, Stainless Steel Body - AL6XLXFG",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 28989,
+    "price": 28380,
     "img": "https://m.media-amazon.com/images/I/31UwnYxkA-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C5P228GM?tag=fineartslab-21",
     "active": true,
@@ -1662,7 +1661,7 @@
     "title": "Fresh 7 Functions Electric Oven, 56 Liter Capacity, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 11490,
+    "price": 14444,
     "img": "https://m.media-amazon.com/images/I/31a8+W5pvjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KXFI6AM?tag=fineartslab-21",
     "active": true,
@@ -1960,7 +1959,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -2120,8 +2119,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0FL7YBY3Y",
@@ -2135,18 +2136,17 @@
     "title": "Purity Built-in Gas Oven 60cm with Gas Grill, 65L Capacity, Digital Timer, Soft Close Doors, Black (Made in Turkey) – OPT602GGD",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 15590,
+    "price": 15599,
     "img": "https://m.media-amazon.com/images/I/31oXrhkTdyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FL7YBY3Y?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 7,
-    "outOfStockSince": "2026-11-23",
+    "oosCount": 0,
     "lastSeenOut": "2026-11-23",
-    "reason": "out-of-stock"
+    "reason": null
   },
   {
     "asin": "B0FL82YJN9",
@@ -2315,7 +2315,7 @@
     "title": "Komire Air Fryer Basket for Oven, 12.8x9.6 Inch Stainless Steel Toaster Oven Tray Non-stick Mesh Basket Set, Air Fryer Tray Bacon Oven Rack Basket 2 Piece Set",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 495,
+    "price": 508.28,
     "img": "https://m.media-amazon.com/images/I/51LpDAQ9BhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BXSHQHXB?tag=fineartslab-21",
     "active": false,
@@ -2800,7 +2800,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3156,7 +3156,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -3181,7 +3181,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -3291,8 +3291,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0BM6SP6WV",
@@ -3744,8 +3746,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B09CTTV5VF",
@@ -5732,8 +5736,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "filtered"
+    "oosCount": 1,
+    "reason": "filtered",
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B091C9WP7F",
@@ -6006,7 +6012,7 @@
     "title": "Toshiba Gas Cooker Freestanding, 60 Cm,Full Safety, Oven Fan, RT2-60MG4GE(MG)-EG,Mega Volcan Burner, Convection Fans,Duoble Glass Door, Iron Cast, Oven Light,Full Automatic Ignition, Morandi Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14530,
+    "price": 12999,
     "img": "https://m.media-amazon.com/images/I/31+g3YcSGPL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLZZH7PS?tag=fineartslab-21",
     "active": true,
@@ -6028,7 +6034,7 @@
     "title": "Toshiba Gas Cooker Freestanding - 60 Cm - Full Safety - Oven Fan, RT2-60MG4GE(MG)-EM, Convection Fans,Duoble Glass Door, Iron Cast, Oven Light,Full Automatic Ignition, Morandi Grey Color.",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12855,
+    "price": 11499,
     "img": "https://m.media-amazon.com/images/I/31zZuX9EUtL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLXV4TXW?tag=fineartslab-21",
     "active": true,

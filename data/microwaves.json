@@ -116,8 +116,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0FQC2R6HS",
@@ -156,7 +158,7 @@
     "title": "Sharp 34 liters 1100 watts stainless steel digital combination microwave oven with grill, silver - r-77at-st",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10048,
+    "price": 9948,
     "img": "https://m.media-amazon.com/images/I/31D9Y9fAYoS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B00WU9XF7Y?tag=fineartslab-21",
     "active": true,
@@ -203,7 +205,7 @@
     "title": "Fresh Microwave Digital 25 L silver/FMW-25KC-SW",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5199,
+    "price": 5390,
     "img": "https://m.media-amazon.com/images/I/31oVTzn1bqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LSOACNG?tag=fineartslab-21",
     "active": true,
@@ -295,7 +297,7 @@
     "title": "LG Smart Inverter Microwave Oven, 42 Litre, Grill Function, Digital Display, Black-(International warranty)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14390,
+    "price": 15000,
     "img": "https://m.media-amazon.com/images/I/2112JsLTrHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F2HZKCFK?tag=fineartslab-21",
     "active": true,
@@ -596,8 +598,10 @@
     "lastGood": "2026-11-23",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0FY3G89GQ",
@@ -618,7 +622,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1076,7 +1080,7 @@
     "title": "JAC MICROWAVE JACK BLACK 43 LITER DIGITAL WITH SHAWAY",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 6924,
+    "price": 6920,
     "img": "https://m.media-amazon.com/images/I/315qVBSeGKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09KVHYVK4?tag=fineartslab-21",
     "active": true,
@@ -1316,7 +1320,7 @@
     "lastGood": "2026-11-23",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1528,7 +1532,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1590,7 +1594,7 @@
     "title": "Fresh microwave oven 42 l with grill fmw-42kcg-s",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 9990,
+    "price": 9499,
     "img": "https://m.media-amazon.com/images/I/31xJBi27yKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01LVVZ2FF?tag=fineartslab-21",
     "active": true,
@@ -1664,7 +1668,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1689,7 +1693,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1822,7 +1826,7 @@
     "title": "Ocean Built-In Microwave with Grill & Convection | 44L Large Capacity | 60 cm | Touch Control & 2 Knobs | 3 Layers of Glass | 1750W Grill | 1700W Convection | Country of Origin Turkey | MWOI449TCGB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 37589,
+    "price": 37215,
     "img": "https://m.media-amazon.com/images/I/31igmgfzi2L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GWRB5FGF?tag=fineartslab-21",
     "active": false,
@@ -1923,7 +1927,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1940,7 +1944,7 @@
     "title": "Fresh Microwave Digital Grill 25 L black/FMW-25KCG-BW",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5894.33,
+    "price": 5880,
     "img": "https://m.media-amazon.com/images/I/31OcjqRl1pL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY3JCNH4?tag=fineartslab-21",
     "active": true,
@@ -1962,7 +1966,7 @@
     "title": "Jac 2002 Microwave 20 Liters Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3799,
+    "price": 3710,
     "img": "https://m.media-amazon.com/images/I/41q31kjmvML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0119JLVNU?tag=fineartslab-21",
     "active": true,
@@ -2058,7 +2062,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2082,7 +2086,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2450,8 +2454,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0CGV7HX8M",
@@ -2491,13 +2497,13 @@
     "price": 4129,
     "img": "https://m.media-amazon.com/images/I/31CsWKcRN+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNFMF218?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -2814,7 +2820,7 @@
     "title": "Galanz Microwave 25 Litre 900 Watt, Silver D90D25AP-H7",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5220.25,
+    "price": 5190,
     "img": "https://m.media-amazon.com/images/I/31nycN2TW-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BD2BN6W9?tag=fineartslab-21",
     "active": true,
@@ -2936,7 +2942,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -3347,8 +3353,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B099SF4QJZ",
@@ -3459,7 +3467,7 @@
     "title": "DLK - Heat Resistant Multifunction Refrigerator Microwave Shelf - Plastic Refrigerator Shelf - Oven Organizing Rack - Microwave Plate Stacker",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 168,
+    "price": 164,
     "img": "https://m.media-amazon.com/images/I/41Zo7rR0inS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B097LXDF4J?tag=fineartslab-21",
     "active": false,
@@ -3547,8 +3555,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "filtered"
+    "oosCount": 1,
+    "reason": "filtered",
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B09KPYX7FR",
