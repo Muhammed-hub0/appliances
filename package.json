@@ -1,0 +1,14 @@
+{
+  "name": "appliances-eg",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "دليل الأجهزة المنزلية في مصر - تحديث تلقائي من Amazon Creators API",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "render:only": "node scripts/update.mjs --render-only"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,61 @@
+name: تحديث أسعار الأجهزة المنزلية
+
+on:
+  schedule:
+    # كل 6 ساعات بتوقيت UTC
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: appliances-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: تحميل الملفات
+        uses: actions/checkout@v4
+
+      - name: تجهيز Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: تحديث الأسعار وبناء الصفحات
+        env:
+          CREATORS_CLIENT_ID: ${{ secrets.CREATORS_CLIENT_ID }}
+          CREATORS_CLIENT_SECRET: ${{ secrets.CREATORS_CLIENT_SECRET }}
+          PARTNER_TAG: ${{ vars.PARTNER_TAG || 'fineartslab-21' }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://muhammed-hub0.github.io/appliances/' }}
+        run: node scripts/update.mjs
+
+      - name: حفظ البيانات المتغيرة
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add data public
+          if git diff --staged --quiet; then
+            echo "مفيش تغييرات"
+          else
+            git commit -m "تحديث تلقائي للأسعار $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: تجهيز ملفات النشر
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: النشر على GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
