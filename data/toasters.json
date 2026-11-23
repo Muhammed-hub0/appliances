@@ -285,7 +285,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -658,7 +658,7 @@
   {
     "asin": "B0HKGTVZYD",
     "brand": "غير محدد",
-    "name": "JAMAKY محمصة 2شرائح 760وات",
+    "name": "محمصة 2شرائح 760وات",
     "specs": {
       "slots": "2",
       "watt": "760"
@@ -681,7 +681,7 @@
   {
     "asin": "B07Q5QJPPH",
     "brand": "Profi Cook",
-    "name": "ProfiCook محمصة 2شرائح 850وات",
+    "name": "Profi Cook محمصة 2شرائح",
     "specs": {
       "slots": "2",
       "watt": "850"
@@ -704,7 +704,7 @@
   {
     "asin": "B0GYTVW2JB",
     "brand": "غير محدد",
-    "name": "JMK2701 محمصة 700وات",
+    "name": "محمصة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -748,7 +748,7 @@
   {
     "asin": "B08Y8VNDVZ",
     "brand": "SONAI",
-    "name": "Sonai محمصة 730وات",
+    "name": "SONAI محمصة 730وات",
     "specs": {
       "watt": "730"
     },
@@ -770,7 +770,7 @@
   {
     "asin": "B0HC5FKB7P",
     "brand": "غير محدد",
-    "name": "Toaster محمصة 640وات",
+    "name": "محمصة 640وات",
     "specs": {
       "watt": "640"
     },
@@ -792,7 +792,7 @@
   {
     "asin": "B09KVLCB8C",
     "brand": "SONAI",
-    "name": "Sonai محمصة 870وات",
+    "name": "SONAI محمصة 870وات",
     "specs": {
       "watt": "870"
     },
@@ -836,7 +836,7 @@
   {
     "asin": "B09LMQMC3W",
     "brand": "SONAI",
-    "name": "Sonai محمصة 1400وات",
+    "name": "SONAI محمصة 1400وات",
     "specs": {
       "watt": "1400"
     },
@@ -858,7 +858,7 @@
   {
     "asin": "B0FHGHYDZH",
     "brand": "غير محدد",
-    "name": "Sookani محمصة 700وات",
+    "name": "محمصة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -984,7 +984,7 @@
   {
     "asin": "B0HP8C5LJS",
     "brand": "غير محدد",
-    "name": "Toaster محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Toaster with Colorful Motifs, 2 Slots | Art Hand Pattern, Italian Design, Metal Chassis, Daily Use, Multicolor Bright",
@@ -1372,7 +1372,7 @@
   {
     "asin": "B0BR9W7XBB",
     "brand": "KARACA",
-    "name": "Karaca محمصة 4شرائح 1800وات",
+    "name": "KARACA محمصة 4شرائح 1800وات",
     "specs": {
       "slots": "4",
       "watt": "1800"
@@ -1441,7 +1441,7 @@
   {
     "asin": "B0GVPPKJ7R",
     "brand": "غير محدد",
-    "name": "Toaster محمصة 2شرائح 800وات",
+    "name": "محمصة 2شرائح 800وات",
     "specs": {
       "slots": "2",
       "watt": "800"
@@ -1531,7 +1531,7 @@
   {
     "asin": "B0BDMF7NWM",
     "brand": "Heinrichs",
-    "name": "American محمصة 900وات",
+    "name": "Heinrichs محمصة 900وات",
     "specs": {
       "watt": "900"
     },
@@ -1553,7 +1553,7 @@
   {
     "asin": "B0HFMF15CT",
     "brand": "غير محدد",
-    "name": "Danny محمصة 2شرائح",
+    "name": "محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1597,7 +1597,7 @@
   {
     "asin": "B0BR9XKL54",
     "brand": "KARACA",
-    "name": "Karaca محمصة 1800وات",
+    "name": "KARACA محمصة 1800وات",
     "specs": {
       "watt": "1800"
     },
@@ -1619,7 +1619,7 @@
   {
     "asin": "B0H9JV8H1N",
     "brand": "غير محدد",
-    "name": "Toaster محمصة 850وات",
+    "name": "محمصة 850وات",
     "specs": {
       "watt": "850"
     },
@@ -1663,7 +1663,7 @@
   {
     "asin": "B0HP8C8GNK",
     "brand": "غير محدد",
-    "name": "Rowlett محمصة 6شرائح",
+    "name": "محمصة 6شرائح",
     "specs": {
       "slots": "6"
     },
@@ -1707,7 +1707,7 @@
   {
     "asin": "B097LLCHHM",
     "brand": "SONAI",
-    "name": "Sonai محمصة 2شرائح",
+    "name": "SONAI محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1729,7 +1729,7 @@
   {
     "asin": "B010TSW0PA",
     "brand": "Smeg",
-    "name": "SMEG محمصة 2شرائح",
+    "name": "Smeg محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -1883,7 +1883,7 @@
   {
     "asin": "B0D7YSDQFS",
     "brand": "Hazel Quinn",
-    "name": "Hazel محمصة 815وات",
+    "name": "Hazel Quinn محمصة 815وات",
     "specs": {
       "watt": "815"
     },
@@ -2051,7 +2051,7 @@
   {
     "asin": "B07V3NFH2F",
     "brand": "Smeg",
-    "name": "SMEG محمصة",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "TSF01GOEU",
     "title": "SMEG Tsf01goeu Toaster 2x2",
@@ -2131,7 +2131,7 @@
   {
     "asin": "B07V5QDV6W",
     "brand": "Smeg",
-    "name": "SMEG محمصة",
+    "name": "Smeg محمصة",
     "specs": {},
     "model": "TSF01RGEU",
     "title": "SMEG Tsf01rgeu Toaster",
@@ -2171,7 +2171,7 @@
   {
     "asin": "B0GVPCLKN1",
     "brand": "غير محدد",
-    "name": "Round محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Round granite toaster, direct flame, 24 * 18",
@@ -2211,7 +2211,7 @@
   {
     "asin": "B0HP44D16Q",
     "brand": "غير محدد",
-    "name": "Smeg محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Saga Green | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2231,7 +2231,7 @@
   {
     "asin": "B0HP3J7Z9R",
     "brand": "غير محدد",
-    "name": "Smeg محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Baby Blue | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2251,7 +2251,7 @@
   {
     "asin": "B0HP44LXVD",
     "brand": "غير محدد",
-    "name": "Smeg محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Red | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2271,7 +2271,7 @@
   {
     "asin": "B0BMG2TDBD",
     "brand": "Profi Cook",
-    "name": "ProfiCook محمصة 2شرائح 850وات",
+    "name": "Profi Cook محمصة 2شرائح",
     "specs": {
       "slots": "2",
       "watt": "850"
@@ -2317,7 +2317,7 @@
   {
     "asin": "B09KVHQF45",
     "brand": "SONAI",
-    "name": "Sonai محمصة 870وات",
+    "name": "SONAI محمصة 870وات",
     "specs": {
       "watt": "870"
     },
@@ -2339,7 +2339,7 @@
   {
     "asin": "B0GV4LFTB1",
     "brand": "Next store",
-    "name": "Next محمصة",
+    "name": "Next store محمصة",
     "specs": {},
     "model": "",
     "title": "Next store Electric Grill Maker with Non-Stick Coating - Quick Panini Sandwich Maker, Modern Home Toaster and Professional Grill Plates",
@@ -2359,7 +2359,7 @@
   {
     "asin": "B0FDL3LJTV",
     "brand": "غير محدد",
-    "name": "Toaster محمصة 800وات",
+    "name": "محمصة 800وات",
     "specs": {
       "watt": "800"
     },
@@ -2403,7 +2403,7 @@
   {
     "asin": "B0H18QWV4X",
     "brand": "Homagator",
-    "name": "WINNING محمصة 4شرائح 1200وات",
+    "name": "Homagator محمصة 4شرائح 1200وات",
     "specs": {
       "slots": "4",
       "watt": "1200"
@@ -2490,7 +2490,7 @@
   {
     "asin": "B0FK5D29NF",
     "brand": "غير محدد",
-    "name": "Toaster محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Toaster Jig Glow in The Dark Fishing Hook with Tails for Imagination 90g/Hawk Size 0/3.Tan - Vietnamese",
@@ -2532,7 +2532,7 @@
   {
     "asin": "B0HP3T5WTV",
     "brand": "غير محدد",
-    "name": "Smeg محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster Black | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2552,7 +2552,7 @@
   {
     "asin": "B0HNV1GT23",
     "brand": "غير محدد",
-    "name": "Smeg محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Classic Breakfast Set Electric Kettle and Toaster pink | 2-Piece Set, Retro 50s Style, Chrome Accents, 2-Slice Toaster, Matching Design",
@@ -2572,7 +2572,7 @@
   {
     "asin": "B0HP6DGLY3",
     "brand": "غير محدد",
-    "name": "Smeg محمصة",
+    "name": "محمصة",
     "specs": {},
     "model": "",
     "title": "Smeg Summer Bundle Kettle, Toaster, Blender and Juicer _ Cream | Pastel Blue Finish, 4-Piece Set, Retro Style Design, Chrome Accents, Matching Collection",
@@ -2614,7 +2614,7 @@
   {
     "asin": "B0CP61R334",
     "brand": "Smeg",
-    "name": "محمصة 2شرائح",
+    "name": "Smeg محمصة 2شرائح",
     "specs": {
       "slots": "2"
     },
@@ -2656,7 +2656,7 @@
   {
     "asin": "B0GDN82RF5",
     "brand": "zain",
-    "name": "ZAIN محمصة",
+    "name": "zain محمصة",
     "specs": {},
     "model": "",
     "title": "ZAIN Arabic Toaster Spider Car, Kids Toy Vehicle",

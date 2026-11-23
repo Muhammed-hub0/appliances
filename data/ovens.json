@@ -275,7 +275,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -399,7 +399,7 @@
   {
     "asin": "B09VC6P1MQ",
     "brand": "فريش",
-    "name": "فرن 65لتر",
+    "name": "فريش فرن 65لتر",
     "specs": {
       "cap": "65"
     },
@@ -843,7 +843,7 @@
   {
     "asin": "B0HNWRQHMV",
     "brand": "غير محدد",
-    "name": "Nauticall فرن كونفكشن 2000وات",
+    "name": "فرن كونفكشن 2000وات",
     "specs": {
       "type": "كونفكشن",
       "watt": "2000"
@@ -912,7 +912,7 @@
   {
     "asin": "B0HRR8VD6Y",
     "brand": "غير محدد",
-    "name": "Kai فرن 40لتر 1200وات",
+    "name": "فرن 40لتر 1200وات",
     "specs": {
       "cap": "40",
       "watt": "1200"
@@ -973,8 +973,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0D2BF53F2",
@@ -1001,7 +1003,7 @@
   {
     "asin": "B09N2L8P1B",
     "brand": "Touch Elzenouki",
-    "name": "Touch فرن 36لتر",
+    "name": "Touch Elzenouki فرن 36لتر",
     "specs": {
       "cap": "36"
     },
@@ -1067,7 +1069,7 @@
   {
     "asin": "B0DMTJNGWC",
     "brand": "غير محدد",
-    "name": "Mini فرن توستر",
+    "name": "فرن توستر",
     "specs": {
       "type": "توستر"
     },
@@ -1111,7 +1113,7 @@
   {
     "asin": "B0DMTJ5VLN",
     "brand": "غير محدد",
-    "name": "Mini فرن توستر",
+    "name": "فرن توستر",
     "specs": {
       "type": "توستر"
     },
@@ -1133,7 +1135,7 @@
   {
     "asin": "B0922NZKM7",
     "brand": "CAIYUAN",
-    "name": "فرن توستر",
+    "name": "CAIYUAN فرن توستر",
     "specs": {
       "type": "توستر"
     },
@@ -1155,7 +1157,7 @@
   {
     "asin": "B0HLCPLG3R",
     "brand": "غير محدد",
-    "name": "HI-7100 فرن 40لتر",
+    "name": "فرن 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -1177,7 +1179,7 @@
   {
     "asin": "B0GBXC2K18",
     "brand": "غير محدد",
-    "name": "45L فرن 45لتر",
+    "name": "فرن 45لتر",
     "specs": {
       "cap": "45"
     },
@@ -1243,7 +1245,7 @@
   {
     "asin": "B0D2BCW3TX",
     "brand": "H-Home",
-    "name": "فرن 40لتر",
+    "name": "H-Home فرن 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -1325,7 +1327,7 @@
   {
     "asin": "B0B5R2ZY3T",
     "brand": "شارب",
-    "name": "فرن 45لتر كونفكشن 1400وات",
+    "name": "شارب فرن 45لتر كونفكشن",
     "specs": {
       "cap": "45",
       "type": "كونفكشن",
@@ -1406,7 +1408,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 14999,
-    "img": "https://m.media-amazon.com/images/I/41bxsii9lML._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41S9Mp6jaYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CNT56SFG?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1482,7 +1484,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1651,7 +1653,7 @@
   {
     "asin": "B01KXFI6AM",
     "brand": "فريش",
-    "name": "فرن 56لتر",
+    "name": "فريش فرن 56لتر",
     "specs": {
       "cap": "56"
     },
@@ -1703,7 +1705,7 @@
     "title": "Fresh Built-in Oven 60 cm Modina Gas/Electric Soft Close",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 16115,
+    "price": 16100,
     "img": "https://m.media-amazon.com/images/I/21DGCQWJWBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D9WCMM3G?tag=fineartslab-21",
     "active": true,
@@ -1957,7 +1959,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1985,7 +1987,7 @@
   {
     "asin": "B0GDMMP5Q4",
     "brand": "Grouhy",
-    "name": "Grohe فرن 48لتر 2000وات",
+    "name": "Grouhy فرن 48لتر 2000وات",
     "specs": {
       "cap": "48",
       "watt": "2000"
@@ -2008,7 +2010,7 @@
   {
     "asin": "B0D1VQRF2M",
     "brand": "SONAI",
-    "name": "Sonai فرن 50لتر 2000وات",
+    "name": "SONAI فرن 50لتر 2000وات",
     "specs": {
       "cap": "50",
       "watt": "2000"
@@ -2031,7 +2033,7 @@
   {
     "asin": "B0DVT9RDH3",
     "brand": "Winning Star",
-    "name": "فرن 60لتر 1900وات",
+    "name": "Winning Star فرن 60لتر",
     "specs": {
       "cap": "60",
       "watt": "1900"
@@ -2054,7 +2056,7 @@
   {
     "asin": "B0DVT8MR65",
     "brand": "Winning Star",
-    "name": "فرن 40لتر 1600وات",
+    "name": "Winning Star فرن 40لتر",
     "specs": {
       "cap": "40",
       "watt": "1600"
@@ -2140,7 +2142,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2216,7 +2218,7 @@
   {
     "asin": "B0CCPS7YLF",
     "brand": "FLAMINGO",
-    "name": "Flamingo فرن 40لتر",
+    "name": "FLAMINGO فرن 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -2238,7 +2240,7 @@
   {
     "asin": "B0GXPY4NXF",
     "brand": "Belo Forni",
-    "name": "Belo فرن 2200وات",
+    "name": "Belo Forni فرن 2200وات",
     "specs": {
       "watt": "2200"
     },
@@ -2282,7 +2284,7 @@
   {
     "asin": "B0F67PNPS5",
     "brand": "غير محدد",
-    "name": "SuggestionWonder فرن توستر",
+    "name": "فرن توستر",
     "specs": {
       "type": "توستر"
     },
@@ -2348,7 +2350,7 @@
   {
     "asin": "B0HNWL84TW",
     "brand": "غير محدد",
-    "name": "Nauticall فرن 1600وات",
+    "name": "فرن 1600وات",
     "specs": {
       "watt": "1600"
     },
@@ -2414,7 +2416,7 @@
   {
     "asin": "B097DL6KG6",
     "brand": "CARINO",
-    "name": "Carino فرن",
+    "name": "CARINO فرن",
     "specs": {},
     "model": "DN42A",
     "title": "Carino DN42A Electric Oven",
@@ -2524,7 +2526,7 @@
     "title": "Fresh Electric Oven with Grill and Fan, 65 Liter Capacity, Gold/Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4049,
+    "price": 4381,
     "img": "https://m.media-amazon.com/images/I/41+YtP5stkL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KVAZIZK?tag=fineartslab-21",
     "active": true,
@@ -2797,7 +2799,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2851,7 +2853,7 @@
   {
     "asin": "B097DK3CYD",
     "brand": "CARINO",
-    "name": "Carino فرن",
+    "name": "CARINO فرن",
     "specs": {},
     "model": "DN42A-RM",
     "title": "Carino DN42A-RM Electric Oven With Grill",
@@ -2913,7 +2915,7 @@
   {
     "asin": "B01KXFFNNU",
     "brand": "فريش",
-    "name": "فرن 56لتر غاز",
+    "name": "فريش فرن 56لتر غاز",
     "specs": {
       "cap": "56",
       "type": "غاز"
@@ -3025,7 +3027,7 @@
   {
     "asin": "B0H583T874",
     "brand": "Homagator",
-    "name": "Winning فرن 60لتر 2000وات",
+    "name": "Homagator فرن 60لتر 2000وات",
     "specs": {
       "cap": "60",
       "watt": "2000"
@@ -3070,7 +3072,7 @@
   {
     "asin": "B0GVC7YFGS",
     "brand": "Volura",
-    "name": "Double فرن 3500وات",
+    "name": "Volura فرن 3500وات",
     "specs": {
       "watt": "3500"
     },
@@ -3153,8 +3155,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0CTBH3RHG",
@@ -3176,8 +3180,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B07GKW2DPZ",
@@ -3355,7 +3361,7 @@
   {
     "asin": "B0DF5YDYC8",
     "brand": "غير محدد",
-    "name": "Large فرن غاز",
+    "name": "فرن غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3419,7 +3425,7 @@
   {
     "asin": "B0CJMW4448",
     "brand": "FRANKE",
-    "name": "Franke فرن 71لتر 3300وات",
+    "name": "FRANKE فرن 71لتر 3300وات",
     "specs": {
       "cap": "71",
       "watt": "3300"
@@ -3462,7 +3468,7 @@
   {
     "asin": "B0DWKSZSMZ",
     "brand": "غير محدد",
-    "name": "Oven فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Oven Liner - Strong Teflon Mats for Improved Cleaning and Extreme Heat Resistance, Ideal for All Types of Ovens and Grills, Dishwasher Safe and Reusable(2 Pack)",
@@ -3504,7 +3510,7 @@
   {
     "asin": "B0DWKT4WKV",
     "brand": "غير محدد",
-    "name": "Oven فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Oven Liner - Strong Teflon Mats for Improved Cleaning and Extreme Heat Resistance, Ideal for All Types of Ovens and Grills, Dishwasher Safe and Reusable(1 Pack)",
@@ -3544,7 +3550,7 @@
   {
     "asin": "B0H591HD7X",
     "brand": "Tecno & Tecnogas",
-    "name": "Tecnogas فرن غاز",
+    "name": "Tecno & Tecnogas فرن",
     "specs": {
       "type": "غاز"
     },
@@ -3589,7 +3595,7 @@
   {
     "asin": "B0DF5YTB94",
     "brand": "غير محدد",
-    "name": "Large فرن غاز",
+    "name": "فرن غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3699,7 +3705,7 @@
   {
     "asin": "B0HQXG98G9",
     "brand": "غير محدد",
-    "name": "Stove فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Stove Oven Switch Lock and Open (Black Plastic Cooker Keys 5pcs)",
@@ -3719,7 +3725,7 @@
   {
     "asin": "B0FV8K7YJN",
     "brand": "غير محدد",
-    "name": "Ocean فرن 69لتر غاز",
+    "name": "فرن 69لتر غاز",
     "specs": {
       "cap": "69",
       "type": "غاز"
@@ -3804,7 +3810,7 @@
   {
     "asin": "B0HCZXD9J8",
     "brand": "غير محدد",
-    "name": "Reusable فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Reusable Silicone Stove Cover for Electric Cooktop, Heat Resistant Glass Stove Protector, Scratch Resistant Kitchen Counter Mat, Non-Slip Multipurpose Surface Cover, Grill & Oven Cooking Mat",
@@ -3844,7 +3850,7 @@
   {
     "asin": "B0HCMB4W9K",
     "brand": "HIGH QUALITY هاي كواليتي",
-    "name": "BBQ فرن غاز",
+    "name": "HIGH QUALITY هاي كواليتي فرن",
     "specs": {
       "type": "غاز"
     },
@@ -3926,7 +3932,7 @@
   {
     "asin": "B0FXNK119X",
     "brand": "غير محدد",
-    "name": "Square فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Square Non-Stick Pizza Baking Pan 23x23 cm Perfect for Homemade Crispy Pizza Electric and Standard Oven Compatible Easy Clean Durable for Every Kitchen",
@@ -3946,7 +3952,7 @@
   {
     "asin": "B0DF5ZNDRR",
     "brand": "غير محدد",
-    "name": "Large فرن غاز",
+    "name": "فرن غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3968,7 +3974,7 @@
   {
     "asin": "B0DGFMY9QS",
     "brand": "غير محدد",
-    "name": "Reusable فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "\"Reusable Non-Stick Teflon Grill Mats – Versatile for Grilling, Baking, Electric Grill or Oven – Perfect Solution for Healthy and Clean Grilling - FASHION.HOME is the Ultimate Supplier!\" (Black, 2pec)",
@@ -4008,7 +4014,7 @@
   {
     "asin": "B0GYK5DYB2",
     "brand": "غير محدد",
-    "name": "Stainless فرن غاز",
+    "name": "فرن غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4050,7 +4056,7 @@
   {
     "asin": "B0DGFM1T39",
     "brand": "H-Home",
-    "name": "Reusable فرن",
+    "name": "H-Home فرن",
     "specs": {},
     "model": "",
     "title": "\"Reusable Non-Stick Teflon Grill Mats – Versatile for Grilling, Baking, Electric Grill or Oven – Perfect Solution for Healthy and Clean Grilling - FASHION.HOME is the Ultimate Supplier!\" (Black, 6pec)",
@@ -4090,7 +4096,7 @@
   {
     "asin": "B0DGFMM4CD",
     "brand": "غير محدد",
-    "name": "Reusable فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "\"Reusable Non-Stick Teflon Grill Mats – Versatile for Grilling, Baking, Electric Grill or Oven – Perfect Solution for Healthy and Clean Grilling - FASHION.HOME is the Ultimate Supplier!\" (Black, 4pec)",
@@ -4130,7 +4136,7 @@
   {
     "asin": "B0DF5W2PP8",
     "brand": "غير محدد",
-    "name": "Premium فرن غاز",
+    "name": "فرن غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4152,7 +4158,7 @@
   {
     "asin": "B0HCZM7QFG",
     "brand": "غير محدد",
-    "name": "Premium فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Premium Silicone Stove Top Cover for Electric Glass Cooktop, Heat Resistant Kitchen Counter Protector Mat, Non-Slip Reusable Surface Cover, Scratch Guard, Easy to Clean, Multipurpose Grill & Oven Mat",
@@ -4172,7 +4178,7 @@
   {
     "asin": "B0HNM227XQ",
     "brand": "INFINITY PLUS",
-    "name": "INFINITY فرن",
+    "name": "INFINITY PLUS فرن",
     "specs": {},
     "model": "",
     "title": "INFINITY PLUS USB Rechargeable Electronic Lighter, Flameless Electric Lighter for Stove Oven Candles, Long Flexible Zipper Design with Child Safety Lock, Suitable for Home, Trip",
@@ -4343,7 +4349,7 @@
   {
     "asin": "B0DXPMLMPW",
     "brand": "Novstuf",
-    "name": "فرن",
+    "name": "Novstuf فرن",
     "specs": {},
     "model": "BLACK",
     "title": "4 Oven Rack Protectors, Silicone Oven Guards for Inside The Oven Heat Resistant Oven Shelf Edge Guards Safety Protection Bracket Protective Covers Baking Edge Shields for Protect Against Burns (Black)",
@@ -4383,7 +4389,7 @@
   {
     "asin": "B0GWR51JYC",
     "brand": "غير محدد",
-    "name": "Toaster فرن توستر",
+    "name": "فرن توستر",
     "specs": {
       "type": "توستر"
     },
@@ -4405,7 +4411,7 @@
   {
     "asin": "B07MYRPJ7K",
     "brand": "Bastwe",
-    "name": "Baking فرن 15.95لتر توستر",
+    "name": "Bastwe فرن 15.95لتر توستر",
     "specs": {
       "cap": "15.95",
       "type": "توستر"
@@ -4428,7 +4434,7 @@
   {
     "asin": "B0F6D4GTY9",
     "brand": "Volger",
-    "name": "فرن 65لتر",
+    "name": "Volger فرن 65لتر",
     "specs": {
       "cap": "65"
     },
@@ -4510,7 +4516,7 @@
   {
     "asin": "B0F13CMQKG",
     "brand": "OvenCrisp",
-    "name": "فرن",
+    "name": "OvenCrisp فرن",
     "specs": {},
     "model": "X11",
     "title": "Air Fryer Basket for Oven, 15.6\"x11.6\" XL Stainless Steel Crisper Tray | Oven Air Fryer Basket and Tray Set With 30PCS Parchment Papers, Stainless Steel Air Fryer Pan for Frying Baking",
@@ -4530,7 +4536,7 @@
   {
     "asin": "B07MYT9F7Q",
     "brand": "Bastwe",
-    "name": "Set فرن",
+    "name": "Bastwe فرن",
     "specs": {},
     "model": "",
     "title": "Set of 3 Bastwe Commercial Grade Stainless Steel Sheet Pans, Professional Oven Tray, Healthy and Non-Toxic, Rust-Free and Mirror Finish, Easy to Clean and Can be Washed in the",
@@ -4718,7 +4724,7 @@
   {
     "asin": "B091J5CXV3",
     "brand": "غير محدد",
-    "name": "Stainless فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Stainless steel oven seat thermometer",
@@ -4738,7 +4744,7 @@
   {
     "asin": "B0FNDG9WN5",
     "brand": "غير محدد",
-    "name": "لمبة فرن غاز",
+    "name": "فرن غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4780,7 +4786,7 @@
   {
     "asin": "B0FH5TVZW8",
     "brand": "غير محدد",
-    "name": "Premium فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Premium Heavy Duty Nonstick Baking Sheet Tray 260°C Heat‑Resistant Dishwasher Safe Oven Pan Nonstick Oven Tray Black Color Durable Performance Baking Pan Rugged Bakeware (Medium 38x25 cm)",
@@ -4927,7 +4933,7 @@
   {
     "asin": "B07WHLK32Z",
     "brand": "غير محدد",
-    "name": "KF فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "KF Teflon Sheet for Heat Press, Nonstick Oven Liners, Heat Resistant Craft Mat Transfer Sheet 3 Pack(16 x 12 inch)",
@@ -4987,7 +4993,7 @@
   {
     "asin": "B0G1THVYF9",
     "brand": "6 October",
-    "name": "6october فرن",
+    "name": "6 October فرن",
     "specs": {},
     "model": "",
     "title": "6october Rectangular Stainless Steel Oven dish 3-Pieces Set, 25 cm x 30 cm x 35 cm",
@@ -5109,7 +5115,7 @@
   {
     "asin": "B08YNM6ZTB",
     "brand": "غير محدد",
-    "name": "Oven فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Oven Tray Roasting pan with grill rack, stainless steel16x13 \"",
@@ -5189,7 +5195,7 @@
   {
     "asin": "B088CGBRD1",
     "brand": "Pasabahce",
-    "name": "Borcam فرن",
+    "name": "Pasabahce فرن",
     "specs": {},
     "model": "",
     "title": "Borcam Premium Rectangular Oven Dish 36.7 * 25.7Cm Unique Elegant Design - Clear",
@@ -5389,7 +5395,7 @@
   {
     "asin": "B08WJJGVKK",
     "brand": "غير محدد",
-    "name": "جوانتي فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "جوانتي سيليكون حراري للفرن من الياسين - متعدد الالوان",
@@ -5409,7 +5415,7 @@
   {
     "asin": "B092LX1ZYV",
     "brand": "GRANDI",
-    "name": "Grandi فرن",
+    "name": "GRANDI فرن",
     "specs": {},
     "model": "",
     "title": "Grandi Cook Pop Granite Rectangular Oven Tray Set, 2 Pieces, 25 -30 cm - Purple and White",
@@ -5449,7 +5455,7 @@
   {
     "asin": "B012WJA6PK",
     "brand": "Pasabahce",
-    "name": "Borcam فرن",
+    "name": "Pasabahce فرن",
     "specs": {},
     "model": "",
     "title": "Borcam Roasters Rectangular Oven Dish - 40x25cm",
@@ -5489,7 +5495,7 @@
   {
     "asin": "B0D9FKV542",
     "brand": "Fathy Mahmoud",
-    "name": "Fathy فرن",
+    "name": "Fathy Mahmoud فرن",
     "specs": {},
     "model": "",
     "title": "Fathy Mahmoud White porcelain Sum oven Dish 30 cm",
@@ -5529,7 +5535,7 @@
   {
     "asin": "B0DW1FQTC5",
     "brand": "غير محدد",
-    "name": "صج فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "صج فرن مدور مقاس 35 سم طول القطر لعمل اهى الخبز بيتزا والفوافل فى الفرن",
@@ -5549,7 +5555,7 @@
   {
     "asin": "B0DW1RXGB5",
     "brand": "غير محدد",
-    "name": "صج فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "صج فرن مدور مقاس 45 سم طول القطر لعمل اهى الخبز بيتزا والفوافل فى الفرن",
@@ -5609,7 +5615,7 @@
   {
     "asin": "B0HDLHLLKQ",
     "brand": "غير محدد",
-    "name": "3-Piece فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "3-Piece Metal Mesh Cooking Trays, Air Fryer Basket Set, Oven Baking Trays for Roasting, Grilling, Draining, Vegetables, Chicken and Snacks",
@@ -5749,7 +5755,7 @@
   {
     "asin": "B09DWGSTD5",
     "brand": "GRANDI",
-    "name": "Grandi فرن",
+    "name": "GRANDI فرن",
     "specs": {},
     "model": "",
     "title": "Grandi Cook Marble Round Oven tray Set 22-26-28 Marbel Blue",
@@ -5769,7 +5775,7 @@
   {
     "asin": "B08WJMTJ5Q",
     "brand": "El Dahan",
-    "name": "Eldahan فرن",
+    "name": "El Dahan فرن",
     "specs": {},
     "model": "",
     "title": "Eldahan Round Oven Tray With Ring 28 cm",
@@ -5829,7 +5835,7 @@
   {
     "asin": "B0H3J6TT62",
     "brand": "غير محدد",
-    "name": "Oven فرن",
+    "name": "فرن",
     "specs": {},
     "model": "6PCS",
     "title": "Oven Rack Protector Covers Set of 2, Heat Resistant Silicone Edge Guards for Oven Shelves, Protect Hands from Hot Metal Racks, Easy Install Reusable Kitchen Safety Solution (6pcs)",
@@ -5849,7 +5855,7 @@
   {
     "asin": "B0BC9DFXCC",
     "brand": "cookin",
-    "name": "Cookin فرن",
+    "name": "cookin فرن",
     "specs": {},
     "model": "",
     "title": "Cookin aboud 26 CM Round Oven Dish (Camel Brown) Granite",
@@ -5869,7 +5875,7 @@
   {
     "asin": "B0HCL4HX6X",
     "brand": "DOWNTOWN",
-    "name": "Downtown فرن",
+    "name": "DOWNTOWN فرن",
     "specs": {},
     "model": "",
     "title": "Downtown Gray Perforated Non-Stick Oven Crisper Tray, Heavy Gauge Steel Baking Pan with Ceramic Reinforced Coating, Air Flow Crisping Tray for Potatoes, Vegetables, Chicken, Baking and Roasting",
@@ -5889,7 +5895,7 @@
   {
     "asin": "B0DTJ6KNSG",
     "brand": "غير محدد",
-    "name": "صج فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "صج فرن مقاس 40 * 40",
@@ -5909,7 +5915,7 @@
   {
     "asin": "B0H9YKCRJ7",
     "brand": "AlAhram",
-    "name": "Al فرن",
+    "name": "AlAhram فرن",
     "specs": {},
     "model": "",
     "title": "Al Ahram Classic Aluminum Lasagnera Oven Pan Set – 2-Pieces Deep Rectangular Lasagnera Pan with Satin Finish (Sizes: 25 and 35 cm)",
@@ -5929,7 +5935,7 @@
   {
     "asin": "B08BXKXDYC",
     "brand": "Pasabahce",
-    "name": "Borcam فرن",
+    "name": "Pasabahce فرن",
     "specs": {},
     "model": "",
     "title": "Borcam Roasters Square Oven Dish - Optic, 1.95L",
@@ -5949,7 +5955,7 @@
   {
     "asin": "B0DSJD61H3",
     "brand": "غير محدد",
-    "name": "صجات فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "صجات فرن خامة تيلة المونيوم صافي على المغناطيس جوده ممتازة كبس متعدده الاستخدام للمخبات والحلويات والسسويسرول 床床床 مقاس 40 * 40",
@@ -5969,7 +5975,7 @@
   {
     "asin": "B0FNQS9X7H",
     "brand": "غير محدد",
-    "name": "Oven فرن",
+    "name": "فرن",
     "specs": {},
     "model": "",
     "title": "Oven Pan - Stainless Steel Construction with Drainage Racks, Non-Stick Surface, 5cm Deep Edges, Perfect for Cooking, Baking, and Healthy Meal Prep",
@@ -6033,7 +6039,7 @@
   {
     "asin": "B0HC4KWFFH",
     "brand": "Fulgor Milano",
-    "name": "Fulgor فرن 58لتر غاز",
+    "name": "Fulgor Milano فرن 58لتر",
     "specs": {
       "cap": "58",
       "type": "غاز"

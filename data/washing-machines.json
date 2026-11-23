@@ -193,7 +193,7 @@
   {
     "asin": "B0GJPYRBC8",
     "brand": "فريش",
-    "name": "غسالة 5كجم علوي",
+    "name": "فريش غسالة 5كجم علوي",
     "specs": {
       "cap": "5",
       "type": "تحميل علوي"
@@ -285,7 +285,7 @@
   {
     "asin": "B0HKFRBK73",
     "brand": "فريش",
-    "name": "غسالة 7كجم أمامي",
+    "name": "فريش غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -364,7 +364,7 @@
     "title": "Bosch Front Load Washing Machine - Series 6-10 Kg - 1400 Rpm - Eco Silence Drive Motor - Delay Start - Wi-Fi - Grey - WGK254ZREG",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 29499,
+    "price": 29400,
     "img": "https://m.media-amazon.com/images/I/41MQswb6tfL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01J5KP9VK?tag=fineartslab-21",
     "active": true,
@@ -588,7 +588,7 @@
   {
     "asin": "B0HC3F3F3Y",
     "brand": "فريش",
-    "name": "غسالة 8كجم علوي",
+    "name": "فريش غسالة 8كجم علوي",
     "specs": {
       "cap": "8",
       "type": "تحميل علوي"
@@ -674,8 +674,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0GZQYBX2D",
@@ -749,7 +751,7 @@
   {
     "asin": "B0FPFSK7P5",
     "brand": "زانوسي",
-    "name": "غسالة 8كجم أمامي",
+    "name": "زانوسي غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -887,7 +889,7 @@
   {
     "asin": "B0CJ813YHF",
     "brand": "فريش",
-    "name": "غسالة 7كجم أوتوماتيك",
+    "name": "فريش غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
       "type": "أوتوماتيك"
@@ -1003,7 +1005,7 @@
   {
     "asin": "B0H1D61L5C",
     "brand": "فريش",
-    "name": "غسالة علوي",
+    "name": "فريش غسالة علوي",
     "specs": {
       "type": "تحميل علوي"
     },
@@ -1171,7 +1173,7 @@
   {
     "asin": "B0DHLTJ3GR",
     "brand": "غير محدد",
-    "name": "Washing غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -1193,7 +1195,7 @@
   {
     "asin": "B0DHLQTT29",
     "brand": "غير محدد",
-    "name": "Washing غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -1215,7 +1217,7 @@
   {
     "asin": "B0HPYZ14Y5",
     "brand": "غير محدد",
-    "name": "12L غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "12L Portable Washing Machine with Spin Dryer, Foldable 2 in 1 Touch Screen | Touch Screen, One Button Operation, Large Size, Wash And Dry,Easy To Fold And Store",
@@ -1619,7 +1621,7 @@
   {
     "asin": "B0FLJXG6QC",
     "brand": "زانوسي",
-    "name": "غسالة 7كجم أمامي",
+    "name": "زانوسي غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -1734,7 +1736,7 @@
   {
     "asin": "B0CV843LTV",
     "brand": "فريش",
-    "name": "غسالة 9كجم 1400rpm",
+    "name": "فريش غسالة 9كجم 1400rpm",
     "specs": {
       "cap": "9",
       "spin": "1400"
@@ -1872,7 +1874,7 @@
   {
     "asin": "B09N6YP9F3",
     "brand": "شارب",
-    "name": "غسالة 9كجم أوتوماتيك",
+    "name": "شارب غسالة 9كجم أوتوماتيك",
     "specs": {
       "cap": "9",
       "type": "أوتوماتيك"
@@ -2033,7 +2035,7 @@
   {
     "asin": "B089G8YGV2",
     "brand": "شارب",
-    "name": "غسالة 7كجم أوتوماتيك",
+    "name": "شارب غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
       "type": "أوتوماتيك"
@@ -2101,7 +2103,7 @@
   {
     "asin": "B0CQPKQRGB",
     "brand": "فريش",
-    "name": "غسالة 1200rpm",
+    "name": "فريش غسالة 1200rpm",
     "specs": {
       "spin": "1200"
     },
@@ -2169,7 +2171,7 @@
   {
     "asin": "B0GZ1243W2",
     "brand": "غير محدد",
-    "name": "HAMBURG غسالة 10كجم نصفأوتوماتيك",
+    "name": "غسالة 10كجم نصفأوتوماتيك",
     "specs": {
       "cap": "10",
       "type": "نصف أوتوماتيك"
@@ -2215,7 +2217,7 @@
   {
     "asin": "B0GYZKHJK4",
     "brand": "غير محدد",
-    "name": "HAMBORG غسالة 12كجم نصفأوتوماتيك",
+    "name": "غسالة 12كجم نصفأوتوماتيك",
     "specs": {
       "cap": "12",
       "type": "نصف أوتوماتيك"
@@ -2260,7 +2262,7 @@
   {
     "asin": "B0CDVHRG14",
     "brand": "SAVING HOME",
-    "name": "SAVING غسالة أوتوماتيك",
+    "name": "SAVING HOME غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2326,7 +2328,7 @@
   {
     "asin": "B0FL6K91FC",
     "brand": "Rolitwils",
-    "name": "Roliwils غسالة أوتوماتيك",
+    "name": "Rolitwils غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2348,7 +2350,7 @@
   {
     "asin": "B091HYGLDL",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2370,7 +2372,7 @@
   {
     "asin": "B0FHBVN2HM",
     "brand": "غير محدد",
-    "name": "خرطوم غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2414,7 +2416,7 @@
   {
     "asin": "B0FCM8KP9R",
     "brand": "scbestuygo",
-    "name": "Underwear غسالة",
+    "name": "scbestuygo غسالة",
     "specs": {},
     "model": "",
     "title": "Underwear Washing Machine, Upgrade Mini Portable Washing Machine Rechargeable Underwear Washing Machine Deep Cleaning Small Clothes for Apartment, Dorm, RV, Travel and Hotel Use",
@@ -2434,7 +2436,7 @@
   {
     "asin": "B0DNWMR7QF",
     "brand": "JANCLF",
-    "name": "Janclf غسالة",
+    "name": "JANCLF غسالة",
     "specs": {},
     "model": "",
     "title": "Janclf Portable Washing Machine, Mini Washer, 11L Upgraded Large Capacity Foldable Washing Machine. Deep cleaning of underwear, baby clothes and other small clothes. Adeq",
@@ -2474,7 +2476,7 @@
   {
     "asin": "B0GRV8FXX4",
     "brand": "غير محدد",
-    "name": "Mini غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Mini Washing Machine, Foldable Washing Machine, Suitable for Small Spaces, Baby Clothes, Socks, Underwear, Easy to Store",
@@ -2494,7 +2496,7 @@
   {
     "asin": "B0FYNYYBGW",
     "brand": "Joviyvay",
-    "name": "غسالة",
+    "name": "Joviyvay غسالة",
     "specs": {},
     "model": "3LWHITE",
     "title": "Portable Washing Machine and dryer Underwear Washer,Upgraded Portable Mini Washing Machine,Rechargeable Cordless portable washer, Laundry Cup for Bra, Underwear, Socks (3Lwhite)",
@@ -2514,7 +2516,7 @@
   {
     "asin": "B0CGDPP683",
     "brand": "غير محدد",
-    "name": "Roadtime غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "PURPLE",
     "title": "Roadtime Mini Portable Washing Machine, 8L Foldable With 3 Modes for Camping, Underwear, Lightweight Clothing, EU Plug (Purple)",
@@ -2554,7 +2556,7 @@
   {
     "asin": "B09ZZWK5GJ",
     "brand": "MAXTOP",
-    "name": "غسالة",
+    "name": "MAXTOP غسالة",
     "specs": {},
     "model": "",
     "title": "Portable Mini Folding Clothes Washing Machine, for Home and Travel",
@@ -2574,7 +2576,7 @@
   {
     "asin": "B0FLPZM42K",
     "brand": "ngfhf",
-    "name": "Shoe غسالة",
+    "name": "ngfhf غسالة",
     "specs": {},
     "model": "",
     "title": "Shoe Washing Machine Bag Laundry Shoe Bag for Washer and Dryer Reusable 2pc Shoe Cleaning Bags for Sneakers 360° Deep Cleaning Machine for All Shoes Types With Self-locking Zipper",
@@ -2600,7 +2602,7 @@
     "title": "Vxoyo 12L Portable Washing Machine with Spin Dryer, 2-in-1 Foldable Mini Machine & Touchscreen One-Button Operation, Small Washing Machine for Baby Clothes, Underwear, Camping, Dormitory, Apartments",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 799,
+    "price": 789,
     "img": "https://m.media-amazon.com/images/I/419jSetuWJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GHYBWMMM?tag=fineartslab-21",
     "active": true,
@@ -2614,7 +2616,7 @@
   {
     "asin": "B0HQH1DS7Q",
     "brand": "غير محدد",
-    "name": "12L غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "12L Portable Washing Machine with Spin Dryer, Foldable Touch Screen One | Touch Screen, One Button Operation, Large Size, Easy To Store, Wash And Rinse And Squeeze",
@@ -2654,7 +2656,7 @@
   {
     "asin": "B0FNMTB1J9",
     "brand": "GleeGearNex",
-    "name": "Mini غسالة",
+    "name": "GleeGearNex غسالة",
     "specs": {},
     "model": "",
     "title": "Mini Portable Washing Machine, 9L Collapsible Washer with 3 Modes, Ideal for Baby Clothes, Underwear, Socks, Space-Saving Design for Home, Apartment, Hotel, Camping and Travel",
@@ -2674,7 +2676,7 @@
   {
     "asin": "B0C1ZGPCFG",
     "brand": "LIBOOI",
-    "name": "Small غسالة",
+    "name": "LIBOOI غسالة",
     "specs": {},
     "model": "PINK",
     "title": "Small Folding Washing Machine, Portable Washing Machine with 3 Modes, Mini Washer and Dryer Combo, with Drain Basket for Underwear, Socks, Baby Clothes, Travel, Camping, RV, Dorm, Apartment(Pink)",
@@ -2786,7 +2788,7 @@
   {
     "asin": "B0GNN5C3VT",
     "brand": "توشيبا",
-    "name": "غسالة 8.5كجم أمامي",
+    "name": "توشيبا غسالة 8.5كجم أمامي",
     "specs": {
       "cap": "8.5",
       "type": "تحميل أمامي"
@@ -2921,8 +2923,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B091NY1NWM",
@@ -2986,7 +2990,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -2994,7 +2998,7 @@
   {
     "asin": "B0GKWWNQ1V",
     "brand": "غير محدد",
-    "name": "Mini غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Mini Portable Washing Machine Double Tub for Underwear and Socks – One Button Operation – 1.5L x 2 – Portable Without Installation – Water and Electricity Saving",
@@ -3014,7 +3018,7 @@
   {
     "asin": "B0966LPQPB",
     "brand": "Spaceshoop",
-    "name": "غسالة",
+    "name": "Spaceshoop غسالة",
     "specs": {},
     "model": "",
     "title": "Portable Mini Folding Washing Machine Small Laundry Tub Wonder Magic Compact Washer Clothe Bucket With Spinner （blue）",
@@ -3034,7 +3038,7 @@
   {
     "asin": "B0GYM233BX",
     "brand": "غير محدد",
-    "name": "Mini غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "MULTICOLOR",
     "title": "Mini Washing Machine Foldable Portable Washing Machine for Baby Clothes, Underwear, Mini Laundry, Foldable Travel Washing Machine with Touch Control for College Dorm, RV, Home Use (Multicolor)",
@@ -3054,7 +3058,7 @@
   {
     "asin": "B0HFLMYQSS",
     "brand": "NUJAIN",
-    "name": "غسالة",
+    "name": "NUJAIN غسالة",
     "specs": {},
     "model": "GREEN",
     "title": "Portable Folding Washing Machine, 9L Large Capacity, Mini Compact Washer with Touch Control, 3 Wash Modes, Spin Dryer Basket, Space-Saving Design for Baby Clothes, Underwear, Socks (Green)",
@@ -3114,7 +3118,7 @@
   {
     "asin": "B0FS774PW7",
     "brand": "SUNHAIXIA",
-    "name": "غسالة",
+    "name": "SUNHAIXIA غسالة",
     "specs": {},
     "model": "",
     "title": "Portable Mini Washing Machine | Compact Deep Cleans Underwear 3L | Baby Clothes, Small Laundry | Type-C, Spin-Dry & UV /4000 mAh Battery White",
@@ -3134,13 +3138,13 @@
   {
     "asin": "B0CPQ6GLX1",
     "brand": "Spaceshoop",
-    "name": "غسالة",
+    "name": "Spaceshoop غسالة",
     "specs": {},
     "model": "",
     "title": "Portable Safety Washing Machine Space Technology Smart Control for Fast and Efficient Washing Machine with Compact Dimensions and Stylish Design - Get It Now From Turkish Store",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 182.78,
+    "price": 182.38,
     "img": "https://m.media-amazon.com/images/I/41O884rC2hL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CPQ6GLX1?tag=fineartslab-21",
     "active": true,
@@ -3154,7 +3158,7 @@
   {
     "asin": "B0H8YN9WQD",
     "brand": "Next store",
-    "name": "Next غسالة",
+    "name": "Next store غسالة",
     "specs": {},
     "model": "",
     "title": "Next store 2 in 1 Foldable Mini Portable Washing Machine with Dryer, Dryer and Timer - Powerful Electric Motor Ideal for Trips and Summers",
@@ -3174,7 +3178,7 @@
   {
     "asin": "B0H67LYGXW",
     "brand": "غير محدد",
-    "name": "Mini غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Mini Folding Washing Machine, 8 Liter Capacity, Purple Color, Dry and Sterilize, Suitable for All Kinds of Clothes",
@@ -3194,7 +3198,7 @@
   {
     "asin": "B0922YSST9",
     "brand": "غير محدد",
-    "name": "Folding غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Folding Ultrasound Washing Machine",
@@ -3214,7 +3218,7 @@
   {
     "asin": "B0FM72L2K7",
     "brand": "Wonka",
-    "name": "غسالة",
+    "name": "Wonka غسالة",
     "specs": {},
     "model": "GREEN",
     "title": "Portable Electric Washing Machine - Compact and Lightweight Perfect for Travel and Daily Use k (Green)",
@@ -3234,7 +3238,7 @@
   {
     "asin": "B0FW4SLY9V",
     "brand": "Dexmary",
-    "name": "غسالة",
+    "name": "Dexmary غسالة",
     "specs": {},
     "model": "",
     "title": "Portable Washing Machine, 11L Large Capacity Mini Washer for Underwear & Socks, Compact Travel Washer for Apartment, RV, Camping, and Laundry",
@@ -3274,7 +3278,7 @@
   {
     "asin": "B0H6MN17FH",
     "brand": "ELMA",
-    "name": "The غسالة",
+    "name": "ELMA غسالة",
     "specs": {},
     "model": "",
     "title": "The G.D.K. Mini Washer top-loading washing machine in yellow features a foldable design, adjustable timer, splash-proof lid, and simple controls.",
@@ -3314,7 +3318,7 @@
   {
     "asin": "B0FXBV7P4T",
     "brand": "غير محدد",
-    "name": "MAX غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "\"MAX TOP Portable Washing Machine for Trips and Summers: A Genius Solution to Travel Laundry Problems\" - Generic",
@@ -3354,7 +3358,7 @@
   {
     "asin": "B0HCW44JJY",
     "brand": "غير محدد",
-    "name": "Mini غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Mini Folding Washing Machine, 8 Liter Capacity, Purple, with Drying and Sterilization Function, Suitable for All Kinds of Clothes (Model 1)",
@@ -3374,7 +3378,7 @@
   {
     "asin": "B0BQ6L7V88",
     "brand": "angry bee",
-    "name": "angry غسالة",
+    "name": "angry bee غسالة",
     "specs": {},
     "model": "BLUE",
     "title": "angry bee Portable Washing Machine, Mini Folding Washer and Dryer Combo,with Small Foldable Drain Basket for Underwear, Socks, Baby Clothes, Travel, Camping, RV, Dorm, Apartment (BLUE)",
@@ -3394,7 +3398,7 @@
   {
     "asin": "B0GYJKSDCK",
     "brand": "غير محدد",
-    "name": "Foldable غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Foldable Washing Machine, Travel Camping Washing Machine, Suitable for Washing Lingerie, Socks, Baby Clothes, Sterilization",
@@ -3414,7 +3418,7 @@
   {
     "asin": "B0CBPHD5D1",
     "brand": "EOAYONY",
-    "name": "غسالة",
+    "name": "EOAYONY غسالة",
     "specs": {},
     "model": "",
     "title": "Portable Washing Machine, 8L Mini Washing Machine with 3 Modes Timing Cleaning, Portable Washer with Soft Spin and Draining for Socks, Baby Clothes, Towels and Small Items",
@@ -3454,7 +3458,7 @@
   {
     "asin": "B0HJSQS449",
     "brand": "غير محدد",
-    "name": "Mini غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Mini Portable Washing Machine Underwear Socks Washing Machine 1L Rechargeable",
@@ -3488,7 +3492,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3516,7 +3520,7 @@
   {
     "asin": "B0DLTDKSKD",
     "brand": "غير محدد",
-    "name": "Mini غسالة علوي",
+    "name": "غسالة علوي",
     "specs": {
       "type": "تحميل علوي"
     },
@@ -3538,7 +3542,7 @@
   {
     "asin": "B0BQ6M2Y2R",
     "brand": "angry bee",
-    "name": "angry غسالة",
+    "name": "angry bee غسالة",
     "specs": {},
     "model": "PINK",
     "title": "angry bee Portable Washing Machine, Mini Folding Washer and Dryer Combo,with Small Foldable Drain Basket for Underwear, Socks, Baby Clothes, Travel, Camping, RV, Dorm, Apartment (PINK)",
@@ -3572,7 +3576,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -3580,7 +3584,7 @@
   {
     "asin": "B0HKDQ9F3Q",
     "brand": "غير محدد",
-    "name": "Mini غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Mini Folding Washing Machine, Purple | Compact fold design, easy to use, suitable for travel, light weight, water and energy saving",
@@ -3821,7 +3825,7 @@
   {
     "asin": "B0DJSZQ5XS",
     "brand": "غير محدد",
-    "name": "Rana غسالة",
+    "name": "غسالة",
     "specs": {},
     "model": "",
     "title": "Rana Store Portable Mini Washing Machine for Home, Work, Travel, College Dorm, Apartment",
@@ -3865,7 +3869,7 @@
   {
     "asin": "B0DSR5ZJT7",
     "brand": "فريش",
-    "name": "غسالة 8كجم أمامي",
+    "name": "فريش غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -4029,7 +4033,7 @@
   {
     "asin": "B0FLJXW8P1",
     "brand": "زانوسي",
-    "name": "غسالة 7كجم أمامي",
+    "name": "زانوسي غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -4076,7 +4080,7 @@
   {
     "asin": "B0FLK8ST8K",
     "brand": "زانوسي",
-    "name": "Automatic غسالة 8كجم أمامي",
+    "name": "زانوسي غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -4122,7 +4126,7 @@
   {
     "asin": "B0FLK472JQ",
     "brand": "زانوسي",
-    "name": "غسالة 8كجم أمامي",
+    "name": "زانوسي غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -4190,7 +4194,7 @@
   {
     "asin": "B0D28257HF",
     "brand": "فريش",
-    "name": "غسالة 14كجم علوي",
+    "name": "فريش غسالة 14كجم علوي",
     "specs": {
       "cap": "14",
       "type": "تحميل علوي"
@@ -4302,7 +4306,7 @@
   {
     "asin": "B0BX5XGF3Z",
     "brand": "Togarhow",
-    "name": "Folding غسالة أوتوماتيك",
+    "name": "Togarhow غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4370,7 +4374,7 @@
   {
     "asin": "B091D4LD8X",
     "brand": "غير محدد",
-    "name": "Key غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4435,7 +4439,7 @@
   {
     "asin": "B0H3LJWSP4",
     "brand": "غير محدد",
-    "name": "Chiba غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4479,7 +4483,7 @@
   {
     "asin": "B0FW6D3GF6",
     "brand": "غير محدد",
-    "name": "Aviya غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4501,7 +4505,7 @@
   {
     "asin": "B0DGXR4K5Z",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4523,7 +4527,7 @@
   {
     "asin": "B0FJZMKT18",
     "brand": "غير محدد",
-    "name": "3M غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4545,7 +4549,7 @@
   {
     "asin": "B0GYG3FZD8",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4587,7 +4591,7 @@
   {
     "asin": "B0FS4GPH8Y",
     "brand": "غير محدد",
-    "name": "Heavy غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4609,7 +4613,7 @@
   {
     "asin": "B0GK79YNSP",
     "brand": "غير محدد",
-    "name": "Floating غسالة نصفأوتوماتيك",
+    "name": "غسالة نصفأوتوماتيك",
     "specs": {
       "type": "نصف أوتوماتيك"
     },
@@ -4631,7 +4635,7 @@
   {
     "asin": "B0FFYS93SF",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4653,7 +4657,7 @@
   {
     "asin": "B0FHBYJB24",
     "brand": "غير محدد",
-    "name": "17m غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4675,7 +4679,7 @@
   {
     "asin": "B0FJZHL7JZ",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4697,7 +4701,7 @@
   {
     "asin": "B0FHBYK1WY",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4719,7 +4723,7 @@
   {
     "asin": "B091CBSC51",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4741,7 +4745,7 @@
   {
     "asin": "B091CZ9MJB",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4763,7 +4767,7 @@
   {
     "asin": "B0GKVWGWHR",
     "brand": "Next store",
-    "name": "Next غسالة",
+    "name": "Next store غسالة",
     "specs": {},
     "model": "",
     "title": "Next Store Washing Machine Shoe Washing Bag Mesh Shoe Cleaning Protection Net Padded Laundry Bag with Foam Loops Durable Zipper Keep Shoes Noise Prevention",
@@ -4783,7 +4787,7 @@
   {
     "asin": "B0H16DNDY8",
     "brand": "غير محدد",
-    "name": "ترمبه غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4825,7 +4829,7 @@
   {
     "asin": "B0D361HQTC",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4847,7 +4851,7 @@
   {
     "asin": "B0FXYFGH82",
     "brand": "غير محدد",
-    "name": "Water غسالة نصفأوتوماتيك",
+    "name": "غسالة نصفأوتوماتيك",
     "specs": {
       "type": "نصف أوتوماتيك"
     },
@@ -4869,7 +4873,7 @@
   {
     "asin": "B091CV82G9",
     "brand": "غير محدد",
-    "name": "Top غسالة 12كجم علوي",
+    "name": "غسالة 12كجم علوي",
     "specs": {
       "cap": "12",
       "type": "تحميل علوي"
@@ -4892,7 +4896,7 @@
   {
     "asin": "B0FJZHGGHM",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4936,7 +4940,7 @@
   {
     "asin": "B091J5QPXR",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4958,7 +4962,7 @@
   {
     "asin": "B0D7ZWR86Q",
     "brand": "غير محدد",
-    "name": "ريشه غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -4980,7 +4984,7 @@
   {
     "asin": "B0FXJB2K9X",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -5002,7 +5006,7 @@
   {
     "asin": "B0FXT2965L",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -5024,7 +5028,7 @@
   {
     "asin": "B0DLDRG2CJ",
     "brand": "غير محدد",
-    "name": "Tarpaulin غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -5046,7 +5050,7 @@
   {
     "asin": "B0HN83S4R7",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -5090,7 +5094,7 @@
   {
     "asin": "B0GCPM4CLL",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
