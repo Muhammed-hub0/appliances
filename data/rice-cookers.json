@@ -1057,7 +1057,7 @@
     "title": "Feller Germany RC33 Digital Rice Cooker 3L (1L Rice Capacity) – 11-in-1 Multi Cooker, LED Display, Steamer, Timer & Non-Stick Pot – Electric Cooker (White)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7349.15,
+    "price": 6499,
     "img": "https://m.media-amazon.com/images/I/41h3y4BEIEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G93KFVNY?tag=fineartslab-21",
     "active": true,
@@ -1330,7 +1330,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FHHCVJ3J",
@@ -1349,7 +1350,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GVGHR8H8",
@@ -1368,7 +1370,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GT3MHFVN",
@@ -1387,7 +1390,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GT3YY2M1",
@@ -1406,7 +1410,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GVGC69CC",
@@ -1425,7 +1430,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GT47YCJB",
@@ -1444,7 +1450,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GT461M6M",
@@ -1463,7 +1470,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GT37ZDBX",
@@ -1482,7 +1490,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HQ52NN1L",
@@ -1501,7 +1510,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GVC2HH6W",
@@ -1520,7 +1530,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GVC1QRPW",
@@ -1539,7 +1550,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GVPPW3BT",
@@ -1558,7 +1570,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GT2VKP49",
@@ -1577,7 +1590,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HFRBGBMW",
@@ -1596,7 +1610,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H7FCQNY1",
@@ -1615,6 +1630,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   }
 ]

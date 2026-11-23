@@ -167,7 +167,7 @@
     "title": "Braun Breakfast HT1010WH Toaster, 2 Slots, 8 Browning Settings, Bun Warmer, 900 Watts, White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2199.95,
+    "price": 1710,
     "img": "https://m.media-amazon.com/images/I/317Fq96WEwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0926S79HS?tag=fineartslab-21",
     "active": true,
@@ -285,8 +285,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0CJK2F11P",
@@ -2286,7 +2288,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HF2WD7DG",
@@ -2308,7 +2311,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09KVHQF45",
@@ -2329,7 +2333,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GV4LFTB1",
@@ -2348,7 +2353,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FDL3LJTV",
@@ -2369,7 +2375,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GYK12PFJ",
@@ -2390,7 +2397,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H18QWV4X",
@@ -2404,7 +2412,7 @@
     "title": "WINNING STAR ST-9464 1200W Sandwich Maker,4 Slice Triangle Plate Toaster with Non Stick Coating and Indicator Lights - A1-591",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1283.53,
+    "price": 1819,
     "img": "https://m.media-amazon.com/images/I/41-eKsSDJLL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H18QWV4X?tag=fineartslab-21",
     "active": true,
@@ -2412,7 +2420,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08Y5R44YG",
@@ -2433,7 +2442,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07NF182SV",
@@ -2454,7 +2464,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H71DQR3T",
@@ -2473,7 +2484,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FK5D29NF",
@@ -2492,7 +2504,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CFQXSL5S",
@@ -2513,7 +2526,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HP3T5WTV",
@@ -2532,7 +2546,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HNV1GT23",
@@ -2551,7 +2566,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HP6DGLY3",
@@ -2570,7 +2586,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CH6P86Y4",
@@ -2591,7 +2608,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CP61R334",
@@ -2612,7 +2630,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GMGL9YH3",
@@ -2631,7 +2650,8 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GDN82RF5",
@@ -2650,6 +2670,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   }
 ]
