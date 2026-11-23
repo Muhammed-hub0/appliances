@@ -1,1 +1,126 @@
-[]
+[
+  {
+    "asin": "B0FQY39L2P",
+    "brand": "شاومي",
+    "name": "شاومي 200 وات لاسلكي (W30)",
+    "specs": {
+      "watt": "200",
+      "type": "لاسلكي"
+    },
+    "model": "W30",
+    "title": "Xiaomi Truclean W30 Pro Wet Dry Vacuum, Cordless, 18000Pa Suction, 21.6V, 200W, Self-Cleaning Base, 5.15kg, 40min Runtime",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 18383.2,
+    "img": "https://m.media-amazon.com/images/I/21aQFKttcBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FQY39L2P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FXXLGJ95",
+    "brand": "أورايمو",
+    "name": "أورايمو 500 وات",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "",
+    "title": "oraimo Cord Force Plus Corded Stick Vacuum 500W Motor, OSV-553A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4888.6,
+    "img": "https://m.media-amazon.com/images/I/413yZFU5FsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FXXLGJ95?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07CB9CM1V",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر لاسلكي (SVA420B-B5)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "SVA420B-B5",
+    "title": "Black & Decker 14.4V 28.8Wh 2 in 1 Cordless Stick Vacuum, SVA420B-B5 - (International warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5608.25,
+    "img": "https://m.media-amazon.com/images/I/31jukpEtqYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07CB9CM1V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GBTYLYSW",
+    "brand": "أورايمو",
+    "name": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
+    "specs": {},
+    "model": "",
+    "title": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4902,
+    "img": "https://m.media-amazon.com/images/I/413MevI7-RL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GBTYLYSW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09DJDTV29",
+    "brand": "بلاك أند ديكر",
+    "name": "Black & Decker BHFEA420J Stick Vacuum, White",
+    "specs": {},
+    "model": "",
+    "title": "Black & Decker BHFEA420J Stick Vacuum, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9001.6,
+    "img": "https://m.media-amazon.com/images/I/31glU946WwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09DJDTV29?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FP4VNJGQ",
+    "brand": "Bissell",
+    "name": "Bissell 280 وات لاسلكي",
+    "specs": {
+      "watt": "280",
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Bissell Crosswave OmniFind PowerClean FurGuard 4241K-280W Freestanding Cordless Vacuum, Black/Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 21836,
+    "img": "https://m.media-amazon.com/images/I/31mwdYZzWwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FP4VNJGQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]
