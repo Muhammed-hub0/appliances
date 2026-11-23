@@ -305,7 +305,7 @@ tr.alt td{background:var(--surface-alt)}
   .cnt{width:100%;margin-inline-start:0;padding-bottom:0}
   .tablewrap{overflow:visible}
   table{font-size:12px;table-layout:fixed;width:100%}
-  th:nth-child(1),td.n,th:nth-child(4),td.w{display:none}
+  th:nth-child(1),td.n{display:none}
   th,td{padding:6px 4px;overflow-wrap:anywhere}
   .nm{min-width:0;white-space:normal}
   .im{width:52px}
