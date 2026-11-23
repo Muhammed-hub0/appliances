@@ -347,7 +347,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F4JZNGT8",
@@ -368,7 +369,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FNF4CP18",
@@ -381,7 +383,7 @@
     "title": "Xiaomi Robot Vacuum S40 | 10,000Pa Suction Power | LDS Laser Navigation | 2-in-1 Tank 520ml/270ml | 3 Water Levels | Anti-noding | App Control | Alexa/Google",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13395.9,
+    "price": 13281.2,
     "img": "https://m.media-amazon.com/images/I/21XDDJ-yydL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FNF4CP18?tag=fineartslab-21",
     "active": true,
@@ -389,7 +391,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B00IUK8018",
@@ -410,7 +413,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CTCXKL52",
@@ -431,7 +435,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DDJH4ZQF",
@@ -452,7 +457,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09QJTXZQT",
@@ -473,7 +479,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DDTB6D9S",
@@ -494,7 +501,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07D2C27N7",
@@ -513,7 +521,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FTT3DPXM",
@@ -535,7 +544,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DBTJ2FF6",
@@ -556,7 +566,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B093W7RLYT",
@@ -577,7 +588,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DDZVKVNJ",
@@ -598,7 +610,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYTNNW7",
@@ -619,7 +632,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DBVW1RFW",
@@ -640,7 +654,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07PHSKP3T",
@@ -659,7 +674,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0946NS3TP",
@@ -677,6 +693,862 @@
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B09VZKGKQ5",
+    "brand": "أورايمو",
+    "name": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
+    "specs": {},
+    "model": "",
+    "title": "Oraimo Stick Vacuum EU OSV-102B GraphiteGreyDSAFR",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6094,
+    "img": "https://m.media-amazon.com/images/I/419X2Un4QkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09VZKGKQ5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F4X6CTT8",
+    "brand": "شاومي",
+    "name": "شاومي روبوت (S40C)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "S40C",
+    "title": "Xiaomi Robot Vacuum S40C, 2-in-1 Vacuum and Mop, 5000Pa Suction, Smart LDS Navigation, Auto Recharge, Works on Low Pile Carpets & Hard Floors",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9948,
+    "img": "https://m.media-amazon.com/images/I/21LMnEVh3GL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F4X6CTT8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GDXL6G5L",
+    "brand": "شاومي",
+    "name": "شاومي روبوت (H50)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "H50",
+    "title": "Xiaomi Robot Vacuum H50, White, 1Y Local Warranty | Dual Anti-Tangle System, Automatic Dust Collection, Mop Pad Cleaning and Air Drying, Integrated Self-Cleaning Washboard",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 25000,
+    "img": "https://m.media-amazon.com/images/I/31KDQIYl8GL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GDXL6G5L?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B1PCD8SN",
+    "brand": "دايسون",
+    "name": "Dyson (Yellow & Nickel) DysonV12, V12 Detect Slim Absolute Vacuum, 0.35 liters",
+    "specs": {},
+    "model": "V12",
+    "title": "Dyson (Yellow & Nickel) DysonV12, V12 Detect Slim Absolute Vacuum, 0.35 liters",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 32990,
+    "img": "https://m.media-amazon.com/images/I/31Yb4iwtS2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B1PCD8SN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CLGSCLZL",
+    "brand": "eufy",
+    "name": "eufy روبوت (L60)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "L60",
+    "title": "eufy L60 Hybrid Robot Vacuum with Self Empty Station, Hair Detangling Technology, Up to 60 Days of Hands Free Cleaning, Ultra Strong 5,000 Pa Suction to Remove Hair, Dust, Mop Pad",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 20230.31,
+    "img": "https://m.media-amazon.com/images/I/41UfT6P421L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CLGSCLZL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BRQ8SN77",
+    "brand": "Daga",
+    "name": "Portable Electric Sanitizing and Cleaning Vacuum with UV-C Light for Pillows, Mattresses, Beddings, Sofas",
+    "specs": {},
+    "model": "",
+    "title": "Portable Electric Sanitizing and Cleaning Vacuum with UV-C Light for Pillows, Mattresses, Beddings, Sofas, and other Fabric Surfaces - White, Quantity: 1",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 710,
+    "img": "https://m.media-amazon.com/images/I/51gsjsYKl+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BRQ8SN77?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CPDVV72T",
+    "brand": "eufy",
+    "name": "eufy روبوت (X10)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "X10",
+    "title": "eufy X10 Pro Omni Robot Vacuum and Mop with 8,000 Pa Suction, Dual Mops with 12 mm Auto-Lift and Carpet Detection, AI Obstacle Avoidance, Auto Mop Washing, Self-Drying, Self-Emptying, Self-Refilling",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29999,
+    "img": "https://m.media-amazon.com/images/I/31zfLbih5sL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CPDVV72T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C7VN9NWK",
+    "brand": "roborock",
+    "name": "roborock روبوت",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "",
+    "title": "roborock Q5 Pro+ Robot Vacuum and Mop, Self-Emptying, 5500 Pa Max Suction, DuoRoller Brush, Hands-Free Cleaning for up to 7 Weeks, Precise Navigation, Perfect for Hard Floors, Carpets, and Pet Hair",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 24580,
+    "img": "https://m.media-amazon.com/images/I/31ZixF3bQXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C7VN9NWK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GT7LVLXC",
+    "brand": "roborock",
+    "name": "roborock روبوت (Q10VF)",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "Q10VF",
+    "title": "roborock Q7 Pro Max+ Robot Vacuum and Mop,13000Pa,7-9 Weeks Self-Empty | Upgraded from Q10VF+,Dual Anti-Tangle System for Pet Hair & Carpet, PreciSense LiDAR Navigation, App Control",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 23764.03,
+    "img": "https://m.media-amazon.com/images/I/31bq9dYZXXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GT7LVLXC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HP25MCPJ",
+    "brand": "غير محدد",
+    "name": "مكنسة يدوية محمولة JB-107 لتنظيف السيارة والمنزل، مع فوهة للشقوق وفرشاة تنظيف، تصميم صغير وخفيف وسهولة تف",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "مكنسة يدوية محمولة JB-107 لتنظيف السيارة والمنزل، مع فوهة للشقوق وفرشاة تنظيف، تصميم صغير وخفيف وسهولة تفريغ حاوية الغبار",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 432,
+    "img": "https://m.media-amazon.com/images/I/31k9VLs4kWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HP25MCPJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F38BGFV2",
+    "brand": "roborock",
+    "name": "roborock روبوت",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "",
+    "title": "roborock Q7 TF+ Robot Vacuum and Mop, 10000Pa Suction, Black | Free Cleaning Solution Included, plus 7-week self-emptying, dual anti-tangle, LiDAR navigation and app control.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19030,
+    "img": "https://m.media-amazon.com/images/I/31Uyvh7e7fL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F38BGFV2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H9SW3MR1",
+    "brand": "شاومي",
+    "name": "شاومي روبوت",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "",
+    "title": "Xiaomi Robot Vacuum 6 Pro-White | 30 000 Pa suction power.AI triple-camera obstacle avoidance.Running-water roller mopping. 85°C self-cleaning omni station",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 61000,
+    "img": "https://m.media-amazon.com/images/I/31GurAooJeL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H9SW3MR1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQBYDQTV",
+    "brand": "Fanttik",
+    "name": "Fanttik لاسلكي (V10)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "V10",
+    "title": "Fanttik Fold V10 APEX Pivot Cordless Car Vacuum, 17000Pa Handheld Vacuum Suction Power, Smart LED Display, Portable for Car Home Pet (Deluxe with Flexible Hose&Pet Brush)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 12999,
+    "img": "https://m.media-amazon.com/images/I/41sNbvdLiJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQBYDQTV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BQCN32GS",
+    "brand": "دايسون",
+    "name": "دايسون لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Dyson V8 Total Clean Cordless Vacuum Clean, Portable and Lightweight, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 22999,
+    "img": "https://m.media-amazon.com/images/I/31PNkAOgXfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BQCN32GS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CHH7F1B8",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Black & Decker Cordless Upright SUMMITSERIES Stick Vacuum with Digital Motor, 21.6V/86Wh, Pet Hair Attachment, Grey/Purple - BHFEA640WP-GB",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 20999,
+    "img": "https://m.media-amazon.com/images/I/31Xi0InO9-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CHH7F1B8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F1NH8KB2",
+    "brand": "غير محدد",
+    "name": "Cordless Car Vacuum - Strong suction for deep cleaning seats, floors, and narrow car spaces, portable, wa",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Cordless Car Vacuum - Strong suction for deep cleaning seats, floors, and narrow car spaces, portable, washable, battery-operated, compact and ideal for home and car use.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 257,
+    "img": "https://m.media-amazon.com/images/I/51ygPfpqzGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F1NH8KB2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09NY6FW94",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر لاسلكي (BCHV001C1)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "BCHV001C1",
+    "title": "BLACK+DECKER Cordless 18V Handheld Dustbuster Vacuum, 45 Air Watts, 2 Stage Filteration Technology, Extra Large Dust Bowl, Powerful Suction, 1.5Ah Battery BCHV001C1",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3562.6,
+    "img": "https://m.media-amazon.com/images/I/41dKobntd7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09NY6FW94?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D8BVMNBN",
+    "brand": "دايسون",
+    "name": "دايسون لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Dyson V8 Absolute Cordless Vacuum Nickel, Bagless, HEPA Filter, Rotating Brush, with 5AVE Microfiber Cloth",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 21340,
+    "img": "https://m.media-amazon.com/images/I/31QyCZzkUHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D8BVMNBN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GXWK43MS",
+    "brand": "غير محدد",
+    "name": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair,",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair, Rechargeable Battery, Ideal for Home and Car Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 946,
+    "img": "https://m.media-amazon.com/images/I/31BJkuTnhgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GXWK43MS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F8C5FB37",
+    "brand": "غير محدد",
+    "name": "Wireless car vacuum - power 120W, 9000 PA suction, dry home cleaning, multi -colored",
+    "specs": {
+      "watt": "120"
+    },
+    "model": "",
+    "title": "Wireless car vacuum - power 120W, 9000 PA suction, dry home cleaning, multi -colored",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 681.75,
+    "img": "https://m.media-amazon.com/images/I/41oOU29Lz1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F8C5FB37?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CJTXVH15",
+    "brand": "دايسون",
+    "name": "دايسون لاسلكي (V15)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "V15",
+    "title": "Dyson V15 Detect Total Clean cordless vacuum | 476622-01 | 2 years Dyson warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 39999,
+    "img": "https://m.media-amazon.com/images/I/21fjakwi77L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CJTXVH15?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F1SNTTY1",
+    "brand": "TDOO",
+    "name": "TDOO لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Cordless Handheld Car Vacuum - 12000PA Brushless DC Motor, Ultra - Strong Suction Rechargeable for Home, Office & Kitchen",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2244.97,
+    "img": "https://m.media-amazon.com/images/I/41s-eXeINlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F1SNTTY1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FLYL43L2",
+    "brand": "غير محدد",
+    "name": "Cordless Vacuum - Portable Handheld Cleaning Device with Strong Suction for Pet Hair and Debris Removal o",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Cordless Vacuum - Portable Handheld Cleaning Device with Strong Suction for Pet Hair and Debris Removal on Cars, Beds, and Multiple Surfaces",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 445.95,
+    "img": "https://m.media-amazon.com/images/I/2191Pzsr1yL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FLYL43L2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09KZSH9PG",
+    "brand": "غير محدد",
+    "name": "Generic MIK Hand Vacuum, Mini Handheld Cordless Rechargeable Portable Vacuum With LED Light, USB Powered ",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "BLACK",
+    "title": "Generic MIK Hand Vacuum, Mini Handheld Cordless Rechargeable Portable Vacuum With LED Light, USB Powered for Car, Home, Keyboard, Pet Hair (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 231.88,
+    "img": "https://m.media-amazon.com/images/I/41qM7NV0cvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09KZSH9PG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09DFY6QF4",
+    "brand": "LIPUWS",
+    "name": "LIPUWS لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Handheld Car Vacuum Portable Cordless, Mini Dust Buster with High Power | Vacuum Rechargeable, Washable HEPA Filter, With a Flexible Hose and Multi-Nozzles, Compact and Lightweight, Quiet and Safety",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2900,
+    "img": "https://m.media-amazon.com/images/I/41lNqyYvO4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09DFY6QF4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G21ZT5DQ",
+    "brand": "غير محدد",
+    "name": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair,",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair, Rechargeable Battery, Ideal for Home and Car Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1229.8,
+    "img": "https://m.media-amazon.com/images/I/31BJkuTnhgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G21ZT5DQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FCTS6MFP",
+    "brand": "غير محدد",
+    "name": "Portable Cleaning Device - 120W Rechargeable Mini Vacuum with Strong Suction, Perfect for Tackling Dust a",
+    "specs": {
+      "watt": "120"
+    },
+    "model": "",
+    "title": "Portable Cleaning Device - 120W Rechargeable Mini Vacuum with Strong Suction, Perfect for Tackling Dust and Debris in Any Space, Easy to Handle",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 485,
+    "img": "https://m.media-amazon.com/images/I/413hj7wUWHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FCTS6MFP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GXX8KQY7",
+    "brand": "دايسون",
+    "name": "دايسون لاسلكي (V15)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "V15",
+    "title": "Dyson V15 Detect Cordless Vacuum",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 92399,
+    "img": "https://m.media-amazon.com/images/I/31ivV5CjH5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GXX8KQY7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0979R48CX",
+    "brand": "دايسون",
+    "name": "دايسون لاسلكي (V15)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "V15",
+    "title": "Dyson - V15 Detect Cordless Vacuum - Yellow/Nickel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 73199,
+    "img": "https://m.media-amazon.com/images/I/21LgQcuMHfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0979R48CX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D1QQXH6V",
+    "brand": "Amzany",
+    "name": "Amzany لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Amzany - 5 in 1 cordless bed vacuum, UV-C light, ultrasonic, strong suction 16Kpa, low noise, suitable for dust, pet hair, etc.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4849.51,
+    "img": "https://m.media-amazon.com/images/I/41KWHr73MrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D1QQXH6V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FB59FN5M",
+    "brand": "Shark",
+    "name": "Shark لاسلكي (IZ376H)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "IZ376H",
+    "title": "Shark PowerPro Reveal Plus Cordless Vacuum, FloorDetect & Dirt-Reveal Technology, HEPA Filter, Carpet & Hard Floor, Rechargeable, Charcoal, IZ376H",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 59649,
+    "img": "https://m.media-amazon.com/images/I/41SssuMdUtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FB59FN5M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D9KL3C8V",
+    "brand": "Tineco",
+    "name": "Tineco لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Tineco iFLOOR 5 Breeze - Wet Dry Vacuum/Floor Washer | Cordless One-Step Cleaning for Hardwood, Tile, Marble, Laminate Floors | Auto Self-Cleaning | Lightweight | Hands-Free | Dual-Tank System",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19299,
+    "img": "https://m.media-amazon.com/images/I/21MzGCQxkbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D9KL3C8V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F1NJ48CZ",
+    "brand": "غير محدد",
+    "name": "Small Car Vacuum - Cordless, efficient cleaning of car interiors, including seats, floors, and hard-to-re",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Small Car Vacuum - Cordless, efficient cleaning of car interiors, including seats, floors, and hard-to-reach areas, powerful suction, portable, washable, perfect for home or car use.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 287,
+    "img": "https://m.media-amazon.com/images/I/31YucXilSqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F1NJ48CZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DWLVCVQ3",
+    "brand": "غير محدد",
+    "name": "Hand Vacuum - Enjoy powerful suction with our cordless car vacuum, perfect for cleaning dirt and dust in ",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Hand Vacuum - Enjoy powerful suction with our cordless car vacuum, perfect for cleaning dirt and dust in hard-to-reach places in your car and your home furniture.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 374,
+    "img": "https://m.media-amazon.com/images/I/41t6bzXDvPL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DWLVCVQ3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GDNHF9DQ",
+    "brand": "غير محدد",
+    "name": "Powerful Hand Vacuum - Lightweight cordless device for quick dust removal on mattresses, sofas, and uphol",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Powerful Hand Vacuum - Lightweight cordless device for quick dust removal on mattresses, sofas, and upholstery, with strong suction, ergonomic grip, and rechargeable battery for efficient cleaning.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 711.28,
+    "img": "https://m.media-amazon.com/images/I/31OI4HiBYQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GDNHF9DQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FLYLMBGD",
+    "brand": "غير محدد",
+    "name": "Electric Sweeper - Cordless Handheld Vacuum for Effective Pet Hair Removal from Car Interiors, Upholstery",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Electric Sweeper - Cordless Handheld Vacuum for Effective Pet Hair Removal from Car Interiors, Upholstery, and Home Surfaces with Compact Performance",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 443.78,
+    "img": "https://m.media-amazon.com/images/I/2191Pzsr1yL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FLYLMBGD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F1NHBLS3",
+    "brand": "غير محدد",
+    "name": "Compact Car Vacuum - Cordless, strong suction for cleaning vehicle interiors, ideal for seats, floors, an",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Compact Car Vacuum - Cordless, strong suction for cleaning vehicle interiors, ideal for seats, floors, and narrow spaces, washable, portable, battery-operated for easy use.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 288,
+    "img": "https://m.media-amazon.com/images/I/312IqSu4uNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F1NHBLS3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DCGD7Y8K",
+    "brand": "فيليبس",
+    "name": "فيليبس لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Philips 9000 Series AquaTrio 3-in-1 Cordless Vacuum & Wash, Vacuum and Mop in One Go, Automatic Self-Cleaning, Up to 38 Minutes Runtime Covering 285 m², Crevice Tool and Motorised Turbo Brush",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 48490.3,
+    "img": "https://m.media-amazon.com/images/I/31fl53F6-cL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DCGD7Y8K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DXV6JQXC",
+    "brand": "فاكير",
+    "name": "فاكير لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Fakir WD 6 Pure Clean 2-in-1 Wet & Dry Cordless Vacuum - Warranty 2 years",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 39758,
+    "img": "https://m.media-amazon.com/images/I/21UpN27OV+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DXV6JQXC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2NCJT2D",
+    "brand": "غير محدد",
+    "name": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair,",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Cordless Sweeper - Compact and Portable Vacuum for Multi-Surface Cleaning, Enhanced Suction for Pet Hair, Rechargeable Battery, Ideal for Home and Car Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 774,
+    "img": "https://m.media-amazon.com/images/I/31BJkuTnhgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2NCJT2D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FSBWVJFX",
+    "brand": "غير محدد",
+    "name": "مكنسة لمسة برميل توربن بلس 2600 وات شفط اتربه ومماء",
+    "specs": {
+      "watt": "2600"
+    },
+    "model": "",
+    "title": "مكنسة لمسة برميل توربن بلس 2600 وات شفط اتربه ومماء",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6499,
+    "img": "https://m.media-amazon.com/images/I/31CqGP4vBjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FSBWVJFX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
     "missCount": 0,
     "oosCount": 0
   }

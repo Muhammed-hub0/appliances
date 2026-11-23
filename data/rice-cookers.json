@@ -890,7 +890,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07PCKLKMJ",
@@ -909,7 +910,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07NQVX261",
@@ -928,7 +930,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HF1YVL9R",
@@ -950,7 +953,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CZSJQB34",
@@ -972,7 +976,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H8HFRVTC",
@@ -994,7 +999,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0009KA4CA",
@@ -1015,7 +1021,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B087JXV5R1",
@@ -1036,7 +1043,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G93KFVNY",
@@ -1057,7 +1065,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B00453ZU3K",
@@ -1078,7 +1087,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0993VP6K7",
@@ -1097,7 +1107,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H82GKT4Z",
@@ -1116,7 +1127,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091HWQH29",
@@ -1135,7 +1147,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H2WVY2RD",
@@ -1154,7 +1167,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DRTZ4BC9",
@@ -1173,7 +1187,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F1LRR2YK",
@@ -1192,7 +1207,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DY7GHQ36",
@@ -1211,7 +1227,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FHHGKGBV",
@@ -1230,7 +1247,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H2X3WXVQ",
@@ -1249,7 +1267,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H7F46M7C",
@@ -1268,7 +1287,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GVPHPXW7",
@@ -1286,6 +1306,314 @@
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0H8H5YMY8",
+    "brand": "غير محدد",
+    "name": "Italy Jamky Multi-Purpose Electric Rice Cooker 2.8L/6.5L - 1000W - Sturdy Metal Body Non-Stick Lining Kee",
+    "specs": {
+      "cap": "2.8",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Italy Jamky Multi-Purpose Electric Rice Cooker 2.8L/6.5L - 1000W - Sturdy Metal Body Non-Stick Lining Keep Warm Function",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5597.2,
+    "img": "https://m.media-amazon.com/images/I/41NQL6-E8VL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8H5YMY8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FHHCVJ3J",
+    "brand": "غير محدد",
+    "name": "Rice Cooker Shields - Maximize Your Kitchen's Cleanliness with 200Pcs Durable Thicken Covers, Ideal for P",
+    "specs": {},
+    "model": "",
+    "title": "Rice Cooker Shields - Maximize Your Kitchen's Cleanliness with 200Pcs Durable Thicken Covers, Ideal for Protecting Microwaves and Small Appliances",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 253,
+    "img": "https://m.media-amazon.com/images/I/41Sw9wMOUdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FHHCVJ3J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVGHR8H8",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Y",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 599,
+    "img": "https://m.media-amazon.com/images/I/417qZx6hBaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVGHR8H8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GT3MHFVN",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Y",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Animal Shaped Rice Cooker Spoon, Stainless Steel, Creative, Non-Stick, Cartoon, Stand, One Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/31CAFekHlbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GT3MHFVN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GT3YY2M1",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/31CAFekHlbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GT3YY2M1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVGC69CC",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 599,
+    "img": "https://m.media-amazon.com/images/I/41HLumvTfYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVGC69CC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GT47YCJB",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/31CAFekHlbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GT47YCJB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GT461M6M",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/31CAFekHlbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GT461M6M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GT37ZDBX",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/31CAFekHlbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GT37ZDBX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HQ52NN1L",
+    "brand": "غير محدد",
+    "name": "Rabbit-Shaped Wheat Straw Rice Spoon – Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon ",
+    "specs": {},
+    "model": "",
+    "title": "Rabbit-Shaped Wheat Straw Rice Spoon – Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 301,
+    "img": "https://m.media-amazon.com/images/I/51IlQ2YoFgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HQ52NN1L?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVC2HH6W",
+    "brand": "غير محدد",
+    "name": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoo",
+    "specs": {},
+    "model": "",
+    "title": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/51IlQ2YoFgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVC2HH6W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVC1QRPW",
+    "brand": "غير محدد",
+    "name": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoo",
+    "specs": {},
+    "model": "",
+    "title": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/51IlQ2YoFgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVC1QRPW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVPPW3BT",
+    "brand": "غير محدد",
+    "name": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoo",
+    "specs": {},
+    "model": "",
+    "title": "Rabbit-Shaped Wheat Straw Rice Spoon â€“ Stand-Up Non-Stick Rice Shovel for Rice Cookers, Creative Cartoon Design, 2PC, Random Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/51IlQ2YoFgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVPPW3BT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GT2VKP49",
+    "brand": "غير محدد",
+    "name": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "specs": {},
+    "model": "",
+    "title": "Generic 1pcs Rice Spoon Animal Shape Stand Rice Cooker Spoon, Non-Stick, Dishwasher Safe (Random Color)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/31CAFekHlbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GT2VKP49?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HFRBGBMW",
+    "brand": "غير محدد",
+    "name": "3-Piece Smiley Face Rice Paddle Set, Plastic Textured Serving Spoons with Upright Standing Handles, Non-S",
+    "specs": {},
+    "model": "",
+    "title": "3-Piece Smiley Face Rice Paddle Set, Plastic Textured Serving Spoons with Upright Standing Handles, Non-Stick Scoops for Rice Cooker, Sushi, Kitchen and Daily Meal Serving",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 233,
+    "img": "https://m.media-amazon.com/images/I/31pMoPrbcxL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HFRBGBMW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7FCQNY1",
+    "brand": "غير محدد",
+    "name": "Cooking Spoon Rest Holder, Wheat Straw Utensil Holder with Suction Cup, Kitchen Spoon Stand for Rice Cook",
+    "specs": {},
+    "model": "",
+    "title": "Cooking Spoon Rest Holder, Wheat Straw Utensil Holder with Suction Cup, Kitchen Spoon Stand for Rice Cooker, Pots, Pans, Ceramic Surfaces, Easy Clean Design",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 224,
+    "img": "https://m.media-amazon.com/images/I/41XGpnGUigL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7FCQNY1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
     "missCount": 0,
     "oosCount": 0
   }

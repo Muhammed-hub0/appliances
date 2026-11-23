@@ -80,7 +80,7 @@
     "title": "TORNADO Steam Iron 2000 Watt Ceramic Soleplate, Tank Capacity 300 Ml, Anti-Drip, Adjustable Steam Grey - Orange TST-2000NC (Multi Color)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1590.06,
+    "price": 1589,
     "img": "https://m.media-amazon.com/images/I/31FrGq8kP9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GTXG1SZL?tag=fineartslab-21",
     "active": true,
@@ -198,13 +198,13 @@
     "price": 2299,
     "img": "https://m.media-amazon.com/images/I/41-68ZA5MSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BYP9F59M?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -473,7 +473,7 @@
     "title": "TEFAL FV2C40 Virtuo 27g Continuous Steam and 120g Shock Steam 2000 Watt Steam Iron",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1649,
+    "price": 1769,
     "img": "https://m.media-amazon.com/images/I/31ReG1M7ysL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G3PP7HZV?tag=fineartslab-21",
     "active": true,
@@ -1455,7 +1455,7 @@
     "title": "IDO Ceramic Steam Iron 2200w, 280 Ml, Anti-Calc, Anti-Drip SI2200-BWH",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 949,
+    "price": 945,
     "img": "https://m.media-amazon.com/images/I/418OX9pvXcL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DB2DNLVP?tag=fineartslab-21",
     "active": true,
@@ -1657,7 +1657,7 @@
     "title": "Portable Handheld Steam Iron With Spray Compact Electric Clothes Pressing Tool Anti Drip Design Lightweight Travel Iron For Garment Care Craft Sewing Home Use With Silicone Pad",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 275.8,
+    "price": 355,
     "img": "https://m.media-amazon.com/images/I/51cGYvYzsfL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GT61YGCY?tag=fineartslab-21",
     "active": true,
@@ -1752,7 +1752,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DQ59BW76",
@@ -1774,7 +1775,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F8CVN86N",
@@ -1796,7 +1798,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07KBKTCCY",
@@ -1818,7 +1821,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DG6GVWKL",
@@ -1840,7 +1844,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08ZT1TLBC",
@@ -1862,7 +1867,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09K6RKQM8",
@@ -1884,7 +1890,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B079Q9SBDC",
@@ -1906,7 +1913,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B098TXH53V",
@@ -1928,7 +1936,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GZ35V417",
@@ -1950,7 +1959,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GY5M1J3K",
@@ -1972,7 +1982,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H24B5C3D",
@@ -1994,7 +2005,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HM4JFHHX",
@@ -2016,7 +2028,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CNTJK4XK",
@@ -2038,7 +2051,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F8HRXCL9",
@@ -2060,7 +2074,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CKTMPQY9",
@@ -2082,7 +2097,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FFHG4L12",
@@ -2103,7 +2119,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DJ93K3DF",
@@ -2124,7 +2141,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C28268ZZ",
@@ -2145,7 +2163,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BKYFPPW5",
@@ -2166,7 +2185,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01KZOAKFK",
@@ -2187,7 +2207,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DBWM4N9L",
@@ -2209,7 +2230,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HMX31B2T",
@@ -2231,7 +2253,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H7PN2N6S",
@@ -2253,7 +2276,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08YY1YG8K",
@@ -2275,7 +2299,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H7N22BW4",
@@ -2297,7 +2322,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FQC3CLB3",
@@ -2319,7 +2345,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091CZZ81C",
@@ -2341,7 +2368,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F56RW83J",
@@ -2363,7 +2391,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08GL8Y6BW",
@@ -2385,7 +2414,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GLHQPSZM",
@@ -2407,7 +2437,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CVH5CX3B",
@@ -2429,7 +2460,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BDX6K8S5",
@@ -2451,7 +2483,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09YVMHFSZ",
@@ -2473,7 +2506,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HGGLRT4P",
@@ -2495,7 +2529,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DQY47979",
@@ -2517,7 +2552,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D821QC5W",
@@ -2539,7 +2575,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CL4PR3GP",
@@ -2560,7 +2597,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H8JP9W1J",
@@ -2581,7 +2619,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D5BYCG8W",
@@ -2602,7 +2641,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D2X9PG7Y",
@@ -2623,7 +2663,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D419XR8H",
@@ -2636,7 +2677,7 @@
     "title": "PRISHWI CREATION Mini Portable Ironing Machine, Handheld Steam Iron, Travel Garment Steamer, Professional Micro Steam Iron for Cloth Clothes, Good for Home and Travel",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 277.98,
+    "price": 380,
     "img": "https://m.media-amazon.com/images/I/41zwUiP-tgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D419XR8H?tag=fineartslab-21",
     "active": true,
@@ -2644,7 +2685,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D42479WN",
@@ -2657,7 +2699,7 @@
     "title": "Mini Portable Ironing Machine, Handheld Steam Iron, Travel Garment Steamer, Professional Micro Steam Iron for Cloth Clothes, Good for Home and Travel",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 267.08,
+    "price": 380,
     "img": "https://m.media-amazon.com/images/I/41zwUiP-tgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D42479WN?tag=fineartslab-21",
     "active": true,
@@ -2665,7 +2707,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D5Y7SRRJ",
@@ -2678,7 +2721,7 @@
     "title": "Stainless Steel Mini Ironing Machine, Garment Steamer, Professional Handheld Portable Micro Steam Iron For Fabric Clothes,Good For Home And Travel, Wrinkles Removing Lightweight Steamer",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 320.5,
+    "price": 428,
     "img": "https://m.media-amazon.com/images/I/310w+EYKDeL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D5Y7SRRJ?tag=fineartslab-21",
     "active": true,
@@ -2686,7 +2729,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D7ZZLW7G",
@@ -2707,7 +2751,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GCGHSTYW",
@@ -2720,7 +2765,7 @@
     "title": "Portable Handheld Steam Iron With Spray 30W Power Anti Drip Design Compact Electric Pressing Tool For Clothes Travel Craft Sewing Lightweight Home Use With Silicone Pad",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 218.03,
+    "price": 280,
     "img": "https://m.media-amazon.com/images/I/51n0BOYquiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GCGHSTYW?tag=fineartslab-21",
     "active": true,
@@ -2728,7 +2773,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BV6WN4F9",
@@ -2749,7 +2795,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GMCM1TLZ",
@@ -2770,7 +2817,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BHHY3BBV",
@@ -2791,7 +2839,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D98GYM7X",
@@ -2812,7 +2861,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09HMZF2VP",
@@ -2833,7 +2883,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CRL74TD3",
@@ -2846,7 +2897,7 @@
     "title": "Cospex Mini Iron Portable Travel Iron Support Dry Wet Ironing for Clothes Handheld Household Steam Iron Folding Ironing Machine for All Kinds of Clothes for Family and Travel",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 231.11,
+    "price": 286.86,
     "img": "https://m.media-amazon.com/images/I/31pasQMvyTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CRL74TD3?tag=fineartslab-21",
     "active": true,
@@ -2854,7 +2905,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HR5VZ2WF",
@@ -2873,7 +2925,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HQVBSNPN",
@@ -2892,7 +2945,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07G99NX1P",
@@ -2911,7 +2965,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091D3Y8R8",
@@ -2930,7 +2985,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B06XTKQX5D",
@@ -2949,7 +3005,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DP4YXSM5",
@@ -2967,6 +3024,3244 @@
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0D1CM3SMP",
+    "brand": "شاومي",
+    "name": "شاومي 1300 وات بخار",
+    "specs": {
+      "watt": "1300",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Xiaomi Handheld Garment Steamer, Foldable travel steam iron for clothes, Vertical and Horizontal, Powerful 1300 Watt fast heat up, Kills 99.9%* bacteria, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2798,
+    "img": "https://m.media-amazon.com/images/I/31pknbVTWYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D1CM3SMP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0976G53HF",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 1100 وات بخار (HS1300)",
+    "specs": {
+      "watt": "1100",
+      "type": "بخار"
+    },
+    "model": "HS1300",
+    "title": "Tornado TST-HS1300 Portable Steam Iron, 1100 Watts - White and Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3199,
+    "img": "https://m.media-amazon.com/images/I/41b1cdGjlTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0976G53HF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F199GFHV",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 1960 وات بخار (SS1900T)",
+    "specs": {
+      "watt": "1960",
+      "type": "بخار"
+    },
+    "model": "SS1900T",
+    "title": "TORNADO Stand Steam Iron 1650-1960 Watt, Built In Ironing Table, 35 g/min, Self Cleaning, White × Gold TST-SS1900T",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5499,
+    "img": "https://m.media-amazon.com/images/I/21Zs2LCdD9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F199GFHV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CNNSN87H",
+    "brand": "جاماكي",
+    "name": "جاماكي 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Jamaki Portable Steam Iron 2000W -jmk 1015",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1173,
+    "img": "https://m.media-amazon.com/images/I/41e9e+B3C7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CNNSN87H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09CGRQZBS",
+    "brand": "براون",
+    "name": "براون 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Braun TexStyle 1 SI 1040GR - Steam iron with SuperCeramic sole (vertical steam, 2000 W), color green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1790,
+    "img": "https://m.media-amazon.com/images/I/41eDR-1q23L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09CGRQZBS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C5N8TH9Y",
+    "brand": "كينوود",
+    "name": "كينوود 2600 وات بخار (STP75)",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "STP75",
+    "title": "Kenwood Steam Iron 2600 Watts, Steam Shot Up to 140g, Steam emission 45g/min, Anti drip and Anti calc, STP75.000WB - International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1850,
+    "img": "https://m.media-amazon.com/images/I/41Z33ER-VfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C5N8TH9Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H245BSP4",
+    "brand": "باناسونيك",
+    "name": "باناسونيك 2400 وات بخار",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Panasonic 2400W Ceramic Soleolate Steam Iron, Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1840.8,
+    "img": "https://m.media-amazon.com/images/I/31IOLrt9afL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H245BSP4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G3Q95D4N",
+    "brand": "ZGHQHCDRH",
+    "name": "ZGHQHCDRH بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "ZGHQHCDRH 3-in-1 Aironox Automatic Iron, Portable Steam Iron, Temperature 60-70°C, 360° Drying without Dead Angles, for Shirts, Shoes, Pants",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 65000,
+    "img": "https://m.media-amazon.com/images/I/41VSdChG5QL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G3Q95D4N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HS78N29M",
+    "brand": "غير محدد",
+    "name": "Portable Cordless Steam Iron & Handheld Clothes Steamer – Professional Mini Travel Iron, Compact & Lightw",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Portable Cordless Steam Iron & Handheld Clothes Steamer – Professional Mini Travel Iron, Compact & Lightweight Wrinkle Remover for Garments, Home & Business -travel Trips",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 279,
+    "img": "https://m.media-amazon.com/images/I/41fpZtuzQbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HS78N29M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVZ9V4H8",
+    "brand": "Winning Star",
+    "name": "Winning Star 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Winning Star ST-5314 2000W Dry Steam Iron with Water Tank",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 872,
+    "img": "https://m.media-amazon.com/images/I/51l3AnqWEnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVZ9V4H8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DGVQ6PH9",
+    "brand": "جاماكي",
+    "name": "جاماكي 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Jamaki Portable Steam Iron for Clothes and Curtains Power 2000W Water Tank 260ml Fast Heating in 30s - jmk-1015",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1099,
+    "img": "https://m.media-amazon.com/images/I/41v2znkJuIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DGVQ6PH9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CKPN9PKS",
+    "brand": "بيكو",
+    "name": "بيكو 2400 وات بخار",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "BEKO Steam Iron, 2400 Watts, Black - SIM 5124 A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2805,
+    "img": "https://m.media-amazon.com/images/I/31LXHIGjQtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CKPN9PKS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DNXPKVQ6",
+    "brand": "غير محدد",
+    "name": "Steam Iron 2200W - Powerful Performance Ceramic Soleplate, Elegant Blue",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Steam Iron 2200W - Powerful Performance Ceramic Soleplate, Elegant Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 989.1,
+    "img": "https://m.media-amazon.com/images/I/41j7kO7zf8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DNXPKVQ6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GRNTV3XN",
+    "brand": "غير محدد",
+    "name": "Mini Steam Iron – Practical & Lightweight Design for Fast and Accurate Ironing – Suitable for All Types o",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Mini Steam Iron – Practical & Lightweight Design for Fast and Accurate Ironing – Suitable for All Types of Clothes – Fast Heating & High Efficiency – Ideal for Home or Travel Use Small",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 539.06,
+    "img": "https://m.media-amazon.com/images/I/41JLpPAl-IL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GRNTV3XN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07TJGM826",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 2400 وات بخار (X2450-B5)",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "X2450-B5",
+    "title": "Black+Decker 2400W Steam Iron with Auto Shutoff and Ceramic Soleplate, Magenta - X2450-B5, 2 Years Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1888,
+    "img": "https://m.media-amazon.com/images/I/41TSskFX0qL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07TJGM826?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D87R2B8N",
+    "brand": "Penguin",
+    "name": "Penguin 2600 وات بخار",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Penguin 2600W Steam Iron with Ceramic Soleplate, 350 ml Tank Capacity, Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1234,
+    "img": "https://m.media-amazon.com/images/I/41QhL1qJg8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D87R2B8N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D2DPTQ66",
+    "brand": "غير محدد",
+    "name": "Black&White SI-2300 Steam Iron, 3100 Watts",
+    "specs": {
+      "watt": "3100",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Black&White SI-2300 Steam Iron, 3100 Watts",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1245.11,
+    "img": "https://m.media-amazon.com/images/I/218+LCUZNDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D2DPTQ66?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B083X28L25",
+    "brand": "باناسونيك",
+    "name": "باناسونيك 1550 وات بخار (M250T)",
+    "specs": {
+      "watt": "1550",
+      "type": "بخار"
+    },
+    "model": "M250T",
+    "title": "Panasonic NI-M250T - Titanium Coated Sole Plate Steam Iron, 1550W - White Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1567.8,
+    "img": "https://m.media-amazon.com/images/I/31nbDD3RKYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B083X28L25?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FKBV796C",
+    "brand": "أريون",
+    "name": "أريون 3000 وات بخار",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Arion Ceramic Steam Iron 3000W, AR-606",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/31kCW0HBe6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FKBV796C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CP87S5YL",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (HS115-3069)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "HS115-3069",
+    "title": "Arshia Handheld Steam Iron Black HS115-3069",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2000,
+    "img": "https://m.media-amazon.com/images/I/21tAnRDPOnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CP87S5YL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FM6H5H9K",
+    "brand": "غير محدد",
+    "name": "Black&White SI-2600 2600W Powerful Steam Iron, 600 ml Water Tank Capacity",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Black&White SI-2600 2600W Powerful Steam Iron, 600 ml Water Tank Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1395,
+    "img": "https://m.media-amazon.com/images/I/310qIe+t0qL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FM6H5H9K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FTD9Q559",
+    "brand": "غير محدد",
+    "name": "DSP Portable Steam Iron, 1500W, 300ml Tank, 3 in 1, White and Blue",
+    "specs": {
+      "watt": "1500",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "DSP Portable Steam Iron, 1500W, 300ml Tank, 3 in 1, White and Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/51ar-LrG8mL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FTD9Q559?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G1BJF81M",
+    "brand": "Hosaki",
+    "name": "Hosaki 3000 وات بخار",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Hosaki Steam Iron 3000 Watt - Speedy",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1093.59,
+    "img": "https://m.media-amazon.com/images/I/419usx6f68L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G1BJF81M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C28SCVRT",
+    "brand": "سوكاني",
+    "name": "سوكاني 2400 وات بخار",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany cordless steam iron wireless 2400 watt 370 ml water tank with base station ceramic sole Black aj-2085",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1514,
+    "img": "https://m.media-amazon.com/images/I/41BJ+cWvJ9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C28SCVRT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GH14HCZT",
+    "brand": "Home Store",
+    "name": "Home Store 2200 وات بخار (SN1109)",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "SN1109",
+    "title": "Home SN1109 2200 Watt Steam Iron",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199.31,
+    "img": "https://m.media-amazon.com/images/I/41SgBsRTeUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GH14HCZT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4WRWFJG",
+    "brand": "جاماكي",
+    "name": "جاماكي 3000 وات بخار (JMK1011)",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "JMK1011",
+    "title": "Jamaki Italia Professional Handheld Steam Iron 3000W with High Quality Powerful Ceramic Plate - JMK1011",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 949,
+    "img": "https://m.media-amazon.com/images/I/41G-UYriQhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4WRWFJG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZ46BX4R",
+    "brand": "AKANE",
+    "name": "AKANE 1600 وات بخار",
+    "specs": {
+      "watt": "1600",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "AKANE A.80319 1600W Home Steam Iron Portable Handheld Garment Steamer Compact Design EU Plug Fast Heat Wrinkle Remover for Clothes, Curtains and Fabrics",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1450.8,
+    "img": "https://m.media-amazon.com/images/I/41DsjgT0-QL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZ46BX4R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B093C93F8Q",
+    "brand": "براون",
+    "name": "براون بخار (IS2132WH)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "IS2132WH",
+    "title": "Braun CareStyle Compact IS2132WH Steam Generator, FreeGlide 3D Steam Iron with Sole, 5.5 bar Pressure, Large 1.5 L Water Tank, Eco Function, White Yellow",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6199,
+    "img": "https://m.media-amazon.com/images/I/41ylWN33FML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B093C93F8Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07L1CCFF2",
+    "brand": "باناسونيك",
+    "name": "باناسونيك 1800 وات بخار (M300T)",
+    "specs": {
+      "watt": "1800",
+      "type": "بخار"
+    },
+    "model": "M300T",
+    "title": "Panasonic NI-M300T 1800 watts Steam Iron, 220V (Non-USA Compliant), Small, Color May Vary",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1468,
+    "img": "https://m.media-amazon.com/images/I/41IoeDqAHLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07L1CCFF2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D45PCVSW",
+    "brand": "GUDMART",
+    "name": "GUDMART بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "GUDMART Portable Handheld Micro Steam Iron Garment Steamer Mini Ironing Clothes Hine Fast Removal for Household Dormitory Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 214.08,
+    "img": "https://m.media-amazon.com/images/I/310rbhX1EXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D45PCVSW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B2DHVD81",
+    "brand": "SHEETLA ENTERPRISES",
+    "name": "SHEETLA ENTERPRISES بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "SHEETLA ENTERPRISES Professional Micro Steam Iron, Portable Mini Travel Iron for Clothes, Mini Handheld Steam Iron for Dry & Wet Ironing.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 214,
+    "img": "https://m.media-amazon.com/images/I/416-54s7TNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B2DHVD81?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZDF2NSY",
+    "brand": "RAF",
+    "name": "RAF 1142 وات بخار",
+    "specs": {
+      "watt": "1142",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Steam Iron 2-in-1 R.1142W, 1000W, 220 V, 50 Hz, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 845.67,
+    "img": "https://m.media-amazon.com/images/I/31ujyISPvAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZDF2NSY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CY965J6J",
+    "brand": "سوكاني",
+    "name": "سوكاني 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "sokani Steam Iron for Clothes Vertical 2000 Watt Capacity 3.5 Liter Fast Heating SK-4012",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3789,
+    "img": "https://m.media-amazon.com/images/I/41HoRGcbpGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CY965J6J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FD51P22J",
+    "brand": "جاماكي",
+    "name": "جاماكي 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Jamaki Portable Steam Iron 2000W -jmk 1015",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/41LI+hupteL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FD51P22J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZDP1YJ9",
+    "brand": "RAF",
+    "name": "RAF 1800 وات بخار",
+    "specs": {
+      "watt": "1800",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Stand Steam Iron R.3036, 1800 Watt, 220v, 50Hz, Rose",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/21eHZVbQbkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZDP1YJ9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C71DTBDX",
+    "brand": "MAGOPAJA",
+    "name": "MAGOPAJA بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "MAGOPAJA Portable Mini Ironing Machine, Handheld Steam Iron, Travel Garment Steamer, Professional Micro Steam Iron for Fabric Clothes,Good for Home and Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 279.68,
+    "img": "https://m.media-amazon.com/images/I/410BUR6o+XL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C71DTBDX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGY3V7HV",
+    "brand": "فيليبس",
+    "name": "فيليبس 2000 وات بخار (DST2020/96)",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "DST2020/96",
+    "title": "Philips 2000 Series 2000W Steam Iron Deep Petrol and White 250ml DST2020/96",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1999,
+    "img": "https://m.media-amazon.com/images/I/31uaKz1rnHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGY3V7HV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DPVQDGZM",
+    "brand": "Wonka",
+    "name": "Wonka بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Travel Iron - Steam Iron for Clothes and Various Fabrics, Efficiently Removes Wrinkles and Creases, Sterilizes and Deodorizes, Safe to Use on All Types of Fabrics Like Silk, Cotton, Wool.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 243.02,
+    "img": "https://m.media-amazon.com/images/I/41D4rh5WTDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DPVQDGZM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BLSJS34W",
+    "brand": "غير محدد",
+    "name": "[Upgrade] Professional Micro Steam Iron, Portable Steam Iron, Travel Steam Iron for Clothes, Mini Handhel",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "GREEN",
+    "title": "[Upgrade] Professional Micro Steam Iron, Portable Steam Iron, Travel Steam Iron for Clothes, Mini Handheld Steam Iron for Dry & Wet Ironing (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 331.2,
+    "img": "https://m.media-amazon.com/images/I/41kprM-NsLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BLSJS34W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BMLMBNH2",
+    "brand": "غير محدد",
+    "name": "Generic Professional Mini Steam Iron Handheld Portable Mini Ironing Machine Garment Steamer Home Travel",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Generic Professional Mini Steam Iron Handheld Portable Mini Ironing Machine Garment Steamer Home Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 390,
+    "img": "https://m.media-amazon.com/images/I/31idnPpvUSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BMLMBNH2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZDJNDW1",
+    "brand": "RAF",
+    "name": "RAF 2800 وات بخار",
+    "specs": {
+      "watt": "2800",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Steam Iron R.1151, 2800 Watt, 220v, 50Hz, Red",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1556.33,
+    "img": "https://m.media-amazon.com/images/I/41SmjSdVdXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZDJNDW1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07NDZQ6VJ",
+    "brand": "براون",
+    "name": "براون 2000 وات بخار (TS340C)",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "TS340C",
+    "title": "Braun TexStyle 3 Steam Iron, 2000 Watt, White/Blue – International Warranty – TS340C",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2570,
+    "img": "https://m.media-amazon.com/images/I/41jmS-Y1gKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07NDZQ6VJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GN478CYQ",
+    "brand": "Junior Imagine The Best",
+    "name": "Junior Imagine The Best 1800 وات بخار",
+    "specs": {
+      "watt": "1800",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Junior Imagine The Best GS-1800 Garment Steamer – 1800W Professional Vertical Steam Iron, Fast Heat-Up, Powerful Continuous Steam, Large Water Tank, Safe for All Fabrics",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3799,
+    "img": "https://m.media-amazon.com/images/I/31JtYma9AiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GN478CYQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CDM8KWLC",
+    "brand": "براون",
+    "name": "براون 2000 وات بخار (TS340C)",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "TS340C",
+    "title": "Braun TexStyle 3 Steam Iron, 2000 Watt, White/Blue - TS340C - International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3399,
+    "img": "https://m.media-amazon.com/images/I/417hsSthotL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CDM8KWLC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FSSV5T4C",
+    "brand": "Kadous",
+    "name": "Kadous 3000 وات بخار",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Kadous Steam Iron * Gold 3000W Ceramic Non-Stick Soleplate",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1139,
+    "img": "https://m.media-amazon.com/images/I/31nW9TmSuyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FSSV5T4C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01KZOALSQ",
+    "brand": "فريش",
+    "name": "فريش بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Fresh 201B Cordless Steam Iron",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1700,
+    "img": "https://m.media-amazon.com/images/I/41jwi-TCN+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01KZOALSQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FLJV5ZVX",
+    "brand": "غير محدد",
+    "name": "Portable Small Iron-Compact Vapor Iron for Clothing, ideal for home, travel and office مكواة بخار صغيرة م",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Portable Small Iron-Compact Vapor Iron for Clothing, ideal for home, travel and office مكواة بخار صغيرة محمولة – تصميم مدمج قابل للطي – مثالية للمنزل والسفر والمكتب",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 305.75,
+    "img": "https://m.media-amazon.com/images/I/21YqiDhxJ2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FLJV5ZVX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D8JKZDJ4",
+    "brand": "FloraGlow",
+    "name": "FloraGlow بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "FloraGlow Mini Portable Iron Steam iron Wrinkle remover Steam generator Dry and Wet Ironing ini Household Garment Steam Iron Temperature Ironing Pointed Front Design",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 243.41,
+    "img": "https://m.media-amazon.com/images/I/312pnHp4h0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D8JKZDJ4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BNDRTTRT",
+    "brand": "Generic Value Products",
+    "name": "Generic Value Products بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Mini Portable Ironing Machine, Handheld Steam Iron, Travel Garment Steamer, Professional Micro Steam Iron for Cloth Clothes, Good for Home and Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 230.62,
+    "img": "https://m.media-amazon.com/images/I/31GL8y4t9DL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BNDRTTRT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FXSVPLWN",
+    "brand": "غير محدد",
+    "name": "Mini Steam Iron, Foldable Handheld Travel Steam Iron, Ceramic Nonstick Soleplate, Rotating Handle Convert",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Mini Steam Iron, Foldable Handheld Travel Steam Iron, Ceramic Nonstick Soleplate, Rotating Handle Converts Iron into Handheld Steamer,",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 693,
+    "img": "https://m.media-amazon.com/images/I/41yHkhLFJOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FXSVPLWN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F7J23P6R",
+    "brand": "FLAMNGO",
+    "name": "FLAMNGO 2200 وات بخار",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "FLAMNGO Steam Iron, 2200W, Non-Stick Ceramic Soleplate, 350ML Water Tank, Anti-Drip Function, Black and White (Light Blue)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 875,
+    "img": "https://m.media-amazon.com/images/I/31reRoeX8IL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F7J23P6R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZDK5F26",
+    "brand": "RAF",
+    "name": "RAF 2200 وات بخار",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Steam Iron R.1246B, 2200 Watt, 220v, 50Hz, Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 701,
+    "img": "https://m.media-amazon.com/images/I/41ho1K-4yjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZDK5F26?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F51C8MV4",
+    "brand": "جاماكي",
+    "name": "جاماكي 2800 وات بخار",
+    "specs": {
+      "watt": "2800",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Jamaki Steam Iron 2800 Watt Non-Stick Ceramic Soleplate With Self Cleaning Function - jmk 1025",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 899,
+    "img": "https://m.media-amazon.com/images/I/41yfnTbq1cL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F51C8MV4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVZ9CFWT",
+    "brand": "Winning Star",
+    "name": "Winning Star بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Winning Star Steam Iron St-6100",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1490,
+    "img": "https://m.media-amazon.com/images/I/41n+sG64JtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVZ9CFWT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D75WVD92",
+    "brand": "QUGAQULI",
+    "name": "QUGAQULI بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "QUGAQULI Portable Micro Steam iron, green iron Handheld Garment Steamer, Dry And Wet Wrinkles Removing Lightweight Steamer for Home Office,Fast Heat Mini Ironing Machine",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 484.62,
+    "img": "https://m.media-amazon.com/images/I/4176-WDwxrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D75WVD92?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CHPDLBDW",
+    "brand": "غير محدد",
+    "name": "Generic Mini Travel Iron - Portable Handheld Ironing Machine, Professional Micro Steam Iron for Clothes",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Generic Mini Travel Iron - Portable Handheld Ironing Machine, Professional Micro Steam Iron for Clothes",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 424.12,
+    "img": "https://m.media-amazon.com/images/I/5157o-g8GfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CHPDLBDW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FL1H68J2",
+    "brand": "غير محدد",
+    "name": "Mini Hand Steam Iron 30W Lightweight Portable Steam Iron With Quick Heating For Travel, Home Or Office In",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "GREEN",
+    "title": "Mini Hand Steam Iron 30W Lightweight Portable Steam Iron With Quick Heating For Travel, Home Or Office Includes Measuring Cup Handheld Steamer For Clothing, Hanging Ironing (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 261.25,
+    "img": "https://m.media-amazon.com/images/I/31Nq-J6Q-qL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FL1H68J2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GH1HDTHW",
+    "brand": "Home Store",
+    "name": "Home Store 2200 وات بخار (SN1107)",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "SN1107",
+    "title": "Home SN1107 2200 Watt Steam Iron",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1133.32,
+    "img": "https://m.media-amazon.com/images/I/41-CIT-krhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GH1HDTHW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQYD5BCQ",
+    "brand": "Epic Gear",
+    "name": "Epic Gear بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Epicgear MINI STEAM IRON HANDHELD GARMENT STEAMER FOR CLOTHES - PORTABLE TRAVEL HOUSEHOLD IRONING MACHINE FAST HEAT UP, POWERFUL STEAM, COMPACT DESIGN FOR TRAVEL AND HOME QUILTING SEWING (1 PC)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 291.48,
+    "img": "https://m.media-amazon.com/images/I/41QsTwDLp6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQYD5BCQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01MEGN8Z0",
+    "brand": "براون",
+    "name": "براون 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Braun 2000 Watts TexStyle 3 Steam Iron, White and Purple",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2800,
+    "img": "https://m.media-amazon.com/images/I/31Gfm+3mzaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01MEGN8Z0?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DNKDSXB7",
+    "brand": "غير محدد",
+    "name": "Portable Handheld Micro Steam Iron Garment Steamer Mini Ironing Clothes Machine Fast Wrinkle Removal for ",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "MULTICOLOR",
+    "title": "Portable Handheld Micro Steam Iron Garment Steamer Mini Ironing Clothes Machine Fast Wrinkle Removal for Household Dormitory Travel (multicolor)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 266,
+    "img": "https://m.media-amazon.com/images/I/31qMW3uHI4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DNKDSXB7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GLJ6B1MH",
+    "brand": "Carnival",
+    "name": "Carnival 2600 وات بخار",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Carnival 2600W Ceramic Base Steam Iron, Red/Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1078.13,
+    "img": "https://m.media-amazon.com/images/I/41fyyVwloXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GLJ6B1MH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B083X1YGX9",
+    "brand": "تيفال",
+    "name": "تيفال 1800 وات بخار (FV1734M0)",
+    "specs": {
+      "watt": "1800",
+      "type": "بخار"
+    },
+    "model": "FV1734M0",
+    "title": "Tefal Steam Iron, 1800W, Multi Color, Fv1734M0",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1779.11,
+    "img": "https://m.media-amazon.com/images/I/317FnxfnPUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B083X1YGX9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3L68RXQ",
+    "brand": "Homagator",
+    "name": "Homagator 2700 وات بخار",
+    "specs": {
+      "watt": "2700",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Luma Bella - Steam Iron 2700W - B-6008",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1072.17,
+    "img": "https://m.media-amazon.com/images/I/315ixUKb5sL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3L68RXQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G1BCKPJV",
+    "brand": "Hosaki",
+    "name": "Hosaki 2200 وات بخار",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Hosaki Steam Iron 2200 Watt - Aseel pro",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 787.96,
+    "img": "https://m.media-amazon.com/images/I/31GnRXmmEQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G1BCKPJV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BB84VLRB",
+    "brand": "مينتا",
+    "name": "مينتا 2400 وات بخار (SI181109A)",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "SI181109A",
+    "title": "Mienta Steam Iron 2400 Watts Si181109A - Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1745,
+    "img": "https://m.media-amazon.com/images/I/31Ym1iQkD4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BB84VLRB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3LFJ7D1",
+    "brand": "Homagator",
+    "name": "Homagator 2700 وات بخار",
+    "specs": {
+      "watt": "2700",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Luma Bella - Steam Iron 2700W 300ml - LB-61018",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 997.27,
+    "img": "https://m.media-amazon.com/images/I/41cRfdhjzVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3LFJ7D1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F146PDH4",
+    "brand": "غير محدد",
+    "name": "Mini Iron - Professional Cordless Steam Iron for Convenient Clothing Care, Portable and Lightweight Handh",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Mini Iron - Professional Cordless Steam Iron for Convenient Clothing Care, Portable and Lightweight Handheld Steamer for Home and Travel Use in Green (1 piece of the color shown)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 845.78,
+    "img": "https://m.media-amazon.com/images/I/41ybv3-d2LL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F146PDH4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FFKPSYWY",
+    "brand": "غير محدد",
+    "name": "Portable Steam Iron - Compact and lightweight travel iron with 30 watts power, 60ml water tank for effici",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Portable Steam Iron - Compact and lightweight travel iron with 30 watts power, 60ml water tank for efficient dry and wet ironing.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530.17,
+    "img": "https://m.media-amazon.com/images/I/31JJmgrBWqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FFKPSYWY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GV193CH5",
+    "brand": "غير محدد",
+    "name": "KD1178 Steam Iron, DSP",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "KD1178",
+    "title": "KD1178 Steam Iron, DSP",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1099,
+    "img": "https://m.media-amazon.com/images/I/51z1Z2U608L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GV193CH5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091D44M2T",
+    "brand": "غير محدد",
+    "name": "Handy Steam Iron Mini Foldable Garment Steamer For Travel",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Handy Steam Iron Mini Foldable Garment Steamer For Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 697,
+    "img": "https://m.media-amazon.com/images/I/319FtxcFqsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091D44M2T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09RN5DPR1",
+    "brand": "براون",
+    "name": "براون 1900 وات بخار (SI1009OR)",
+    "specs": {
+      "watt": "1900",
+      "type": "بخار"
+    },
+    "model": "SI1009OR",
+    "title": "Braun TexStyle 1 Steam Iron, 1900 Watts, Non-stick soleplate, 50% Energy Saving, Orange, SI1009OR,",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1645,
+    "img": "https://m.media-amazon.com/images/I/31nbDVbibJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09RN5DPR1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CSBZZX4K",
+    "brand": "غير محدد",
+    "name": "DSP Steam Iron For Clothes And Curtains, 2000 Watt 2.5 Liter With Thermostat Controller KD6019",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "KD6019",
+    "title": "DSP Steam Iron For Clothes And Curtains, 2000 Watt 2.5 Liter With Thermostat Controller KD6019",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4704,
+    "img": "https://m.media-amazon.com/images/I/41rv8nDTjmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CSBZZX4K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FY4H94SL",
+    "brand": "غير محدد",
+    "name": "180° Portable Steam Iron: An Effective Solution for Quick and Efficient Ironing of Clothes… - Generic (Wh",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "WHITE",
+    "title": "180° Portable Steam Iron: An Effective Solution for Quick and Efficient Ironing of Clothes… - Generic (White)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 358.7,
+    "img": "https://m.media-amazon.com/images/I/31vBV+SRcHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FY4H94SL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0966TZZ2B",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 1200 وات بخار (HS1200)",
+    "specs": {
+      "watt": "1200",
+      "type": "بخار"
+    },
+    "model": "HS1200",
+    "title": "TORNADO Portable Steam Iron 1000-1200 Watt, Dual Water Tank (Large 700 Ml - Small 50 Ml ) White x Blue TST-HS1200",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3223,
+    "img": "https://m.media-amazon.com/images/I/31O58jluubL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0966TZZ2B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GQ51MT5Y",
+    "brand": "غير محدد",
+    "name": "1102 Professional Steam Iron, 2200W, High-Pressure Steam, Anti-Drip, Anti-Scale, Fast Heating, Extra-Long",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "1102 Professional Steam Iron, 2200W, High-Pressure Steam, Anti-Drip, Anti-Scale, Fast Heating, Extra-Long Cord, for Clothes and Curtains",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 748,
+    "img": "https://m.media-amazon.com/images/I/21metgxdzZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GQ51MT5Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BTVMHHSZ",
+    "brand": "سوكاني",
+    "name": "سوكاني 1200 وات بخار",
+    "specs": {
+      "watt": "1200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany SK-3080 Portable Steam Iron: 1200 Watts Powerful Power Ironing Fast",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1327.99,
+    "img": "https://m.media-amazon.com/images/I/41mb-MhCkXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BTVMHHSZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HQDLXNZ9",
+    "brand": "غير محدد",
+    "name": "Jmaki JMK1013 Steam Iron 2800W 350ml Capacity | Non-stick base, steam control handle, ergonomic hand hand",
+    "specs": {
+      "watt": "2800",
+      "type": "بخار"
+    },
+    "model": "JMK1013",
+    "title": "Jmaki JMK1013 Steam Iron 2800W 350ml Capacity | Non-stick base, steam control handle, ergonomic hand handle, Italian design, transparent tank",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/41gbEUnaNaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HQDLXNZ9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C46JQBCG",
+    "brand": "Techking",
+    "name": "Techking بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Techking Mini Iron Portable Travel Iron Support Dry Wet Ironing for Clothes Handheld Household Steam Iron Folding Ironing Machine for All Kinds of Clothes for Family and Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 299.25,
+    "img": "https://m.media-amazon.com/images/I/410w5VR1FsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C46JQBCG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G3YXB4XB",
+    "brand": "غير محدد",
+    "name": "Loma Bella LB-62010 Digital Portable Steam Iron, 1500W, Fast Heating in 30 Seconds and Removable Water Ta",
+    "specs": {
+      "watt": "1500",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Loma Bella LB-62010 Digital Portable Steam Iron, 1500W, Fast Heating in 30 Seconds and Removable Water Tank 260ml Capacity Ideal for Removing Wrinkles from Fabrics Easy Control Lightweight",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1089,
+    "img": "https://m.media-amazon.com/images/I/41x6oLdHVLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G3YXB4XB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FN7WS153",
+    "brand": "غير محدد",
+    "name": "Steam Iron 2600W with Ceramic Soleplate, Variable and Vertical Steam, Water Spray, Anti-Drip, Self-Cleani",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "CYAN",
+    "title": "Steam Iron 2600W with Ceramic Soleplate, Variable and Vertical Steam, Water Spray, Anti-Drip, Self-Cleaning, Auto Shut-Off and 360° Swivel Cord, HG-803 (Cyan)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1461.03,
+    "img": "https://m.media-amazon.com/images/I/41CNKvPGd+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FN7WS153?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09V1GW3HJ",
+    "brand": "سوكاني",
+    "name": "سوكاني 1200 وات بخار",
+    "specs": {
+      "watt": "1200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany SK-119 Electric Steam Iron 1200 Watts",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 646,
+    "img": "https://m.media-amazon.com/images/I/31LCNVZD9JL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09V1GW3HJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HR65L79Z",
+    "brand": "غير محدد",
+    "name": "Travel Soy Wax Candle - Portable freesia-scented candle with dried flowers, smokeless formula, and a chic",
+    "specs": {},
+    "model": "4PCS",
+    "title": "Travel Soy Wax Candle - Portable freesia-scented candle with dried flowers, smokeless formula, and a chic iron box for protection and style, ideal for short trips with 5-6 hour burn duration. (4pcs)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 420,
+    "img": "https://m.media-amazon.com/images/I/51K1OWeI+cL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HR65L79Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HR5VWL7H",
+    "brand": "غير محدد",
+    "name": "Freesia Scented Candle - Luxurious smokeless soy wax blend infused with dried floral accents, encased in ",
+    "specs": {},
+    "model": "4PCS",
+    "title": "Freesia Scented Candle - Luxurious smokeless soy wax blend infused with dried floral accents, encased in a stylish travel tin and decorative iron box, offering 5-6 hours of calming fragrance. (4pcs)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 420,
+    "img": "https://m.media-amazon.com/images/I/51K1OWeI+cL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HR5VWL7H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DBB51SJQ",
+    "brand": "IDO",
+    "name": "IDO 2200 وات بخار (SI2200-BWH)",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "SI2200-BWH",
+    "title": "IDO Steam Iron Ceramic 2200 W Blue/White - 280 ml water tan - SI2200-BWH",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1045,
+    "img": "https://m.media-amazon.com/images/I/41wDQfaZxEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DBB51SJQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G494KY9F",
+    "brand": "سوكاني",
+    "name": "سوكاني 1500 وات بخار",
+    "specs": {
+      "watt": "1500",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "SOKANY SK-11049 Steam Iron Clothes Hand 1500W 260ml",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1649,
+    "img": "https://m.media-amazon.com/images/I/3188XTyqXbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G494KY9F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CKTP4B6R",
+    "brand": "بيكو",
+    "name": "بيكو 2200 وات بخار",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "BEKO Steam Iron, 2200 Watts, Turqouise - SIM 3122 T",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2499,
+    "img": "https://m.media-amazon.com/images/I/315NvrSspHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CKTP4B6R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HN4KS9QY",
+    "brand": "NUJAIN",
+    "name": "NUJAIN بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Handheld Garment Steamer with Water Tank, Compact Electric Clothes Steam Iron for Wrinkle Removal",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/413UtYbN9bL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HN4KS9QY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B7KCK2YV",
+    "brand": "فيليبس",
+    "name": "فيليبس 3000 وات بخار (DST8030/70)",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "DST8030/70",
+    "title": "Philips Steam Iron 8000 Green Opal 3000 W | 70 g/min continuous steam, 240 g steam boost, OptimalTEMP, 350 ml water tank (DST8030/70)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 10399,
+    "img": "https://m.media-amazon.com/images/I/41Y5ucNc6IL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B7KCK2YV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C46K2W1T",
+    "brand": "Lapras",
+    "name": "Lapras بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Lapras Mini Iron Portable Travel Iron Support Dry Wet Ironing for Clothes Handheld Household Steam Iron Folding Ironing Machine for All Kinds of Clothes for Family and Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 231.11,
+    "img": "https://m.media-amazon.com/images/I/31qGQf6dT8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C46K2W1T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B4NBQBJY",
+    "brand": "غير محدد",
+    "name": "ORLOV-Professional Steam Iron, Portable Mini Travel Iron for Clothes, Mini Handheld Steam Iron for Dry & ",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "ORLOV-Professional Steam Iron, Portable Mini Travel Iron for Clothes, Mini Handheld Steam Iron for Dry & Wet Ironing.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 243.16,
+    "img": "https://m.media-amazon.com/images/I/417V6oznx8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B4NBQBJY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZJ93V71",
+    "brand": "AKANE",
+    "name": "AKANE 2400 وات بخار",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "AKANE Cordless Electric Steam Iron 2000–2400W A.1210G – Ceramic Soleplate, Vertical Steam, Self-Cleaning System, 300ml Water Tank, Fast Heat-Up, Powerful Wrinkle Removal, green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1799.1,
+    "img": "https://m.media-amazon.com/images/I/41x2oj5mHGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZJ93V71?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVBL9JVZ",
+    "brand": "غير محدد",
+    "name": "Portable Travel Steam Iron Mini Electric Clothes Steamer, Compact Handheld Garment Iron with 50ml Water T",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Portable Travel Steam Iron Mini Electric Clothes Steamer, Compact Handheld Garment Iron with 50ml Water Tank, Fast Heat Wrinkle Remover for Clothing Care at Home, Office & Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 500.41,
+    "img": "https://m.media-amazon.com/images/I/41-nJV35ImL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVBL9JVZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F9TNRX3Q",
+    "brand": "غير محدد",
+    "name": "Steam Iron 2200W Fast Heating 200ml Tank Vertical Continuous Steam Self-Cleaning Function Ergonomic Desig",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Steam Iron 2200W Fast Heating 200ml Tank Vertical Continuous Steam Self-Cleaning Function Ergonomic Design Suitable for All Fabrics KSI-6344",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1028.6,
+    "img": "https://m.media-amazon.com/images/I/317RRTrQ0CL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F9TNRX3Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GYDHJ1ZN",
+    "brand": "غير محدد",
+    "name": "Electric Iron Shield - Durable non-stick Teflon coating for iron soleplates, heat reflector prevents scor",
+    "specs": {},
+    "model": "",
+    "title": "Electric Iron Shield - Durable non-stick Teflon coating for iron soleplates, heat reflector prevents scorching and burning of delicate fabrics, for safe ironing Perfect protection for the soleplate",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 231.99,
+    "img": "https://m.media-amazon.com/images/I/41ZpyRcsu9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GYDHJ1ZN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6M4F6C",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS1910-9001)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS1910-9001",
+    "title": "Arshia Electric Steam Iron 15X20X15Cm Blue AS1910-9001",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2248,
+    "img": "https://m.media-amazon.com/images/I/31EKPAfjK9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6M4F6C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B092FTX6MC",
+    "brand": "غير محدد",
+    "name": "Dsp steam iron kd1095 1000 watt , grey",
+    "specs": {
+      "watt": "1000",
+      "type": "بخار"
+    },
+    "model": "KD1095",
+    "title": "Dsp steam iron kd1095 1000 watt , grey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 950,
+    "img": "https://m.media-amazon.com/images/I/419HxPcVNXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B092FTX6MC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G42B8VJ9",
+    "brand": "غير محدد",
+    "name": "Generic Mini Travel Iron Foldable Portable Travel Steamer Dry Iron 700W",
+    "specs": {
+      "watt": "700",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Generic Mini Travel Iron Foldable Portable Travel Steamer Dry Iron 700W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 988,
+    "img": "https://m.media-amazon.com/images/I/31DBRWNf1LL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G42B8VJ9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GNHS6FPP",
+    "brand": "Next store",
+    "name": "Next store بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Next Store Handheld Garment Steamer with Non-Stick Soleplate, Electric Iron for Dry and Steam Ironing with Heat Control",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 893.64,
+    "img": "https://m.media-amazon.com/images/I/31MJTLuWv8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GNHS6FPP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FBFKX6P4",
+    "brand": "جاماكي",
+    "name": "جاماكي 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Jamaki JMK 1015 Household Electric Vertical Steam Iron 2000W Italian Made Flawless Quick Ironing Easy to Carry",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/51CrG-W1BZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FBFKX6P4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FTW4KZ9W",
+    "brand": "غير محدد",
+    "name": "Steam Iron 2600W with Ceramic Soleplate, Variable and Vertical Steam, Water Spray, Anti-Drip, Self-Cleani",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "CYAN",
+    "title": "Steam Iron 2600W with Ceramic Soleplate, Variable and Vertical Steam, Water Spray, Anti-Drip, Self-Cleaning, Auto Shut-Off and 360° Swivel Cord, HG-803 (cyan)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1674,
+    "img": "https://m.media-amazon.com/images/I/41TkkF064vL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FTW4KZ9W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6SZNYQ",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS1910-9006)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS1910-9006",
+    "title": "Arshia Electric Steam Iron 15X20X15Cm Green AS1910-9006",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1250,
+    "img": "https://m.media-amazon.com/images/I/31oVLpJjmqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6SZNYQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DGY6W36W",
+    "brand": "غير محدد",
+    "name": "Jack Hand Steam Iron 1500W Black",
+    "specs": {
+      "watt": "1500",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Jack Hand Steam Iron 1500W Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1799,
+    "img": "https://m.media-amazon.com/images/I/31gNC4oah0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DGY6W36W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H8PM1WW3",
+    "brand": "غير محدد",
+    "name": "Portable Travel Steam Iron – Mini Garment Iron with Water Tank and Steam Spray – Electric 220V – Suitable",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Portable Travel Steam Iron – Mini Garment Iron with Water Tank and Steam Spray – Electric 220V – Suitable for Clothes, Curtains, Upholstery",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 449,
+    "img": "https://m.media-amazon.com/images/I/31gm2kV-mLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8PM1WW3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09B31W4QR",
+    "brand": "غير محدد",
+    "name": "dsp Travel Steam Iron 1400-1200 Watts,white & Pink -",
+    "specs": {
+      "watt": "1200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "dsp Travel Steam Iron 1400-1200 Watts,white & Pink -",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1600,
+    "img": "https://m.media-amazon.com/images/I/31REwSo7cML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09B31W4QR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6NTS2S",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS2003-9021)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS2003-9021",
+    "title": "Arshia Electric Steam Iron 15X20X15Cm Black AS2003-9021",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2450,
+    "img": "https://m.media-amazon.com/images/I/21bEJk6ieNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6NTS2S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6TV8FZ",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS1910-9007)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS1910-9007",
+    "title": "Arshia Electric Steam Iron 15X20X15Cm Blue AS1910-9007",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1300,
+    "img": "https://m.media-amazon.com/images/I/31cALJToUCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6TV8FZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GNHC75K3",
+    "brand": "Next store",
+    "name": "Next store بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Next Store Handheld Garment Steamer Metal Soleplate Smooth Electric Dry Steam Iron with Water Spray",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1156.9,
+    "img": "https://m.media-amazon.com/images/I/41SosrYRNRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GNHC75K3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F8CXXT7N",
+    "brand": "أرشيا",
+    "name": "أرشيا 2400 وات بخار (AS1912-9016)",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "AS1912-9016",
+    "title": "Arshia Electric Steam Iron 2400Watt AS1912-9016",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3500,
+    "img": "https://m.media-amazon.com/images/I/31YXWj-NpqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F8CXXT7N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C46K81NX",
+    "brand": "Exxelo",
+    "name": "Exxelo بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Exxelo Mini Iron Portable Travel Iron Support Dry Wet Ironing for Clothes Handheld Household Steam Iron Folding Ironing Machine for All Kinds of Clothes for Family and Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 364.52,
+    "img": "https://m.media-amazon.com/images/I/31qGQf6dT8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C46K81NX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CYYG9XTN",
+    "brand": "RAF",
+    "name": "RAF 2600 وات بخار",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Electric Steam Iron, 2600W, R.1232",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2329.7,
+    "img": "https://m.media-amazon.com/images/I/41zquVNFbLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CYYG9XTN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B096MTZ26P",
+    "brand": "غير محدد",
+    "name": "DSP Steam iron KD1032 2000w with ceramic soleplate Sealf-cleaning purple",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "KD1032",
+    "title": "DSP Steam iron KD1032 2000w with ceramic soleplate Sealf-cleaning purple",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1650,
+    "img": "https://m.media-amazon.com/images/I/41GnnhIrLSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B096MTZ26P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FDJMB7LD",
+    "brand": "جاماكي",
+    "name": "جاماكي 2000 وات بخار (ITALY)",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "ITALY",
+    "title": "Jamaki JMK 1015 Household Vertical Electric Steam Iron 2000W Italian Made Flawless Quick Ironing Easy to Carry (Italy)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/51nN94El+4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FDJMB7LD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6SZNZD",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS1912-9012)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS1912-9012",
+    "title": "Arshia Electric Steam Iron 15x20x15cm Mauve AS1912-9012",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1350,
+    "img": "https://m.media-amazon.com/images/I/31zw3Pby2IL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6SZNZD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CYQFK8HC",
+    "brand": "RAF",
+    "name": "RAF 1400 وات بخار",
+    "specs": {
+      "watt": "1400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Electric Steam Iron, 1400W, R.1132R",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 856.37,
+    "img": "https://m.media-amazon.com/images/I/31eqrFovj4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CYQFK8HC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6T8X3D",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS2211-9031)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS2211-9031",
+    "title": "Arshia Electric Steam Iron 15X20X15Cm Brown AS2211-9031",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1250,
+    "img": "https://m.media-amazon.com/images/I/31eCqNC+NHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6T8X3D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CYXNGRS8",
+    "brand": "RAF",
+    "name": "RAF 2200 وات بخار",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Electric Steam Iron, 2200W, R.1310BL",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1384.77,
+    "img": "https://m.media-amazon.com/images/I/41xNayjOjuL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CYXNGRS8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVPQVD39",
+    "brand": "غير محدد",
+    "name": "Electric Steam Iron With Docking Station 2400W AJ-2085 Green",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Electric Steam Iron With Docking Station 2400W AJ-2085 Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3478,
+    "img": "https://m.media-amazon.com/images/I/41fEWFGZEJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVPQVD39?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CYS34BLX",
+    "brand": "RAF",
+    "name": "RAF 2400 وات بخار",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Electric Steam Iron, 2400W, R.1193B",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1135.77,
+    "img": "https://m.media-amazon.com/images/I/31SCwsNM4eL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CYS34BLX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CKLF38DR",
+    "brand": "غير محدد",
+    "name": "Iron Clothes Steam DSP Iron Steam Electric Automatic Steam Iron Machine 2200 Watt Ceramic KD-1023 Multico",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Iron Clothes Steam DSP Iron Steam Electric Automatic Steam Iron Machine 2200 Watt Ceramic KD-1023 Multicolor",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1353,
+    "img": "https://m.media-amazon.com/images/I/51ppJWnOW7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CKLF38DR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6TKC66",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS2207-9027)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS2207-9027",
+    "title": "Arshia Electric Steam Iron 15X20X15Cm Blue AS2207-9027",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2650,
+    "img": "https://m.media-amazon.com/images/I/31HHzLf8teL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6TKC66?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CYS5BSK4",
+    "brand": "RAF",
+    "name": "RAF 2600 وات بخار",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Electric Steam Iron, 2600W, R.1248P",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1302.48,
+    "img": "https://m.media-amazon.com/images/I/31OREcqDWpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CYS5BSK4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CM6QMD5G",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار (AS1912-9016)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "AS1912-9016",
+    "title": "Arshia Electric Steam Iron 15X20X15Cm Brown AS1912-9016",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4500,
+    "img": "https://m.media-amazon.com/images/I/41jTTEWfcwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CM6QMD5G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DRP9SKDR",
+    "brand": "غير محدد",
+    "name": "Compact Garment Steamer - 30W 220V Electric Iron for Fast Drying Clothes and Removing Hair from Fabrics, ",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Compact Garment Steamer - 30W 220V Electric Iron for Fast Drying Clothes and Removing Hair from Fabrics, Ideal for Travelers Looking for Efficient Garment Care",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 699,
+    "img": "https://m.media-amazon.com/images/I/41phWAZ-acL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DRP9SKDR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01FSGA3FC",
+    "brand": "Ariete",
+    "name": "Ariete 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Ariete 6234 Steam Iron,Iron with Teflon Plate, Steam Blow 140 g/min, Tank 250 ml, 2000 W, White/Blue (by De'longhi Group)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/31hPO618XfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01FSGA3FC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3L7YWRT",
+    "brand": "Homagator",
+    "name": "Homagator 2200 وات بخار",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Luma Bella - 2-in-1 Cordless Steam Iron 2200W, 350ml - LB-61013",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1441.53,
+    "img": "https://m.media-amazon.com/images/I/41+S-AC9V5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3L7YWRT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HMX8DNC4",
+    "brand": "PLUTO",
+    "name": "PLUTO 2300 وات بخار (IS22W3MC)",
+    "specs": {
+      "watt": "2300",
+      "type": "بخار"
+    },
+    "model": "IS22W3MC",
+    "title": "Pluto Steam Iron 2300W with Ceramic Soleplate PL-IS22W3MC | Auto Shut-Off, 300ml Water Tank, Self-Cleaning, Anti-Drip & Anti-Leak, Vertical & Horizontal",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1485,
+    "img": "https://m.media-amazon.com/images/I/41HA8ocwqyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HMX8DNC4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FPB9NHJ5",
+    "brand": "غير محدد",
+    "name": "City Dry Iron - 1000 Watt - 240V - Fast Heating and Perfect Ironing for Clothes",
+    "specs": {
+      "watt": "1000",
+      "type": "جاف"
+    },
+    "model": "",
+    "title": "City Dry Iron - 1000 Watt - 240V - Fast Heating and Perfect Ironing for Clothes",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 684.78,
+    "img": "https://m.media-amazon.com/images/I/31plrv6WERL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FPB9NHJ5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GPY7FLNG",
+    "brand": "غير محدد",
+    "name": "مكواة ملابس بخار من جاماكى 2800 وات خزان 420 مللي قاعدة مطلية من السيراميك لمنع الالتصاق مع خاصية التنظيف",
+    "specs": {
+      "watt": "2800",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "مكواة ملابس بخار من جاماكى 2800 وات خزان 420 مللي قاعدة مطلية من السيراميك لمنع الالتصاق مع خاصية التنظيف الذاتى لكي الملابس الخفيفة والثقيلة مضادة للتنقيط jmk-1032",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 799,
+    "img": "https://m.media-amazon.com/images/I/41zXZH2l2GL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GPY7FLNG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7S4W5TH",
+    "brand": "جري",
+    "name": "جري بخار (220V)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "220V",
+    "title": "Next store 360 Degree Portable Steam Iron - Mini Manual Iron for Home and Travel - High Efficiency for All Fabric Types (220V)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 258.35,
+    "img": "https://m.media-amazon.com/images/I/313+bx+nFdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7S4W5TH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HBR62W5T",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "ARSHIA 3205 Steam Iron with Powerful Steam Output, Nonstick Soleplate, Adjustable Temperature Control, Anti-Drip System and Comfortable Ergonomic Handle for Everyday Garment Care - Dark Purple",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2164.68,
+    "img": "https://m.media-amazon.com/images/I/31ea8ZM+YSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HBR62W5T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BS733VM5",
+    "brand": "فيليبس",
+    "name": "فيليبس 3000 وات بخار (DST7060/20)",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "DST7060/20",
+    "title": "Philips 7000 Series Steam Iron – 3000W, 55g/min Steam, 250g Steam Boost, SteamGlide Elite Soleplate, Blue/Yellow (DST7060/20)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5999,
+    "img": "https://m.media-amazon.com/images/I/31krHeW4K8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BS733VM5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BYF967Y9",
+    "brand": "فيليبس",
+    "name": "فيليبس 2000 وات بخار",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Philips Steam Iron, 2000W, Dark Slate Grey/Gold",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9490,
+    "img": "https://m.media-amazon.com/images/I/21fdDvQ2fZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BYF967Y9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CXQ4KK6Y",
+    "brand": "SKY-TOUCH",
+    "name": "SKY-TOUCH بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "SKY-TOUCH 2 in 1 Mini Steam Iron : Portable Handheld Steamer with Cup 20s Fast Heating Garment Steamer for Home Travel Dormitory Dress Shirts Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 275,
+    "img": "https://m.media-amazon.com/images/I/31L73lAPCuL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CXQ4KK6Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BTMP2PSS",
+    "brand": "سوكاني",
+    "name": "سوكاني 1200 وات بخار",
+    "specs": {
+      "watt": "1200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany Portable Steam Iron AJ-2205 1200 Watt GR-D",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1541,
+    "img": "https://m.media-amazon.com/images/I/31fVmqg2DbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BTMP2PSS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09QLKC4DR",
+    "brand": "غير محدد",
+    "name": "Folding Mini Steam Iron for Travel and Trip",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Folding Mini Steam Iron for Travel and Trip",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 490.5,
+    "img": "https://m.media-amazon.com/images/I/41vTXRidd2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09QLKC4DR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FRC97Z9Q",
+    "brand": "غير محدد",
+    "name": "مكواة بخار عمودية ستاند من جاماكى احترافية للملابس والستائر بقدرة 3000 وات خزان مياه سعة 1.5 لتر ووقت بدء",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "مكواة بخار عمودية ستاند من جاماكى احترافية للملابس والستائر بقدرة 3000 وات خزان مياه سعة 1.5 لتر ووقت بدء تشغيل 45 ثانية، موديل jmk-1017",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2399,
+    "img": "https://m.media-amazon.com/images/I/51LzVptwSDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FRC97Z9Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HBR6Y32Z",
+    "brand": "أرشيا",
+    "name": "أرشيا بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "ARSHIA 3206 Steam Iron with Powerful Steam Performance, Nonstick Soleplate, Adjustable Temperature Control, Anti-Drip Protection and Ergonomic Handle for Smooth Wrinkle Removal - Dark Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2483.2,
+    "img": "https://m.media-amazon.com/images/I/413eHr2bRbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HBR6Y32Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CMVBB46K",
+    "brand": "بيكو",
+    "name": "بيكو 3000 وات بخار",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Beko SPA 9130 B 3000W Steam Iron with 350 ml Water Tank, Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4449,
+    "img": "https://m.media-amazon.com/images/I/31DY3yG0GoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CMVBB46K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B3V4RT7M",
+    "brand": "مينتا",
+    "name": "مينتا 2400 وات بخار (SI181109A)",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "SI181109A",
+    "title": "Mienta Steam Iron, 2400 Watts, Blue and White - Si181109A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1770,
+    "img": "https://m.media-amazon.com/images/I/31Ym1iQkD4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B3V4RT7M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F144PS31",
+    "brand": "Wonka",
+    "name": "Wonka بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Mini Iron - Professional Cordless Steam Iron for Convenient Clothing Care, Portable and Lightweight Handheld Steamer for Home and Travel Use in Green (2 piece of the color shown)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1128.6,
+    "img": "https://m.media-amazon.com/images/I/418D-WYMwnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F144PS31?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DPVPTDCS",
+    "brand": "Wonka",
+    "name": "Wonka بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Travel Steam Iron - Designed for different clothes and fabrics, effectively removes wrinkles and creases, sterilizes and deodorizes, safe for all types of fabrics including silk, cotton and wool.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 430,
+    "img": "https://m.media-amazon.com/images/I/41f4HeuQe1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DPVPTDCS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DQ8PS6KF",
+    "brand": "Hervy",
+    "name": "Hervy 2800 وات بخار (PURPLE)",
+    "specs": {
+      "watt": "2800",
+      "type": "بخار"
+    },
+    "model": "PURPLE",
+    "title": "Hervy Steam Iron, 2800 Watts, 4 Temperature Settings, Anti-Drip, Self-Cleaning (Purple)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/41r1WcjwPpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DQ8PS6KF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B7K88MBF",
+    "brand": "فيليبس",
+    "name": "فيليبس 3000 وات بخار (DST8050/20)",
+    "specs": {
+      "watt": "3000",
+      "type": "بخار"
+    },
+    "model": "DST8050/20",
+    "title": "Philips Steam Iron 8000 Series, Dark Blue, SteamGlide 3000W | 85 g/min continuous steam, 260 g steam boost, OptimalTEMP, 350 ml water tank (DST8050/20)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 12349,
+    "img": "https://m.media-amazon.com/images/I/41Be2zuQtnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B7K88MBF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GQ9ZNXJS",
+    "brand": "غير محدد",
+    "name": "2800W Steam Iron, Model JMK1036, Multiple Colours",
+    "specs": {
+      "watt": "2800",
+      "type": "بخار"
+    },
+    "model": "JMK1036",
+    "title": "2800W Steam Iron, Model JMK1036, Multiple Colours",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 899,
+    "img": "https://m.media-amazon.com/images/I/31a+u+uILGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GQ9ZNXJS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C6DH8DTL",
+    "brand": "ABSTRACT",
+    "name": "ABSTRACT بخار",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "ABSTRACT Portable Mini Micro Steam Iron Machine Handheld Household Fabric Garment Steamer Good for Home and Travel.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 319.2,
+    "img": "https://m.media-amazon.com/images/I/41X6xF9Nh8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C6DH8DTL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4W9TYMF",
+    "brand": "جاماكي",
+    "name": "جاماكي 2800 وات بخار (JMK1012)",
+    "specs": {
+      "watt": "2800",
+      "type": "بخار"
+    },
+    "model": "JMK1012",
+    "title": "Jamaki 2800W Professional Italian Portable Powerful Steam Iron with Ceramic Plate - JMK1012",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 849,
+    "img": "https://m.media-amazon.com/images/I/316GHg9WA8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4W9TYMF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FD7K84KJ",
+    "brand": "غير محدد",
+    "name": "Mini Ironing Machine - Lightweight and Powerful Handheld Steam Iron, Perfect for Quick Fixes at Home or W",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Mini Ironing Machine - Lightweight and Powerful Handheld Steam Iron, Perfect for Quick Fixes at Home or While Traveling, A Must-Have for Every Traveler (3)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2087.87,
+    "img": "https://m.media-amazon.com/images/I/41GMawcJWwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FD7K84KJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZPRYVSB",
+    "brand": "تيفال",
+    "name": "تيفال 2500 وات بخار (FV2868E2)",
+    "specs": {
+      "watt": "2500",
+      "type": "بخار"
+    },
+    "model": "FV2868E2",
+    "title": "Tefal Steam Iron - 2500 Watt, No water stains - Auto-off, Express Steam Plus - Blue -FV2868E2",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1999,
+    "img": "https://m.media-amazon.com/images/I/412XFMYy0oL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZPRYVSB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F5L8RMXW",
+    "brand": "جاماكي",
+    "name": "جاماكي 2600 وات بخار (JMK1009)",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "JMK1009",
+    "title": "JAMAKI Steam Iron 2600W – Non-Stick Coated Soleplate Powerful Lightweight Heater Model JMK1009",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 799,
+    "img": "https://m.media-amazon.com/images/I/51SW-vAHPdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F5L8RMXW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
     "missCount": 0,
     "oosCount": 0
   }

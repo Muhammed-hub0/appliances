@@ -14,13 +14,13 @@
     "price": 2225,
     "img": "https://m.media-amazon.com/images/I/31oZ6-LVKoL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DYD5BG3Q?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -36,7 +36,7 @@
     "title": "Braun FP 3235 SI PurEase 12 in 1 Food processor, 800W, 2.1L Bowl, Metal Design, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7288.91,
+    "price": 7299.91,
     "img": "https://m.media-amazon.com/images/I/41YC0D0Wd1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08V11HCW8?tag=fineartslab-21",
     "active": true,
@@ -465,8 +465,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B096L4GHHQ",
@@ -510,7 +512,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C2C6Q2GD",
@@ -532,7 +535,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07C335CKW",
@@ -554,7 +558,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DJF7TNRZ",
@@ -576,7 +581,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CG92RT93",
@@ -597,7 +603,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B074ZBSYB1",
@@ -618,7 +625,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B015RJXRM6",
@@ -639,7 +647,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0773R4KXL",
@@ -660,7 +669,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H42D1XRR",
@@ -681,7 +691,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01L93HG8K",
@@ -702,7 +713,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07XL3ND4F",
@@ -723,7 +735,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B071XBY7Y7",
@@ -744,7 +757,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08Z5TNVLT",
@@ -765,7 +779,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08HSF4FY6",
@@ -784,7 +799,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CCRXCPBH",
@@ -803,7 +819,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FJMH5L36",
@@ -825,7 +842,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CK4FYMS5",
@@ -847,7 +865,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G35112HZ",
@@ -868,7 +887,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H1HTYDL5",
@@ -889,7 +909,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G3JKRMMF",
@@ -910,7 +931,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GJT42DRR",
@@ -931,7 +953,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F2GJB134",
@@ -950,7 +973,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H7C5D7DY",
@@ -969,7 +993,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G1MXRMXY",
@@ -988,7 +1013,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GWND4GX1",
@@ -1007,7 +1033,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HM8DQP3J",
@@ -1026,7 +1053,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B9H5G3W1",
@@ -1045,7 +1073,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GYLZZCZK",
@@ -1063,6 +1092,948 @@
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0CV7L83S6",
+    "brand": "غير محدد",
+    "name": "ALSAIF 800W Electric Vegetable Chopper with Stainless Steel Bowl and 4 Blades, Food Processor for Meat, F",
+    "specs": {
+      "watt": "800"
+    },
+    "model": "E02431",
+    "title": "ALSAIF 800W Electric Vegetable Chopper with Stainless Steel Bowl and 4 Blades, Food Processor for Meat, Fruits, and Vegetables. easy cleaning, 4-liter, silver E02431 2 Years warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2706,
+    "img": "https://m.media-amazon.com/images/I/31Q-XRJfoUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CV7L83S6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CL4KYJF7",
+    "brand": "فريش",
+    "name": "فريش 1000 وات (FP402)",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "FP402",
+    "title": "Fresh FP402 1000W Food Processor, Gray",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3723,
+    "img": "https://m.media-amazon.com/images/I/31mR2nsnsCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CL4KYJF7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B085CSR2VF",
+    "brand": "بوش",
+    "name": "بوش 900 وات",
+    "specs": {
+      "watt": "900"
+    },
+    "model": "",
+    "title": "Bosch Food Processor MultiTalent 3 Plus 900 W Black, Brushed Stainless Steel – MCM3PM386",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7970,
+    "img": "https://m.media-amazon.com/images/I/31vjsFWxCyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B085CSR2VF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GCRGNT69",
+    "brand": "غير محدد",
+    "name": "2L Stainless Steel Electric Food Processor & Meat Grinder – Multi-Purpose Chopper for Meat, Vegetables, a",
+    "specs": {
+      "cap": "2"
+    },
+    "model": "",
+    "title": "2L Stainless Steel Electric Food Processor & Meat Grinder – Multi-Purpose Chopper for Meat, Vegetables, and Fruits – 220V-240V (1, Silver, Small)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 539.22,
+    "img": "https://m.media-amazon.com/images/I/310kClfFJCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GCRGNT69?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FMQ4XRW4",
+    "brand": "غير محدد",
+    "name": "Group Tiger Abdo 0121/J-2W/EZ-322 2L Pressure Food Processor with Whisk Attachment, Silver",
+    "specs": {
+      "cap": "2"
+    },
+    "model": "",
+    "title": "Group Tiger Abdo 0121/J-2W/EZ-322 2L Pressure Food Processor with Whisk Attachment, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 164.3,
+    "img": "https://m.media-amazon.com/images/I/21XD7xEdscL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FMQ4XRW4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BVJRP39G",
+    "brand": "تورنيدو",
+    "name": "Tornado Food Processor Crackle 1000CC",
+    "specs": {},
+    "model": "",
+    "title": "Tornado Food Processor Crackle 1000CC",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1100,
+    "img": "https://m.media-amazon.com/images/I/31fmQfFFKFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BVJRP39G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08KNHLV9W",
+    "brand": "نينجا",
+    "name": "Ninja Professional Food Processor (BN650) Grey",
+    "specs": {},
+    "model": "BN650",
+    "title": "Ninja Professional Food Processor (BN650) Grey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7999,
+    "img": "https://m.media-amazon.com/images/I/31SfvgiNx4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08KNHLV9W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CMXPGTR4",
+    "brand": "كينوود",
+    "name": "كينوود 800 وات (FDM307SS)",
+    "specs": {
+      "watt": "800"
+    },
+    "model": "FDM307SS",
+    "title": "Kenwood 800W Dual Speed Setting Multipro Compact Food Processor Silver 2.1 Litre FDM307SS",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8490,
+    "img": "https://m.media-amazon.com/images/I/41ykdKEYjbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CMXPGTR4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FDDFY7WH",
+    "brand": "غير محدد",
+    "name": "كبة ومفرمة لحوم وخضروات ستانليلس ستيل 1200 وات سعة 6 لتر مزودة سرعات مع حماية الحرارة الزائدة 4 اسلاات حا",
+    "specs": {
+      "watt": "1200",
+      "cap": "6"
+    },
+    "model": "",
+    "title": "كبة ومفرمة لحوم وخضروات ستانليلس ستيل 1200 وات سعة 6 لتر مزودة سرعات مع حماية الحرارة الزائدة 4 اسلاات حادة محضر طعام موتور نحاس قوى وتروس معدن ضمان شامل 2 سنه كامل (6لتر)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1512.11,
+    "img": "https://m.media-amazon.com/images/I/41CgAH63rGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FDDFY7WH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09MDK12CJ",
+    "brand": "Heinrichs",
+    "name": "Heinrichs 1300 وات 6.2 لتر",
+    "specs": {
+      "watt": "1300",
+      "cap": "6.2"
+    },
+    "model": "",
+    "title": "Heinrichs Food Processor Kneading Machine Dough Machine 1300 W Kitchen Appliance Stirrer Dough Hook Whisk Splash Guard 10 Adjustable Speeds XL 6.2 L Stainless Steel Bowl Low Noise (Red)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8374.01,
+    "img": "https://m.media-amazon.com/images/I/41kjj8yO5aS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09MDK12CJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GXZCRWJD",
+    "brand": "OVA",
+    "name": "OVA Electric Meat Grinder & Food Processor – Multi-Function Kitchen Mincer for Meat, Vegetables & Nuts, P",
+    "specs": {},
+    "model": "",
+    "title": "OVA Electric Meat Grinder & Food Processor – Multi-Function Kitchen Mincer for Meat, Vegetables & Nuts, Powerful Motor, Stainless Steel Blades, Easy to Clean",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2267.97,
+    "img": "https://m.media-amazon.com/images/I/414f6a1Az-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GXZCRWJD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BG35F5LZ",
+    "brand": "OLIZA",
+    "name": "OLIZA 4 in 1 Portable Electric Vegetable Cutter Set Wireless hand held food processor Chargeable Chopper ",
+    "specs": {},
+    "model": "",
+    "title": "OLIZA 4 in 1 Portable Electric Vegetable Cutter Set Wireless hand held food processor Chargeable Chopper for Garlic, Chili, Onion, Celery, Ginger, Meat, Garlic with USB Cable Green Small EVCH-03",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 229.14,
+    "img": "https://m.media-amazon.com/images/I/410eemWsxWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BG35F5LZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GR9VBJV1",
+    "brand": "غير محدد",
+    "name": "Electric Kibbeh Meat and Vegetable Grinder, Multifunctional Food Processor, White with Gold Details, 300W",
+    "specs": {
+      "watt": "300"
+    },
+    "model": "",
+    "title": "Electric Kibbeh Meat and Vegetable Grinder, Multifunctional Food Processor, White with Gold Details, 300W, Transparent Bowl, Easy to Clean",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 454.5,
+    "img": "https://m.media-amazon.com/images/I/41jXWAd+21L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GR9VBJV1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GL7T5FPL",
+    "brand": "Next store",
+    "name": "Next Store Multifunctional Vegetable Slicer & Grater (9 in 1) with Washing Basket & Strainer, Manual Food",
+    "specs": {},
+    "model": "",
+    "title": "Next Store Multifunctional Vegetable Slicer & Grater (9 in 1) with Washing Basket & Strainer, Manual Food Processor for Cutting Cubes and Slices Interchangeable Blades",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 364.37,
+    "img": "https://m.media-amazon.com/images/I/41cjow6UTgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GL7T5FPL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D1KRD15C",
+    "brand": "غير محدد",
+    "name": "Kibbeh Electric Meat Grinder and Food Processor - 6L Stainless Steel With Overheat Protection, 1200W Thre",
+    "specs": {
+      "watt": "1200",
+      "cap": "6"
+    },
+    "model": "",
+    "title": "Kibbeh Electric Meat Grinder and Food Processor - 6L Stainless Steel With Overheat Protection, 1200W Three Speeds for Meat, Vegetables, Fruit Blending",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2303.04,
+    "img": "https://m.media-amazon.com/images/I/41vWCns72TL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D1KRD15C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GYLW8DY3",
+    "brand": "ELMA",
+    "name": "Versatile manual food processor - equipped with 3 interchangeable blades - for easy and quick chopping an",
+    "specs": {},
+    "model": "A1309",
+    "title": "Versatile manual food processor - equipped with 3 interchangeable blades - for easy and quick chopping and grating of vegetables A1309 BY EL MAYAN® HOME",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 312.95,
+    "img": "https://m.media-amazon.com/images/I/41Bbr2y+tqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GYLW8DY3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BWTRZBH9",
+    "brand": "سوكاني",
+    "name": "سوكاني 2 لتر",
+    "specs": {
+      "cap": "2"
+    },
+    "model": "",
+    "title": "Sokany sk-444 multi-function juicer adjustable mixer 2l food processor juice mixer",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1404,
+    "img": "https://m.media-amazon.com/images/I/41hfD8uycaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BWTRZBH9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F68LCXLC",
+    "brand": "غير محدد",
+    "name": "Food Processor - Multi-Function 22-in-1 Kitchen Gadget with Slicing, Shredding and Dicing Capabilities, I",
+    "specs": {},
+    "model": "",
+    "title": "Food Processor - Multi-Function 22-in-1 Kitchen Gadget with Slicing, Shredding and Dicing Capabilities, Includes Lemon Juicer, Egg Separator, and Durable Stainless Steel Blades for Easy Meal Preparati",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 340.89,
+    "img": "https://m.media-amazon.com/images/I/512U8dUuylL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F68LCXLC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BGC852XG",
+    "brand": "KitchenAid",
+    "name": "KitchenAid 2.1 لتر",
+    "specs": {
+      "cap": "2.1"
+    },
+    "model": "",
+    "title": "Kitchenaid 2.1 L Food Processor 5KFP0921 Empire Red",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 24900,
+    "img": "https://m.media-amazon.com/images/I/41GJUhF-H5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BGC852XG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09VLBN12H",
+    "brand": "غير محدد",
+    "name": "Other USB Charging Mincel & Chopper - White - Plastic - 1.5 Pounds - Stainless Steel Blade - Dishwasher S",
+    "specs": {},
+    "model": "",
+    "title": "Other USB Charging Mincel & Chopper - White - Plastic - 1.5 Pounds - Stainless Steel Blade - Dishwasher Safe - Chopping Food Processor",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 153,
+    "img": "https://m.media-amazon.com/images/I/41-Uvf5oZfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09VLBN12H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BYJJX5S1",
+    "brand": "Badelite",
+    "name": "Badelite Mini Garlic Chopper Manual Food Processor Protable Pull String Vegetable Chopper for Veggies, Fr",
+    "specs": {},
+    "model": "170ML",
+    "title": "Badelite Mini Garlic Chopper Manual Food Processor Protable Pull String Vegetable Chopper for Veggies, Fruits, Garlic, Onion, Ginger, Nuts, etc - 0.7 Cup(170ml)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 179.1,
+    "img": "https://m.media-amazon.com/images/I/41Fk4rkglhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BYJJX5S1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09ZY2QCX1",
+    "brand": "غير محدد",
+    "name": "3-in-1 Hand-held Wireless Whisk & Food Processor With Egg Separator, for Baking Cookies, Brownies & Cakes",
+    "specs": {},
+    "model": "GREEN",
+    "title": "3-in-1 Hand-held Wireless Whisk & Food Processor With Egg Separator, for Baking Cookies, Brownies & Cakes, Garlic Chopper Mini, Garlic Masher Crusher (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 450,
+    "img": "https://m.media-amazon.com/images/I/41y40eWHU3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09ZY2QCX1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08TX4TBTM",
+    "brand": "غير محدد",
+    "name": "Electric Onion Garlic Chopper - Portable USB Rechargeable Food Processor Fast and Efficient Chopping, Per",
+    "specs": {},
+    "model": "",
+    "title": "Electric Onion Garlic Chopper - Portable USB Rechargeable Food Processor Fast and Efficient Chopping, Perfect for Daily Cooking Needs and Kitchen Convenience",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 207,
+    "img": "https://m.media-amazon.com/images/I/41LPw1NSbDS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08TX4TBTM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FKBT551Q",
+    "brand": "غير محدد",
+    "name": "Heinrichs Food Processor, Kneading Machine, Dough Machine, 2500 W Kitchen Appliance, Double Dough Hook, M",
+    "specs": {
+      "watt": "2500",
+      "cap": "8"
+    },
+    "model": "",
+    "title": "Heinrichs Food Processor, Kneading Machine, Dough Machine, 2500 W Kitchen Appliance, Double Dough Hook, Mixing Hook, Whisk, 8 Adjustable Speeds, XXL 8L Stainless Steel Bowl, Low Noise, Star Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 10851.51,
+    "img": "https://m.media-amazon.com/images/I/41BMzQep92L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FKBT551Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GSB79GN8",
+    "brand": "غير محدد",
+    "name": "Powerful Electric Meat Grinder & Food Processor – Stainless Steel Bowl, 304 Food-Grade Blades, 300W Pure ",
+    "specs": {
+      "watt": "300",
+      "cap": "5"
+    },
+    "model": "",
+    "title": "Powerful Electric Meat Grinder & Food Processor – Stainless Steel Bowl, 304 Food-Grade Blades, 300W Pure Copper Motor, Multi-Function Chopper for Meat, Vegetables & Daily Cooking, (5L)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 723,
+    "img": "https://m.media-amazon.com/images/I/414iTOjfDCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GSB79GN8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BL1HKY82",
+    "brand": "سوكاني",
+    "name": "سوكاني 2 لتر",
+    "specs": {
+      "cap": "2"
+    },
+    "model": "",
+    "title": "Sokany SK-444 Multi-Function Juicer Adjustable Mixer 2L Food Processor Juice Mixer - Red Plug au",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1400,
+    "img": "https://m.media-amazon.com/images/I/41jyIRLQf6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BL1HKY82?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B7HYJJG7",
+    "brand": "Spaceshoop",
+    "name": "4 in 1 Handheld Electric Vegetable Cutter Set Portable Wireless Garlic Mud Masher Garlic Press and Slicer",
+    "specs": {},
+    "model": "",
+    "title": "4 in 1 Handheld Electric Vegetable Cutter Set Portable Wireless Garlic Mud Masher Garlic Press and Slicer Set Multifunctional Electric Mini Food Processor with Brush for Ginger Peppers Onions Garlic",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 185.93,
+    "img": "https://m.media-amazon.com/images/I/410QUFM-cQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B7HYJJG7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08PJGVFQL",
+    "brand": "koelop",
+    "name": "koelop 1.8 لتر",
+    "specs": {
+      "cap": "1.8"
+    },
+    "model": "",
+    "title": "koelop Food Chopper with 1.8L Powerful Manual Food Chopper Handheld Mini food Processor, Vegetables, Fruits, Onions Choppers, Dicers and Mincers,White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 315,
+    "img": "https://m.media-amazon.com/images/I/513M+e77lqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08PJGVFQL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVBWPBY9",
+    "brand": "غير محدد",
+    "name": "FASHION.HOME Multifunctional Manual Food Processor 500ml - Quick Tension Vegetable Onion Chopper with Rem",
+    "specs": {},
+    "model": "",
+    "title": "FASHION.HOME Multifunctional Manual Food Processor 500ml - Quick Tension Vegetable Onion Chopper with Removable Stainless Steel Blades, Non-Slip Base - Essential Product",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 515,
+    "img": "https://m.media-amazon.com/images/I/41hGfYfjTqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVBWPBY9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F3QZLML2",
+    "brand": "غير محدد",
+    "name": "Electric Mini Food Processor",
+    "specs": {},
+    "model": "",
+    "title": "Electric Mini Food Processor",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 221.08,
+    "img": "https://m.media-amazon.com/images/I/41V5yx0vZoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F3QZLML2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GCG73Q8M",
+    "brand": "غير محدد",
+    "name": "6 in 1 & 7 in 1 Multifunctional Food Processor, Chopper with Handle, Clear Lid",
+    "specs": {},
+    "model": "",
+    "title": "6 in 1 & 7 in 1 Multifunctional Food Processor, Chopper with Handle, Clear Lid",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 390,
+    "img": "https://m.media-amazon.com/images/I/31baGGOo9NL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GCG73Q8M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08Y8XNMVD",
+    "brand": "غير محدد",
+    "name": "DSP KM3031 3 in 1 Multifunctional Food Processor, 1300 W, 6.5 L - Black",
+    "specs": {
+      "watt": "1300",
+      "cap": "6.5"
+    },
+    "model": "KM3031",
+    "title": "DSP KM3031 3 in 1 Multifunctional Food Processor, 1300 W, 6.5 L - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8400,
+    "img": "https://m.media-amazon.com/images/I/41JHFSFLszL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08Y8XNMVD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BMVW1RF9",
+    "brand": "تورنيدو",
+    "name": "Tornado Food Processor Crackle 1000sg",
+    "specs": {},
+    "model": "",
+    "title": "Tornado Food Processor Crackle 1000sg",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1150,
+    "img": "https://m.media-amazon.com/images/I/31Avq5ATxYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BMVW1RF9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B93VVPWD",
+    "brand": "DUOLAM",
+    "name": "4 in 1 Handheld Electric Vegetable Cutter Set, Portable Mini Wireless Food Processor with Brush, Gatling ",
+    "specs": {},
+    "model": "",
+    "title": "4 in 1 Handheld Electric Vegetable Cutter Set, Portable Mini Wireless Food Processor with Brush, Gatling Vegetable Cutter Electric Garlic Chopper for Garlic Pepper Chili Onion Celery Ginger Meat",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 338.14,
+    "img": "https://m.media-amazon.com/images/I/51QUn6eWZ1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B93VVPWD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BCHKP172",
+    "brand": "تورنيدو",
+    "name": "Tornado Food Processor Mill 1000SG",
+    "specs": {},
+    "model": "",
+    "title": "Tornado Food Processor Mill 1000SG",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 680,
+    "img": "https://m.media-amazon.com/images/I/21NxF7mXpGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BCHKP172?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FYQSJ928",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Use For Tornado chopper cover, food processor 1000 watt, transparent",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/31vB-1NxWKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FYQSJ928?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08WJN3QLD",
+    "brand": "Castle",
+    "name": "Castle 1000 وات (FP1037)",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "FP1037",
+    "title": "Castle FP1037 Stainless Steel Full Functions Food Processor, 1000 Watt",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3545,
+    "img": "https://m.media-amazon.com/images/I/31dn6s5oZqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJN3QLD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2JP9X2F",
+    "brand": "شارب",
+    "name": "Generic Manual Food Processor, 1000ml, Multi-Purpose with Extra Sharp Blade, Non-Slip Silicone Base, for ",
+    "specs": {},
+    "model": "",
+    "title": "Generic Manual Food Processor, 1000ml, Multi-Purpose with Extra Sharp Blade, Non-Slip Silicone Base, for Mincing Meat, Vegetables, Onions and Garlic, .mk",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 863.9,
+    "img": "https://m.media-amazon.com/images/I/61pyYtyTlcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2JP9X2F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1H1C238",
+    "brand": "Winning Star",
+    "name": "Winning Star ST-5583 Multifunctional Electric Food Processor, 1.8 Liter Capacity",
+    "specs": {},
+    "model": "",
+    "title": "Winning Star ST-5583 Multifunctional Electric Food Processor, 1.8 Liter Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2972.51,
+    "img": "https://m.media-amazon.com/images/I/319B5bzW5gL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1H1C238?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H854HT6T",
+    "brand": "EBASKT",
+    "name": "Ebaskt Stainless Steel Electric Food Processor and Meat Grinder, 3 Liter Capacity",
+    "specs": {},
+    "model": "",
+    "title": "Ebaskt Stainless Steel Electric Food Processor and Meat Grinder, 3 Liter Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 544.73,
+    "img": "https://m.media-amazon.com/images/I/41X50OhFlRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H854HT6T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DCZR1NRS",
+    "brand": "غير محدد",
+    "name": "Electric Mini Chopper Food Processor 2/3L, 4 Blades Dual Level 2 Speeds, Stainless Steel Bowl, Kitchen Fo",
+    "specs": {
+      "cap": "3"
+    },
+    "model": "",
+    "title": "Electric Mini Chopper Food Processor 2/3L, 4 Blades Dual Level 2 Speeds, Stainless Steel Bowl, Kitchen Food Processor for Mincing and Mixing Meat, Vegetable, Fruit, Onion, 3L Stainless Steel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 720,
+    "img": "https://m.media-amazon.com/images/I/51rzaFMEeOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DCZR1NRS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B93ZY5WY",
+    "brand": "Yours Bath",
+    "name": "Your's Bath Electric Mini Chopper Food Processor 4 in 1 Handheld USB Rechargeable Wireless Garlic Crusher",
+    "specs": {},
+    "model": "",
+    "title": "Your's Bath Electric Mini Chopper Food Processor 4 in 1 Handheld USB Rechargeable Wireless Garlic Crusher Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 306.89,
+    "img": "https://m.media-amazon.com/images/I/41l7mbbDtBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B93ZY5WY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B6NK41DB",
+    "brand": "WBOOO",
+    "name": "WBOOO 4 In 1 Handheld Electric Vegetable Cutter Set, Portable Mini Wireless Food Processor With Brush, Pr",
+    "specs": {},
+    "model": "",
+    "title": "WBOOO 4 In 1 Handheld Electric Vegetable Cutter Set, Portable Mini Wireless Food Processor With Brush, Processor, Garlic Chopper for Pepper Chili Onion Celery Ginger Meat",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 381.65,
+    "img": "https://m.media-amazon.com/images/I/41RZ4ChnxgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B6NK41DB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09R4ZBW7F",
+    "brand": "تورنيدو",
+    "name": "Tornado Choopper for Food Processor FP-1000S andFP-1000SG",
+    "specs": {},
+    "model": "",
+    "title": "Tornado Choopper for Food Processor FP-1000S andFP-1000SG",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1480,
+    "img": "https://m.media-amazon.com/images/I/21jTbnrG7-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09R4ZBW7F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BPXLJC94",
+    "brand": "Spaceshoop",
+    "name": "4 in 1 Handheld Electric Cordless Vegetable Chopper - Mini Wireless Chopper Slicer Dicer Portable Garlic ",
+    "specs": {},
+    "model": "",
+    "title": "4 in 1 Handheld Electric Cordless Vegetable Chopper - Mini Wireless Chopper Slicer Dicer Portable Garlic Masher Hand Held Food Processor for Kitchen - Garlic, Pepper, Onion",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 220.99,
+    "img": "https://m.media-amazon.com/images/I/41kZ8TCB-AL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BPXLJC94?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GL986DT4",
+    "brand": "Carnival",
+    "name": "Carnival 800 وات",
+    "specs": {
+      "watt": "800"
+    },
+    "model": "",
+    "title": "Carnival 800W 8 in 1 Kitchen Food Processor Machine, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3250,
+    "img": "https://m.media-amazon.com/images/I/41ci-tA0tXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GL986DT4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091J72WB3",
+    "brand": "KB",
+    "name": "KB Food Processor Jar Model Fp-7371 Odacio - Imported - N",
+    "specs": {},
+    "model": "",
+    "title": "KB Food Processor Jar Model Fp-7371 Odacio - Imported - N",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 420,
+    "img": "https://m.media-amazon.com/images/I/31AoS+JwI6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091J72WB3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
     "missCount": 0,
     "oosCount": 0
   }

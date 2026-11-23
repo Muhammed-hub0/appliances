@@ -849,9 +849,9 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "outOfStockSince": "2026-11-23",
-    "lastSeenOut": "2026-11-23"
+    "oosCount": 0,
+    "lastSeenOut": "2026-11-23",
+    "reason": null
   },
   {
     "asin": "B08X64PSCL",
@@ -1155,7 +1155,7 @@
     "title": "Tank Super Blender, 1.5L Glass Jug, 900ml BPA Free Plastic Bottle, 800 Watts, YB-S62k, 2 Year Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2949,
+    "price": 2910,
     "img": "https://m.media-amazon.com/images/I/31oz6CGdERL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FGWMR8BQ?tag=fineartslab-21",
     "active": true,
@@ -1333,7 +1333,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BRKZFT63",
@@ -1355,7 +1356,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BNJ5SN6G",
@@ -1377,7 +1379,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HL9LVC3T",
@@ -1399,7 +1402,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FY35HCSQ",
@@ -1421,7 +1425,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08447F7NJ",
@@ -1443,7 +1448,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0976DVKS4",
@@ -1465,7 +1471,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08B8XGFGS",
@@ -1487,7 +1494,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F1KX2HQY",
@@ -1508,7 +1516,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07QQ7J6KQ",
@@ -1529,7 +1538,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08KP79TVX",
@@ -1550,7 +1560,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01L1UA1M4",
@@ -1571,7 +1582,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07P945BGD",
@@ -1592,7 +1604,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07D76Q61L",
@@ -1613,7 +1626,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09RW22KQW",
@@ -1634,7 +1648,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B079DDB1VT",
@@ -1655,7 +1670,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CXQ7LF9M",
@@ -1676,7 +1692,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CCSJFDJY",
@@ -1697,7 +1714,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08X5WYWVM",
@@ -1718,7 +1736,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09BDMDL7V",
@@ -1739,7 +1758,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B003U3YKAA",
@@ -1760,7 +1780,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B082WTL6JG",
@@ -1781,7 +1802,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BTDJ974X",
@@ -1802,7 +1824,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BYWJS336",
@@ -1815,7 +1838,7 @@
     "title": "TORNADO Electric Blender 500 Watt, 1.5 Liter, Mill, Black NBL500/1",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1819,
+    "price": 1850,
     "img": "https://m.media-amazon.com/images/I/419UbO2qQrL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BYWJS336?tag=fineartslab-21",
     "active": true,
@@ -1823,7 +1846,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CCYTTLQT",
@@ -1844,7 +1868,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HHNKLB4C",
@@ -1857,7 +1882,7 @@
     "title": "Mienta – Blender - Quick Mix - 600W - BL1281A | Blender",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1269,
+    "price": 1229,
     "img": "https://m.media-amazon.com/images/I/31tjVwDKmXL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HHNKLB4C?tag=fineartslab-21",
     "active": true,
@@ -1865,7 +1890,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C91BQTVF",
@@ -1886,7 +1912,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C31TQ4DF",
@@ -1907,7 +1934,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DJ112JKN",
@@ -1928,7 +1956,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B010JTRHES",
@@ -1949,7 +1978,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FH56QC3C",
@@ -1970,7 +2000,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HL9NZ599",
@@ -1991,7 +2022,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D98P2W4N",
@@ -2012,7 +2044,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0856SSSMS",
@@ -2033,7 +2066,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08L1QNDTC",
@@ -2052,7 +2086,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C2FF4JD1",
@@ -2071,7 +2106,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09JGRXX21",
@@ -2090,7 +2126,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HFFL9JPR",
@@ -2113,7 +2150,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GJQ1N57D",
@@ -2136,7 +2174,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DJ77VXFP",
@@ -2159,7 +2198,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HM9FXFJ3",
@@ -2182,7 +2222,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H46BYXK6",
@@ -2204,7 +2245,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GQ2ML4MQ",
@@ -2226,7 +2268,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09VHBCMQ3",
@@ -2248,7 +2291,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FGWPD2GN",
@@ -2269,7 +2313,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HB45BWQF",
@@ -2290,7 +2335,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B6RSF8B2",
@@ -2311,7 +2357,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B6SYHR29",
@@ -2332,7 +2379,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GS3LC92G",
@@ -2353,7 +2401,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FLYDFHBV",
@@ -2374,7 +2423,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HKZB2WM7",
@@ -2395,7 +2445,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FLYDZ338",
@@ -2416,7 +2467,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DG5GKY4R",
@@ -2437,7 +2489,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FJ2RK5F9",
@@ -2458,7 +2511,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09M3ZKWPM",
@@ -2479,7 +2533,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DHDF9YTW",
@@ -2500,7 +2555,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09232FSRL",
@@ -2519,7 +2575,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09HZ5C3ZZ",
@@ -2538,7 +2595,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HHYH57KX",
@@ -2557,7 +2615,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H8TJRQ98",
@@ -2576,7 +2635,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DCZD6NDD",
@@ -2595,7 +2655,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GF81DXRC",
@@ -2614,7 +2675,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FRG1L6JH",
@@ -2633,7 +2695,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H46FWGZ3",
@@ -2651,6 +2714,2338 @@
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B078HFLPW7",
+    "brand": "أرزوم",
+    "name": "Arzum AR1032 Shake'N Take Personal Blender - Black",
+    "specs": {},
+    "model": "AR1032",
+    "title": "Arzum AR1032 Shake'N Take Personal Blender - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1825,
+    "img": "https://m.media-amazon.com/images/I/31AF+95NRYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B078HFLPW7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BSNVYVKQ",
+    "brand": "كينوود",
+    "name": "كينوود 1000 وات (BLM45)",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "BLM45",
+    "title": "Kenwood Blender 1000W 2L BLM45.240SS - (International Warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/4192aPd4HZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BSNVYVKQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07F2RGGFF",
+    "brand": "أرزوم",
+    "name": "Arzum - Shake & take personal blender - Red - AR1032",
+    "specs": {},
+    "model": "AR1032",
+    "title": "Arzum - Shake & take personal blender - Red - AR1032",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1815,
+    "img": "https://m.media-amazon.com/images/I/311Y89unmBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07F2RGGFF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C8GCCQF6",
+    "brand": "SIVOLT",
+    "name": "SIVOLT يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "volt Hand Blender",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 749,
+    "img": "https://m.media-amazon.com/images/I/31Ap4dXhO0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C8GCCQF6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GFBV5ZPH",
+    "brand": "SIVOLT",
+    "name": "SIVOLT 900 وات يدوي",
+    "specs": {
+      "watt": "900",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Hand Blender 900 Watt Stainless Steel Multi Speed",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1099,
+    "img": "https://m.media-amazon.com/images/I/317EMc8L-jL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GFBV5ZPH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSWZ9R1M",
+    "brand": "سوكاني",
+    "name": "سوكاني 600 وات يدوي",
+    "specs": {
+      "watt": "600",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "SOKANY 2-in-1 Hand Blender 600W - SK-02013",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 680.09,
+    "img": "https://m.media-amazon.com/images/I/31SvWUjUzGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSWZ9R1M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08WJNC2XR",
+    "brand": "مولينكس",
+    "name": "مولينكس 350 وات يدوي (DD1001EG)",
+    "specs": {
+      "watt": "350",
+      "type": "يدوي"
+    },
+    "model": "DD1001EG",
+    "title": "Moulinex DD1001EG Turbomix Plus, Hand Blender, 350 Watts, 800 Milliliters Plastic Beaker, 2 Blades, Hang-Up Ring, White and Red",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1070,
+    "img": "https://m.media-amazon.com/images/I/21NujBLTmGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJNC2XR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HB4111RB",
+    "brand": "NutriBullet",
+    "name": "NutriBullet 900 وات",
+    "specs": {
+      "watt": "900"
+    },
+    "model": "",
+    "title": "NutriBullet Pro 900 Series Blender 900W, 25000 RPM, 2 Extractor Blades, Multiple Cups, Storage and Travel Lids, for Smoothies, Smoothies, Juices, Fruit & Vegetable Mixing",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3792,
+    "img": "https://m.media-amazon.com/images/I/41OchuvTSZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HB4111RB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJ6QKMYS",
+    "brand": "غير محدد",
+    "name": "1200W Commercial Commercial Blender Professional Silent Ice Crusher | Silent Smoothie Mixer for Restauran",
+    "specs": {
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "1200W Commercial Commercial Blender Professional Silent Ice Crusher | Silent Smoothie Mixer for Restaurant and Cafes, Ice Cream Smoothies Digital Touch Panel with Ice Cream Program Smoothies and",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7500,
+    "img": "https://m.media-amazon.com/images/I/51a+pv8rz-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJ6QKMYS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B092322KZL",
+    "brand": "فريش",
+    "name": "فريش 800 وات يدوي",
+    "specs": {
+      "watt": "800",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Fresh hand blender 800 watts - silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1619,
+    "img": "https://m.media-amazon.com/images/I/31VmHCLBd8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B092322KZL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGWDG3Z6",
+    "brand": "أورايمو",
+    "name": "Oraimo 500 ml Portable Blender for Smoothies, Shakes and Kitchen Use | Ice Crushing Blades | 10 Uses/Char",
+    "specs": {},
+    "model": "OH-PB1N",
+    "title": "Oraimo 500 ml Portable Blender for Smoothies, Shakes and Kitchen Use | Ice Crushing Blades | 10 Uses/Charge | Smart Touch Control | Type-C Charging & IPX5 Waterproof (OH-PB1N)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1935.63,
+    "img": "https://m.media-amazon.com/images/I/41lwi47tzML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGWDG3Z6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVTB4R18",
+    "brand": "Winning Star",
+    "name": "Winning Star يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Winning Star Hand Blender St-5554",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 764.54,
+    "img": "https://m.media-amazon.com/images/I/41KYKxIKhzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVTB4R18?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B42KK58B",
+    "brand": "فريش",
+    "name": "Blender Smoothie Makers, 350 ml Portable Mixer Mini Jug Blenders, Multifunctional Personal Mixer Fresh Ju",
+    "specs": {},
+    "model": "PINK",
+    "title": "Blender Smoothie Makers, 350 ml Portable Mixer Mini Jug Blenders, Multifunctional Personal Mixer Fresh Juice Mixer Bottle To Go with USB Rechargeable (Pink)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 252,
+    "img": "https://m.media-amazon.com/images/I/51-VST4BskL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B42KK58B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GJQ3VQJC",
+    "brand": "غير محدد",
+    "name": "Pluto Digital Blender with Grinder, 1200W, 1.85L Capacity, 6-Leaf Stainless Steel Blades, Multiple Progra",
+    "specs": {
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "Pluto Digital Blender with Grinder, 1200W, 1.85L Capacity, 6-Leaf Stainless Steel Blades, Multiple Programs, BPA-Free PCTG Jar, Black and Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2706,
+    "img": "https://m.media-amazon.com/images/I/51Q8pdYcSgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GJQ3VQJC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GJQ4T9XW",
+    "brand": "PLUTO",
+    "name": "PLUTO 500 وات 2 سرعة",
+    "specs": {
+      "watt": "500",
+      "speed": "2"
+    },
+    "model": "",
+    "title": "Pluto Blender 1.5L with Grinder, 500W, 2 Speed Plus Pulse, Plastic Jar, with Mill and Measuring Cup",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1149,
+    "img": "https://m.media-amazon.com/images/I/31keoQVza9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GJQ4T9XW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C6G342JN",
+    "brand": "كينوود",
+    "name": "كينوود 500 وات (BLP15)",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "BLP15",
+    "title": "Kenwood Blender Smoothie Maker With Grinder Mill, Ice Crush Function, 2 L, 500 Watts, BLP15.150BK Black - International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2199.95,
+    "img": "https://m.media-amazon.com/images/I/41zh2Iff02L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C6G342JN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQVS28VK",
+    "brand": "JAMAKY",
+    "name": "JAMAKY JMK4007 6000W 2.5 Liters 2-In-1 Multifunctional Blender",
+    "specs": {},
+    "model": "JMK4007",
+    "title": "JAMAKY JMK4007 6000W 2.5 Liters 2-In-1 Multifunctional Blender",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1260,
+    "img": "https://m.media-amazon.com/images/I/31KW6pMRTxL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQVS28VK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07CXZMVCB",
+    "brand": "بوش",
+    "name": "بوش 600 وات يدوي (MSM2650B)",
+    "specs": {
+      "watt": "600",
+      "type": "يدوي"
+    },
+    "model": "MSM2650B",
+    "title": "BOSCH Hand Blender CleverMixx – 600 W – QuattroBlade – 4 Stainless Steel Blades – Black/Anthracite – MSM2650B",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/31sBNtW5+EL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07CXZMVCB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BR5MCVQ2",
+    "brand": "فريش",
+    "name": "فريش 360 وات",
+    "specs": {
+      "watt": "360"
+    },
+    "model": "",
+    "title": "Fresh Chef Blender, 500014316, Assorted 360 Watts",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1145,
+    "img": "https://m.media-amazon.com/images/I/31yeYsdykOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BR5MCVQ2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CVBLH6SB",
+    "brand": "بوش",
+    "name": "بوش 800 وات يدوي",
+    "specs": {
+      "watt": "800",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Bosch MSM4W420 Series 4 ErgoMaster Hand Blender, 800W, Stepless Speed, Anti-Slip Grip, 600ml Beaker, Universal Chopper, Stainless Steel Blade, White/Black – Made in Slovenia – MSM4W420",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3321.05,
+    "img": "https://m.media-amazon.com/images/I/31bRUW9IhWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CVBLH6SB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B078G23KRZ",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 600 وات (BX600G-B5)",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "BX600G-B5",
+    "title": "Black & Decker 600W Glass Blender with with Grinder and Mincer Chopper - White and Black [BX600G-B5]",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3048.5,
+    "img": "https://m.media-amazon.com/images/I/413DKqbVhnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B078G23KRZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQ4RTW18",
+    "brand": "فيليبس",
+    "name": "فيليبس 1000 وات 1 سرعة (HR2767/00)",
+    "specs": {
+      "watt": "1000",
+      "speed": "1"
+    },
+    "model": "HR2767/00",
+    "title": "Philips Blender 5000 Series - Personal Blender, 1000W, 700ml Tumbler + 2 Extra, 1 Speed, ProBlend Plus Technology - HR2767/00",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5532.31,
+    "img": "https://m.media-amazon.com/images/I/31XoOxFp+HL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQ4RTW18?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08Y8XY8Z5",
+    "brand": "كينوود",
+    "name": "Kenwood BLP10.CO Blender with Plastic Jug, 2 Liters and Mill, 2 Pieces",
+    "specs": {},
+    "model": "BLP10",
+    "title": "Kenwood BLP10.CO Blender with Plastic Jug, 2 Liters and Mill, 2 Pieces",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2071,
+    "img": "https://m.media-amazon.com/images/I/41kbep7V7uL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08Y8XY8Z5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01L93HOWI",
+    "brand": "فريش",
+    "name": "فريش يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Fresh Hand Blender HB 1000 CH",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2262,
+    "img": "https://m.media-amazon.com/images/I/31-dXtuEsKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01L93HOWI?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGWNKY8N",
+    "brand": "Tank",
+    "name": "Tank 1200 وات 6 سرعة يدوي",
+    "specs": {
+      "watt": "1200",
+      "speed": "6",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Tank Hand Blender with 600ml BPA Free Beaker & 500ml Chopper & Whisk, 6 Speed Control + Turbo, 1200 Watts, Black, CM-6004BCB, 2 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/31egBkdE7wL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGWNKY8N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F46XZY8S",
+    "brand": "جاماكي",
+    "name": "جاماكي 1500 وات 2 سرعة يدوي (JMK3024)",
+    "specs": {
+      "watt": "1500",
+      "speed": "2",
+      "type": "يدوي"
+    },
+    "model": "JMK3024",
+    "title": "Jamaki 4 in 1 Hand Blender 1500W 500ml Chopper Egg Beater Measuring Cup Powerful Efficient Motor Multifunction 2 Speed Stainless Steel Sharp Stainless Steel Blades Black-jmk3024",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1224,
+    "img": "https://m.media-amazon.com/images/I/41A4KOZifzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F46XZY8S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJ73FBL6",
+    "brand": "غير محدد",
+    "name": "Naifeo Hand Blender 500W | Stainless Steel Immersion Blender | 2 Speed + Pulse | Detachable Shaft | Perfe",
+    "specs": {
+      "watt": "500",
+      "speed": "2",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Naifeo Hand Blender 500W | Stainless Steel Immersion Blender | 2 Speed + Pulse | Detachable Shaft | Perfect for Smoothies, Soups, Sauces, Purees & Baby Food",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 799,
+    "img": "https://m.media-amazon.com/images/I/21umNZFPrjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJ73FBL6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09BHYDK36",
+    "brand": "غير محدد",
+    "name": "Blender 3 Piece 1 Speed ​​Model NO-242",
+    "specs": {
+      "speed": "1"
+    },
+    "model": "",
+    "title": "Blender 3 Piece 1 Speed ​​Model NO-242",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 749,
+    "img": "https://m.media-amazon.com/images/I/31imGDcThWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09BHYDK36?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSSBVX8H",
+    "brand": "براون",
+    "name": "براون 1000 وات يدوي (MQ55254M)",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "MQ55254M",
+    "title": "Braun MultiQuick 5 Pro Hand Blender 1000W with Beaker, 500ml Chopper, Whisk, PowerBell VPlus, 25 Speeds, SplashControl for Chopping, Masala Grinding, Chutney, Puree, Smoothie, Soup, Shake MQ55254M",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4268,
+    "img": "https://m.media-amazon.com/images/I/31Z4sQFQq1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSSBVX8H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H6T7LRXB",
+    "brand": "غير محدد",
+    "name": "2.5L Professional High Speed Electric Blender for Juice, Smoothie, Ice Crusher, Fruit",
+    "specs": {},
+    "model": "",
+    "title": "2.5L Professional High Speed Electric Blender for Juice, Smoothie, Ice Crusher, Fruit",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1125,
+    "img": "https://m.media-amazon.com/images/I/31ycVX6no2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H6T7LRXB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D9VYRDT2",
+    "brand": "براون",
+    "name": "براون 1000 وات يدوي",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Braun MultiQuick 5 MQ 50.001 M, Manual Blender with PowerBell Plus Technology, 21 Speed Wheel+Turbo, Click Plus System, Mixer with Ergo Handle, Steel Cam and Beaker 600 ml, 1000W, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/21p6P4dfR9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D9VYRDT2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DZHWWG9W",
+    "brand": "سوكاني",
+    "name": "SOKANY Countertop Blender 2.5L, 5000W - SK-666N",
+    "specs": {},
+    "model": "",
+    "title": "SOKANY Countertop Blender 2.5L, 5000W - SK-666N",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1880,
+    "img": "https://m.media-amazon.com/images/I/411Is5x1oHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DZHWWG9W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G62PDLYM",
+    "brand": "براون",
+    "name": "براون 1000 وات يدوي (MQ50001M)",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "MQ50001M",
+    "title": "Braun MultiQuick 5 Hand Blender MQ50001M, 1000W Powerful Motor, 21 Speeds + Turbo, PowerBell VPlus Anti-Splash Stainless Steel Shaft, Includes 600 ml BPA-Free Beaker, White – International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2424,
+    "img": "https://m.media-amazon.com/images/I/21Ke338J61L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G62PDLYM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098TWRQR1",
+    "brand": "براون",
+    "name": "براون 1000 وات يدوي (MQ7085X)",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "MQ7085X",
+    "title": "Braun MultiQuick 7 Hand Blender MQ7085X, Black, 1000W, Mixer, ActiveBlade System, EasyClick Plus System, Splash Control, International Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6468,
+    "img": "https://m.media-amazon.com/images/I/417oqbW47IS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098TWRQR1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FX363BCR",
+    "brand": "مينتا",
+    "name": "مينتا 1000 وات يدوي (HB111635A)",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "HB111635A",
+    "title": "Mienta Hand Blender Stainless 1000W HB111635A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1798.43,
+    "img": "https://m.media-amazon.com/images/I/31Ul2-7cdFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FX363BCR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BYW6J3HK",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 600 وات",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Tornado mill, electric blender 600 watt tb-600/2, transparent",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 350,
+    "img": "https://m.media-amazon.com/images/I/31901KJuYfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BYW6J3HK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B1DW68V4",
+    "brand": "Somerway",
+    "name": "Somerway يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Somerway Blender Smoothie Maker, 12 oz Rechargeable USB Blender in Personal Size for Shakes, Juice, Smoothies, Electric Juice Cup with 4 Blades, Mini Blender Travel Bottle with Ergonomic Handle",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 320,
+    "img": "https://m.media-amazon.com/images/I/41YiepQMv3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B1DW68V4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08RCSFJ25",
+    "brand": "كينوود",
+    "name": "كينوود 1500 وات 6 سرعة (BLM91)",
+    "specs": {
+      "watt": "1500",
+      "speed": "6"
+    },
+    "model": "BLM91",
+    "title": "Kenwood Premium Power Blender 1500W Smoothie Maker With 2L Tritan Jar, 500ml Smoothie2Go Bottle & Lid, Tamper/Food Presser, 6 Speed + 3 Preset Programs, Ice Crush Function BLM91.640SS Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7790,
+    "img": "https://m.media-amazon.com/images/I/518djWUMeDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08RCSFJ25?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B079KK2S87",
+    "brand": "كينوود",
+    "name": "كينوود 109 وات يدوي (HDP109W)",
+    "specs": {
+      "watt": "109",
+      "type": "يدوي"
+    },
+    "model": "HDP109W",
+    "title": "Kenwood hdp109w hand blender with chopper - 700 watt - white, metal",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3009.6,
+    "img": "https://m.media-amazon.com/images/I/31Tk2bwcmHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B079KK2S87?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3L43X5L",
+    "brand": "Homagator",
+    "name": "Homagator 1500 وات يدوي",
+    "specs": {
+      "watt": "1500",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Luma Bella - 4-in-1 Hand Blender Set 1500W - LB-52035",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1222.99,
+    "img": "https://m.media-amazon.com/images/I/41yL1fXahhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3L43X5L?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3LGT3W1",
+    "brand": "LumaBella",
+    "name": "LumaBella 600 وات 15 سرعة",
+    "specs": {
+      "watt": "600",
+      "speed": "15"
+    },
+    "model": "",
+    "title": "LumaBella LB-53036 Multi-Purpose Blender 600W 2.5L with 15 Speeds - A1-528",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 963.41,
+    "img": "https://m.media-amazon.com/images/I/41xxcpssMAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3LGT3W1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D8QNV7LM",
+    "brand": "نينجا",
+    "name": "نينجا 1200 وات (TB301EU)",
+    "specs": {
+      "watt": "1200"
+    },
+    "model": "TB301EU",
+    "title": "Ninja 2-in-1 Detect Power Blender Pro & Single Serve, 1200W Blender with 2L-Jug (1900ml Max Liquid Capacity) & 2x 680ml Cups, Blend Smoothies, Chop Vegetables & Mix Ice Drinks, Black, TB301EU",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17320.46,
+    "img": "https://m.media-amazon.com/images/I/41bBk8jWkkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D8QNV7LM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BQMN8NH1",
+    "brand": "غير محدد",
+    "name": "MediaTech 3X1 Smoothie Blender maker, 600W, 1.5L, Stainless Steel blades,Grinder and Grater, 2 speed + Pl",
+    "specs": {
+      "watt": "600",
+      "speed": "2"
+    },
+    "model": "B18",
+    "title": "MediaTech 3X1 Smoothie Blender maker, 600W, 1.5L, Stainless Steel blades,Grinder and Grater, 2 speed + Pluse Function, Ice Crush Function, MT-B18 - Silver(2 Years Warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/41mvSihOiwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BQMN8NH1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09NLFQRMG",
+    "brand": "Hervy",
+    "name": "Hervy Stormy Blender, White",
+    "specs": {},
+    "model": "",
+    "title": "Hervy Stormy Blender, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1535.77,
+    "img": "https://m.media-amazon.com/images/I/318lhAaTxlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09NLFQRMG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HK1NB7CD",
+    "brand": "غير محدد",
+    "name": "Electric Smoothie Blender 2 in 1 Ice Crusher Blender Mixer Mute Hex Blades | Commercial Mixer 28000 Cycle",
+    "specs": {
+      "speed": "9"
+    },
+    "model": "",
+    "title": "Electric Smoothie Blender 2 in 1 Ice Crusher Blender Mixer Mute Hex Blades | Commercial Mixer 28000 Cycles 2.0L Capacity, 9 Speeds Digital Display, Quiet Noise Isolating Cover Overheat Protection",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6210,
+    "img": "https://m.media-amazon.com/images/I/41x2+-dZ82L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HK1NB7CD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7K7QMHY",
+    "brand": "فريش",
+    "name": "Smart Portable Blender USB Charging Rechargeable (2 in 1 Sports Bottle & Bottle) for Fresh Juice, Smoothi",
+    "specs": {},
+    "model": "",
+    "title": "Smart Portable Blender USB Charging Rechargeable (2 in 1 Sports Bottle & Bottle) for Fresh Juice, Smoothies, Protein Shakes, Ice Crushing - Blenders & Sports Supplies for Gym, Trip, Office",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/31oTDgm3NmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7K7QMHY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098TY1XSD",
+    "brand": "فريش",
+    "name": "فريش 360 وات",
+    "specs": {
+      "watt": "360"
+    },
+    "model": "",
+    "title": "Fresh Salsa Blender - 1.5 liter - 360 watt - anti-breakage",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1028,
+    "img": "https://m.media-amazon.com/images/I/31LuDxEBLvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098TY1XSD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CD39DYGX",
+    "brand": "غير محدد",
+    "name": "ميني بليندر كوب عصير المنزلية المحمولة خلاط لاسلكي المصاقة الكهربائية عصير كوب سعة كبيرة بطارية لاسلكي ال",
+    "specs": {},
+    "model": "",
+    "title": "ميني بليندر كوب عصير المنزلية المحمولة خلاط لاسلكي المصاقة الكهربائية عصير كوب سعة كبيرة بطارية لاسلكي المحمولة",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 700,
+    "img": "https://m.media-amazon.com/images/I/41IQqyMcaUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CD39DYGX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DQ8P612T",
+    "brand": "Hervy",
+    "name": "Hervy 400 وات 2 سرعة (PURPLE)",
+    "specs": {
+      "watt": "400",
+      "speed": "2"
+    },
+    "model": "PURPLE",
+    "title": "Hervy Maxy Blender, 1.6L Capacity, 400W, 2 Speeds + Turbo, with 2 Spice Grinders (Purple)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1308,
+    "img": "https://m.media-amazon.com/images/I/31y-37ZmbyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DQ8P612T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F2XXQVV2",
+    "brand": "براون",
+    "name": "براون 1000 وات يدوي (MQ50051M)",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "MQ50051M",
+    "title": "Braun MultiQuick 5 Hand Blender MQ50051M, 1000W Motor, 21-Speed Control with Turbo, PowerBell VPlus Technology, Stainless Steel Shaft, EasyClick Plus System, Whisk and 600ml Beaker, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4444,
+    "img": "https://m.media-amazon.com/images/I/21yDEkqg3JL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F2XXQVV2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CS3HTXRP",
+    "brand": "نينجا",
+    "name": "Ninja Blast Portable Blender, 530ml, Leakproof Lid & Sip Spout, Powerful Cordless Mini Blender, Rechargea",
+    "specs": {},
+    "model": "BC151UKWH",
+    "title": "Ninja Blast Portable Blender, 530ml, Leakproof Lid & Sip Spout, Powerful Cordless Mini Blender, Rechargeable, Portable Smoothies, Protein Shakes, Blends Ice & Frozen Fruit, White, BC151UKWH",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4398,
+    "img": "https://m.media-amazon.com/images/I/31UD6KjQlUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CS3HTXRP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FCFNN4XX",
+    "brand": "نينجا",
+    "name": "Ninja Blast Max Cordless Portable Blender, Dusty Pink",
+    "specs": {},
+    "model": "",
+    "title": "Ninja Blast Max Cordless Portable Blender, Dusty Pink",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4799,
+    "img": "https://m.media-amazon.com/images/I/31pprZ5D81L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FCFNN4XX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FCFNTDVP",
+    "brand": "نينجا",
+    "name": "Ninja Blast Max Cordless Portable Blender, Sea Glass",
+    "specs": {},
+    "model": "",
+    "title": "Ninja Blast Max Cordless Portable Blender, Sea Glass",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8200,
+    "img": "https://m.media-amazon.com/images/I/31sQasV4HhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FCFNTDVP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CHL9Q7QD",
+    "brand": "Smeg",
+    "name": "Smeg 600 وات 3 سرعة (BLF03)",
+    "specs": {
+      "watt": "600",
+      "speed": "3"
+    },
+    "model": "BLF03",
+    "title": "SMEG BLF03 Retro Style Blender – 600W Countertop Blender with 48 oz BPA-Free Jug, 3 Speeds + Pulse, Ice Crush & Smoothie Functions – 50s-Inspired Design-Pastel Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 13929.28,
+    "img": "https://m.media-amazon.com/images/I/31d1mmaIz5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CHL9Q7QD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09R4KX27G",
+    "brand": "بيكو",
+    "name": "بيكو 800 وات 6 سرعة",
+    "specs": {
+      "watt": "800",
+      "speed": "6"
+    },
+    "model": "",
+    "title": "BEKO Table Top Blender, Glass Jug, 6 Speeds, 1.75 L, 800 Watts, Black x Stainless - TBN 81808 BX",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3079.05,
+    "img": "https://m.media-amazon.com/images/I/31-M1ThA3OL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09R4KX27G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D9HRK7CF",
+    "brand": "Ultra",
+    "name": "Ultra Blender UB60M2WE",
+    "specs": {},
+    "model": "UB60M2WE",
+    "title": "Ultra Blender UB60M2WE",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1149,
+    "img": "https://m.media-amazon.com/images/I/31CYwoIjFpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D9HRK7CF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BSW5PVCT",
+    "brand": "فيليبس",
+    "name": "فيليبس 750 وات (HR7301/91)",
+    "specs": {
+      "watt": "750"
+    },
+    "model": "HR7301/91",
+    "title": "Philips HR7301/91 Food Multiprocessor Includes Blender (750W 4-in-1) Processor, Blender, Grate Disk, Slicing Disk, Dishwasher Safe 2 Years Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6721.13,
+    "img": "https://m.media-amazon.com/images/I/314PL0UfUfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BSW5PVCT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C14K5DG7",
+    "brand": "براون",
+    "name": "براون 450 وات يدوي (MQ10)",
+    "specs": {
+      "watt": "450",
+      "type": "يدوي"
+    },
+    "model": "MQ10",
+    "title": "Braun MultiQuick 1 Hand blender MQ10.201M WH, 450 Watts With Chopper 350 ml, Beaker 600 ml – White/Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/31ypEZRTxAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C14K5DG7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CDV5N5Q7",
+    "brand": "سوكاني",
+    "name": "SOKANY SK-999 Blender with Grinder, 2.5L Multi-Speed Kitchen Blender for Juices, Smoothies & Spice Grindi",
+    "specs": {},
+    "model": "",
+    "title": "SOKANY SK-999 Blender with Grinder, 2.5L Multi-Speed Kitchen Blender for Juices, Smoothies & Spice Grinding 6000w",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1995,
+    "img": "https://m.media-amazon.com/images/I/316xLyhi-zL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CDV5N5Q7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CP9STHQ4",
+    "brand": "فيليبس",
+    "name": "فيليبس 800 وات (HR2765/00)",
+    "specs": {
+      "watt": "800"
+    },
+    "model": "HR2765/00",
+    "title": "Philips 5000 Series Blender - 800W Power. Problend Plus Technology. Detachable Blades. Easy Clean. Elegant Compact Design. Large Tumbler And Small Cup. Black (Hr2765/00)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4999,
+    "img": "https://m.media-amazon.com/images/I/31+4Ci-OJcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CP9STHQ4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B82ZY3L3",
+    "brand": "شاومي",
+    "name": "Xiaomi Smart Blender, White, 1Y Local Warranty",
+    "specs": {},
+    "model": "",
+    "title": "Xiaomi Smart Blender, White, 1Y Local Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8444.7,
+    "img": "https://m.media-amazon.com/images/I/315IrocEIHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B82ZY3L3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HN88X2ZS",
+    "brand": "شارب",
+    "name": "Home Gold Powerful 2 in 1 Electric Blender – 4500W, 32000RPM Speed, Sharp Stainless Steel Blades, Large C",
+    "specs": {},
+    "model": "",
+    "title": "Home Gold Powerful 2 in 1 Electric Blender – 4500W, 32000RPM Speed, Sharp Stainless Steel Blades, Large Capacity for Juices + Mill, Spices, Nuts – 1 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/5161PbVE5WL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HN88X2ZS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3LGHG6R",
+    "brand": "Homagator",
+    "name": "Homagator 180 وات 7 سرعة يدوي",
+    "specs": {
+      "watt": "180",
+      "speed": "7",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "LumaBella B-2011 Hand Mixer Blender 180W with 7 Speeds - A1-530",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 347.81,
+    "img": "https://m.media-amazon.com/images/I/413RaVqWiTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3LGHG6R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07R5GK2TT",
+    "brand": "فيليبس",
+    "name": "فيليبس يدوي (HR2657/91)",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "HR2657/91",
+    "title": "Philips Viva Collection ProMix Handblender HR2657/91, 2 Years Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6571.19,
+    "img": "https://m.media-amazon.com/images/I/31V6J64Pt-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07R5GK2TT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DS174113",
+    "brand": "غير محدد",
+    "name": "City HMA1024 4 In 1 Electric Hand Blender 1500 Watts, Black/Silver | 1500W Hand Blender for Mixing, Chip,",
+    "specs": {
+      "watt": "1500",
+      "type": "يدوي"
+    },
+    "model": "HMA1024",
+    "title": "City HMA1024 4 In 1 Electric Hand Blender 1500 Watts, Black/Silver | 1500W Hand Blender for Mixing, Chip, Whisk and Mixing",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1099,
+    "img": "https://m.media-amazon.com/images/I/21qcgauy1KL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DS174113?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DQ89734W",
+    "brand": "غير محدد",
+    "name": "DSP KM1137, 4in1 Blender Set, 1200W",
+    "specs": {
+      "watt": "1200"
+    },
+    "model": "KM1137",
+    "title": "DSP KM1137, 4in1 Blender Set, 1200W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1304,
+    "img": "https://m.media-amazon.com/images/I/31f-dbU-t3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DQ89734W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07QL2K1TX",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 400 وات (BX4030-B5)",
+    "specs": {
+      "watt": "400"
+    },
+    "model": "BX4030-B5",
+    "title": "Black & Decker 400W Blender With Grinder Mill, White, Bx4030-B5\"\"",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1880,
+    "img": "https://m.media-amazon.com/images/I/41FPdyl41+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07QL2K1TX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D5YNCJF3",
+    "brand": "سوكاني",
+    "name": "سوكاني 1000 وات 3 سرعة",
+    "specs": {
+      "watt": "1000",
+      "speed": "3"
+    },
+    "model": "",
+    "title": "Sokani MULTI-PURPOSE BLENDER, Effortless Blending with 1000W Power, 1.5L Capacity, 3 Speeds, Stainless Steel Blades, and Safety Features, SK-JB-178",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1656,
+    "img": "https://m.media-amazon.com/images/I/41VI043B5EL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D5YNCJF3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BYMQT52T",
+    "brand": "Smeg",
+    "name": "SMEG BLF03PBEU Blender, Plastic, Pastel Blue",
+    "specs": {},
+    "model": "BLF03PBEU",
+    "title": "SMEG BLF03PBEU Blender, Plastic, Pastel Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8210.22,
+    "img": "https://m.media-amazon.com/images/I/31UmieoeqEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BYMQT52T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HL3Y3SRW",
+    "brand": "غير محدد",
+    "name": "Blender 500W, 32000 RPM Countertop Smoothie Maker with 2.5 L Jar, Stepless Speed Control, Stainless Steel",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "BLACK",
+    "title": "Blender 500W, 32000 RPM Countertop Smoothie Maker with 2.5 L Jar, Stepless Speed Control, Stainless Steel Blades, Ice Crushing and Overcurrent Protection, Red, SC-1589 (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1995,
+    "img": "https://m.media-amazon.com/images/I/510SKDio76L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HL3Y3SRW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07YK3SQCB",
+    "brand": "NutriBullet",
+    "name": "NutriBullet 900 وات",
+    "specs": {
+      "watt": "900"
+    },
+    "model": "",
+    "title": "NutriBullet 900 Watts, 9 Piece Set, Multi-Function High Speed Blender, Mixer System with Nutrient Extractor, Smoothie Maker, Copper Gold, NB-201, \"2 year Warranty\"",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7999,
+    "img": "https://m.media-amazon.com/images/I/31wBnC6vDnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07YK3SQCB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B5Z7XYTH",
+    "brand": "فريش",
+    "name": "Similar Fresh Juice Blender, 3.3 x 9.5",
+    "specs": {},
+    "model": "",
+    "title": "Similar Fresh Juice Blender, 3.3 x 9.5",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 181.83,
+    "img": "https://m.media-amazon.com/images/I/4103aD0hmkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B5Z7XYTH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJQMKHH5",
+    "brand": "أرزوم",
+    "name": "أرزوم 500 وات (AR1147)",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "AR1147",
+    "title": "Arzum Shake’n Take Neo Personal Blender 500W - 570ml & 400ml BPA-Free Bottles - Stainless Steel Blades - One Touch Operation - Black - AR1147 BK",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2698,
+    "img": "https://m.media-amazon.com/images/I/415SS6jab4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJQMKHH5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00E5JZWAK",
+    "brand": "JTC",
+    "name": "JTC TM-800AQ Omni Q Commercial Kitchen Blender with OmniShield (noise reduction enclosure)",
+    "specs": {},
+    "model": "",
+    "title": "JTC TM-800AQ Omni Q Commercial Kitchen Blender with OmniShield (noise reduction enclosure)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19050,
+    "img": "https://m.media-amazon.com/images/I/41KZwvEdx7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00E5JZWAK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F1DCJ3WZ",
+    "brand": "فريش",
+    "name": "340ml Portable Blender Multifunctional Electric Blender with 8 Powerful Blades for Fruit Juicing Fresh Ju",
+    "specs": {},
+    "model": "GREEN",
+    "title": "340ml Portable Blender Multifunctional Electric Blender with 8 Powerful Blades for Fruit Juicing Fresh Juices,USB Rechargeable Battery,Perfect for Travel,Camping,Gym,Office (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 450,
+    "img": "https://m.media-amazon.com/images/I/41TvugU3WsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F1DCJ3WZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GSZJQ3HD",
+    "brand": "Tank",
+    "name": "Tank 600 وات",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Tank Super Blender, 1.5L Glass Jug, 250ml BPA Free Plastic Grinder, 250ml BPA Free Plastic Meat Mincer, 600 Watts, Navy, YB-010, 2-Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1690,
+    "img": "https://m.media-amazon.com/images/I/413fDl8GNCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GSZJQ3HD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GGHTLNCQ",
+    "brand": "Tank",
+    "name": "Tank 600 وات",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Tank Super Blender, 1.5L Glass Jug, 250ml BPA Free Plastic Grinder, 250ml BPA Free Plastic Meat Mincer, 600 Watts, White, YB-010, 2-Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1676,
+    "img": "https://m.media-amazon.com/images/I/41i2RlljBsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GGHTLNCQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08KGCH64L",
+    "brand": "كينوود",
+    "name": "كينوود 500 وات (BLP15)",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "BLP15",
+    "title": "Kenwood blender smoothie maker 500w 1.5l with grinder mill, chopper mill, ice crush function blp15.360bk black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2050,
+    "img": "https://m.media-amazon.com/images/I/31zEAdvEscL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08KGCH64L?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098TXM3KZ",
+    "brand": "فريش",
+    "name": "فريش 360 وات",
+    "specs": {
+      "watt": "360"
+    },
+    "model": "",
+    "title": "Fresh Tabletop Blender, 1.5-Liter Plastic Jar with Small Grinder - White, 360 Watts.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/51AVBGlZO6S._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098TXM3KZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07GDR7VZ3",
+    "brand": "فيليبس",
+    "name": "فيليبس 300 وات يدوي (HR3705/10)",
+    "specs": {
+      "watt": "300",
+      "type": "يدوي"
+    },
+    "model": "HR3705/10",
+    "title": "Philips HR3705/10 – Hand Blender 300 W, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2133.03,
+    "img": "https://m.media-amazon.com/images/I/41EKgLrxsXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07GDR7VZ3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BKKXVHT8",
+    "brand": "ANYOUI",
+    "name": "ANYOUI 3 سرعة يدوي (BLACK)",
+    "specs": {
+      "speed": "3",
+      "type": "يدوي"
+    },
+    "model": "BLACK",
+    "title": "ANYOUI Rechargeable Electric Foam Maker - Handheld Milk Frother and Drink Mixer With Stainless Whisks, 3 Speed Adjustable Blender for Cappuccino (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 167.88,
+    "img": "https://m.media-amazon.com/images/I/31ZhQQHb2PL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BKKXVHT8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F2H8GYVL",
+    "brand": "غير محدد",
+    "name": "Electric Blender 3 in 1 Multi Use 1800W 3L Grinder 600ml Meat Grinder 1000ml 15 Speed",
+    "specs": {
+      "watt": "1800",
+      "speed": "15"
+    },
+    "model": "",
+    "title": "Electric Blender 3 in 1 Multi Use 1800W 3L Grinder 600ml Meat Grinder 1000ml 15 Speed",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2784,
+    "img": "https://m.media-amazon.com/images/I/41lF5zkbLPL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F2H8GYVL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09V2CX2FJ",
+    "brand": "Spaceshoop",
+    "name": "Spaceshoop 7 سرعة يدوي",
+    "specs": {
+      "speed": "7",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "KBZONE Hand Mixer Blender for Cake, Egg Beater Machine Cream Electric Hand Blender for Cake Mixing Whipping Machine Hand Beater for Cake Blender with 7 Speed",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 231.11,
+    "img": "https://m.media-amazon.com/images/I/41OSShjA-CL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09V2CX2FJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B088PXPDJ9",
+    "brand": "MI",
+    "name": "MI يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "MI Electric Hand Blender Mixer Hand-held Egg Beater Mixer, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 245,
+    "img": "https://m.media-amazon.com/images/I/31HszX-jQvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B088PXPDJ9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00OLKE36M",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 500 وات (MX5200/2-)",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "MX5200/2-",
+    "title": "TORNADO Electric Blender 500 Watt, 1.5 Liter, 2 Mills, Beige MX5200/2-Beige",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2199,
+    "img": "https://m.media-amazon.com/images/I/31gffmmZB6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00OLKE36M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BKYFJGG4",
+    "brand": "سوكاني",
+    "name": "سوكاني يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "SOKANY Electric Food Mixer Table Stand Cake Dough Mixer Handheld Egg Beater Blender Baking Cream Machine automatic egg beater",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 879.5,
+    "img": "https://m.media-amazon.com/images/I/31Hu3Xxs+qL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BKYFJGG4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FJ2TLN85",
+    "brand": "شارب",
+    "name": "CITY Electric Blender For Food And Juice And Ice Crushing 6500W Jug 2L With 6 Sharp Stainless Blades Mult",
+    "specs": {},
+    "model": "",
+    "title": "CITY Electric Blender For Food And Juice And Ice Crushing 6500W Jug 2L With 6 Sharp Stainless Blades Multiple Speeds - HMA 1021",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1362,
+    "img": "https://m.media-amazon.com/images/I/41JjVA9yRUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FJ2TLN85?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08R7Q9FYQ",
+    "brand": "سوكاني",
+    "name": "سوكاني 5 سرعة يدوي",
+    "specs": {
+      "speed": "5",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "SOKANY 800-Watt Hand Mixer Beater Blender Electric Cream Maker for Cakes with Base 5 Speed Control | 2 Stainless Steel Beaters| 2 Dough Hooks",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1171.24,
+    "img": "https://m.media-amazon.com/images/I/31jj5cq74DL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08R7Q9FYQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CFHP59CS",
+    "brand": "Spaceshoop",
+    "name": "Spaceshoop يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Electric hand blender mixer hand-held egg beater 7-speed mixer immerison blender included 4 stainless steel stirrer cream cake mixers tool",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 231.75,
+    "img": "https://m.media-amazon.com/images/I/31e7FOp2EpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CFHP59CS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H8MRGN1H",
+    "brand": "غير محدد",
+    "name": "خلاط كهربائي احترافي 800 واط مع ضمان 12 شهر، سعة 2 لتر، سرعة 25000 دورة/دقيقة، شفرات ستانلس ستيل 304 عدد ",
+    "specs": {},
+    "model": "",
+    "title": "خلاط كهربائي احترافي 800 واط مع ضمان 12 شهر، سعة 2 لتر، سرعة 25000 دورة/دقيقة، شفرات ستانلس ستيل 304 عدد 6، غطاء عازل للصوت، شاشة لمس، وظيفة تنظيف ذاتي، مناسب للعصائر والسموذي وسحق الثلج",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5759.04,
+    "img": "https://m.media-amazon.com/images/I/51Q8Le3QEmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8MRGN1H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098TZ1H82",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "TORNADO Vacuum Blender 1000 Watt 1.5 Liter Extra 0.6 Liter Bottle White TVBL-1000LI",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7899,
+    "img": "https://m.media-amazon.com/images/I/31IUTE02luL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098TZ1H82?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B862RWL4",
+    "brand": "إمبكس",
+    "name": "إمبكس 260 وات يدوي (WHITE)",
+    "specs": {
+      "watt": "260",
+      "type": "يدوي"
+    },
+    "model": "WHITE",
+    "title": "Ekalavya Impex 260W Electric Scarlett Hand Mixer Beater and Blenders with 7 Gear and 4 Pieces Stainless Steel Blades (White)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 265,
+    "img": "https://m.media-amazon.com/images/I/41DYqDdeNxL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B862RWL4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DGF7S7Z8",
+    "brand": "سوكاني",
+    "name": "Sokany Digital Blender Silent 8000W 2L SK-03024",
+    "specs": {},
+    "model": "",
+    "title": "Sokany Digital Blender Silent 8000W 2L SK-03024",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9350,
+    "img": "https://m.media-amazon.com/images/I/31IoryDOKWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DGF7S7Z8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09BD7TSG4",
+    "brand": "Beslike",
+    "name": "Beslike 3 سرعة يدوي",
+    "specs": {
+      "speed": "3",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Milk Frothers USB Rechargeable Electric Foam Maker W/ 2 Stainless Steel Whisk, Handheld 3 Speeds Egg Beater Drink Mixer Mini Blender for Cappuccinos, Assorted colors",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 155.49,
+    "img": "https://m.media-amazon.com/images/I/417AcrZmJ+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09BD7TSG4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09MBB5DSF",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 300 وات",
+    "specs": {
+      "watt": "300"
+    },
+    "model": "",
+    "title": "TORNADO Personal Blender 300 Watt, 0.60 Liter, Pink PB-300T",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1699,
+    "img": "https://m.media-amazon.com/images/I/21zM2lfx14L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09MBB5DSF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DHSS9LQT",
+    "brand": "مولينكس",
+    "name": "Moulinex Lightmix, Portable Blender, Wireless, 300 ml, Powerful, Rechargeable, Eucalyptus LM1C0410",
+    "specs": {},
+    "model": "",
+    "title": "Moulinex Lightmix, Portable Blender, Wireless, 300 ml, Powerful, Rechargeable, Eucalyptus LM1C0410",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2598,
+    "img": "https://m.media-amazon.com/images/I/41Ujx2uweWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DHSS9LQT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098W8F8RV",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 250 وات (MX900/2)",
+    "specs": {
+      "watt": "250"
+    },
+    "model": "MX900/2",
+    "title": "Tornado Electric Blender 1 Mills 250 Watt 1.5 Litre with Stainless Steel Blade MX900/2",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1749,
+    "img": "https://m.media-amazon.com/images/I/31CJs1bPGfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098W8F8RV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2J9DX9W",
+    "brand": "Rafal",
+    "name": "Rafal 1800 وات",
+    "specs": {
+      "watt": "1800"
+    },
+    "model": "",
+    "title": "Rafal Countertop Blender 2 Liter 1800 Watt Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3590,
+    "img": "https://m.media-amazon.com/images/I/31CMK8VRK7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2J9DX9W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GDW7KMWR",
+    "brand": "غير محدد",
+    "name": "Electric Hand Blender (Hand Blender) 300W with 2 Speeds Detachable Stainless Steel Shaft and Blender, Pur",
+    "specs": {
+      "watt": "300",
+      "speed": "2",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Electric Hand Blender (Hand Blender) 300W with 2 Speeds Detachable Stainless Steel Shaft and Blender, Puree and Mixing for Soup, Juice, Milkshakes, Food, Touch with Pulse, Easy to Clean, 220-240V",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 435,
+    "img": "https://m.media-amazon.com/images/I/21aa9nY4CFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GDW7KMWR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FF3BFMNS",
+    "brand": "غير محدد",
+    "name": "JAMAKY Italy Electric Hand Blender, 3000 Watt, Black JMK3007",
+    "specs": {
+      "watt": "3000",
+      "type": "يدوي"
+    },
+    "model": "JMK3007",
+    "title": "JAMAKY Italy Electric Hand Blender, 3000 Watt, Black JMK3007",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/316YD8yPjYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FF3BFMNS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08RCRF54T",
+    "brand": "كينوود",
+    "name": "كينوود 1500 وات (BLM92)",
+    "specs": {
+      "watt": "1500"
+    },
+    "model": "BLM92",
+    "title": "Kenwood 1500W Heating Blender, 3Litre - BLM92.920SS",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9999,
+    "img": "https://m.media-amazon.com/images/I/515rha25yfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08RCRF54T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HLV1NN9B",
+    "brand": "غير محدد",
+    "name": "Electric Hand Blender Stick Black Handle Red Button Stainless Steel Head | Home Use, Detachable Head, Eas",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Electric Hand Blender Stick Black Handle Red Button Stainless Steel Head | Home Use, Detachable Head, Easy To Hold, Suitable For Soup And Juices, Comfortable Design",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 405,
+    "img": "https://m.media-amazon.com/images/I/41yW7prrBoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HLV1NN9B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C4Q554WZ",
+    "brand": "غير محدد",
+    "name": "Generic Coffee Blender dsp 3069 Crate a Better Life 25W Electric Stirrup Racquet and Cappuccino Multi Col",
+    "specs": {},
+    "model": "",
+    "title": "Generic Coffee Blender dsp 3069 Crate a Better Life 25W Electric Stirrup Racquet and Cappuccino Multi Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 515,
+    "img": "https://m.media-amazon.com/images/I/11FblvZOVEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C4Q554WZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CDM8HGVZ",
+    "brand": "مينتا",
+    "name": "مينتا 400 وات (BL1361B)",
+    "specs": {
+      "watt": "400"
+    },
+    "model": "BL1361B",
+    "title": "Mienta - Blender - 400W - BL1361B - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1429,
+    "img": "https://m.media-amazon.com/images/I/31wGuaq8MLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CDM8HGVZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D67442RD",
+    "brand": "غير محدد",
+    "name": "Mini Blender, Portable Travel Blender, 380ml Fruit Blender, Mini Blender and Juice Maker with USB Recharg",
+    "specs": {},
+    "model": "BLUE",
+    "title": "Mini Blender, Portable Travel Blender, 380ml Fruit Blender, Mini Blender and Juice Maker with USB Rechargeable, for Making Smoothies, Milkshakes, Smoothies (Blue)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 160.83,
+    "img": "https://m.media-amazon.com/images/I/31tsaASYZFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D67442RD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07YK48157",
+    "brand": "NutriBullet",
+    "name": "NutriBullet 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "NutriBullet Full Size Blender + Combo, 7 Piece Set, Multi-Function High Speed Blender, Mixer System with Nutrient Extractor, Smoothie Maker, Dark Grey, 1000 Watts, NBC-10B",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14449,
+    "img": "https://m.media-amazon.com/images/I/31B6jFG+DQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07YK48157?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B019QWHVF4",
+    "brand": "راسل هوبز",
+    "name": "راسل هوبز 300 وات (21351)",
+    "specs": {
+      "watt": "300"
+    },
+    "model": "21351",
+    "title": "Russell Hobbs (21351) Mix and Go Cool Smoothie Maker - Portable Blender 300W, 2x 600ml Bottles, Ice Crushing, Non-Slip, Dishwasher Safe, White - 1-Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2500,
+    "img": "https://m.media-amazon.com/images/I/31N-lORgxaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B019QWHVF4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWG9KSXN",
+    "brand": "غير محدد",
+    "name": "White Life Electric Blender 7500 Watt 2 Liter – Powerful Mixer Multi Use + Kibbeh – Professional Motor – ",
+    "specs": {},
+    "model": "",
+    "title": "White Life Electric Blender 7500 Watt 2 Liter – Powerful Mixer Multi Use + Kibbeh – Professional Motor – Suitable for Juices, Nuts & Ice - 1 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/I/31u9M2RJURL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWG9KSXN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGV5K4T2",
+    "brand": "شارب",
+    "name": "Electric Mixer - Powerful Portable Electric Blender with USB Connectivity and Six Sharp Blades, Perfect f",
+    "specs": {},
+    "model": "GREEN",
+    "title": "Electric Mixer - Powerful Portable Electric Blender with USB Connectivity and Six Sharp Blades, Perfect for Making Smoothies, Juices, and Shakes in Seconds (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 507.17,
+    "img": "https://m.media-amazon.com/images/I/313vuT5k+jL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGV5K4T2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B3SGXHHK",
+    "brand": "غير محدد",
+    "name": "Personal Size Blender, Portable Blender, Battery Powered USB Blender (Multi Color)",
+    "specs": {},
+    "model": "",
+    "title": "Personal Size Blender, Portable Blender, Battery Powered USB Blender (Multi Color)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 290.2,
+    "img": "https://m.media-amazon.com/images/I/41u93YzjTbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B3SGXHHK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HKG78BD4",
+    "brand": "غير محدد",
+    "name": "Hotel Blender Grinder – Electric Blender Grinder Bowl with Lid – Blender | 800 ml Capacity, Stainless Ste",
+    "specs": {},
+    "model": "",
+    "title": "Hotel Blender Grinder – Electric Blender Grinder Bowl with Lid – Blender | 800 ml Capacity, Stainless Steel Blades",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 350,
+    "img": "https://m.media-amazon.com/images/I/31dlgYGMDfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HKG78BD4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSVCFGWC",
+    "brand": "One Life",
+    "name": "One Life 700 وات",
+    "specs": {
+      "watt": "700"
+    },
+    "model": "",
+    "title": "One Life Electric Blender with Grinder, 700W, 1.5L Capacity, Stainless Steel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1045,
+    "img": "https://m.media-amazon.com/images/I/31F3nYKDaKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSVCFGWC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "manual",
     "missCount": 0,
     "oosCount": 0
   }
