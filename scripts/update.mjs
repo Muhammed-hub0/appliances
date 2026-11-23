@@ -145,8 +145,9 @@ async function findNewItems(category, offers, globalKnown) {
           keywords,
           itemPage: page,
           itemCount: SEARCH_ITEM_COUNT,
-          minPrice,
-          maxPrice,
+          // الـ Creators API بياخد الأسعار بأصغر وحدة نقد (سنتمات) مش بالجنيه
+          minPrice: Math.round(minPrice * 100),
+          maxPrice: Math.round(maxPrice * 100),
         });
       } catch (err) {
         console.warn(`  بحث "${keywords}" صفحة ${page} فشل: ${err.message}`);

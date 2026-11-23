@@ -27,10 +27,10 @@ const e = (key, label, options) => ({ key, label, options, type: 'enum' });
 // متعمّدة إنها عبارات مركّبة عشان كلمات زي "filter" أو "bag" أو "stand" بتيجي
 // كمان في عنوان الجهاز نفسه (stand mixer / bagless vacuum / air filter).
 export const ACCESSORY_RE =
-  /\b(replacement|spare)\s+(part|parts|filter|filters|bag|bags|blade|blades|head|heads|kit|kits|brush|brushes|tray|trays|rack|racks|pot|pots|nozzle|nozzles)\b|\baccessor(y|ies)\b|\bcompatible\s+with\b|\bcookbook\b|\brecipe\s+book\b|\bcleaning\s+kit\b|\bprotective\s+(cover|case)\b|\bsilicone\s+(liner|liners|mat|mats|pot|pots|mold|mould|tray|trays)\b|\bparchment\s+paper\b|\bmagnet\b|\borganizer\b|\bsticker\b|\bdecal\b|\bcleaner\b|\bمنظف\b|\brefill\s+kit\b|\bwater\s+filter\s+refill\b|\bblade\s*only\b|\bcover\s+only\b|\bcase\s+only\b/i;
+  /\b(replacement|spare)\s+(part|parts|filter|filters|bag|bags|blade|blades|head|heads|kit|kits|brush|brushes|tray|trays|rack|racks|pot|pots|nozzle|nozzles)\b|\baccessor(y|ies)\b|\bcompatible\s+with\b|\bcookbook\b|\brecipe\s+book\b|\bcleaning\s+kit\b|\bprotective\s+(cover|case)\b|\bsilicone\s+(liner|liners|mat|mats|pot|pots|mold|mould|tray|trays)\b|\bparchment\s+paper\b|\bmagnet\b|\borganizer\b|\bsticker\b|\bdecal\b|\bcleaner\b|\bمنظف\b|\bspare\b|\breplacement\b|\bglass\s*plate\b|\bturntable\b|\bknob\b|\bstorage\s+(?:box|container|bin)\b|\bcontainer\b|\b(?:washing\s*machine|fridge|freezer|oven|dishwasher|air\s*conditioner)\s+cover\b|\brefill\s+kit\b|\bwater\s+filter\s+refill\b|\bblade\s*only\b|\bcover\s+only\b|\bcase\s+only\b/i;
 
 export const GENERIC_RE =
-  /^(air|fryer|microwave|fridge|freezer|shaver|machine|electric|digital|portable|multi|multifunction|smart|home|new|white|black|8|\d+|قلاية|قلايه|ميكروويف|مايكروويف|ثلاجة|ثلاجه|فريزر|غسالة|غساله|مكنسة|مكنسه|مكواة|مكواه|غلاية|غلايه|محمصة|محمصه|خلاط|مضرب|فرن|بوتاجاز|سخان|تكييف|مروحة|مروحه|عصارة|عصاره|قدر|ماكينة|ماكينه|جهاز|طقم|عدة|أدوات|ادوات)$/i;
+  /^(air|fryer|microwave|fridge|freezer|shaver|machine|electric|digital|portable|multi|multifunction|smart|home|new|white|black|generic|unbranded|8|\d+|قلاية|قلايه|ميكروويف|مايكروويف|ثلاجة|ثلاجه|فريزر|غسالة|غساله|مكنسة|مكنسه|مكواة|مكواه|غلاية|غلايه|محمصة|محمصه|خلاط|مضرب|فرن|بوتاجاز|سخان|تكييف|مروحة|مروحه|عصارة|عصاره|قدر|ماكينة|ماكينه|جهاز|طقم|عدة|أدوات|ادوات)$/i;
 
 // تحويل أسماء الماركات الإنجليزية لعربي
 export const BRAND_MAP = [
@@ -224,7 +224,7 @@ export const CATEGORIES = [
     id: 'dishwashers', title: 'غسالات الأطباق', short: 'غسالة أطباق', emoji: '🍽️',
     queries: ['dishwasher', 'غسالة أطباق', 'غسالة اطباق'],
     include: /dish\s?washer|غسالة\s*(?:أطباق|اطباق)/i,
-    exclude: /washing\s*machine|غسالة\s*ملابس|tablet|salt|rinse\s*aid|detergent|منظف/i,
+    exclude: /washing\s*machine|غسالة\s*ملابس|tablet|capsule|powder|\bgel\b|salt|rinse\s*aid|detergent|منظف/i,
     specs: [
       n('places', 'عدد الأماكن', /(\d{1,2})\s*(?:place|setting|مكان)/i, 4, 16, ''),
       e('type', 'النوع', [[/built\s*in|مدمج/i, 'مدمج'], [/countertop|سطح الطاولة/i, 'سطح الطاولة'], [/freestanding|قائم/i, 'قائم']]),
@@ -356,7 +356,7 @@ export const CATEGORIES = [
     id: 'air-conditioners', title: 'التكييفات', short: 'تكييف', emoji: '🌬️',
     queries: ['air conditioner', 'تكييف', 'مكيف'],
     include: /air\s*conditioner|\bac\b|split\s*ac|تكييف|مكيف/i,
-    exclude: /cover|غلاف|adapter|charger|dc\s*ac|motor/i,
+    exclude: /cover|غلاف|adapter|charger|dc\s*ac|motor|home\s*services|\bservice\b|تركيب/i,
     specs: [
       n('hp', 'القدرة (حصان)', /(\d+(?:\.\d+)?)\s*(?:hp\b|حصان)/i, 0.5, 5, ''),
       e('type', 'النوع', [[/split|سبليت/i, 'سبليت'], [/window|شباك/i, 'شباك'], [/portable|متنقل/i, 'متنقل']]),
