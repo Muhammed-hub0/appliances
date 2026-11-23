@@ -440,19 +440,19 @@ export const CATEGORY_FILTERS = {
   },
   microwaves: {
     device: /micro\s?wave|مايكروويف|ميكروويف/i,
-    accessory: /\bmicrowave\s+(?:cover|liner|tray|rack)\b|\b(?:cover|liner|tray|rack)\s+for\s+microwave\b|\bmicrowave\s+oven\s+cleaner\b/i,
+    accessory: /\bmicrowave\s+(?:cover|liner|tray|rack)\b|\bmicrowave\s+oven\s+(?:rack|tray|cover|liner)\b|\b(?:cover|liner|tray|rack)\s+for\s+microwave\b|\bmicrowave\s+oven\s+cleaner\b|\bplate\s+stacker\b|\bsplatter\s+cover\b|\b(?:baking\s+dish|casserole|glass\s+dish)\b.*\bmicrowave\b|\bmicrowave\b.*\b(?:baking\s+dish|casserole|glass\s+dish)\b/i,
   },
   fridges: {
     device: /fridge|refrigerator|ثلاج/i,
-    accessory: /(?:^|[\s,(-])(?:fridge|refrigerator)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfridge\s+(?:liner|mat|organizer|bin|shelf|door\s+seal)\b|\b(?:liner|organizer|bin|shelf)\s+for\s+(?:fridge|refrigerator)\b|ممتص\s+رطوبة|معطر\s+ثلاجة/i,
+    accessory: /(?:^|[\s,(-])(?:fridge|refrigerator)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfridge\s+(?:liner|mat|organizer|bin|shelf|door\s+seal)\b|\b(?:liner|organizer|bin|shelf)\s+for\s+(?:fridge|refrigerator)\b|\b(?:fridge|refrigerator)\s+lock\b|^\s*pyrex\b|\bpyrex\b.*\b(?:fridge|refrigerator)\b|\bfood\s+storage\b|\bstorage\s+bowl\b|\bmood\s+board\b|\bmagnetic\b.*\bfridge\b|\bfridge\b.*\bmagnetic\b|\bmobile\s+base\b.*\b(?:refrigerator|washing\s+machine)\b|ممتص\s+رطوبة|معطر\s+ثلاجة/i,
   },
   freezers: {
     device: /freezer|فريزر/i,
-    accessory: /(?:^|[\s,(-])(?:freezer)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfreezer\s+(?:bag|container|cover|liner|mat)\b|\b(?:bag|container|cover|liner)\s+for\s+freezer\b|ممتص\s+رطوبة|\bfreezer\s+mates\b/i,
+    accessory: /(?:^|[\s,(-])(?:freezer)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfreezer\s+(?:bag|container|cover|liner|mat)\b|\b(?:bag|container|cover|liner)\s+for\s+freezer\b|\bice\s+(?:cube\s+)?(?:tray|mold|mould|maker)\b|\bice\s+tray\b|\bfreezer\s+labels?\b|\bfood\s+storage\b|\bstorage\s+bowl\b|\b(?:fridge|refrigerator|freezer)\s+lock\b|\bchild\s+safety\s+latch\b|ممتص\s+رطوبة|\bfreezer\s+mates\b/i,
   },
   shavers: {
     device: /shaver|razor|trimmer|epilat|grooming|bikini|حلاق|ماكينة\s*حلاقة|تشذيب|إزالة\s*شعر/i,
-    accessory: /\bblades?\s+(?:refill|replacement)\b|\brefill\s+(?:blades?|cartridges?|heads?)\b|\breplacement\s+(?:blades?|heads?|cartridges?)\b|\b(?:disposable|manual|straight\s*edge)\s+razor\b|\bshaving\s+(?:brush|bowl|cup|bib|cape)\b|\bbeard\s+bib\b|شفرات\s*(?:بديلة|غيار)|فرشاة\s*حلاقة|كريم\s*حلاقة/i,
+    accessory: /^blade\b|\bblades?\s+(?:refill|replacement)\b|\brefill\s+(?:blades?|cartridges?|heads?)\b|\breplacement\s+(?:blades?|heads?|cartridges?)\b|\b(?:disposable|manual|straight\s*edge)\s+razor\b|\bshaving\s+(?:brush|bowl|cup|bib|cape)\b|\bbeard\s+bib\b|شفرات\s*(?:بديلة|غيار)|فرشاة\s*حلاقة|كريم\s*حلاقة/i,
   },
   'washing-machines': {
     device: /washing\s*machine|غسالة\s*(?:ملابس|أوتوماتيك|اتوماتيك|فوق|تحميل)|غسال/i,
@@ -460,11 +460,11 @@ export const CATEGORY_FILTERS = {
   },
   dishwashers: {
     device: /dish\s?washer|غسالة\s*(?:أطباق|اطباق)/i,
-    accessory: /\bdishwasher\s+(?:hose|filter|rack|basket|salt|tablet|pod|cleaner|cover)\b|\b(?:hose|filter|rack|basket)\s+for\s+dishwasher\b|خرطوم\s*غسالة\s*أطباق/i,
+    accessory: /\bdishwasher\s+(?:hose|filter|rack|basket|salt|tablet|pod|cleaner|cover|brush)\b|\b(?:hose|filter|rack|basket)\s+for\s+dishwasher\b|\bsoap\s+dispensing\s+brush\b|خرطوم\s*غسالة\s*أطباق/i,
   },
   ovens: {
     device: /\boven\b|فرن|توستر/i,
-    accessory: /^(?:[A-Z][\w-]*\s+){0,2}(?:baking\s+)?(?:oven\s+)?(?:tray|rack|liner|mat|basket)\b|\boven\s+(?:tray|rack|liner|mat|basket)\b|\boven\s+baking\s+(?:tray|sheet|mat)\b|\bair\s*fryer\s+(?:basket|tray|rack|liner)\b|\bparchment\b|غطاء\s*فرن/i,
+    accessory: /^(?:[A-Z][\w-]*\s+){0,2}(?:baking\s+)?(?:oven\s+)?(?:tray|rack|liner|mat|basket)\b|\boven\s+(?:tray|rack|liner|mat|basket)\b|\boven\s+baking\s+(?:tray|sheet|mat)\b|\bair\s*fryer\s+(?:basket|tray|rack|liner)\b|\bbbq\s+grill\s+mats?\b|\bgrill\s+mats?\b|\bparchment\b|غطاء\s*فرن/i,
   },
   'coffee-machines': {
     device: /coffee|espresso|قهوة|كافيه/i,
@@ -496,19 +496,19 @@ export const CATEGORY_FILTERS = {
   },
   toasters: {
     device: /toaster|محمص/i,
-    accessory: /\btoaster\s+(?:bag|cover|rack|tray)\b|\b(?:bag|cover|rack|tray)\s+for\s+toaster\b|غطاء\s*محمصة/i,
+    accessory: /\btoaster\s+(?:bag|cover|rack|tray|tongs?)\b|\b(?:bag|cover|rack|tray)\s+for\s+toaster\b|\btoast\s+trivet\b|غطاء\s*محمصة/i,
   },
   mixers: {
     device: /mixer|مضرب/i,
-    accessory: /\b(?:whisk|beater|dough\s+hook|bowl|attachment)\s+for\s+(?:mixer|stand\s+mixer)\b|\bmixer\s+(?:whisk|beater|attachment)\s+(?:only|replacement|spare)\b|قطعة\s*بديلة/i,
+    accessory: /\b(?:whisk|beater|dough\s+hook|bowl|attachment)\s+for\s+(?:mixer|stand\s+mixer)\b|\bmixer\s+(?:whisk|beater|attachment)\s+(?:only|replacement|spare)\b|^(?:[^,]{0,50}\b)?(?:milk\s+frother|milk\s+whisk(?:er)?|foam\s+maker)\b|\bhandheld\s+milk\s+frother\b|\bmilk\s+frother\s+wand\b|قطعة\s*بديلة/i,
   },
   cookers: {
     device: /cooker|cooking\s*range|\bstove\b|بوتاجاز/i,
-    accessory: /\b(?:gas|stove|cooker)\s+hose\b|\bhose\s+for\s+(?:gas|cooker|stove)\b|\bgas\s+(?:regulator|refill\s+canister|cartridge)\b|\bheat\s+diffuser\b|موزع\s+غاز|خرطوم\s+غاز|اسطوانة\s+غاز\s*(?:صغيرة|محمول|تعبئة)|غطاء\s*بوتاجاز/i,
+    accessory: /\b(?:gas|stove|cooker)\s+hose\b|\bhose\s+for\s+(?:gas|cooker|stove)\b|\bgas\s+(?:regulator|refill\s+canister|cartridge)\b|\bheat\s+diffuser\b|\bcooker\s+hood\s+bulb\b|\bextractor\s+hood\b|\bmoka\s+pot\b|موزع\s+غاز|خرطوم\s+غاز|اسطوانة\s+غاز\s*(?:صغيرة|محمول|تعبئة)|غطاء\s*بوتاجاز/i,
   },
   'water-heaters': {
     device: /water\s*heater|geyser|\bboiler\b|سخان/i,
-    accessory: /\b(?:water\s+heater|geyser|boiler)\s+(?:hose|pipe|adapter|connector|power\s+cord|element|anode|thermostat)\b|\b(?:hose|adapter|connector|power\s+cord|element|anode|thermostat)\s+for\s+(?:water\s+heater|geyser|boiler)\b|خرطوم\s*سخان|محول\s*سخان|أنبوب\s*سخان/i,
+    accessory: /\b(?:water\s+heater|geyser|boiler)\s+(?:hose|pipe|adapter|connector|power\s+cord|element|anode|thermostat)\b|\b(?:hose|adapter|connector|power\s+cord|element|anode|thermostat)\s+for\s+(?:water\s+heater|geyser|boiler)\b|\bconnection\s+(?:hose|pipe)\b.*\b(?:geyser|water\s+heater|boiler)\b|\b(?:geyser|water\s+heater|boiler)\b.*\bconnection\s+(?:hose|pipe)\b|\bcopper\s+water\s+heater\s+with\s+thermostat\b|خرطوم\s*سخان|محول\s*سخان|أنبوب\s*سخان/i,
   },
   'air-conditioners': {
     device: /air\s*conditioner|\bac\b|split\s*ac|تكييف|مكيف/i,
@@ -520,7 +520,7 @@ export const CATEGORY_FILTERS = {
   },
   'rice-cookers': {
     device: /rice\s*cooker|طباخ\s*أرز/i,
-    accessory: /\brace\s*cooker\s+(?:inner\s+pot|heat\s+diffuser|plate|tray|steam\s+tray)\b|\binner\s+pot\b.*\brace\s*cooker\b|\bheat\s+diffuser\b.*\brace\b|قطعة\s*بديل|قدر\s*بديل/i,
+    accessory: /\brice\s*cooker\s+(?:inner\s+pot|heat\s+diffuser|plate|tray|steam\s+tray)\b|\binner\s+pot\b.*\brice\s*cooker\b|\bheat\s+diffuser\b.*\brice\b|\brice\s+(?:paddle|spoon)\b|\bspoon\s+rest\b|\butensil\s+holder\b|قطعة\s*بديل|قدر\s*بديل/i,
   },
   'pressure-cookers': {
     device: /pressure\s*cooker|قدر\s*ضغط/i,
