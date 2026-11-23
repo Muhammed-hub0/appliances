@@ -13,10 +13,10 @@ export const MAX_PRICE = 600000;
 export const SEARCH_MAX_PRICE = 300000;
 export const MAX_STALE_DAYS = 7;
 // بنضيف أكبر عدد ممكن من منتجات أمازون في كل قسم، مش 15 بس
-export const MAX_NEW_PER_CATEGORY = 80;
-export const MAX_STORED_PER_CATEGORY = 400;
+export const MAX_NEW_PER_CATEGORY = 120;
+export const MAX_STORED_PER_CATEGORY = 600;
 export const HISTORY_LIMIT = 200;
-export const SEARCH_PAGES = [1, 2, 3, 4, 5];
+export const SEARCH_PAGES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 export const SEARCH_ITEM_COUNT = 10;
 
 const n = (key, label, pattern, min, max, suffix = '') => ({
@@ -414,3 +414,19 @@ export const CATEGORIES = [
 
 export const CATEGORY_IDS = CATEGORIES.map((c) => c.id);
 export const CATEGORY_BY_ID = new Map(CATEGORIES.map((c) => [c.id, c]));
+
+// تقسيم الصفحة الرئيسية لمجموعات كبيرة، بكل مجموعة شبكة كروت مستقلة
+export const GROUPS = [
+  {
+    id: 'large', title: 'أجهزة منزلية كبيرة', emoji: '🏠',
+    ids: ['fridges', 'freezers', 'washing-machines', 'dishwashers', 'ovens', 'cookers', 'air-conditioners', 'water-heaters'],
+  },
+  {
+    id: 'small', title: 'أجهزة منزلية صغيرة', emoji: '🍳',
+    ids: ['airfryers', 'microwaves', 'coffee-machines', 'blenders', 'food-processors', 'vacuum-cleaners', 'irons', 'kettles', 'toasters', 'mixers', 'fans', 'rice-cookers', 'pressure-cookers', 'juicers'],
+  },
+  {
+    id: 'personal', title: 'العناية الشخصية', emoji: '🪒',
+    ids: ['shavers', 'hair-dryers'],
+  },
+];

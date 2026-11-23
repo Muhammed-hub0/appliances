@@ -6,6 +6,7 @@ import {
   CATEGORIES,
   CATEGORY_BY_ID,
   EXCLUDED_BRANDS,
+  GROUPS,
   MARKETPLACE,
   MAX_PRICE,
   MIN_PRICE,
@@ -252,6 +253,10 @@ const HUB_CSS = `
 .cat .meta{font-size:12px;color:var(--muted)}
 .cat .go{font-size:12px;color:var(--win);font-weight:800;margin-top:auto}
 .cat.empty{opacity:.55}
+.group{margin:24px 0 6px}
+.group h2{font-size:19px;margin:0 0 10px;padding-inline-start:10px;border-inline-start:4px solid var(--b)}
+.group .grid{margin-top:0}
+#noCats{color:var(--muted);font-weight:700;padding:18px;text-align:center}
 @media(max-width:900px){.grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:650px){.grid{grid-template-columns:repeat(2,1fr)}.cat{padding:12px}.cat b{font-size:14px}}
 `;
@@ -323,19 +328,30 @@ function footer(rowsCount, meta) {
 </div>`;
 }
 
-export function renderHub(stats, meta, covers = {}) {
-  const cards = CATEGORIES.map((cat) => {
-    const count = stats[cat.id] || 0;
-    const cover = covers[cat.id];
-    const visual = cover
-      ? `<img class="cat-img" src="${esc(cover)}" loading="lazy" alt="${esc(cat.title)}">`
-      : `<span class="emoji">${cat.emoji}</span>`;
-    return `<a class="cat${count === 0 ? ' empty' : ''}" href="c/${cat.id}/index.html" data-name="${esc(cat.title + ' ' + cat.short + ' ' + cat.id)}">
+function renderHubCard(cat, stats, covers) {
+  const count = stats[cat.id] || 0;
+  const cover = covers[cat.id];
+  const visual = cover
+    ? `<img class="cat-img" src="${esc(cover)}" loading="lazy" alt="${esc(cat.title)}">`
+    : `<span class="emoji">${cat.emoji}</span>`;
+  return `<a class="cat${count === 0 ? ' empty' : ''}" href="c/${cat.id}/index.html" data-name="${esc(cat.title + ' ' + cat.short + ' ' + cat.id)}">
     ${visual}
     <b>${esc(cat.title)}</b>
     <span class="meta">${count} منتج متوفر</span>
     <span class="go">اعرض المنتجات ←</span>
   </a>`;
+}
+
+export function renderHub(stats, meta, covers = {}) {
+  const sections = GROUPS.map((group) => {
+    const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
+    const cards = cats.map((cat) => renderHubCard(cat, stats, covers)).join('\n');
+    return `<section class="group" data-group="${group.id}">
+  <h2>${group.emoji} ${esc(group.title)}</h2>
+  <div class="grid">
+${cards}
+  </div>
+</section>`;
   }).join('\n');
 
   return `<!doctype html>
@@ -359,9 +375,10 @@ ${siteHeader()}
 <div class="searchbox surface-card" style="padding:10px 12px">
   <input id="catSearch" type="search" placeholder="ابحث عن نوع الجهاز... مثال: غسالة، مكواة، تكييف">
 </div>
-<div class="grid" id="catGrid">
-${cards}
+<div id="catGrid">
+${sections}
 </div>
+<p id="noCats" hidden>مفيش أقسام مطابقة للبحث.</p>
 ${footer(Object.values(stats).reduce((a, b) => a + b, 0), meta)}
 </main>
 <script>
@@ -369,6 +386,7 @@ ${themeScript()}
 (function(){
   var q=document.getElementById('catSearch');
   var cards=Array.prototype.slice.call(document.querySelectorAll('#catGrid .cat'));
+  var groups=Array.prototype.slice.call(document.querySelectorAll('#catGrid .group'));
   var msg=document.getElementById('noCats');
   function apply(){
     var v=(q.value||'').trim().toLowerCase();
@@ -377,6 +395,10 @@ ${themeScript()}
       var ok=!v||c.getAttribute('data-name').toLowerCase().indexOf(v)!==-1;
       c.style.display=ok?'':'none';
       if(ok)shown++;
+    });
+    groups.forEach(function(g){
+      var any=Array.prototype.slice.call(g.querySelectorAll('.cat')).some(function(c){return c.style.display!=='none';});
+      g.style.display=any?'':'none';
     });
     if(msg)msg.hidden=shown!==0;
   }
