@@ -175,7 +175,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -183,7 +183,7 @@
   {
     "asin": "B0H9Z7KBXD",
     "brand": "فريش",
-    "name": "أطباق 13مكان",
+    "name": "فريش أطباق 13مكان",
     "specs": {
       "places": "13"
     },
@@ -241,7 +241,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -454,7 +454,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "lastSeenOut": "2026-11-23",
     "outOfStockSince": "2026-11-23"
@@ -482,7 +482,7 @@
   {
     "asin": "B09YZ3XDB3",
     "brand": "فريش",
-    "name": "أطباق",
+    "name": "فريش أطباق",
     "specs": {},
     "model": "A15",
     "title": "Fresh Dishwasher -A15 60 cm- 12 Persons Silver, A15-60-SR",
@@ -596,8 +596,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0C72Y2B5K",
@@ -616,7 +618,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1109,7 +1111,7 @@
   {
     "asin": "B07NKR4PWT",
     "brand": "بوش",
-    "name": "SMI50D05TR أطباق",
+    "name": "بوش أطباق",
     "specs": {},
     "model": "SMI50D05TR",
     "title": "SMI50D05TR serie | 4, dishwasher, 60 cm, stainless steel - semi built - in,",
@@ -1129,7 +1131,7 @@
   {
     "asin": "B0GXWSJXS4",
     "brand": "Levon",
-    "name": "LEVON أطباق 13مكان",
+    "name": "Levon أطباق 13مكان",
     "specs": {
       "places": "13"
     },
@@ -1235,7 +1237,7 @@
   {
     "asin": "B0GXX1Q26J",
     "brand": "Levon",
-    "name": "LEVON أطباق",
+    "name": "Levon أطباق",
     "specs": {},
     "model": "DI14",
     "title": "LEVON LV-DWED2RC-DI14 Dishwasher 14 Person | Stainless | With 3 Stage Timer | Child Safety Lock | Digital HYPER WASH | With 6 Programs All Inclusive",
@@ -1281,7 +1283,7 @@
     "title": "OTTO KONING Frankfurt Cutlery Set 24 Pieces for 6 Persons in Silver | 6 knives, 6 forks, 6 spoons, 6 teaspoons, stainless steel 18/0 in silver, mirror gloss surface, dishwasher safe",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1069.99,
+    "price": 1075.99,
     "img": "https://m.media-amazon.com/images/I/31jHz4cYqvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0836G6CHP?tag=fineartslab-21",
     "active": false,
@@ -1420,7 +1422,7 @@
   {
     "asin": "B0HQ6PXCLP",
     "brand": "Xper",
-    "name": "XPER أطباق 15مكان",
+    "name": "Xper أطباق 15مكان",
     "specs": {
       "places": "15"
     },
@@ -1458,8 +1460,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B07NDWRLRP",
@@ -1628,7 +1632,7 @@
   {
     "asin": "B0DP387FVQ",
     "brand": "Amazon Home Services",
-    "name": "Appliance أطباق",
+    "name": "Amazon Home Services أطباق",
     "specs": {},
     "model": "",
     "title": "Appliance Installation Service - Dishwasher - 3 Units",
@@ -1648,7 +1652,7 @@
   {
     "asin": "B0H6QZMPJZ",
     "brand": "THE PACK",
-    "name": "THE أطباق",
+    "name": "THE PACK أطباق",
     "specs": {},
     "model": "",
     "title": "THE PACK Clear Meal Prep Containers with Clear Lids, 750 ml, Microwave Safe, Freezer Safe & Dishwasher Safe, Leak-Resistant Reusable Food Storage Containers for Meal Prep (15)",
@@ -1688,7 +1692,7 @@
   {
     "asin": "B091J69FQC",
     "brand": "Spaceshoop",
-    "name": "أطباق",
+    "name": "Spaceshoop أطباق",
     "specs": {},
     "model": "",
     "title": "Generic Collapsible Dish Rack Drainer with Cutlery Holder BPA Free Dishwasher Safe Easy Storage Space Saving for Home Kitchen Grey",
@@ -1748,7 +1752,7 @@
   {
     "asin": "B0GTWDSY36",
     "brand": "غير محدد",
-    "name": "Dishwasher أطباق",
+    "name": "أطباق",
     "specs": {},
     "model": "LARGE",
     "title": "Dishwasher - Wooden rack with 7 drying cabinets for plates, cups, lids and panels, portable design for efficient kitchen organization and exquisite decor (Large)",
@@ -1788,13 +1792,13 @@
   {
     "asin": "B0HS49TTG8",
     "brand": "غير محدد",
-    "name": "Meercato أطباق",
+    "name": "أطباق",
     "specs": {},
     "model": "",
     "title": "Meercato 16-Piece White Arcopal Dinnerware Set for 4 Persons, Swirl Fluted Opal Glass Plates & Bowls Service Set (Dinner, Deep, Dessert Plates & Soup Bowls) - Microwave & Dishwasher Safe",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 749,
+    "price": 699,
     "img": "https://m.media-amazon.com/images/I/41QkT2G8E1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HS49TTG8?tag=fineartslab-21",
     "active": false,
@@ -1808,7 +1812,7 @@
   {
     "asin": "B0DFTL1RZH",
     "brand": "Plan A",
-    "name": "Plan أطباق",
+    "name": "Plan A أطباق",
     "specs": {},
     "model": "",
     "title": "Plan A Multifunctional Cleaning Sponge, Flexible in Warm Water, Strong in Cold Water, Deep Cleaning, Dishwasher Safe, Stain and Odor Resistant Kitchen Sponge (2, Yellow)",
@@ -1828,7 +1832,7 @@
   {
     "asin": "B0F3V4ZL6D",
     "brand": "غير محدد",
-    "name": "Mini أطباق",
+    "name": "أطباق",
     "specs": {},
     "model": "CHP61",
     "title": "Mini Chopper Easy Chop Quad Blade Chopper with 2 Bowls, Dual Speed, Mayonnaise Attachment, Ice Crushing, 500W Motor, Dishwasher Safe, Anti-Slip Base – International Warranty – CHP61.200WH",
@@ -1848,7 +1852,7 @@
   {
     "asin": "B0HKNP8X3D",
     "brand": "غير محدد",
-    "name": "Imported أطباق",
+    "name": "أطباق",
     "specs": {},
     "model": "CURVED",
     "title": "Imported Porcelain Bowl & Plate Set, 5-Piece – 4 Bowls with Large Plate, Heat Resistant, Microwave & Dishwasher Safe, Colorful Design (Curved)",
@@ -1888,7 +1892,7 @@
   {
     "asin": "B0HNXVGDM9",
     "brand": "غير محدد",
-    "name": "Ceramic أطباق",
+    "name": "أطباق",
     "specs": {},
     "model": "",
     "title": "Ceramic Deep Bowl Set of 4, 800ml, 6 inch, Soup Bowls, Cereal Bowls, Pasta Bowls, Salad Bowls, Noodles, Rice Bowls, White Bowls, Brown Edge, Microwave, Dishwasher & Oven Safe (4)",
@@ -1908,7 +1912,7 @@
   {
     "asin": "B0HBNXPSWX",
     "brand": "غير محدد",
-    "name": "Plastic أطباق",
+    "name": "أطباق",
     "specs": {},
     "model": "",
     "title": "Plastic Lunch Box with 5 Compartments, BPA-Free, 1 Litre | Flower Internal Dividers, Microwave Safe, Dishwasher Safe, 6x13x6 cm,",
@@ -1928,7 +1932,7 @@
   {
     "asin": "B0CMXLZZCJ",
     "brand": "Terra Home",
-    "name": "Terra أطباق",
+    "name": "Terra Home أطباق",
     "specs": {},
     "model": "",
     "title": "Terra Home - 12 piece cappuccino cup set - White, 200 ml, porcelain, glossy, thick-walled, dishwasher safe, Italian design - Set of 6 coffee cups with saucers",
@@ -1948,7 +1952,7 @@
   {
     "asin": "B081JQWZ7J",
     "brand": "Prep Naturals",
-    "name": "Prep أطباق",
+    "name": "Prep Naturals أطباق",
     "specs": {},
     "model": "MULTI-COMPARTMENT",
     "title": "Prep Naturals 5 Pack 36 Oz Glass Meal Containers - Dishwasher Microwave Freezer Oven Safe - Glass Storage Containers with Lids (Multi-Compartment)",
@@ -1968,7 +1972,7 @@
   {
     "asin": "B0F1YQCJP1",
     "brand": "غير محدد",
-    "name": "Silicone أطباق",
+    "name": "أطباق",
     "specs": {},
     "model": "",
     "title": "Silicone Tongs with Metal Dishwasher Safe.Sturdy Construction,Non Scratch Grip Heads,Long Handle,Odor, Stain, Heat Resistant - SE",
@@ -2095,7 +2099,7 @@
   {
     "asin": "B0DP37G726",
     "brand": "Amazon Home Services",
-    "name": "Appliance أطباق",
+    "name": "Amazon Home Services أطباق",
     "specs": {},
     "model": "",
     "title": "Appliance Installation Service - Dishwasher - 2 Units",

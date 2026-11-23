@@ -383,7 +383,7 @@
     "title": "Xiaomi Robot Vacuum S40 | 10,000Pa Suction Power | LDS Laser Navigation | 2-in-1 Tank 520ml/270ml | 3 Water Levels | Anti-noding | App Control | Alexa/Google",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12679.5,
+    "price": 12350,
     "img": "https://m.media-amazon.com/images/I/21XDDJ-yydL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FNF4CP18?tag=fineartslab-21",
     "active": true,
@@ -527,7 +527,7 @@
   {
     "asin": "B0FTT3DPXM",
     "brand": "Bissell",
-    "name": "BISSELL مكنسة لاسلكي 200وات",
+    "name": "Bissell مكنسة لاسلكي 200وات",
     "specs": {
       "watt": "200",
       "type": "لاسلكي"
@@ -680,7 +680,7 @@
   {
     "asin": "B0946NS3TP",
     "brand": "KÄRCHER",
-    "name": "Kärcher مكنسة",
+    "name": "KÄRCHER مكنسة",
     "specs": {},
     "model": "",
     "title": "Kärcher Home & Garden Multi Vacuum Cleaners Wd 1S Classic - 1.098-324, Yellow\"Min 1 year manufacturer warranty\"",
@@ -750,7 +750,7 @@
     "title": "Xiaomi Robot Vacuum H50, White, 1Y Local Warranty | Dual Anti-Tangle System, Automatic Dust Collection, Mop Pad Cleaning and Air Drying, Integrated Self-Cleaning Washboard",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 25000,
+    "price": 24500,
     "img": "https://m.media-amazon.com/images/I/31KDQIYl8GL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GDXL6G5L?tag=fineartslab-21",
     "active": true,
@@ -778,8 +778,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0CLGSCLZL",
@@ -806,7 +808,7 @@
   {
     "asin": "B0BRQ8SN77",
     "brand": "Daga",
-    "name": "مكنسة",
+    "name": "Daga مكنسة",
     "specs": {},
     "model": "",
     "title": "Portable Electric Sanitizing and Cleaning Vacuum with UV-C Light for Pillows, Mattresses, Beddings, Sofas, and other Fabric Surfaces - White, Quantity: 1",
@@ -834,7 +836,7 @@
     "title": "eufy X10 Pro Omni Robot Vacuum and Mop with 8,000 Pa Suction, Dual Mops with 12 mm Auto-Lift and Carpet Detection, AI Obstacle Avoidance, Auto Mop Washing, Self-Drying, Self-Emptying, Self-Refilling",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 29800,
+    "price": 29700,
     "img": "https://m.media-amazon.com/images/I/31zfLbih5sL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CPDVV72T?tag=fineartslab-21",
     "active": true,
@@ -922,7 +924,7 @@
     "title": "roborock Q7 TF+ Robot Vacuum and Mop, 10000Pa Suction, Black | Free Cleaning Solution Included, plus 7-week self-emptying, dual anti-tangle, LiDAR navigation and app control.",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 19030,
+    "price": 18979,
     "img": "https://m.media-amazon.com/images/I/31Uyvh7e7fL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F38BGFV2?tag=fineartslab-21",
     "active": false,
@@ -1024,7 +1026,7 @@
   {
     "asin": "B0F1NH8KB2",
     "brand": "غير محدد",
-    "name": "Cordless مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1090,7 +1092,7 @@
   {
     "asin": "B0GXWK43MS",
     "brand": "غير محدد",
-    "name": "Cordless مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1112,7 +1114,7 @@
   {
     "asin": "B0F8C5FB37",
     "brand": "غير محدد",
-    "name": "Wireless مكنسة 120وات",
+    "name": "مكنسة 120وات",
     "specs": {
       "watt": "120"
     },
@@ -1156,7 +1158,7 @@
   {
     "asin": "B0F1SNTTY1",
     "brand": "TDOO",
-    "name": "Cordless مكنسة لاسلكي",
+    "name": "TDOO مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1178,7 +1180,7 @@
   {
     "asin": "B0FLYL43L2",
     "brand": "غير محدد",
-    "name": "Cordless مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1222,7 +1224,7 @@
   {
     "asin": "B09DFY6QF4",
     "brand": "LIPUWS",
-    "name": "Handheld مكنسة لاسلكي",
+    "name": "LIPUWS مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1244,7 +1246,7 @@
   {
     "asin": "B0G21ZT5DQ",
     "brand": "غير محدد",
-    "name": "Cordless مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1398,7 +1400,7 @@
   {
     "asin": "B0F1NJ48CZ",
     "brand": "غير محدد",
-    "name": "Small مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1420,7 +1422,7 @@
   {
     "asin": "B0DWLVCVQ3",
     "brand": "غير محدد",
-    "name": "Hand مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1442,7 +1444,7 @@
   {
     "asin": "B0GDNHF9DQ",
     "brand": "غير محدد",
-    "name": "Powerful مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1486,7 +1488,7 @@
   {
     "asin": "B0F1NHBLS3",
     "brand": "غير محدد",
-    "name": "Compact مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },
@@ -1552,7 +1554,7 @@
   {
     "asin": "B0H2NCJT2D",
     "brand": "غير محدد",
-    "name": "Cordless مكنسة لاسلكي",
+    "name": "مكنسة لاسلكي",
     "specs": {
       "type": "لاسلكي"
     },

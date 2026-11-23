@@ -609,7 +609,7 @@
   {
     "asin": "B0F8BR7R1P",
     "brand": "غير محدد",
-    "name": "Nationel مروحة 18بوصة أرضية",
+    "name": "مروحة 18بوصة أرضية",
     "specs": {
       "size": "18",
       "type": "أرضية"
@@ -655,7 +655,7 @@
   {
     "asin": "B091FPR51T",
     "brand": "I Home",
-    "name": "I مروحة 18بوصة أرضية",
+    "name": "I Home مروحة 18بوصة",
     "specs": {
       "size": "18",
       "type": "أرضية"
@@ -769,7 +769,7 @@
   {
     "asin": "B098MXQ8GT",
     "brand": "غير محدد",
-    "name": "Mini مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -813,7 +813,7 @@
   {
     "asin": "B0CTMNNNFD",
     "brand": "Levoit",
-    "name": "LEVOIT مروحة أرضية",
+    "name": "Levoit مروحة أرضية",
     "specs": {
       "type": "أرضية"
     },
@@ -857,7 +857,7 @@
   {
     "asin": "B07MWXQGCD",
     "brand": "SONAI",
-    "name": "Sonai مروحة 12بوصة",
+    "name": "SONAI مروحة 12بوصة",
     "specs": {
       "size": "12"
     },
@@ -901,7 +901,7 @@
   {
     "asin": "B0H71FKP8T",
     "brand": "غير محدد",
-    "name": "48V مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -923,7 +923,7 @@
   {
     "asin": "B0HCWFPLRC",
     "brand": "فكرة",
-    "name": "مروحة طاولة",
+    "name": "فكرة مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -967,7 +967,7 @@
   {
     "asin": "B0GSHBJXY1",
     "brand": "NILMBOT",
-    "name": "3-in-1 مروحة طاولة",
+    "name": "NILMBOT مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -1011,7 +1011,7 @@
   {
     "asin": "B0H89X85M2",
     "brand": "غير محدد",
-    "name": "Wireless مروحة 8بوصة",
+    "name": "مروحة 8بوصة",
     "specs": {
       "size": "8"
     },
@@ -1099,7 +1099,7 @@
   {
     "asin": "B0D9VX1TFW",
     "brand": "Skyline",
-    "name": "SkyLine مروحة أرضية",
+    "name": "Skyline مروحة أرضية",
     "specs": {
       "type": "أرضية"
     },
@@ -1121,7 +1121,7 @@
   {
     "asin": "B0F724TN2M",
     "brand": "غير محدد",
-    "name": "Wall مروحة 18بوصة",
+    "name": "مروحة 18بوصة",
     "specs": {
       "size": "18"
     },
@@ -1143,7 +1143,7 @@
   {
     "asin": "B0CZJD6L3Q",
     "brand": "غير محدد",
-    "name": "Karioka مروحة 18بوصة",
+    "name": "مروحة 18بوصة",
     "specs": {
       "size": "18"
     },
@@ -1203,7 +1203,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1299,7 +1299,7 @@
   {
     "asin": "B0FMBGJR5F",
     "brand": "غير محدد",
-    "name": "Ceiling مروحة سقف",
+    "name": "مروحة سقف",
     "specs": {
       "type": "سقف"
     },
@@ -1343,7 +1343,7 @@
   {
     "asin": "B09Y2T1N7L",
     "brand": "غير محدد",
-    "name": "Desk مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Desk Fan Clamp - 220V",
@@ -1403,7 +1403,7 @@
   {
     "asin": "B07MWJD52X",
     "brand": "SONAI",
-    "name": "Sonai مروحة",
+    "name": "SONAI مروحة",
     "specs": {},
     "model": "",
     "title": "Sonai Box Fan 14, 3 speed settings, 120 min timer ,70 Watt-MAR-3014",
@@ -1443,7 +1443,7 @@
   {
     "asin": "B0B2B26RMR",
     "brand": "Prifix",
-    "name": "PRIFIX مروحة",
+    "name": "Prifix مروحة",
     "specs": {},
     "model": "",
     "title": "PRIFIX Brix Roof Rocket Fan",
@@ -1463,7 +1463,7 @@
   {
     "asin": "B097TPXJC6",
     "brand": "غير محدد",
-    "name": "Clip مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Clip desk fan - white",
@@ -1782,7 +1782,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1822,7 +1822,7 @@
     "title": "MediaTech Hawa Hawa 18 Inch stand fan, 75 W,Silent ForceTechnology with 6 Blades, 3 Speed Settings, High-Efficiency copper Motor,Remote control included, Black, MT-SF46R",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2199,
+    "price": 2299,
     "img": "https://m.media-amazon.com/images/I/718rvn3DCaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F6LYY47W?tag=fineartslab-21",
     "active": true,
@@ -1858,7 +1858,7 @@
   {
     "asin": "B0F3J5W7BH",
     "brand": "Cosell",
-    "name": "FAN-X05 مروحة طاولة",
+    "name": "Cosell مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -1880,7 +1880,7 @@
   {
     "asin": "B0H6N4KJNR",
     "brand": "Rackmount",
-    "name": "Rack مروحة طاولة",
+    "name": "Rackmount مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -1946,7 +1946,7 @@
   {
     "asin": "B08B3PWN1L",
     "brand": "TRILINK",
-    "name": "Bladeless مروحة طاولة",
+    "name": "TRILINK مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2012,7 +2012,7 @@
   {
     "asin": "B093FW25Q4",
     "brand": "Shinebella",
-    "name": "مروحة طاولة",
+    "name": "Shinebella مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2056,7 +2056,7 @@
   {
     "asin": "B0BWDD47CP",
     "brand": "Dreamy Cubby",
-    "name": "Dreamy مروحة طاولة",
+    "name": "Dreamy Cubby مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2078,7 +2078,7 @@
   {
     "asin": "B0GRVYNFK6",
     "brand": "PRIME TECH",
-    "name": "Prime مروحة 30بوصة",
+    "name": "PRIME TECH مروحة 30بوصة",
     "specs": {
       "size": "30"
     },
@@ -2100,7 +2100,7 @@
   {
     "asin": "B08YY2WF91",
     "brand": "Touch Elzenouki",
-    "name": "Touch مروحة 16بوصة",
+    "name": "Touch Elzenouki مروحة 16بوصة",
     "specs": {
       "size": "16"
     },
@@ -2122,7 +2122,7 @@
   {
     "asin": "B0CX5KMHN6",
     "brand": "SYMOLO",
-    "name": "Handheld مروحة طاولة",
+    "name": "SYMOLO مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2188,7 +2188,7 @@
   {
     "asin": "B096R1NN51",
     "brand": "Natural Sky",
-    "name": "Natural مروحة أرضية",
+    "name": "Natural Sky مروحة أرضية",
     "specs": {
       "type": "أرضية"
     },
@@ -2232,7 +2232,7 @@
   {
     "asin": "B08PDDSDHY",
     "brand": "DREO",
-    "name": "Dreo مروحة برج",
+    "name": "DREO مروحة برج",
     "specs": {
       "type": "برج"
     },
@@ -2276,7 +2276,7 @@
   {
     "asin": "B0CWL3QZ8H",
     "brand": "S SUNSBELL",
-    "name": "S مروحة طاولة",
+    "name": "S SUNSBELL مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2364,7 +2364,7 @@
   {
     "asin": "B0H6STP8BR",
     "brand": "غير محدد",
-    "name": "XC-F9 مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2408,7 +2408,7 @@
   {
     "asin": "B0GXPV8N3S",
     "brand": "غير محدد",
-    "name": "1Pcs مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2474,7 +2474,7 @@
   {
     "asin": "B0GRW2TVC6",
     "brand": "PRIME TECH",
-    "name": "Prime مروحة 26بوصة",
+    "name": "PRIME TECH مروحة 26بوصة",
     "specs": {
       "size": "26"
     },
@@ -2562,7 +2562,7 @@
   {
     "asin": "B0H689958X",
     "brand": "X mob",
-    "name": "Xmob مروحة طاولة",
+    "name": "X mob مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -2584,7 +2584,7 @@
   {
     "asin": "B0HP2B3H85",
     "brand": "غير محدد",
-    "name": "Shopista مروحة 9بوصة",
+    "name": "مروحة 9بوصة",
     "specs": {
       "size": "9"
     },
@@ -2650,7 +2650,7 @@
   {
     "asin": "B0D98Y7QTH",
     "brand": "ULTRA",
-    "name": "Ultra مروحة سقف",
+    "name": "ULTRA مروحة سقف",
     "specs": {
       "type": "سقف"
     },
@@ -2738,7 +2738,7 @@
   {
     "asin": "B098TYY4V3",
     "brand": "Ataucjin",
-    "name": "ATA مروحة",
+    "name": "Ataucjin مروحة",
     "specs": {},
     "model": "",
     "title": "ATA Electric Pedestal Fan (SF, Multicolor)",
@@ -2758,7 +2758,7 @@
   {
     "asin": "B0D6Y93DNF",
     "brand": "TYMDXKJ",
-    "name": "High-Wind مروحة",
+    "name": "TYMDXKJ مروحة",
     "specs": {},
     "model": "",
     "title": "High-Wind Cooling Electric Fan, Three-Hole Spray Charging Fan Desktop Double-Head Powerful Air Cooler 3 Wind Speeds for Indooor Outdoor Office Bedroom,White",
@@ -2778,7 +2778,7 @@
   {
     "asin": "B0H87TC9NC",
     "brand": "غير محدد",
-    "name": "Handheld مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Handheld Fan Brushless Motor Smart Digital Display | Quick Charge Type-C, 12000 RPM, 100 Speed Levels, Weighing Only 300g, 16 Channel Air Port",
@@ -2818,7 +2818,7 @@
   {
     "asin": "B0BC66PZ8Q",
     "brand": "H-Home",
-    "name": "Large مروحة",
+    "name": "H-Home مروحة",
     "specs": {},
     "model": "",
     "title": "Large Clamp Desk Fan Desk Spoil",
@@ -2898,7 +2898,7 @@
   {
     "asin": "B0HKTJDRV9",
     "brand": "JoJo Store",
-    "name": "H10 مروحة",
+    "name": "JoJo Store مروحة",
     "specs": {},
     "model": "H10",
     "title": "H10 Dual Fan Mobile Controller & Charging Grip Cool & Charge Simultaneously! Features Vibration Shooting Feedback, 2-Speed Fan Button & Green LED. Ultimate Gamepad for iOS/Android Phones4.7-6.0",
@@ -2938,7 +2938,7 @@
   {
     "asin": "B0CWQG2SQ8",
     "brand": "غير محدد",
-    "name": "Niqab مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Niqab 3 Layers (Navy, Fan with Net)",
@@ -2958,7 +2958,7 @@
   {
     "asin": "B09J7HBWKQ",
     "brand": "غير محدد",
-    "name": "Handmade مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Handmade Feather Fan Folding Fan White",
@@ -2978,7 +2978,7 @@
   {
     "asin": "B09K4JDYMF",
     "brand": "ElecGear",
-    "name": "PS5 مروحة",
+    "name": "ElecGear مروحة",
     "specs": {},
     "model": "",
     "title": "PS5 Auto Fan, External ElecGear USB Turbo Fan with Car Temperature Sensor for PlayStation 5 Ultra HD and Digital",
@@ -2998,7 +2998,7 @@
   {
     "asin": "B0D3YV4T35",
     "brand": "غير محدد",
-    "name": "Hand مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Hand Made Wood Fan Number of Ports 4 Multi Color",
@@ -3078,7 +3078,7 @@
   {
     "asin": "B0HD7GXBMS",
     "brand": "Spaceshoop",
-    "name": "Feather مروحة",
+    "name": "Spaceshoop مروحة",
     "specs": {},
     "model": "",
     "title": "​Feather Folding Hand Fan for Weddings & Parties – Luxury White Artificial Feather Fan",
@@ -3098,7 +3098,7 @@
   {
     "asin": "B0CWYL6Y7X",
     "brand": "غير محدد",
-    "name": "Niqab مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Niqab 3 Layers (Battangani, Fan with Vaseline)",
@@ -3186,7 +3186,7 @@
   {
     "asin": "B0GSJM1XRQ",
     "brand": "NILMBOT",
-    "name": "3-in-1 مروحة طاولة",
+    "name": "NILMBOT مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -3275,7 +3275,7 @@
   {
     "asin": "B0GRW8X9T9",
     "brand": "PRIME TECH",
-    "name": "Prime مروحة 30بوصة",
+    "name": "PRIME TECH مروحة 30بوصة",
     "specs": {
       "size": "30"
     },
@@ -3379,13 +3379,15 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0H4CZ9HHR",
     "brand": "Ataucjin",
-    "name": "ATA مروحة 26بوصة أرضية",
+    "name": "Ataucjin مروحة 26بوصة أرضية",
     "specs": {
       "size": "26",
       "type": "أرضية"
@@ -3518,7 +3520,7 @@
   {
     "asin": "B0H6TS4L54",
     "brand": "Spaceshoop",
-    "name": "Flexible مروحة طاولة",
+    "name": "Spaceshoop مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -3560,7 +3562,7 @@
   {
     "asin": "B0H5TH6NL5",
     "brand": "غير محدد",
-    "name": "Bride مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Bride Hand Fan Chic and Attractive Design",
@@ -3602,7 +3604,7 @@
   {
     "asin": "B0D6Z5LJX2",
     "brand": "غير محدد",
-    "name": "Handheld مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Handheld Fan, Powerful Mini USB Fan with Rechargeable Battery, Cute Personal Mini Electric Fan for Kids/Women/Girls School Travel Outdoor Multicolor",
@@ -3622,7 +3624,7 @@
   {
     "asin": "B0HL6HBK8P",
     "brand": "غير محدد",
-    "name": "Wooden مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -3644,7 +3646,7 @@
   {
     "asin": "B091J6RPRB",
     "brand": "غير محدد",
-    "name": "BEDO مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "PINK",
     "title": "BEDO Kid's Handheld Rechargeable Mini Fan (Pink)",
@@ -3664,7 +3666,7 @@
   {
     "asin": "B0F8RCFY1V",
     "brand": "غير محدد",
-    "name": "Hand مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "BLACK",
     "title": "Hand Fan High Quality of Durable Plastic, Leather Double-Sided Folding Flower Pattern Hand Fan Easy to Carry for Weddings, Party Favors, Performances, Dances,Home Decorations,Festivals,Gifts. (Black)",
@@ -3684,7 +3686,7 @@
   {
     "asin": "B0HL6N24J2",
     "brand": "غير محدد",
-    "name": "Folding مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -3706,7 +3708,7 @@
   {
     "asin": "B0FB489H2V",
     "brand": "غير محدد",
-    "name": "Retro مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "PINK",
     "title": "Retro Hand Fan - Foldable Classic Design from the 1920s, Perfect for Fashion Shows, Tea Gatherings, Weddings, and Themed Dress-ups with Decorative Details (pink)",
@@ -3726,7 +3728,7 @@
   {
     "asin": "B0HC3Z6H7H",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "BEIGE",
     "title": "Folding Hand Fan with Case, Grey Floral Pattern, Bamboo Frame with Tassel (beige)",
@@ -3746,7 +3748,7 @@
   {
     "asin": "B0F8RCKGCY",
     "brand": "غير محدد",
-    "name": "Hand مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Hand Fan High Quality of Durable Plastic, Leather Double-Sided Folding Flower Pattern Easy to Carry for Weddings, Party Favors, Performances, Dances,Home Decorations,Festivals,Gifts (Navy Blue).",
@@ -3766,7 +3768,7 @@
   {
     "asin": "B0F8RC7JPK",
     "brand": "غير محدد",
-    "name": "Hand مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Hand Fan High Quality of Durable Plastic, Leather Double-Sided Folding Flower Pattern Easy to Carry for Weddings, Party Favors, Performances, Dances,Home Decorations,Festivals,Gifts (Green Natural).",
@@ -3786,7 +3788,7 @@
   {
     "asin": "B0F8RG5JZR",
     "brand": "غير محدد",
-    "name": "Hand مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Hand Fan High Quality of Durable Plastic, Leather Double-Sided Folding Flower Pattern Easy to Carry for Weddings, Party Favors, Performances, Dances,Home Decorations,Festivals,Gifts (Red Sunny).",
@@ -3828,7 +3830,7 @@
   {
     "asin": "B0DF5KC1GX",
     "brand": "TIPTOP DECORATION",
-    "name": "TIPTOP مروحة",
+    "name": "TIPTOP DECORATION مروحة",
     "specs": {},
     "model": "",
     "title": "TIPTOP DECORATION Premium Traditional Dyed Folding Wooden Hand Held Fan (Coal Black, Pack Of 1)",
@@ -3848,7 +3850,7 @@
   {
     "asin": "B0F8RCRV6Q",
     "brand": "غير محدد",
-    "name": "Hand مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Hand Fan High Quality of Durable Plastic, Leather Double-Sided Folding Flower Pattern Easy to Carry for Weddings, Party Favors, Performances, Dances,Home Decorations,Festivals,Gifts (Dark Purple).",
@@ -3908,7 +3910,7 @@
   {
     "asin": "B0HL51MYZN",
     "brand": "غير محدد",
-    "name": "Wooden مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -3930,7 +3932,7 @@
   {
     "asin": "B0FB488WMK",
     "brand": "غير محدد",
-    "name": "Elegant مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "PINK",
     "title": "Elegant Hand Fan - Compact Foldable 1920s Style for Festive Events, Dance Costumes, and Weddings with Artistic Pattern for Stylish Outfits (pink)",
@@ -3990,7 +3992,7 @@
   {
     "asin": "B0HL6N2TB9",
     "brand": "غير محدد",
-    "name": "Purple مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4012,7 +4014,7 @@
   {
     "asin": "B0HMX4QTTW",
     "brand": "غير محدد",
-    "name": "Imported مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Imported Folding Hand Fan Feather Royal Bride Wedding Photo Props | Feathers , Classic Style, Party Favor,Lightweight",
@@ -4052,7 +4054,7 @@
   {
     "asin": "B0HL3S44FD",
     "brand": "غير محدد",
-    "name": "Wooden مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Wooden Hand Fan Elegant Pink Design Brown | Light weight, no electricity, home and occasions, easy to use, unique natural design",
@@ -4072,7 +4074,7 @@
   {
     "asin": "B0HKYXQZWN",
     "brand": "غير محدد",
-    "name": "Wooden مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Wooden Hand Fan with Stylish and Practical Design | Light weight, no electricity, home and occasions, easy to use, unique natural design",
@@ -4092,7 +4094,7 @@
   {
     "asin": "B0H7N315M6",
     "brand": "غير محدد",
-    "name": "Large مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4114,7 +4116,7 @@
   {
     "asin": "B0HL52S8F3",
     "brand": "غير محدد",
-    "name": "Wooden مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4158,7 +4160,7 @@
   {
     "asin": "B0H7499XPR",
     "brand": "غير محدد",
-    "name": "Lockable مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Lockable Hand Fan - Modern Design - Easy to Use and Carry",
@@ -4173,13 +4175,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0HL3XCC1L",
     "brand": "غير محدد",
-    "name": "Wooden مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4201,7 +4203,7 @@
   {
     "asin": "B0HL7K3NXM",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Hand Fan Bamboo Ribs Pink 15in for Women & Girls",
@@ -4221,7 +4223,7 @@
   {
     "asin": "B0HL6D7ZDK",
     "brand": "غير محدد",
-    "name": "Purple مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4243,7 +4245,7 @@
   {
     "asin": "B0H74ZVK2D",
     "brand": "غير محدد",
-    "name": "Lightweight مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4260,7 +4262,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -4308,7 +4310,7 @@
   {
     "asin": "B0HL6FPXCL",
     "brand": "غير محدد",
-    "name": "Folding مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4330,7 +4332,7 @@
   {
     "asin": "B0H74NYYPY",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Folding Hand Fan - Plastic and Fabric Material - Easy to Carry in Bag",
@@ -4345,13 +4347,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0HL74XD6M",
     "brand": "غير محدد",
-    "name": "Bumpy مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4373,7 +4375,7 @@
   {
     "asin": "B0HL7MQXW4",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Paper Hand Fan with Bamboo Ribs, Green",
@@ -4393,7 +4395,7 @@
   {
     "asin": "B0HL6HPMT9",
     "brand": "غير محدد",
-    "name": "Wooden مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4415,7 +4417,7 @@
   {
     "asin": "B0HJ6KBJN3",
     "brand": "غير محدد",
-    "name": "Classic مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Classic Folding Hand Fan With Floral Design - Multi Color",
@@ -4435,7 +4437,7 @@
   {
     "asin": "B0H74V76DH",
     "brand": "غير محدد",
-    "name": "Travel مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4452,13 +4454,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0H748L1N9",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Hand Fan - Compact Design Easy to Carry - Plastic Material with Cloth",
@@ -4473,7 +4475,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -4496,13 +4498,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0H74D21N1",
     "brand": "غير محدد",
-    "name": "Folding مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4519,13 +4521,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0H74MMVDM",
     "brand": "غير محدد",
-    "name": "Chic مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4542,13 +4544,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0HL6DXC2P",
     "brand": "غير محدد",
-    "name": "Wooden مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4570,7 +4572,7 @@
   {
     "asin": "B0H74D1W8F",
     "brand": "غير محدد",
-    "name": "Stylish مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4587,7 +4589,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -4610,13 +4612,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0FMXTMC1C",
     "brand": "غير محدد",
-    "name": "Luxury مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Luxury Holographic Hand Fan, Rainbow Glamorous Design, Black Frame with Lace, for Dance and Party",
@@ -4631,7 +4633,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -4657,7 +4659,7 @@
   {
     "asin": "B0HL5X2TT4",
     "brand": "غير محدد",
-    "name": "Wooden مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4679,7 +4681,7 @@
   {
     "asin": "B0HL51NZ8R",
     "brand": "غير محدد",
-    "name": "Wooden مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Wooden Hand Fan with Colorful Flowers Fuchsia | Lightweight, No Electricity, Foldable, For Home And Occasion, Unique Natural Design",
@@ -4699,7 +4701,7 @@
   {
     "asin": "B0H3PTP5KW",
     "brand": "غير محدد",
-    "name": "Decorated مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Decorated Folding Hand Fan â€“ Handheld Fan for Parties, Weddings, and Decoration (Sky Blue)",
@@ -4719,7 +4721,7 @@
   {
     "asin": "B0HL6LDX22",
     "brand": "غير محدد",
-    "name": "Bumpy مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Bumpy Elegant Pink Wooden Hand Fan | Light weight, no electricity, home and occasions, easy to use, unique natural design",
@@ -4759,7 +4761,7 @@
   {
     "asin": "B0HL7M5X7S",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Hand Fan Purple Bamboo Ribs 38cm for Women",
@@ -4779,7 +4781,7 @@
   {
     "asin": "B0H3PMRJQX",
     "brand": "غير محدد",
-    "name": "Fan مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -4801,7 +4803,7 @@
   {
     "asin": "B0FMQTJWP8",
     "brand": "غير محدد",
-    "name": "Hand مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Hand Fan Watermelon Design, Green and Orange, Classic Style, Dance and Decoration",
@@ -4821,7 +4823,7 @@
   {
     "asin": "B0HJB48YRB",
     "brand": "غير محدد",
-    "name": "shopista مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "shopista White Marabou Feather Hand Fan Foldable Half Circle",
@@ -4841,7 +4843,7 @@
   {
     "asin": "B0HL42S271",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Hand Fan with Bamboo Ribs for Women, Hot Pink",
@@ -4861,7 +4863,7 @@
   {
     "asin": "B0HL6ZXTD6",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Hand Fan Bamboo Wood Chinese Classical Style for Women",
@@ -4989,7 +4991,7 @@
   {
     "asin": "B0HDSSRYYF",
     "brand": "LEP MAXEL",
-    "name": "Maxel مروحة 12بوصة",
+    "name": "LEP MAXEL مروحة 12بوصة",
     "specs": {
       "size": "12"
     },
@@ -5055,7 +5057,7 @@
   {
     "asin": "B0GYM5DYKB",
     "brand": "ecosystem",
-    "name": "F020 مروحة طاولة",
+    "name": "ecosystem مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5077,7 +5079,7 @@
   {
     "asin": "B097NBXNYK",
     "brand": "PADOM",
-    "name": "Padom مروحة طاولة",
+    "name": "PADOM مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5099,7 +5101,7 @@
   {
     "asin": "B09V2YSM7B",
     "brand": "SONAI",
-    "name": "Sonai مروحة",
+    "name": "SONAI مروحة",
     "specs": {},
     "model": "",
     "title": "Sonai Wall Fan 18 , 3 Speed Settings , Timer Up To 7.5hours , 70 Watt– MAR -1811",
@@ -5119,7 +5121,7 @@
   {
     "asin": "B0BPBZH4WN",
     "brand": "AUOKAI",
-    "name": "مروحة طاولة",
+    "name": "AUOKAI مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5206,7 +5208,7 @@
   {
     "asin": "B091BZTW2S",
     "brand": "غير محدد",
-    "name": "Mini مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Mini Fan with Clip for Home Use",
@@ -5226,7 +5228,7 @@
   {
     "asin": "B0H9NZBP7K",
     "brand": "غير محدد",
-    "name": "Elegant مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Elegant Hand-Painted Foldable Hand Fan with Floral Design",
@@ -5288,7 +5290,7 @@
   {
     "asin": "B0CFVQ67QB",
     "brand": "SONAI",
-    "name": "Sonai مروحة 14بوصة أرضية",
+    "name": "SONAI مروحة 14بوصة أرضية",
     "specs": {
       "size": "14",
       "type": "أرضية"
@@ -5311,7 +5313,7 @@
   {
     "asin": "B0H66DXHLX",
     "brand": "غير محدد",
-    "name": "SL-206 مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5353,7 +5355,7 @@
   {
     "asin": "B0DYK6WNT3",
     "brand": "INTLLAB",
-    "name": "مروحة طاولة",
+    "name": "INTLLAB مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5375,7 +5377,7 @@
   {
     "asin": "B0H1X211BP",
     "brand": "يونيون إير",
-    "name": "جري مروحة 18بوصة أرضية",
+    "name": "يونيون مروحة 18بوصة أرضية",
     "specs": {
       "size": "18",
       "type": "أرضية"
@@ -5418,7 +5420,7 @@
   {
     "asin": "B0DCP91M2R",
     "brand": "غير محدد",
-    "name": "hanso مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5482,7 +5484,7 @@
   {
     "asin": "B0HDJHL8VJ",
     "brand": "Spaceshoop",
-    "name": "مروحة طاولة",
+    "name": "Spaceshoop مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5504,7 +5506,7 @@
   {
     "asin": "B0FGTZX91L",
     "brand": "غير محدد",
-    "name": "Desktop مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -5549,7 +5551,7 @@
   {
     "asin": "B0F6LHWWMF",
     "brand": "فريش",
-    "name": "جري مروحة أرضية",
+    "name": "فريش مروحة أرضية",
     "specs": {
       "type": "أرضية"
     },
@@ -5794,7 +5796,7 @@
   {
     "asin": "B0GYTBDRH6",
     "brand": "غير محدد",
-    "name": "USB مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "USB Rechargeable Personal Fan with 3 Gear Level, Hands-Free Lanyard, High-Velocity Feature, Button Control, Polished Finish",
@@ -5834,7 +5836,7 @@
   {
     "asin": "B0BW6M4YVL",
     "brand": "H-Home",
-    "name": "one مروحة",
+    "name": "H-Home مروحة",
     "specs": {},
     "model": "18IN",
     "title": "one year warranty_iHome 5-Blade Shaft Fan (18In)",
@@ -5854,7 +5856,7 @@
   {
     "asin": "B0GL913S41",
     "brand": "غير محدد",
-    "name": "BRAVOTEC مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "BLACK",
     "title": "BRAVOTEC G140 ARGB PWM 140MM PC Fan: Quiet, Powerful 1700 RPM 5V - 4Pin PWM Fan Controller Support - air flow 73.9 CFM - Hydro Bearing (Black)",
@@ -5874,7 +5876,7 @@
   {
     "asin": "B0CWGSLTRM",
     "brand": "Levoit",
-    "name": "LEVOIT مروحة برج",
+    "name": "Levoit مروحة برج",
     "specs": {
       "type": "برج"
     },
@@ -5918,7 +5920,7 @@
   {
     "asin": "B0BL3F2GV1",
     "brand": "SHAVINGFUN",
-    "name": "مروحة",
+    "name": "SHAVINGFUN مروحة",
     "specs": {},
     "model": "",
     "title": "مروحة رقبة محمولة قابلة للتعديل بزاوية 360 درجة مع بطارية 4000 ميلي امبير في الساعة للمكتب والمنزل والسفر والأماكن الخارجية، 4000.0 مللي أمبير ساعة، كحلي",
@@ -5960,7 +5962,7 @@
   {
     "asin": "B097F6FSDG",
     "brand": "JAC",
-    "name": "Jac مروحة 26بوصة",
+    "name": "JAC مروحة 26بوصة",
     "specs": {
       "size": "26"
     },
@@ -6027,7 +6029,7 @@
   {
     "asin": "B091FW1YD9",
     "brand": "Ega",
-    "name": "EGA مروحة",
+    "name": "Ega مروحة",
     "specs": {},
     "model": "30IN",
     "title": "EGA W-1530 Garden Wall Fan - (30in)",
@@ -6067,7 +6069,7 @@
   {
     "asin": "B0B7257GJL",
     "brand": "Home Supplies Direct",
-    "name": "Mini مروحة",
+    "name": "Home Supplies Direct مروحة",
     "specs": {},
     "model": "",
     "title": "Mini USB Desktop Home Office Fan 360° Rotation Brushless Metal Silent Motor Black (15.2 cm mini USB fan)",
@@ -6087,7 +6089,7 @@
   {
     "asin": "B0H2S8P3SB",
     "brand": "غير محدد",
-    "name": "Modern مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -6109,7 +6111,7 @@
   {
     "asin": "B093135TLY",
     "brand": "BeautySay ABC",
-    "name": "BeautySay مروحة طاولة",
+    "name": "BeautySay ABC مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -6241,7 +6243,7 @@
   {
     "asin": "B09NNF1CWN",
     "brand": "SZ-JIAHAIYU",
-    "name": "SZ-Jiaoyu مروحة",
+    "name": "SZ-JIAHAIYU مروحة",
     "specs": {},
     "model": "",
     "title": "SZ-Jiaoyu Mini Handheld USB Facial Fan for Hands-Free Sports, Mini Cooling Fan Around Your Neck for Travel, Office, Home Room, Outdoor Sports, 300x190 Multi Color",
@@ -6261,7 +6263,7 @@
   {
     "asin": "B0H83Z62W1",
     "brand": "Tip Of The Day",
-    "name": "Tip مروحة طاولة",
+    "name": "Tip Of The Day مروحة",
     "specs": {
       "type": "طاولة"
     },
@@ -6303,7 +6305,7 @@
   {
     "asin": "B0FC7JXZ3S",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Hand Fan with Case, Grey Floral Pattern, Bamboo Frame with Tassel",
@@ -6323,7 +6325,7 @@
   {
     "asin": "B0CR1GHM3D",
     "brand": "Coisien",
-    "name": "مروحة طاولة",
+    "name": "Coisien مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -6387,7 +6389,7 @@
   {
     "asin": "B0H63L9N4P",
     "brand": "غير محدد",
-    "name": "Desk مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -6454,7 +6456,7 @@
   {
     "asin": "B0DH3PK61H",
     "brand": "غير محدد",
-    "name": "Mini مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -6627,7 +6629,7 @@
   {
     "asin": "B0DNWNGS8Q",
     "brand": "غير محدد",
-    "name": "Stand مروحة أرضية",
+    "name": "مروحة أرضية",
     "specs": {
       "type": "أرضية"
     },
@@ -6665,7 +6667,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -6673,7 +6675,7 @@
   {
     "asin": "B09ZQF34YG",
     "brand": "غير محدد",
-    "name": "UJAY مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -6762,7 +6764,7 @@
   {
     "asin": "B0H68H9JL2",
     "brand": "غير محدد",
-    "name": "Mini مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Mini Cat Desk Fan, USB Powered, Strong Wind, Quiet Operation, Direct Connected Wire Multicolor, 18x20cm",
@@ -6782,7 +6784,7 @@
   {
     "asin": "B0H16N5P6P",
     "brand": "غير محدد",
-    "name": "Mini مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "MULTICOLOR",
     "title": "Mini USB Desk Fan Wall Hanging Fan Green LED Light for Home Office (Multicolor)",
@@ -6825,7 +6827,7 @@
   {
     "asin": "B0GWFH5MLV",
     "brand": "غير محدد",
-    "name": "ZB124 مروحة أرضية",
+    "name": "مروحة أرضية",
     "specs": {
       "type": "أرضية"
     },
@@ -6913,7 +6915,7 @@
   {
     "asin": "B0CZJCV2CQ",
     "brand": "غير محدد",
-    "name": "First مروحة شفاط",
+    "name": "مروحة شفاط",
     "specs": {
       "type": "شفاط"
     },
@@ -7003,7 +7005,7 @@
   {
     "asin": "B0993RQDV6",
     "brand": "Prifix",
-    "name": "Wfj210 مروحة",
+    "name": "Prifix مروحة",
     "specs": {},
     "model": "WFJ210",
     "title": "Wfj210 prifix jumbo wall fan",
@@ -7217,7 +7219,7 @@
   {
     "asin": "B0H9BN92FJ",
     "brand": "غير محدد",
-    "name": "Ladies مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Ladies Handheld Folding Fan with Wooden Frame and Lace Tassel Decor | Retro Japanese Style, Spanish Style, Summer Parties, Wedding Use, Celebrations",
@@ -7237,7 +7239,7 @@
   {
     "asin": "B0GZD2M3LD",
     "brand": "غير محدد",
-    "name": "Rechargeable مروحة طاولة",
+    "name": "مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -7303,7 +7305,7 @@
   {
     "asin": "B0FCSBJ9YQ",
     "brand": "LUCKKY",
-    "name": "Icerush مروحة طاولة",
+    "name": "LUCKKY مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },
@@ -7369,7 +7371,7 @@
   {
     "asin": "B0CW39XHH1",
     "brand": "PLUTO",
-    "name": "Pluto مروحة 16بوصة",
+    "name": "PLUTO مروحة 16بوصة",
     "specs": {
       "size": "16"
     },
@@ -7391,7 +7393,7 @@
   {
     "asin": "B0DW6C7R3Q",
     "brand": "غير محدد",
-    "name": "Ventilation مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "100MM",
     "title": "Ventilation Fan for Bathroom and Kitchen - 4\" (100mm) - Powerful Copper Motor with Thermal Protection - Energy Saving",
@@ -7411,7 +7413,7 @@
   {
     "asin": "B0DNXRW7QV",
     "brand": "غير محدد",
-    "name": "Garden مروحة 26بوصة",
+    "name": "مروحة 26بوصة",
     "specs": {
       "size": "26"
     },
@@ -7433,7 +7435,7 @@
   {
     "asin": "B09TZ386HL",
     "brand": "غير محدد",
-    "name": "ATA مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "ATA AST&16 Fan",
@@ -7453,7 +7455,7 @@
   {
     "asin": "B0HLXT6ZNK",
     "brand": "غير محدد",
-    "name": "Modern مروحة سقف",
+    "name": "مروحة سقف",
     "specs": {
       "type": "سقف"
     },
@@ -7475,7 +7477,7 @@
   {
     "asin": "B0HB5JKP8R",
     "brand": "غير محدد",
-    "name": "Folding مروحة",
+    "name": "مروحة",
     "specs": {},
     "model": "",
     "title": "Folding Hand Fan with Wooden Frame, Red - 2 Pieces | Foldable, Wooden Frame, Japanese Design, Lightweight,Daily Use",
@@ -7602,7 +7604,7 @@
   {
     "asin": "B0D5DVN325",
     "brand": "USHOP",
-    "name": "مروحة طاولة",
+    "name": "USHOP مروحة طاولة",
     "specs": {
       "type": "طاولة"
     },

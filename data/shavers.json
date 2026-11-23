@@ -388,7 +388,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 7,
+    "oosCount": 8,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -561,7 +561,7 @@
   {
     "asin": "B0FRN6W5J4",
     "brand": "فيليبس",
-    "name": "All-in-One حلاقة رجالي مقص",
+    "name": "فيليبس حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -814,7 +814,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -1121,7 +1121,7 @@
   {
     "asin": "B01E67U8TA",
     "brand": "كيمي",
-    "name": "حلاقة رجالي",
+    "name": "كيمي حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -1300,7 +1300,7 @@
   {
     "asin": "B0BB8JF6QD",
     "brand": "سوكاني",
-    "name": "Epilator حلاقة نسائي",
+    "name": "سوكاني حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -1547,7 +1547,7 @@
     "title": "VGR V-360 Digital Display Cordless Dual Sided OneBlade Trimmer & Shaver 0.5-9mm Adjustable Comb for complete Beard Styling & Body Hair Trimming 90 mins Runtime Fully Washable IPX5 Waterproof, Green",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 635.9,
+    "price": 555,
     "img": "https://m.media-amazon.com/images/I/51f18tq0RvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DFYZN9V3?tag=fineartslab-21",
     "active": true,
@@ -1776,9 +1776,11 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "type": "women"
+    "type": "women",
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B095R5D43B",
@@ -1939,7 +1941,7 @@
     "title": "VGR V-735 Professional 3-in-1 Lady Shaver Set, IPX7 Waterproof, USB Type-C Rechargeable, for Body, Bikini and Facial Trimming (Pink)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 673.03,
+    "price": 697,
     "img": "https://m.media-amazon.com/images/I/41Te-f4lohL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H1MS1SBZ?tag=fineartslab-21",
     "active": true,
@@ -2072,7 +2074,7 @@
   {
     "asin": "B0DN23S936",
     "brand": "غير محدد",
-    "name": "Aluminum حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -2096,7 +2098,7 @@
   {
     "asin": "B0D31314VR",
     "brand": "ENSSU",
-    "name": "Enssu حلاقة رجالي مقص",
+    "name": "ENSSU حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -2203,13 +2205,13 @@
     "price": 459,
     "img": "https://m.media-amazon.com/images/I/41RJom1slKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0992FKFRW?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -2589,14 +2591,13 @@
     "price": 2679,
     "img": "https://m.media-amazon.com/images/I/419zFMS4zCL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0842P7BRK?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-23",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-23"
   },
   {
@@ -2741,7 +2742,7 @@
   {
     "asin": "B06Y69KVK9",
     "brand": "باناسونيك",
-    "name": "ERGB42K حلاقة رجالي مقاومللماء",
+    "name": "باناسونيك حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -3338,7 +3339,7 @@
   {
     "asin": "B0F5X6JPXV",
     "brand": "كيمي",
-    "name": "KM-T9 حلاقة",
+    "name": "كيمي حلاقة",
     "specs": {
       "battery": "120"
     },
@@ -3421,7 +3422,7 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -3774,7 +3775,7 @@
     "title": "VGR VL-353 Limited Edition Professional Men's Grooming Shaver | Dual Foil, Pop-Up Trimmer | Cordless Use, USB Charging, Lightweight Design with 60 Min Runtime - Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 260,
+    "price": 259,
     "img": "https://m.media-amazon.com/images/I/41hbjBtofvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CKN5J9BC?tag=fineartslab-21",
     "active": true,
@@ -3987,7 +3988,7 @@
   {
     "asin": "B0FSRZRMRQ",
     "brand": "غير محدد",
-    "name": "KM-850 حلاقة رجالي 4شفات",
+    "name": "حلاقة رجالي 4شفات مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "blades": "4 شفرات",
@@ -4037,7 +4038,7 @@
   {
     "asin": "B0F4NQK1WD",
     "brand": "غير محدد",
-    "name": "Trimmer حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -4084,7 +4085,7 @@
   {
     "asin": "B0DPXB5QYX",
     "brand": "غير محدد",
-    "name": "Mens حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -4132,7 +4133,7 @@
   {
     "asin": "B0CFM6NXKK",
     "brand": "THE PACK",
-    "name": "THE حلاقة رجالي مقاومللماء",
+    "name": "THE PACK حلاقة رجالي",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -4180,7 +4181,7 @@
   {
     "asin": "B0D4DC3GMS",
     "brand": "Risina",
-    "name": "Bikini حلاقة نسائي مقاومللماء",
+    "name": "Risina حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -4204,7 +4205,7 @@
   {
     "asin": "B0FN743HGH",
     "brand": "Das Dnails",
-    "name": "حلاقة نسائي مقاومللماء",
+    "name": "Das Dnails حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -4276,7 +4277,7 @@
   {
     "asin": "B0DF6F4WQ6",
     "brand": "VGR",
-    "name": "vgr حلاقة رجالي",
+    "name": "VGR حلاقة رجالي",
     "specs": {
       "gender": "رجالي",
       "battery": "200"
@@ -4348,7 +4349,7 @@
   {
     "asin": "B0CZ17Z2HR",
     "brand": "Qivolt",
-    "name": "حلاقة نسائي مقاومللماء",
+    "name": "Qivolt حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -4372,7 +4373,7 @@
   {
     "asin": "B0G4RCL8GW",
     "brand": "غير محدد",
-    "name": "Professional حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -4396,7 +4397,7 @@
   {
     "asin": "B08G44463N",
     "brand": "SYOGUA",
-    "name": "Womens حلاقة نسائي مقاومللماء",
+    "name": "SYOGUA حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -4468,7 +4469,7 @@
   {
     "asin": "B0BZQ2458H",
     "brand": "غير محدد",
-    "name": "Mini حلاقة رجالي مقاومللماء",
+    "name": "حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -4516,7 +4517,7 @@
   {
     "asin": "B0DBGT2B8Z",
     "brand": "غير محدد",
-    "name": "VGR حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -4540,7 +4541,7 @@
   {
     "asin": "B0BYF3R9CX",
     "brand": "VGR",
-    "name": "Vgr حلاقة مقاومللماء",
+    "name": "VGR حلاقة مقاومللماء",
     "specs": {
       "type": "مقاوم للماء",
       "battery": "60"
@@ -4563,7 +4564,7 @@
   {
     "asin": "B0FZLJGZB3",
     "brand": "CRAYOTALK",
-    "name": "Original حلاقة رجالي مقص",
+    "name": "CRAYOTALK حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -4610,7 +4611,7 @@
   {
     "asin": "B0G3HJ77Z2",
     "brand": "Lowfe",
-    "name": "T9 حلاقة رجالي مقص",
+    "name": "Lowfe حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -4634,7 +4635,7 @@
   {
     "asin": "B0DT47LC3Z",
     "brand": "غير محدد",
-    "name": "V- حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -4658,7 +4659,7 @@
   {
     "asin": "B0H6CQQXW4",
     "brand": "غير محدد",
-    "name": "Trimpocket حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -4682,7 +4683,7 @@
   {
     "asin": "B0DDJDD1W1",
     "brand": "غير محدد",
-    "name": "v-375 حلاقة رجالي مقاومللماء",
+    "name": "حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -4754,7 +4755,7 @@
   {
     "asin": "B0CQB9Y9LR",
     "brand": "Manscaped Refining The Gentleman",
-    "name": "MANSCAPED حلاقة رجالي مقاومللماء",
+    "name": "Manscaped Refining The Gentleman حلاقة",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -4796,7 +4797,7 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -4851,7 +4852,7 @@
   {
     "asin": "B0F1HXVNG9",
     "brand": "غير محدد",
-    "name": "4Pcs حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -4869,13 +4870,13 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0F88CWW56",
     "brand": "Ainid",
-    "name": "حلاقة نسائي مقاومللماء",
+    "name": "Ainid حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -4899,7 +4900,7 @@
   {
     "asin": "B0DY57FPLZ",
     "brand": "غير محدد",
-    "name": "Intuition حلاقة نسائي 4شفات",
+    "name": "حلاقة نسائي 4شفات",
     "specs": {
       "gender": "نسائي",
       "blades": "4 شفرات"
@@ -4917,7 +4918,7 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -4972,7 +4973,7 @@
   {
     "asin": "B0BPFTKHRN",
     "brand": "Gransumr",
-    "name": "Blawless حلاقة نسائي مقص",
+    "name": "Gransumr حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -5018,7 +5019,7 @@
   {
     "asin": "B0DLT262YX",
     "brand": "VG VOGCREST",
-    "name": "VG حلاقة نسائي مقص",
+    "name": "VG VOGCREST حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -5058,7 +5059,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "men"
   },
@@ -5105,7 +5106,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "men"
   },
@@ -5246,7 +5247,7 @@
   {
     "asin": "B0C2VPLCZ8",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -5451,7 +5452,7 @@
   {
     "asin": "B0DKK1ZLY8",
     "brand": "Queen By Lord",
-    "name": "Queen حلاقة نسائي",
+    "name": "Queen By Lord حلاقة",
     "specs": {
       "gender": "نسائي"
     },
@@ -5468,7 +5469,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -5567,7 +5568,7 @@
   {
     "asin": "B0CFHPNTQ2",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -5748,7 +5749,7 @@
   {
     "asin": "B0G4RZB4NH",
     "brand": "غير محدد",
-    "name": "V-339 حلاقة رجالي",
+    "name": "حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -5853,7 +5854,7 @@
     "title": "VGR V-305 Premium Cordless Rechargeable IPX7 Fully Waterproof 3 Head Electric Shaver Wet & Dry Rotary Shavers for Men with Pop-up Trimmer Super-Fast Charge 100 minutes Runtime with LED Digital Display",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 828,
+    "price": 841.32,
     "img": "https://m.media-amazon.com/images/I/41X6Y3UDrWS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0991ZBG3M?tag=fineartslab-21",
     "active": true,
@@ -5912,7 +5913,7 @@
   {
     "asin": "B0FL172FNV",
     "brand": "غير محدد",
-    "name": "Kronier حلاقة رجالي",
+    "name": "حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -6022,7 +6023,7 @@
   {
     "asin": "B0DPS5W4YD",
     "brand": "Belligern",
-    "name": "Mini حلاقة رجالي",
+    "name": "Belligern حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -6068,7 +6069,7 @@
   {
     "asin": "B0DYJ8VQGK",
     "brand": "FabMay Beauty",
-    "name": "حلاقة نسائي",
+    "name": "FabMay Beauty حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -6091,7 +6092,7 @@
   {
     "asin": "B0DSWRBTQV",
     "brand": "Skull Shaver",
-    "name": "Skull حلاقة مقاومللماء",
+    "name": "Skull Shaver حلاقة مقاومللماء",
     "specs": {
       "type": "مقاوم للماء"
     },
@@ -6363,7 +6364,7 @@
   {
     "asin": "B0BDD8K4HC",
     "brand": "VGR",
-    "name": "Vgr حلاقة مقاومللماء",
+    "name": "VGR حلاقة مقاومللماء",
     "specs": {
       "type": "مقاوم للماء"
     },
@@ -6610,7 +6611,7 @@
   {
     "asin": "B0FPMGB84Q",
     "brand": "SOUQ KADO",
-    "name": "Eyebrow حلاقة نسائي",
+    "name": "SOUQ KADO حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -6724,7 +6725,7 @@
   {
     "asin": "B0CF9JGH1S",
     "brand": "غير محدد",
-    "name": "Professional حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -6899,7 +6900,7 @@
   {
     "asin": "B0CSXFVTV6",
     "brand": "غير محدد",
-    "name": "Hair حلاقة مقص",
+    "name": "حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -6942,7 +6943,7 @@
   {
     "asin": "B0BLKW8FTT",
     "brand": "غير محدد",
-    "name": "V-322 حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "V-322 Electric Shaver 3 Cutter",
@@ -6998,7 +6999,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -7119,7 +7120,7 @@
   {
     "asin": "B0DPSRDHKQ",
     "brand": "غير محدد",
-    "name": "V-017 حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "V-017 Electric Shaver Versatile Innovation for Perfect Shave Powerful 500mAh Battery",
@@ -7139,7 +7140,7 @@
   {
     "asin": "B0FF9YCVR8",
     "brand": "غير محدد",
-    "name": "Cordless حلاقة مقص",
+    "name": "حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -7161,7 +7162,7 @@
   {
     "asin": "B0HLFRG6RS",
     "brand": "غير محدد",
-    "name": "Mini حلاقة رجالي مقاومللماء",
+    "name": "حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -7418,7 +7419,7 @@
   {
     "asin": "B0GQQJNMLG",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -7442,7 +7443,7 @@
   {
     "asin": "B0DS2FVCGV",
     "brand": "MANSPOT",
-    "name": "حلاقة رجالي مقاومللماء",
+    "name": "MANSPOT حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء",
@@ -7490,7 +7491,7 @@
   {
     "asin": "B0BBPM11JJ",
     "brand": "Meridian",
-    "name": "MERIDIAN حلاقة نسائي مقاومللماء",
+    "name": "Meridian حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -7534,7 +7535,7 @@
   {
     "asin": "B0FJRH47DF",
     "brand": "MANSPOT",
-    "name": "حلاقة رجالي مقص",
+    "name": "MANSPOT حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -7694,7 +7695,7 @@
   {
     "asin": "B077DG6FT8",
     "brand": "Flawless",
-    "name": "Finishing حلاقة نسائي",
+    "name": "Flawless حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -7830,7 +7831,7 @@
   {
     "asin": "B0CTJ7YDCK",
     "brand": "غير محدد",
-    "name": "VGR حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -7878,7 +7879,7 @@
   {
     "asin": "B0D8RZ8MC3",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -7961,7 +7962,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -7987,7 +7988,7 @@
   {
     "asin": "B0F6YX18RB",
     "brand": "غير محدد",
-    "name": "Aluminum حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -8035,7 +8036,7 @@
   {
     "asin": "B0DF69X3J8",
     "brand": "VGR",
-    "name": "vgr حلاقة",
+    "name": "VGR حلاقة",
     "specs": {},
     "model": "",
     "title": "vgr Professional Razor Zero Razor Ceramic Blade Self Sharpening Adjustable Blade Angle Folding Hanging Ring 1200ml Battery Direct Charge",
@@ -8055,7 +8056,7 @@
   {
     "asin": "B087VB3QQP",
     "brand": "Flawless",
-    "name": "Finishing حلاقة",
+    "name": "Flawless حلاقة",
     "specs": {},
     "model": "",
     "title": "Finishing Touch Flawless Nu Razor Portable Cordless Rechargeable Electric Razor",
@@ -8075,7 +8076,7 @@
   {
     "asin": "B0D7YKX6L2",
     "brand": "VGR",
-    "name": "Vgr حلاقة",
+    "name": "VGR حلاقة",
     "specs": {},
     "model": "",
     "title": "Vgr V-953 Professional Razor With Stainless Steel Blades And Modern Graphics And Great Design",
@@ -8095,7 +8096,7 @@
   {
     "asin": "B0D15QVJ1R",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -8142,7 +8143,7 @@
   {
     "asin": "B0F561YK3W",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -8190,7 +8191,7 @@
   {
     "asin": "B0GMHMZ6CD",
     "brand": "Nopatia",
-    "name": "EZABILLA حلاقة نسائي",
+    "name": "Nopatia حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -8213,7 +8214,7 @@
   {
     "asin": "B0DRLJ73V7",
     "brand": "غير محدد",
-    "name": "Mini حلاقة رجالي",
+    "name": "حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -8260,7 +8261,7 @@
   {
     "asin": "B0H188VBQD",
     "brand": "Winning Star",
-    "name": "WINNING حلاقة رجالي مقاومللماء",
+    "name": "Winning Star حلاقة رجالي",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -8284,7 +8285,7 @@
   {
     "asin": "B0F3XFC3YH",
     "brand": "Scttomon",
-    "name": "Womens حلاقة نسائي مقاومللماء",
+    "name": "Scttomon حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -8356,7 +8357,7 @@
   {
     "asin": "B0D97N8S9K",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة مقص",
+    "name": "حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -8378,7 +8379,7 @@
   {
     "asin": "B0BWJPTGCF",
     "brand": "غير محدد",
-    "name": "Power حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -8426,7 +8427,7 @@
   {
     "asin": "B0DRJVQKKF",
     "brand": "غير محدد",
-    "name": "Rechargeable حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -8450,7 +8451,7 @@
   {
     "asin": "B0FF56GL9Y",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -8474,7 +8475,7 @@
   {
     "asin": "B09D97KTFN",
     "brand": "AIBRIT PRO",
-    "name": "AIBRIT حلاقة نسائي مقاومللماء",
+    "name": "AIBRIT PRO حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -8541,14 +8542,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "men"
   },
   {
     "asin": "B08WLBGW4R",
     "brand": "كيمي",
-    "name": "Kemie حلاقة",
+    "name": "كيمي حلاقة",
     "specs": {},
     "model": "",
     "title": "Kemie KM-8867 7in1 grooming kit",
@@ -8617,7 +8618,7 @@
   {
     "asin": "B0H25DQCV3",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -8737,7 +8738,7 @@
   {
     "asin": "B0FYFJ8WT5",
     "brand": "Oasisgalore",
-    "name": "Bikini حلاقة نسائي مقاومللماء",
+    "name": "Oasisgalore حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -8785,7 +8786,7 @@
   {
     "asin": "B0FQNSLJ9S",
     "brand": "Risina",
-    "name": "حلاقة نسائي مقاومللماء",
+    "name": "Risina حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -8832,7 +8833,7 @@
   {
     "asin": "B0DF7VQC9G",
     "brand": "Telfun",
-    "name": "9D حلاقة رجالي مقاومللماء",
+    "name": "Telfun حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -8856,7 +8857,7 @@
   {
     "asin": "B0HLF322PP",
     "brand": "غير محدد",
-    "name": "Unisex حلاقة نسائي مقاومللماء",
+    "name": "حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -8904,7 +8905,7 @@
   {
     "asin": "B098JXTYMG",
     "brand": "Oxsaytee",
-    "name": "حلاقة رجالي مقاومللماء",
+    "name": "Oxsaytee حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -8928,7 +8929,7 @@
   {
     "asin": "B0HG7XN4V4",
     "brand": "غير محدد",
-    "name": "Cordless حلاقة رجالي مقاومللماء",
+    "name": "حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -8952,7 +8953,7 @@
   {
     "asin": "B0D8VCNK2K",
     "brand": "غير محدد",
-    "name": "Pharaonic حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "T99",
     "title": "Pharaonic razor CR-T99, 1200 mAh battery, 4 gradual combs, full metal body, and illuminated start button",
@@ -8972,7 +8973,7 @@
   {
     "asin": "B0GQBTTHKS",
     "brand": "غير محدد",
-    "name": "Hair حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -9020,7 +9021,7 @@
   {
     "asin": "B0BRSMLFK9",
     "brand": "Jack & Rose",
-    "name": "Jack حلاقة رجالي مقاومللماء",
+    "name": "Jack & Rose حلاقة",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -9044,7 +9045,7 @@
   {
     "asin": "B0CLQ8MJQ8",
     "brand": "كيمي",
-    "name": "جري حلاقة رجالي",
+    "name": "كيمي حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -9159,7 +9160,7 @@
   {
     "asin": "B0C1JYZ832",
     "brand": "MIKUER",
-    "name": "Mikuer حلاقة نسائي مقاومللماء",
+    "name": "MIKUER حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -9183,7 +9184,7 @@
   {
     "asin": "B0FYF7HSC9",
     "brand": "Oasisgalore",
-    "name": "Bikini حلاقة نسائي مقاومللماء",
+    "name": "Oasisgalore حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -9225,13 +9226,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0CPVC8XV9",
     "brand": "MARK STORE",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "MARK STORE حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -9255,7 +9256,7 @@
   {
     "asin": "B096KKC1FP",
     "brand": "Brrnoo",
-    "name": "حلاقة نسائي",
+    "name": "Brrnoo حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -9348,7 +9349,7 @@
   {
     "asin": "B0GZ4HNNLX",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -9372,7 +9373,7 @@
   {
     "asin": "B0HMP7MZ64",
     "brand": "غير محدد",
-    "name": "Pulsed حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "Pulsed Light Home Hair Removal Device with 5 Power Levels and 2 Modes Manual & Auto Operation - Permanent Home Hair Growth Device for Body and Face with Safety Glasses and Razor",
@@ -9392,7 +9393,7 @@
   {
     "asin": "B0H96RDWDM",
     "brand": "غير محدد",
-    "name": "USB حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -9416,7 +9417,7 @@
   {
     "asin": "B0G51D595P",
     "brand": "MANSPOT",
-    "name": "Mens حلاقة رجالي مقاومللماء",
+    "name": "MANSPOT حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء",
@@ -9441,7 +9442,7 @@
   {
     "asin": "B0H5KX3TTW",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -9626,7 +9627,7 @@
   {
     "asin": "B09JPCTPPV",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -9790,7 +9791,7 @@
   {
     "asin": "B0D288GDWX",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقاومللماء",
+    "name": "VGR حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -10146,7 +10147,7 @@
   {
     "asin": "B0HFGB164X",
     "brand": "غير محدد",
-    "name": "Vintage حلاقة مقص",
+    "name": "حلاقة مقص",
     "specs": {
       "type": "مقص",
       "battery": "120"
@@ -10852,7 +10853,7 @@
   {
     "asin": "B0BM6KBG91",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -10925,7 +10926,7 @@
   {
     "asin": "B0CD9RDC7X",
     "brand": "غير محدد",
-    "name": "V-228 حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -11043,7 +11044,7 @@
   {
     "asin": "B0BTHXSBTT",
     "brand": "WAER",
-    "name": "Waer حلاقة رجالي مقص",
+    "name": "WAER حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -11089,7 +11090,7 @@
   {
     "asin": "B0B8NWQ3F2",
     "brand": "Trimounts",
-    "name": "Beard حلاقة رجالي",
+    "name": "Trimounts حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -11231,7 +11232,7 @@
   {
     "asin": "B0H8TKRLHV",
     "brand": "غير محدد",
-    "name": "Cordless حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -11399,7 +11400,7 @@
   {
     "asin": "B09JP9BQQC",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -11470,7 +11471,7 @@
   {
     "asin": "B0DP3L6N4N",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -11804,7 +11805,7 @@
   {
     "asin": "B0DM6GVXLG",
     "brand": "غير محدد",
-    "name": "Full حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -11875,7 +11876,7 @@
   {
     "asin": "B0B646ZKB9",
     "brand": "Gillette",
-    "name": "King حلاقة رجالي مقص",
+    "name": "Gillette حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -11922,7 +11923,7 @@
   {
     "asin": "B0DNBRG62C",
     "brand": "غير محدد",
-    "name": "V-962 حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -11947,7 +11948,7 @@
   {
     "asin": "B0H6CL69H2",
     "brand": "غير محدد",
-    "name": "Trimpocket حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -12063,7 +12064,7 @@
   {
     "asin": "B0CJCQPCG3",
     "brand": "غير محدد",
-    "name": "VGR حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -12182,7 +12183,7 @@
   {
     "asin": "B0DNCVCZJF",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -12252,7 +12253,7 @@
   {
     "asin": "B0F1V66YJK",
     "brand": "غير محدد",
-    "name": "KM حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -12275,7 +12276,7 @@
   {
     "asin": "B0GS3HBLQZ",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -12366,7 +12367,7 @@
   {
     "asin": "B0H18SJCR8",
     "brand": "Home Gold",
-    "name": "HG-2024 حلاقة رجالي",
+    "name": "Home Gold حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -12413,7 +12414,7 @@
   {
     "asin": "B0CCMLNL6T",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -12437,7 +12438,7 @@
   {
     "asin": "B0CFHP16MF",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -12461,7 +12462,7 @@
   {
     "asin": "B001EL0VW6",
     "brand": "Moser",
-    "name": "MOSER حلاقة مقص",
+    "name": "Moser حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -12483,7 +12484,7 @@
   {
     "asin": "B0F64HJG8X",
     "brand": "VGR",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -12863,7 +12864,7 @@
   {
     "asin": "B0DLV9YGVV",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -12910,7 +12911,7 @@
   {
     "asin": "B0DWKQJ9MY",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -12934,7 +12935,7 @@
   {
     "asin": "B0HCD5HD1Y",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -13051,7 +13052,7 @@
   {
     "asin": "B08GQFV54Z",
     "brand": "Skull Shaver",
-    "name": "Skull حلاقة رجالي",
+    "name": "Skull Shaver حلاقة رجالي",
     "specs": {
       "gender": "رجالي"
     },
@@ -13074,7 +13075,7 @@
   {
     "asin": "B0F5Q935GX",
     "brand": "Colexy",
-    "name": "Mens حلاقة رجالي مقص",
+    "name": "Colexy حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -13194,7 +13195,7 @@
   {
     "asin": "B0C4BHLFLG",
     "brand": "Meridian",
-    "name": "MERIDIAN حلاقة نسائي مقاومللماء",
+    "name": "Meridian حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -13249,7 +13250,7 @@
     "title": "Braun All-In-One Beard Care Body Groomer Set, 6-in-1 Beard Trimmer, Trimmer/Hair Clipper Men, Hair Clippers, Comb Attachments, 50 Min. wireless run time, gift man, MGK5440",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4398.7,
+    "price": 4397.7,
     "img": "https://m.media-amazon.com/images/I/51MDtw2qsCL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BT539YGS?tag=fineartslab-21",
     "active": true,
@@ -13263,7 +13264,7 @@
   {
     "asin": "B0BN3RCV1W",
     "brand": "VGR",
-    "name": "showkah حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -13307,7 +13308,7 @@
   {
     "asin": "B0DJZNZKFB",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -13353,7 +13354,7 @@
   {
     "asin": "B0C7J82XS7",
     "brand": "Meridian",
-    "name": "MERIDIAN حلاقة نسائي مقاومللماء",
+    "name": "Meridian حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -13450,7 +13451,7 @@
   {
     "asin": "B0G18G5RK4",
     "brand": "Telfun",
-    "name": "Mini حلاقة رجالي مقاومللماء",
+    "name": "Telfun حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -13498,7 +13499,7 @@
   {
     "asin": "B0F6V9BPMD",
     "brand": "كيمي",
-    "name": "KM-T9 حلاقة",
+    "name": "كيمي حلاقة",
     "specs": {
       "battery": "120"
     },
@@ -13520,7 +13521,7 @@
   {
     "asin": "B0D7FJJXYL",
     "brand": "VGR",
-    "name": "Vgr حلاقة مقاومللماء",
+    "name": "VGR حلاقة مقاومللماء",
     "specs": {
       "type": "مقاوم للماء"
     },
@@ -13565,7 +13566,7 @@
   {
     "asin": "B0C3V21BGB",
     "brand": "NB EMPIRE",
-    "name": "NB حلاقة نسائي",
+    "name": "NB EMPIRE حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -13613,7 +13614,7 @@
   {
     "asin": "B0CKWGQMNP",
     "brand": "Manscaped Refining The Gentleman",
-    "name": "The حلاقة رجالي مقاومللماء",
+    "name": "Manscaped Refining The Gentleman حلاقة",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -13697,13 +13698,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B00AYCU8TC",
     "brand": "Gillette Venus",
-    "name": "Gillette حلاقة",
+    "name": "Gillette Venus حلاقة",
     "specs": {},
     "model": "",
     "title": "Gillette Venus Simply 3 Plus Disposable Razor - 3 Pieces",
@@ -13745,7 +13746,7 @@
   {
     "asin": "B083X1PB6Q",
     "brand": "Gillette Venus",
-    "name": "Gillette حلاقة نسائي",
+    "name": "Gillette Venus حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -13784,7 +13785,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -13838,7 +13839,7 @@
   {
     "asin": "B08FXMMGMW",
     "brand": "Gillette Venus",
-    "name": "Gillette حلاقة نسائي",
+    "name": "Gillette Venus حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -13855,14 +13856,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0CSJMF6F6",
     "brand": "VG VOGCREST",
-    "name": "VG حلاقة مقص",
+    "name": "VG VOGCREST حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -13908,7 +13909,7 @@
   {
     "asin": "B07P61JN14",
     "brand": "غير محدد",
-    "name": "Flawless حلاقة نسائي دواري",
+    "name": "حلاقة نسائي دواري",
     "specs": {
       "gender": "نسائي",
       "type": "دواري"
@@ -13931,7 +13932,7 @@
   {
     "asin": "B0H6KX5PVN",
     "brand": "غير محدد",
-    "name": "Bikini حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -13948,14 +13949,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0G5HPJ4CV",
     "brand": "غير محدد",
-    "name": "WomenS حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -13972,14 +13973,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0GQCQ7T8G",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14003,7 +14004,7 @@
   {
     "asin": "B07TXB5G6M",
     "brand": "Mcrine",
-    "name": "KM-2199 حلاقة نسائي",
+    "name": "Mcrine حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14026,7 +14027,7 @@
   {
     "asin": "B0HFG3K4RG",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14050,7 +14051,7 @@
   {
     "asin": "B0GQQ9THBD",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14074,7 +14075,7 @@
   {
     "asin": "B0GQB8S3RM",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14120,7 +14121,7 @@
   {
     "asin": "B0GQZHCKNS",
     "brand": "غير محدد",
-    "name": "Hair حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14144,7 +14145,7 @@
   {
     "asin": "B0FQPKT16V",
     "brand": "غير محدد",
-    "name": "THIS حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14161,14 +14162,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0H5KGPGVJ",
     "brand": "غير محدد",
-    "name": "Hair حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14192,7 +14193,7 @@
   {
     "asin": "B0GDXXP7JB",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14216,7 +14217,7 @@
   {
     "asin": "B0FTW6BFZL",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14258,7 +14259,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -14289,7 +14290,7 @@
   {
     "asin": "B0FD8C7SB9",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14385,7 +14386,7 @@
   {
     "asin": "B0FV96J8TN",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14425,14 +14426,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0GKYLNX65",
     "brand": "غير محدد",
-    "name": "Nose حلاقة مقص",
+    "name": "حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -14454,7 +14455,7 @@
   {
     "asin": "B0H65KDTJQ",
     "brand": "غير محدد",
-    "name": "Hair حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14478,7 +14479,7 @@
   {
     "asin": "B0GVZRJQ1Y",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14500,7 +14501,7 @@
   {
     "asin": "B0F3TYJ9JK",
     "brand": "غير محدد",
-    "name": "Hair حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14523,7 +14524,7 @@
   {
     "asin": "B0F9YXZZ2R",
     "brand": "غير محدد",
-    "name": "Womens حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14546,7 +14547,7 @@
   {
     "asin": "B0GLZYMZGY",
     "brand": "Nopatia",
-    "name": "EZABILLA حلاقة نسائي",
+    "name": "Nopatia حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14563,14 +14564,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0G62SN656",
     "brand": "غير محدد",
-    "name": "Womens حلاقة نسائي مقاومللماء",
+    "name": "حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -14594,7 +14595,7 @@
   {
     "asin": "B0GQB75VFN",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14641,7 +14642,7 @@
   {
     "asin": "B07PC2L2HX",
     "brand": "غير محدد",
-    "name": "1Pcs حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14664,7 +14665,7 @@
   {
     "asin": "B0FTW2M5X2",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14688,7 +14689,7 @@
   {
     "asin": "B0G4JVLMRM",
     "brand": "NANO GOLD",
-    "name": "Professional حلاقة نسائي مقاومللماء",
+    "name": "NANO GOLD حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -14712,7 +14713,7 @@
   {
     "asin": "B0H646V28M",
     "brand": "Shatoora",
-    "name": "حلاقة نسائي مقاومللماء",
+    "name": "Shatoora حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -14736,7 +14737,7 @@
   {
     "asin": "B0FKYSY648",
     "brand": "Spaceshoop",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "Spaceshoop حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -14831,7 +14832,7 @@
   {
     "asin": "B0GQCGTKSW",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14877,7 +14878,7 @@
   {
     "asin": "B0F2HW7VJ7",
     "brand": "Telfun",
-    "name": "حلاقة نسائي مقاومللماء",
+    "name": "Telfun حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -14901,7 +14902,7 @@
   {
     "asin": "B0G2BJ5769",
     "brand": "Telfun",
-    "name": "Bikini حلاقة نسائي مقاومللماء",
+    "name": "Telfun حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -14925,7 +14926,7 @@
   {
     "asin": "B0D3CKGRPH",
     "brand": "Boho Aromatic",
-    "name": "THIS حلاقة نسائي",
+    "name": "Boho Aromatic حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14942,7 +14943,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -14971,7 +14972,7 @@
   {
     "asin": "B0FB5MQS9K",
     "brand": "سوكاني",
-    "name": "Hair حلاقة نسائي",
+    "name": "سوكاني حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -14993,7 +14994,7 @@
   {
     "asin": "B0H3FGH3J2",
     "brand": "غير محدد",
-    "name": "Innovative حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -15016,7 +15017,7 @@
   {
     "asin": "B0F38N5447",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -15062,7 +15063,7 @@
   {
     "asin": "B0FMS35S9R",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -15079,7 +15080,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -15104,7 +15105,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -15135,7 +15136,7 @@
   {
     "asin": "B0GQBVWVVM",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15181,7 +15182,7 @@
   {
     "asin": "B0D8RJ1P89",
     "brand": "غير محدد",
-    "name": "Epilation حلاقة نسائي مقاومللماء",
+    "name": "حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -15253,7 +15254,7 @@
   {
     "asin": "B0DSBYMBHD",
     "brand": "MANSPOT",
-    "name": "Bikini حلاقة نسائي مقاومللماء",
+    "name": "MANSPOT حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -15277,7 +15278,7 @@
   {
     "asin": "B0FX5P6VGX",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -15294,14 +15295,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0HBKRS3KT",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي 2شفرة",
+    "name": "حلاقة نسائي 2شفرة",
     "specs": {
       "gender": "نسائي",
       "blades": "2 شفرة"
@@ -15319,14 +15320,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0FB9BP85K",
     "brand": "NLB ENTERPRISE",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "NLB ENTERPRISE حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15350,7 +15351,7 @@
   {
     "asin": "B0F1VBQPTY",
     "brand": "غير محدد",
-    "name": "ALICE حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -15367,14 +15368,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0HJWNL8WR",
     "brand": "غير محدد",
-    "name": "2-in-1 حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15397,7 +15398,7 @@
   {
     "asin": "B0H3WSF3SH",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15415,7 +15416,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -15437,13 +15438,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0FV37D9T4",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15514,7 +15515,7 @@
   {
     "asin": "B0DKPC8VQW",
     "brand": "VG VOGCREST",
-    "name": "VG حلاقة نسائي مقص",
+    "name": "VG VOGCREST حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15585,7 +15586,7 @@
   {
     "asin": "B0GQZHGLLL",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15703,7 +15704,7 @@
   {
     "asin": "B0CHBKRHMN",
     "brand": "Pirron",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "Pirron حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15797,7 +15798,7 @@
   {
     "asin": "B0GQCD55C6",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -15844,7 +15845,7 @@
   {
     "asin": "B0F89195M8",
     "brand": "Telfun",
-    "name": "Dermave حلاقة نسائي مقاومللماء",
+    "name": "Telfun حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -15916,7 +15917,7 @@
   {
     "asin": "B0HNDWNTTC",
     "brand": "غير محدد",
-    "name": "2-in-1 حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15939,7 +15940,7 @@
   {
     "asin": "B0FT17MMD4",
     "brand": "غير محدد",
-    "name": "GEEGVV حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -15963,7 +15964,7 @@
   {
     "asin": "B08L3XJ7B7",
     "brand": "LM BODYCARE",
-    "name": "LM حلاقة نسائي مقاومللماء",
+    "name": "LM BODYCARE حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -16012,7 +16013,7 @@
   {
     "asin": "B0DZT2B185",
     "brand": "Ayland",
-    "name": "Dusk حلاقة نسائي مقاومللماء",
+    "name": "Ayland حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -16083,7 +16084,7 @@
   {
     "asin": "B0GQBHXBMF",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16106,7 +16107,7 @@
   {
     "asin": "B0HK8Q9D3D",
     "brand": "غير محدد",
-    "name": "Womens حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16130,7 +16131,7 @@
   {
     "asin": "B0HLG18598",
     "brand": "غير محدد",
-    "name": "Mini حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16154,7 +16155,7 @@
   {
     "asin": "B0GXPKJ8DJ",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -16201,7 +16202,7 @@
   {
     "asin": "B0GQBCS8FQ",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -16319,7 +16320,7 @@
   {
     "asin": "B0FKYV6GRN",
     "brand": "Spaceshoop",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "Spaceshoop حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16343,7 +16344,7 @@
   {
     "asin": "B0HLF714CG",
     "brand": "غير محدد",
-    "name": "Mini حلاقة نسائي مقاومللماء",
+    "name": "حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -16367,7 +16368,7 @@
   {
     "asin": "B0HM9C4BJN",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16391,7 +16392,7 @@
   {
     "asin": "B0DVL8XGMH",
     "brand": "Meridian",
-    "name": "MERIDIAN حلاقة نسائي مقاومللماء",
+    "name": "Meridian حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -16415,7 +16416,7 @@
   {
     "asin": "B0B8ZZH5XF",
     "brand": "ريمينجتون",
-    "name": "حلاقة",
+    "name": "ريمينجتون حلاقة",
     "specs": {},
     "model": "",
     "title": "Electric Shaver",
@@ -16530,7 +16531,7 @@
   {
     "asin": "B0DXZ2PQSJ",
     "brand": "MANSPOT",
-    "name": "Bikini حلاقة نسائي مقص",
+    "name": "MANSPOT حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16554,7 +16555,7 @@
   {
     "asin": "B0FZ8RQC5Z",
     "brand": "غير محدد",
-    "name": "ULTRASONIC حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -16625,7 +16626,7 @@
   {
     "asin": "B0F4C6QC43",
     "brand": "checkzed",
-    "name": "حلاقة نسائي",
+    "name": "checkzed حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -16718,7 +16719,7 @@
   {
     "asin": "B0HFGB98ZZ",
     "brand": "غير محدد",
-    "name": "MG9510 حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -16764,7 +16765,7 @@
   {
     "asin": "B0HPP4ZPBK",
     "brand": "غير محدد",
-    "name": "Hiotu حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -16787,7 +16788,7 @@
   {
     "asin": "B0GMDCH6BJ",
     "brand": "غير محدد",
-    "name": "Hair حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16835,7 +16836,7 @@
   {
     "asin": "B0GMD96DT3",
     "brand": "غير محدد",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16859,7 +16860,7 @@
   {
     "asin": "B0G3BBVYH6",
     "brand": "Cronier Professional",
-    "name": "Cronier حلاقة نسائي مقص",
+    "name": "Cronier Professional حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16883,7 +16884,7 @@
   {
     "asin": "B0F6NGFJ9T",
     "brand": "VG VOGCREST",
-    "name": "VG حلاقة مقص",
+    "name": "VG VOGCREST حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -16952,7 +16953,7 @@
   {
     "asin": "B0FNKJ7JNM",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -16976,7 +16977,7 @@
   {
     "asin": "B0DTKRKZ3Q",
     "brand": "غير محدد",
-    "name": "Body حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17023,7 +17024,7 @@
   {
     "asin": "B0DT3GB89G",
     "brand": "غير محدد",
-    "name": "Full حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -17077,7 +17078,7 @@
     "title": "VGR V-756 7-in-1 Electric Lady Epilator Set, Facial Hair Trimmer, IPX7 Waterproof, 90-Minute Runtime, (Yellow)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1240,
+    "price": 1305.1,
     "img": "https://m.media-amazon.com/images/I/512TjszR5pL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GXFCDFZR?tag=fineartslab-21",
     "active": true,
@@ -17092,7 +17093,7 @@
   {
     "asin": "B0F1YWTG1P",
     "brand": "غير محدد",
-    "name": "KM-189 حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17114,7 +17115,7 @@
   {
     "asin": "B0CLH2C3FP",
     "brand": "VGR",
-    "name": "Vgr حلاقة نسائي",
+    "name": "VGR حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "battery": "70"
@@ -17231,7 +17232,7 @@
   {
     "asin": "B0DM1VS7P2",
     "brand": "غير محدد",
-    "name": "KM-189 حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17253,7 +17254,7 @@
   {
     "asin": "B0DR8FHJDL",
     "brand": "FabMay Beauty",
-    "name": "FabMay حلاقة نسائي",
+    "name": "FabMay Beauty حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17275,7 +17276,7 @@
   {
     "asin": "B0968XVP76",
     "brand": "BROWN",
-    "name": "Browns حلاقة نسائي",
+    "name": "BROWN حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17341,7 +17342,7 @@
   {
     "asin": "B0BTX3SK3M",
     "brand": "AINxtolm",
-    "name": "Womans حلاقة نسائي",
+    "name": "AINxtolm حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17409,7 +17410,7 @@
   {
     "asin": "B095R25KGT",
     "brand": "VGR",
-    "name": "Vgr حلاقة نسائي مقاومللماء",
+    "name": "VGR حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء",
@@ -17433,7 +17434,7 @@
   {
     "asin": "B0H3288XW8",
     "brand": "كيمي",
-    "name": "KM-7113 حلاقة نسائي مقص",
+    "name": "كيمي حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -17457,7 +17458,7 @@
   {
     "asin": "B0DZXKB41J",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17524,7 +17525,7 @@
   {
     "asin": "B07NDY2JYC",
     "brand": "Spaceshoop",
-    "name": "B071KW9GTT حلاقة نسائي",
+    "name": "Spaceshoop حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17592,7 +17593,7 @@
   {
     "asin": "B0GRJG41F9",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17614,7 +17615,7 @@
   {
     "asin": "B0GKY9NBXY",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17707,7 +17708,7 @@
   {
     "asin": "B09L2RYYNW",
     "brand": "Flawless",
-    "name": "Finishing حلاقة نسائي",
+    "name": "Flawless حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17752,7 +17753,7 @@
   {
     "asin": "B0F5M5BB44",
     "brand": "RGEVGER",
-    "name": "Handheld حلاقة نسائي",
+    "name": "RGEVGER حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17798,7 +17799,7 @@
   {
     "asin": "B0DNQZ8W4Z",
     "brand": "غير محدد",
-    "name": "KM-2199 حلاقة نسائي مقاومللماء",
+    "name": "حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -17844,7 +17845,7 @@
   {
     "asin": "B0DNW8TSSD",
     "brand": "Excefore",
-    "name": "Spring حلاقة نسائي",
+    "name": "Excefore حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -17867,7 +17868,7 @@
   {
     "asin": "B0DL3JLR25",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -17957,7 +17958,7 @@
   {
     "asin": "B0B6Z8V689",
     "brand": "Maywiyi",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "Maywiyi حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -17981,7 +17982,7 @@
   {
     "asin": "B0GY5D66BP",
     "brand": "غير محدد",
-    "name": "PUCHEN حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -18189,7 +18190,7 @@
   {
     "asin": "B0DQ5WJRRJ",
     "brand": "غير محدد",
-    "name": "Painless حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18235,7 +18236,7 @@
   {
     "asin": "B0FL1B1ZZX",
     "brand": "غير محدد",
-    "name": "Body حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -18280,7 +18281,7 @@
   {
     "asin": "B0HHHL4LBX",
     "brand": "عام",
-    "name": "Facial حلاقة نسائي",
+    "name": "عام حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18302,7 +18303,7 @@
   {
     "asin": "B0F7G9NTFS",
     "brand": "غير محدد",
-    "name": "Face حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18325,7 +18326,7 @@
   {
     "asin": "B07PWF1D9M",
     "brand": "OtherWorldlyWaxes",
-    "name": "Mini حلاقة نسائي",
+    "name": "OtherWorldlyWaxes حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18371,7 +18372,7 @@
   {
     "asin": "B0FL19X1B7",
     "brand": "غير محدد",
-    "name": "Painless حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18416,7 +18417,7 @@
   {
     "asin": "B0DWXX878M",
     "brand": "غير محدد",
-    "name": "Manual حلاقة نسائي 3شفات",
+    "name": "حلاقة نسائي 3شفات",
     "specs": {
       "gender": "نسائي",
       "blades": "3 شفرات"
@@ -18531,7 +18532,7 @@
   {
     "asin": "B0B6VSR88L",
     "brand": "Tenndar",
-    "name": "Crystal حلاقة نسائي",
+    "name": "Tenndar حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18554,7 +18555,7 @@
   {
     "asin": "B0HL6YFZS9",
     "brand": "غير محدد",
-    "name": "Double حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -18602,7 +18603,7 @@
   {
     "asin": "B0FV8NHGMP",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18625,7 +18626,7 @@
   {
     "asin": "B0GKYT34P6",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -18834,7 +18835,7 @@
   {
     "asin": "B0B92TQ1TV",
     "brand": "BIGJIYU",
-    "name": "Crystal حلاقة نسائي",
+    "name": "BIGJIYU حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -19064,7 +19065,7 @@
   {
     "asin": "B0DSBYV86B",
     "brand": "MANSPOT",
-    "name": "LADYSPOT حلاقة نسائي مقاومللماء",
+    "name": "MANSPOT حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -19112,7 +19113,7 @@
   {
     "asin": "B0CQFZ7VMK",
     "brand": "Gransumr",
-    "name": "Rechargeable حلاقة نسائي مقص",
+    "name": "Gransumr حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -19135,7 +19136,7 @@
   {
     "asin": "B0DYSZLDTN",
     "brand": "MAXGROOM",
-    "name": "bikini حلاقة نسائي مقص",
+    "name": "MAXGROOM حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -19159,7 +19160,7 @@
   {
     "asin": "B0GQBDPH8W",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -19230,7 +19231,7 @@
   {
     "asin": "B0GZT4352L",
     "brand": "غير محدد",
-    "name": "Blade حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -19253,7 +19254,7 @@
   {
     "asin": "B0GZFB6SNH",
     "brand": "غير محدد",
-    "name": "Mini حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -19348,7 +19349,7 @@
   {
     "asin": "B0GQB8CHBW",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -19393,7 +19394,7 @@
   {
     "asin": "B0B9NZ8PCF",
     "brand": "سوكاني",
-    "name": "Epilator حلاقة نسائي",
+    "name": "سوكاني حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -19416,7 +19417,7 @@
   {
     "asin": "B0H4S1VKRP",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -19439,7 +19440,7 @@
   {
     "asin": "B0FQVDZMDT",
     "brand": "AIDIAM",
-    "name": "Bikini حلاقة نسائي مقاومللماء",
+    "name": "AIDIAM حلاقة نسائي مقاومللماء",
     "specs": {
       "gender": "نسائي",
       "type": "مقاوم للماء"
@@ -19486,7 +19487,7 @@
   {
     "asin": "B0B1M5W19W",
     "brand": "غير محدد",
-    "name": "Professional حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -19509,7 +19510,7 @@
   {
     "asin": "B0CXB5ZBD3",
     "brand": "Manscaped Refining The Gentleman",
-    "name": "MANSCAPED حلاقة مقص",
+    "name": "Manscaped Refining The Gentleman حلاقة",
     "specs": {
       "type": "مقص"
     },
@@ -19578,7 +19579,7 @@
   {
     "asin": "B0HPY5ZB5Z",
     "brand": "غير محدد",
-    "name": "Precision حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -19601,7 +19602,7 @@
   {
     "asin": "B0F2SQY9RN",
     "brand": "ANTUSH NATURAL",
-    "name": "Trimmer حلاقة رجالي مقص",
+    "name": "ANTUSH NATURAL حلاقة رجالي",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -19647,7 +19648,7 @@
   {
     "asin": "B0C1T5XGPL",
     "brand": "VG VOGCREST",
-    "name": "حلاقة نسائي مقص",
+    "name": "VG VOGCREST حلاقة نسائي",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -19829,7 +19830,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -20021,7 +20022,7 @@
   {
     "asin": "B09WKDCG4J",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقاومللماء",
+    "name": "VGR حلاقة رجالي مقاومللماء",
     "specs": {
       "gender": "رجالي",
       "type": "مقاوم للماء"
@@ -20115,7 +20116,7 @@
   {
     "asin": "B0H2HTWJXX",
     "brand": "غير محدد",
-    "name": "Professional حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "Professional Cordless Electric Hair Clipper KM-T9 | Precision Grooming | Zero-Gap T-Blade | Portable & Powerful | Gold",
@@ -20135,7 +20136,7 @@
   {
     "asin": "B0G1CL192S",
     "brand": "غير محدد",
-    "name": "Professional حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "Professional Cordless Electric Hair Clipper KM-T9 | Precision Grooming | Zero-Gap T-Blade | Portable & Powerful | Gold",
@@ -20155,7 +20156,7 @@
   {
     "asin": "B09WJ8Z6F9",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -20178,7 +20179,7 @@
   {
     "asin": "B0G1CSD9MK",
     "brand": "غير محدد",
-    "name": "KM-T9 حلاقة",
+    "name": "حلاقة",
     "specs": {
       "battery": "120"
     },
@@ -20303,7 +20304,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -20335,7 +20336,7 @@
   {
     "asin": "B0CP3CNQJB",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص"
@@ -20477,7 +20478,7 @@
   {
     "asin": "B0DV9RQLSC",
     "brand": "غير محدد",
-    "name": "Hair حلاقة رجالي مقص",
+    "name": "حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -20815,7 +20816,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "men"
   },
@@ -20917,7 +20918,7 @@
   {
     "asin": "B0FKLRH64H",
     "brand": "غير محدد",
-    "name": "Professional حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "Professional Cordless Electric Hair Clipper KM-T9 | Precision Grooming | Zero-Gap T-Blade | USB Rechargeable | Portable & Powerful | Gold",
@@ -20974,7 +20975,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "men"
   },
@@ -21003,7 +21004,7 @@
   {
     "asin": "B0CTFQ5FD7",
     "brand": "غير محدد",
-    "name": "Yandou حلاقة مقص",
+    "name": "حلاقة مقص",
     "specs": {
       "type": "مقص"
     },
@@ -21025,7 +21026,7 @@
   {
     "asin": "B08F3KW2FN",
     "brand": "VGR",
-    "name": "Vgr حلاقة رجالي مقص",
+    "name": "VGR حلاقة رجالي مقص",
     "specs": {
       "gender": "رجالي",
       "type": "مقص",
@@ -21151,7 +21152,7 @@
     "title": "VGR V-933 Professional Corded & Cordless Hair Trimmer Runtime:500 minutes (Black)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 477.6,
+    "price": 472.1,
     "img": "https://m.media-amazon.com/images/I/41O4XszmeHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09Z1XPWT4?tag=fineartslab-21",
     "active": true,
@@ -21185,7 +21186,7 @@
   {
     "asin": "B0GQBD9Y6Q",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -21231,7 +21232,7 @@
   {
     "asin": "B0FMQDNK73",
     "brand": "غير محدد",
-    "name": "V-322 حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "V-322 Electric Shaver - 3 Rotating Heads for Close Shaving",
@@ -21251,7 +21252,7 @@
   {
     "asin": "B09DGQXY5S",
     "brand": "Gillette Venus",
-    "name": "Gillette حلاقة 5شفات",
+    "name": "Gillette Venus حلاقة 5شفات",
     "specs": {
       "blades": "5 شفرات"
     },
@@ -21273,7 +21274,7 @@
   {
     "asin": "B0F9X2FGV6",
     "brand": "Queen By Lord",
-    "name": "Queen حلاقة نسائي 5شفات",
+    "name": "Queen By Lord حلاقة",
     "specs": {
       "gender": "نسائي",
       "blades": "5 شفرات"
@@ -21291,14 +21292,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B09BV2R784",
     "brand": "Gillette Venus",
-    "name": "Gillette حلاقة",
+    "name": "Gillette Venus حلاقة",
     "specs": {},
     "model": "",
     "title": "Gillette venus tropical disposable razors, 4 count + 2 free",
@@ -21313,7 +21314,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -21343,7 +21344,7 @@
   {
     "asin": "B01ED2X73C",
     "brand": "Gillette Venus",
-    "name": "Gillette حلاقة نسائي",
+    "name": "Gillette Venus حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21382,14 +21383,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0H4D28TK2",
     "brand": "غير محدد",
-    "name": "Alices حلاقة",
+    "name": "حلاقة",
     "specs": {},
     "model": "",
     "title": "Alice's Body Razor Comfortable For Lady 6 Blades",
@@ -21404,7 +21405,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21429,14 +21430,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0HBN5HRRH",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21453,14 +21454,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B07GFG3LM4",
     "brand": "Gillette Venus",
-    "name": "Gillette حلاقة نسائي",
+    "name": "Gillette Venus حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21477,14 +21478,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0H4DC9QLX",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21501,14 +21502,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0FQX8BZTY",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21525,7 +21526,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21556,7 +21557,7 @@
   {
     "asin": "B0HBNS7SDH",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21573,14 +21574,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0FBDL2D4V",
     "brand": "غير محدد",
-    "name": "AVUVA حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21597,7 +21598,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21621,14 +21622,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0HC4HX8P7",
     "brand": "غير محدد",
-    "name": "عرض حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21651,7 +21652,7 @@
   {
     "asin": "B0H4CZT4MV",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21668,14 +21669,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0F4PK5NT2",
     "brand": "غير محدد",
-    "name": "Alice حلاقة 3شفات",
+    "name": "حلاقة 3شفات",
     "specs": {
       "blades": "3 شفرات"
     },
@@ -21692,7 +21693,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21716,14 +21717,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0FR6J4PQV",
     "brand": "غير محدد",
-    "name": "Alice حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21740,7 +21741,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21764,14 +21765,14 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
   {
     "asin": "B0GL3D2VKQ",
     "brand": "غير محدد",
-    "name": "Facial حلاقة نسائي مقص",
+    "name": "حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -21812,7 +21813,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21843,7 +21844,7 @@
   {
     "asin": "B0F76TQ1KV",
     "brand": "غير محدد",
-    "name": "ALICE حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -21860,7 +21861,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21908,7 +21909,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
@@ -21931,7 +21932,7 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true,
     "type": "women"
   },
@@ -21960,7 +21961,7 @@
   {
     "asin": "B0DQHFSMTG",
     "brand": "TYHGSF",
-    "name": "Laser حلاقة نسائي",
+    "name": "TYHGSF حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22005,7 +22006,7 @@
   {
     "asin": "B0GSBRTNJG",
     "brand": "غير محدد",
-    "name": "Epilator حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22028,7 +22029,7 @@
   {
     "asin": "B0FY32GP2T",
     "brand": "Coco Wax",
-    "name": "Coco حلاقة نسائي",
+    "name": "Coco Wax حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22036,7 +22037,7 @@
     "title": "Coco Wax Depilatory Heater 40W - 3 IN 1",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 269.4,
+    "price": 261.32,
     "img": "https://m.media-amazon.com/images/I/413S4XUp27L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY32GP2T?tag=fineartslab-21",
     "active": false,
@@ -22050,7 +22051,7 @@
   {
     "asin": "B0GMRK9PF2",
     "brand": "غير محدد",
-    "name": "MO-9103 حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22094,7 +22095,7 @@
   {
     "asin": "B0BT1S9ZWC",
     "brand": "Coco Wax",
-    "name": "Coco حلاقة نسائي",
+    "name": "Coco Wax حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22116,7 +22117,7 @@
   {
     "asin": "B0G76FX1MZ",
     "brand": "غير محدد",
-    "name": "Women حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22139,7 +22140,7 @@
   {
     "asin": "B0C9HFZP4X",
     "brand": "Milukon",
-    "name": "Wax حلاقة نسائي",
+    "name": "Milukon حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22162,7 +22163,7 @@
   {
     "asin": "B09J8RWWX3",
     "brand": "Meschett",
-    "name": "حلاقة نسائي",
+    "name": "Meschett حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22230,7 +22231,7 @@
   {
     "asin": "B0FCD1YZQF",
     "brand": "ZECIER",
-    "name": "Eyebrow حلاقة نسائي مقص",
+    "name": "ZECIER حلاقة نسائي مقص",
     "specs": {
       "gender": "نسائي",
       "type": "مقص"
@@ -22276,7 +22277,7 @@
   {
     "asin": "B07MX5D98S",
     "brand": "Finishing Touch",
-    "name": "Finishing حلاقة نسائي",
+    "name": "Finishing Touch حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22343,7 +22344,7 @@
   {
     "asin": "B09DVW9WWV",
     "brand": "Variety of Beauty",
-    "name": "Waxing حلاقة نسائي",
+    "name": "Variety of Beauty حلاقة",
     "specs": {
       "gender": "نسائي"
     },
@@ -22388,7 +22389,7 @@
   {
     "asin": "B07G947S53",
     "brand": "Life Basis",
-    "name": "Life حلاقة نسائي",
+    "name": "Life Basis حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22455,7 +22456,7 @@
   {
     "asin": "B08D67MF73",
     "brand": "NO HAIR CREW",
-    "name": "No حلاقة نسائي",
+    "name": "NO HAIR CREW حلاقة",
     "specs": {
       "gender": "نسائي"
     },
@@ -22566,7 +22567,7 @@
   {
     "asin": "B0FPQS2LSZ",
     "brand": "Homealexa",
-    "name": "HOMEALEXA حلاقة نسائي",
+    "name": "Homealexa حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },
@@ -22589,7 +22590,7 @@
   {
     "asin": "B0FQK2ZGDF",
     "brand": "SNS SECRET NAILS SYSTEM",
-    "name": "Wax حلاقة نسائي",
+    "name": "SNS SECRET NAILS SYSTEM حلاقة",
     "specs": {
       "gender": "نسائي"
     },
@@ -22606,13 +22607,13 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": "audit-blocked",
+    "reason": null,
     "blocked": true
   },
   {
     "asin": "B0HQYKRJFD",
     "brand": "غير محدد",
-    "name": "Wax حلاقة نسائي",
+    "name": "حلاقة نسائي",
     "specs": {
       "gender": "نسائي"
     },

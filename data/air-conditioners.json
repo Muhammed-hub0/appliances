@@ -362,7 +362,7 @@
   {
     "asin": "B093W76H71",
     "brand": "شارب",
-    "name": "تكييف 2.25حصان سبليت إنفرتر",
+    "name": "شارب تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت",
@@ -1107,7 +1107,7 @@
   {
     "asin": "B097LTGV21",
     "brand": "Free Air",
-    "name": "Free تكييف 1.5حصان سبليت",
+    "name": "Free Air تكييف 1.5حصان",
     "specs": {
       "hp": "1.5",
       "type": "سبليت"
@@ -1130,7 +1130,7 @@
   {
     "asin": "B09231YR3D",
     "brand": "aura",
-    "name": "Aura تكييف 1.5حصان سبليت",
+    "name": "aura تكييف 1.5حصان سبليت",
     "specs": {
       "hp": "1.5",
       "type": "سبليت"
@@ -1153,7 +1153,7 @@
   {
     "asin": "B0CTKH25TG",
     "brand": "DAOLIGI",
-    "name": "Mini تكييف متنقل",
+    "name": "DAOLIGI تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -1175,7 +1175,7 @@
   {
     "asin": "B0H4KCYG2C",
     "brand": "غير محدد",
-    "name": "HO تكييف متنقل",
+    "name": "تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -1197,7 +1197,7 @@
   {
     "asin": "B0HF5FZYHV",
     "brand": "USHOP",
-    "name": "Ushop تكييف متنقل",
+    "name": "USHOP تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -1219,7 +1219,7 @@
   {
     "asin": "B07VVD5MTP",
     "brand": "غير محدد",
-    "name": "Adjustable تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "Adjustable Air Conditioner Without Wall Punching, 3254846565",
@@ -1239,7 +1239,7 @@
   {
     "asin": "B091CM8PRN",
     "brand": "OtherWorldlyWaxes",
-    "name": "Fully تكييف",
+    "name": "OtherWorldlyWaxes تكييف",
     "specs": {},
     "model": "",
     "title": "Fully Advanced AC Flow Deflector and Soother",
@@ -1637,8 +1637,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0H4H9T59B",
@@ -1750,13 +1752,13 @@
     "price": 27449,
     "img": "https://m.media-amazon.com/images/I/21tgCFS3OQL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CK64CHJY?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -2125,7 +2127,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -2336,7 +2338,7 @@
   {
     "asin": "B0993PLBNR",
     "brand": "Free Air",
-    "name": "Free تكييف 2.25حصان سبليت",
+    "name": "Free Air تكييف 2.25حصان",
     "specs": {
       "hp": "2.25",
       "type": "سبليت",
@@ -2360,7 +2362,7 @@
   {
     "asin": "B0GYJJRM8G",
     "brand": "غير محدد",
-    "name": "Long تكييف 2.25حصان سبليت",
+    "name": "تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت"
@@ -2383,7 +2385,7 @@
   {
     "asin": "B0922TZWWN",
     "brand": "aura",
-    "name": "Aura تكييف 2.25حصان سبليت",
+    "name": "aura تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت"
@@ -2428,7 +2430,7 @@
   {
     "asin": "B07MW44JP3",
     "brand": "Arctic Air",
-    "name": "Arctic تكييف متنقل",
+    "name": "Arctic Air تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -2450,7 +2452,7 @@
   {
     "asin": "B08TBRYVZB",
     "brand": "qinmor",
-    "name": "تكييف متنقل",
+    "name": "qinmor تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -2538,7 +2540,7 @@
   {
     "asin": "B07RCZWQ7P",
     "brand": "Arctic Air",
-    "name": "Ontel تكييف متنقل",
+    "name": "Arctic Air تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -2560,7 +2562,7 @@
   {
     "asin": "B0F1TNXWRN",
     "brand": "Pomefar",
-    "name": "تكييف متنقل",
+    "name": "Pomefar تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -2648,7 +2650,7 @@
   {
     "asin": "B0H7Q3C3QH",
     "brand": "غير محدد",
-    "name": "Adjustable تكييف سبليت",
+    "name": "تكييف سبليت",
     "specs": {
       "type": "سبليت"
     },
@@ -2690,7 +2692,7 @@
   {
     "asin": "B0H1NYLQ3L",
     "brand": "غير محدد",
-    "name": "موجه تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "موجه هواء مكيف ذكي مزدوج – تحسين فوري لأداء التكييف وراحة أعلى داخل الغرفة AC Air Conditioner Dual Vent Redirector for Efficient Cooling",
@@ -2965,7 +2967,7 @@
   {
     "asin": "B091NYFJXQ",
     "brand": "شارب",
-    "name": "تكييف 2.25حصان سبليت إنفرتر",
+    "name": "شارب تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت",
@@ -2983,7 +2985,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3086,7 +3088,7 @@
   {
     "asin": "B0D2JGFX4C",
     "brand": "Free Air",
-    "name": "Free تكييف 1.5حصان سبليت",
+    "name": "Free Air تكييف 1.5حصان",
     "specs": {
       "hp": "1.5",
       "type": "سبليت"
@@ -3250,7 +3252,7 @@
   {
     "asin": "B00AFN0VX8",
     "brand": "PREMIUM",
-    "name": "Adjustable تكييف سبليت",
+    "name": "PREMIUM تكييف سبليت",
     "specs": {
       "type": "سبليت"
     },
@@ -3319,7 +3321,7 @@
   {
     "asin": "B0F89HCFQ3",
     "brand": "HYUNDAI",
-    "name": "Hyundai تكييف 3حصان سبليت",
+    "name": "HYUNDAI تكييف 3حصان سبليت",
     "specs": {
       "hp": "3",
       "type": "سبليت",
@@ -3432,7 +3434,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3852,7 +3854,7 @@
   {
     "asin": "B09V4LT8VV",
     "brand": "Smiling Shark",
-    "name": "Smiling تكييف متنقل",
+    "name": "Smiling Shark تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -3874,7 +3876,7 @@
   {
     "asin": "B08V95HGYK",
     "brand": "ABCD",
-    "name": "تكييف متنقل",
+    "name": "ABCD تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -4082,7 +4084,7 @@
   {
     "asin": "B0C9MFF9MX",
     "brand": "shengyi",
-    "name": "SHENGYI تكييف متنقل",
+    "name": "shengyi تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -4126,7 +4128,7 @@
   {
     "asin": "B07MW1L8BB",
     "brand": "غير محدد",
-    "name": "Cooler تكييف متنقل",
+    "name": "تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -4171,7 +4173,7 @@
   {
     "asin": "B0GXMV2NDP",
     "brand": "PLUTO",
-    "name": "Pluto تكييف 2.25حصان سبليت",
+    "name": "PLUTO تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت",
@@ -4195,7 +4197,7 @@
   {
     "asin": "B0D3WV9RM4",
     "brand": "Amazplus",
-    "name": "Amazplus-Portable-Ac-Mini-Cooler-Fan-For-Room-Cooling-Rechargeable-Fan-Portable-Ac-For-Home-Portable-Air-",
+    "name": "Amazplus تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -4217,7 +4219,7 @@
   {
     "asin": "B0FF3HK84T",
     "brand": "غير محدد",
-    "name": "Mini تكييف متنقل",
+    "name": "تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -4259,7 +4261,7 @@
   {
     "asin": "B0GWV21QC7",
     "brand": "غير محدد",
-    "name": "Mini تكييف متنقل",
+    "name": "تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -4327,7 +4329,7 @@
   {
     "asin": "B0F89FPDXN",
     "brand": "HYUNDAI",
-    "name": "Hyundai تكييف 1.5حصان سبليت",
+    "name": "HYUNDAI تكييف 1.5حصان سبليت",
     "specs": {
       "hp": "1.5",
       "type": "سبليت",
@@ -4351,7 +4353,7 @@
   {
     "asin": "B097Y8NKYB",
     "brand": "linwinco",
-    "name": "تكييف متنقل",
+    "name": "linwinco تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -4738,7 +4740,7 @@
   {
     "asin": "B0H4XS5VB6",
     "brand": "غير محدد",
-    "name": "Adjustable تكييف سبليت",
+    "name": "تكييف سبليت",
     "specs": {
       "type": "سبليت"
     },
@@ -4784,7 +4786,7 @@
   {
     "asin": "B0FFHR5DV3",
     "brand": "غير محدد",
-    "name": "Direct تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "Direct Wind Blocker - Adjustable air conditioner deflector for 70-105cm units, shields users from strong airflow, promotes balanced and gentle air dispersion",
@@ -4804,7 +4806,7 @@
   {
     "asin": "B0H1NJF67H",
     "brand": "غير محدد",
-    "name": "موزع تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "موزع هواء التكييف الاحترافي – تصميم قابل للتعديل لتبريد متوازن AC Adjustable Air Vent Deflector Dual Flow",
@@ -5060,7 +5062,7 @@
   {
     "asin": "9774553454",
     "brand": "DarAlFarouk",
-    "name": "الموسوعة تكييف",
+    "name": "DarAlFarouk تكييف",
     "specs": {},
     "model": "",
     "title": "الموسوعة العالمية للتكييف والتبريد",
@@ -5080,7 +5082,7 @@
   {
     "asin": "B09232W4NN",
     "brand": "aura",
-    "name": "Aura تكييف 1.5حصان سبليت",
+    "name": "aura تكييف 1.5حصان سبليت",
     "specs": {
       "hp": "1.5",
       "type": "سبليت"
@@ -5127,7 +5129,7 @@
   {
     "asin": "B098897SY7",
     "brand": "Free Air",
-    "name": "Free تكييف 1.5حصان سبليت",
+    "name": "Free Air تكييف 1.5حصان",
     "specs": {
       "hp": "1.5",
       "type": "سبليت",
@@ -5174,7 +5176,7 @@
   {
     "asin": "B0CVWBWG55",
     "brand": "Free Air",
-    "name": "Free تكييف 3حصان سبليت",
+    "name": "Free Air تكييف 3حصان",
     "specs": {
       "hp": "3",
       "type": "سبليت"
@@ -5206,7 +5208,7 @@
     "title": "Beko 1.5 HP Cool Air Conditioner with Pro Smart Inverter and Jet Cool Function, White - 9212583200",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 25873,
+    "price": 25473,
     "img": "https://m.media-amazon.com/images/I/21WENns9OAL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D3F9DP9Z?tag=fineartslab-21",
     "active": true,
@@ -5473,7 +5475,7 @@
   {
     "asin": "B0GXMVXFNN",
     "brand": "PLUTO",
-    "name": "Pluto تكييف 2.25حصان سبليت",
+    "name": "PLUTO تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت",
@@ -5497,7 +5499,7 @@
   {
     "asin": "B0FH5MKW6Y",
     "brand": "AUXILIARY",
-    "name": "AUX تكييف 3حصان سبليت",
+    "name": "AUXILIARY تكييف 3حصان سبليت",
     "specs": {
       "hp": "3",
       "type": "سبليت"
@@ -5543,7 +5545,7 @@
   {
     "asin": "B0FH5MC2HC",
     "brand": "AUXILIARY",
-    "name": "AUX تكييف 2.25حصان سبليت",
+    "name": "AUXILIARY تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت"
@@ -5651,7 +5653,7 @@
   {
     "asin": "B0H1P27X5P",
     "brand": "غير محدد",
-    "name": "موجه تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "موجه هواء التكييف المزدوج – حل فعال لمشكلة عدم توزيع الهواء AC Vent Deflector Dual Adjustable Air Redirector",
@@ -5671,7 +5673,7 @@
   {
     "asin": "B0H1P26BZV",
     "brand": "غير محدد",
-    "name": "أداة تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "أداة تحسين توزيع هواء المكيف – مثالي للغرف والمكاتب AC Air Flow Distribution Deflector Adjustable",
@@ -5711,7 +5713,7 @@
   {
     "asin": "B0FJ1ZJ88B",
     "brand": "غير محدد",
-    "name": "مكثف تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "مكثف (كابستور) تكييف مستورد 5+35 uf يساعد على تقويم كباس التكيف جوده عاليه",
@@ -5777,7 +5779,7 @@
   {
     "asin": "B0C9MDYNPK",
     "brand": "shengyi",
-    "name": "SHENGYI تكييف متنقل",
+    "name": "shengyi تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -5799,7 +5801,7 @@
   {
     "asin": "B0CSFY29T3",
     "brand": "غير محدد",
-    "name": "Arctic تكييف متنقل",
+    "name": "تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -5861,7 +5863,7 @@
   {
     "asin": "B0GXMVXR6B",
     "brand": "PLUTO",
-    "name": "Pluto تكييف 2.25حصان سبليت",
+    "name": "PLUTO تكييف 2.25حصان سبليت",
     "specs": {
       "hp": "2.25",
       "type": "سبليت",
@@ -5907,7 +5909,7 @@
   {
     "asin": "B0H1NN75SZ",
     "brand": "غير محدد",
-    "name": "موزع تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "موزع تدفق الهواء للمكيف – يمنع تركيز الهواء ويوزعه بالتساوي AC Air Conditioner Deflector Adjustable Dual Vent",
@@ -6055,7 +6057,7 @@
   {
     "asin": "B0HKYN233K",
     "brand": "غير محدد",
-    "name": "Adjustable تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "Adjustable Dual Flow Air Conditioner Deflector - Practical Air Diffuser Helps Change Air Direction - Adjustable Design to Fit Place Needs - Suitable for Home Air Conditioners, Offices, Bedrooms",
@@ -6075,7 +6077,7 @@
   {
     "asin": "B08X12VD1C",
     "brand": "TRUSTECH",
-    "name": "تكييف متنقل",
+    "name": "TRUSTECH تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -6205,7 +6207,7 @@
   {
     "asin": "B0BWWHF151",
     "brand": "MG Automotive",
-    "name": "MG تكييف",
+    "name": "MG Automotive تكييف",
     "specs": {},
     "model": "",
     "title": "MG Automotive SAIC RX5 HS Air Conditioning Filter Activated Carbon AC Air Filter 10869023",
@@ -6225,7 +6227,7 @@
   {
     "asin": "B0FDW7RVR8",
     "brand": "MCVHIUR",
-    "name": "تكييف متنقل",
+    "name": "MCVHIUR تكييف متنقل",
     "specs": {
       "type": "متنقل"
     },
@@ -6290,7 +6292,7 @@
   {
     "asin": "B0HKGJ9FNK",
     "brand": "غير محدد",
-    "name": "15m تكييف",
+    "name": "تكييف",
     "specs": {},
     "model": "",
     "title": "15m x 5cm PVC Air Conditioner Pipe Insulation Tape - Air Conditioning Pipe Insulation Tape Water Lines",
@@ -6330,7 +6332,7 @@
   {
     "asin": "B0FZVBYWKM",
     "brand": "غير محدد",
-    "name": "غطاء تكييف 2.25حصان",
+    "name": "تكييف 2.25حصان",
     "specs": {
       "hp": "2.25"
     },
