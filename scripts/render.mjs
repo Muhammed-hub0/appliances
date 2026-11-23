@@ -246,7 +246,8 @@ const HUB_CSS = `
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
 .cat{display:flex;flex-direction:column;gap:8px;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:16px;transition:transform .15s ease,border-color .15s ease}
 .cat:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
-.cat .emoji{font-size:30px;line-height:1}
+.cat .cat-img{width:100%;height:110px;object-fit:contain;background:var(--surface-alt);border-radius:12px;padding:8px}
+.cat .emoji{font-size:30px;line-height:1;height:110px;display:flex;align-items:center;justify-content:center;background:var(--surface-alt);border-radius:12px}
 .cat b{font-size:16px;font-weight:800;color:var(--text)}
 .cat .meta{font-size:12px;color:var(--muted)}
 .cat .go{font-size:12px;color:var(--win);font-weight:800;margin-top:auto}
@@ -322,11 +323,15 @@ function footer(rowsCount, meta) {
 </div>`;
 }
 
-export function renderHub(stats, meta) {
+export function renderHub(stats, meta, covers = {}) {
   const cards = CATEGORIES.map((cat) => {
     const count = stats[cat.id] || 0;
+    const cover = covers[cat.id];
+    const visual = cover
+      ? `<img class="cat-img" src="${esc(cover)}" loading="lazy" alt="${esc(cat.title)}">`
+      : `<span class="emoji">${cat.emoji}</span>`;
     return `<a class="cat${count === 0 ? ' empty' : ''}" href="c/${cat.id}/index.html" data-name="${esc(cat.title + ' ' + cat.short + ' ' + cat.id)}">
-    <span class="emoji">${cat.emoji}</span>
+    ${visual}
     <b>${esc(cat.title)}</b>
     <span class="meta">${count} منتج متوفر</span>
     <span class="go">اعرض المنتجات ←</span>
@@ -535,6 +540,7 @@ ${urls.map((u) => `  <url><loc>${esc(u)}</loc></url>`).join('\n')}
 
 export async function writePublic(allData, meta = {}) {
   const stats = {};
+  const covers = {};
   await mkdir(OUT_DIR, { recursive: true });
   await mkdir(join(OUT_DIR, 'assets'), { recursive: true });
   await writeFile(join(OUT_DIR, '.nojekyll'), '', 'utf8');
@@ -544,6 +550,8 @@ export async function writePublic(allData, meta = {}) {
     const offers = allData[category.id] || [];
     const rows = visibleOffers(offers, category);
     stats[category.id] = rows.length;
+    // صورة القسم = صورة أول جهاز حقيقي جوه القسم
+    covers[category.id] = rows.find((o) => typeof o.img === 'string' && /^https:\/\//.test(o.img))?.img || '';
 
     const dir = join(OUT_DIR, 'c', category.id);
     await rm(join(dir, 'p'), { recursive: true, force: true });
@@ -558,7 +566,7 @@ export async function writePublic(allData, meta = {}) {
     );
   }
 
-  await writeFile(join(OUT_DIR, 'index.html'), renderHub(stats, meta), 'utf8');
+  await writeFile(join(OUT_DIR, 'index.html'), renderHub(stats, meta, covers), 'utf8');
   await writeFile(join(OUT_DIR, 'sitemap.xml'), renderSitemap(stats), 'utf8');
   return stats;
 }

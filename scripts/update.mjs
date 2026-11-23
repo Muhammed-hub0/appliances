@@ -22,6 +22,12 @@ const DEFAULT_WARRANTY = '15 يوم إرجاع مجاني من أمازون';
 const DEFAULT_SHIP = 'مجاني';
 const IN_STOCK = new Set(['IN_STOCK', 'IN_STOCK_SCARCE', 'LEADTIME', 'PREORDER', 'AVAILABLE_DATE']);
 
+// بيانات المواقع القديمة (الاير فراير / الميكروويف) بنستخدمها كبذرة للأقسام المناظرة
+const LEGACY_SEEDS = [
+  { category: 'airfryers', file: 'legacy-airfryers.json' },
+  { category: 'microwaves', file: 'legacy-microwaves.json' },
+];
+
 const today = () => new Date().toISOString().slice(0, 10);
 
 function daysBetween(a, b) {
@@ -124,8 +130,9 @@ function scoreCandidate({ info }) {
   return knownBrand * 10 - specCount;
 }
 
-async function findNewItems(category, offers, globalKnown) {
-  const known = new Set(globalKnown);
+async function findNewItems(category, offers, globalKnown, seen) {
+  // الـ seen بيمنع رجوع منتج اتشال بـ prune في كل تشغيل
+  const known = new Set([...globalKnown, ...seen]);
   const families = new Set(
     offers.filter((o) => o.active !== false).map((o) => productKey(o)),
   );
@@ -218,6 +225,38 @@ function makeOffer({ api, info }, category, date) {
   };
 }
 
+// تحويل صف من بيانات الموقع القديم لصيغة العروض الحالية
+function legacyOffer(row, category) {
+  const title = String(row?.title || '').replace(/\s+/g, ' ').trim();
+  const asin = String(row?.asin || '').trim();
+  const price = Number(row?.price);
+  if (!/^[A-Z0-9]{10}$/i.test(asin) || !title || !/^https:\/\//.test(row?.img || '')) return null;
+  if (!Number.isFinite(price)) return null;
+  if (!category.include.test(title)) return null;
+  if (ACCESSORY_RE.test(title) || category.exclude?.test(title)) return null;
+
+  const info = describeProduct({ title, byLine: '' }, category);
+  return {
+    asin,
+    brand: info.brand || '',
+    name: info.name || title,
+    specs: info.specs || {},
+    model: info.model || '',
+    title,
+    warranty: DEFAULT_WARRANTY,
+    ship: DEFAULT_SHIP,
+    price,
+    img: row.img,
+    url: productUrl(asin),
+    active: row.active !== false,
+    firstSeen: row.firstSeen || '2026-01-01',
+    lastGood: row.lastGood || today(),
+    source: 'legacy',
+    missCount: 0,
+    oosCount: 0,
+  };
+}
+
 function prune(offers) {
   if (offers.length <= MAX_STORED_PER_CATEGORY) return offers;
   const active = offers.filter((o) => o.active !== false);
@@ -236,9 +275,33 @@ async function main() {
     history[cat.id] = (await loadJson(join(DATA_DIR, `${cat.id}-history.json`), {})) || {};
   }
 
+  const seenByCat = {};
+  for (const cat of CATEGORIES) {
+    seenByCat[cat.id] = new Set(history[cat.id]._meta?.seenAsins || []);
+  }
+
   const renderOnly = process.argv.includes('--render-only') || !hasCredentials();
   let totalChanges = 0;
   let totalAdded = 0;
+  let legacyAdded = 0;
+
+  // استيراد بيانات المواقع القديمة للقلايات والميكروويف
+  for (const seed of LEGACY_SEEDS) {
+    const cat = CATEGORIES.find((c) => c.id === seed.category);
+    if (!cat) continue;
+    const rows = await loadJson(join(DATA_DIR, seed.file), []);
+    if (!Array.isArray(rows)) continue;
+    const existing = new Set(data[cat.id].map((o) => o.asin));
+    for (const row of rows) {
+      const offer = legacyOffer(row, cat);
+      if (!offer || existing.has(offer.asin)) continue;
+      data[cat.id].push(offer);
+      existing.add(offer.asin);
+      seenByCat[cat.id].add(offer.asin);
+      legacyAdded++;
+    }
+  }
+  if (legacyAdded) console.log(`🌱 استوردت ${legacyAdded} منتج من بيانات المواقع القديمة`);
 
   const globalKnown = new Set();
   for (const cat of CATEGORIES) {
@@ -305,12 +368,13 @@ async function main() {
       }
 
       try {
-        const { items: fresh, stats } = await findNewItems(cat, offers, globalKnown);
+        const { items: fresh, stats } = await findNewItems(cat, offers, globalKnown, seenByCat[cat.id]);
         for (const candidate of fresh.slice(0, MAX_NEW_PER_CATEGORY)) {
           const offer = makeOffer(candidate, cat, today());
           recordPrice(hist, offer.asin, offer.price);
           offers.push(offer);
           globalKnown.add(offer.asin);
+          seenByCat[cat.id].add(offer.asin);
           added++;
           totalAdded++;
         }
@@ -339,6 +403,7 @@ async function main() {
       lastRun: meta.updatedAt,
       activeCount: data[cat.id].filter((o) => o.active !== false).length,
       totalCount: data[cat.id].length,
+      seenAsins: [...seenByCat[cat.id]].slice(-3000),
     };
     await writeFile(join(DATA_DIR, `${cat.id}.json`), `${JSON.stringify(data[cat.id], null, 2)}\n`, 'utf8');
     await writeFile(join(DATA_DIR, `${cat.id}-history.json`), `${JSON.stringify(history[cat.id], null, 2)}\n`, 'utf8');

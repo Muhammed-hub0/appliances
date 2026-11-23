@@ -10,12 +10,13 @@ export const API_BASE = 'https://creatorsapi.amazon';
 // حدود عامة (لكل قسم حدوده الخاصة في CATEGORIES)
 export const MIN_PRICE = 150;
 export const MAX_PRICE = 600000;
-export const SEARCH_MAX_PRICE = 150000;
+export const SEARCH_MAX_PRICE = 300000;
 export const MAX_STALE_DAYS = 7;
-export const MAX_NEW_PER_CATEGORY = 15;
-export const MAX_STORED_PER_CATEGORY = 90;
+// بنضيف أكبر عدد ممكن من منتجات أمازون في كل قسم، مش 15 بس
+export const MAX_NEW_PER_CATEGORY = 80;
+export const MAX_STORED_PER_CATEGORY = 400;
 export const HISTORY_LIMIT = 200;
-export const SEARCH_PAGES = [1, 2, 3];
+export const SEARCH_PAGES = [1, 2, 3, 4, 5];
 export const SEARCH_ITEM_COUNT = 10;
 
 const n = (key, label, pattern, min, max, suffix = '') => ({
@@ -200,10 +201,16 @@ export const CATEGORIES = [
   },
   {
     id: 'shavers', title: 'ماكينات الحلاقة', short: 'ماكينة حلاقة', emoji: '🪒',
-    queries: ['electric shaver', 'electric razor', 'beard trimmer', 'ماكينة حلاقة', 'حلاقة كهربائية'],
-    include: /shaver|razor|trimmer|grooming|حلاق|ماكينة\s*حلاقة|تشذيب/i,
+    // بحث شامل للرجالي والنسائي في قسم واحد، والتمييز بينهم عن طريق فلتر «النوع»
+    queries: [
+      'electric shaver', 'electric razor', 'beard trimmer', 'men shaver',
+      'women shaver', 'ladies shaver', 'women epilator', 'bikini trimmer',
+      'ماكينة حلاقة', 'حلاقة كهربائية', 'ماكينة حلاقة نسائية', 'إزالة شعر',
+    ],
+    include: /shaver|razor|trimmer|epilat|grooming|bikini|حلاق|ماكينة\s*حلاقة|تشذيب|إزالة\s*شعر/i,
     exclude: /blade\s*refill|replacement\s*head|شفرات\s*بديلة|pet\s*groom|\bdog\b|\bcat\b|كلاب|قطط/i,
     specs: [
+      e('gender', 'الفئة', [[/women|ladies|female|نسائ|بنات|bikini|epilat|إزالة/i, 'نسائي'], [/men|male|رجال|رجالي|beard|moustache|ذقن|شارب/i, 'رجالي']]),
       e('blades', 'عدد الشفرات', [[/\b5\s*blade|5\s*شفرة/i, '5 شفرات'], [/\b4\s*blade|4\s*شفرة/i, '4 شفرات'], [/\b3\s*blade|3\s*شفرة/i, '3 شفرات'], [/\b2\s*blade|2\s*شفرة/i, '2 شفرة']]),
       e('type', 'النوع', [[/wet\s*(and|&|\/)\s*dry|مقاوم للماء|waterproof/i, 'مقاوم للماء'], [/trimmer|مقص/i, 'مقص'], [/rotary|دواري/i, 'دواري'], [/foil|شبكي/i, 'شبكي']]),
       n('battery', 'البطارية (دقيقة)', /(\d{2,4})\s*(?:min|دقيقة)/i, 20, 2000, ''),
