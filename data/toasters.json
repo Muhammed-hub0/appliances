@@ -869,13 +869,13 @@
     "price": 1099,
     "img": "https://m.media-amazon.com/images/I/41QEa8vHjYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FHGHYDZH?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GXMWB8S7",
@@ -973,13 +973,13 @@
     "price": 540,
     "img": "https://m.media-amazon.com/images/I/31CKZ+OPE4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJNVKGW8?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HP8C5LJS",
@@ -1453,13 +1453,13 @@
     "price": 12538,
     "img": "https://m.media-amazon.com/images/I/51Q8+Gs3knL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GVPPKJ7R?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B01C8PFVTO",
@@ -2499,13 +2499,13 @@
     "price": 234.99,
     "img": "https://m.media-amazon.com/images/I/51RS55ClqDL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FK5D29NF?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CFQXSL5S",
@@ -2665,12 +2665,12 @@
     "price": 650.68,
     "img": "https://m.media-amazon.com/images/I/41iTYOj4t9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GDN82RF5?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   }
 ]

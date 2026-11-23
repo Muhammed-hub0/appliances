@@ -1595,13 +1595,13 @@
     "price": 607.45,
     "img": "https://m.media-amazon.com/images/I/41IwsgMayhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BM6J9ZP4?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B08NDMTN2W",
@@ -1619,13 +1619,13 @@
     "price": 376.03,
     "img": "https://m.media-amazon.com/images/I/41ghO076+3L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08NDMTN2W?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0BWV3N543",
@@ -1882,13 +1882,13 @@
     "price": 340,
     "img": "https://m.media-amazon.com/images/I/41vit0kZKgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08JNP488Z?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H1MS1SBZ",
@@ -2135,13 +2135,13 @@
     "price": 1181,
     "img": "https://m.media-amazon.com/images/I/613Jto2O7NL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GWVTW4TF?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0992FKFRW",
@@ -3652,13 +3652,13 @@
     "price": 429,
     "img": "https://m.media-amazon.com/images/I/41URxOn1tdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D9QTQ5T4?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CWY494KJ",
@@ -3963,13 +3963,13 @@
     "price": 185,
     "img": "https://m.media-amazon.com/images/I/41lWQqKB5OL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F4NQK1WD?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C99TYR8G",
@@ -4469,13 +4469,13 @@
     "price": 250,
     "img": "https://m.media-amazon.com/images/I/51N19T1hQ7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FZLJGZB3?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B07W863XL7",
@@ -4515,13 +4515,13 @@
     "price": 250,
     "img": "https://m.media-amazon.com/images/I/51hJXL+Q3OL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G3HJ77Z2?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DT47LC3Z",
@@ -4676,13 +4676,13 @@
     "price": 174.67,
     "img": "https://m.media-amazon.com/images/I/518g3Ha7hDL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0946V7BRX?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CTHVBQS8",
@@ -4928,13 +4928,13 @@
     "price": 398.5,
     "img": "https://m.media-amazon.com/images/I/41DmlU4BqIL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08TY5VHYB?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09MLPT8BD",
@@ -7318,13 +7318,13 @@
     "price": 3900,
     "img": "https://m.media-amazon.com/images/I/41HNqomxbkL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BBPM11JJ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CQYTCJDR",
@@ -8708,13 +8708,13 @@
     "price": 622.11,
     "img": "https://m.media-amazon.com/images/I/41N22X8J45L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HG7XN4V4?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0D8VCNK2K",
@@ -9385,13 +9385,13 @@
     "price": 442.62,
     "img": "https://m.media-amazon.com/images/I/41dG2e4pMUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09JPCTPPV?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GYSB162W",
@@ -9478,13 +9478,13 @@
     "price": 397,
     "img": "https://m.media-amazon.com/images/I/41pLyuwJF6L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CKNC2L2M?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CKL7BR1P",
@@ -9868,13 +9868,13 @@
     "price": 1199,
     "img": "https://m.media-amazon.com/images/I/514WgfSR2jL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H32BQT6W?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HFGB164X",
@@ -9891,13 +9891,13 @@
     "price": 235,
     "img": "https://m.media-amazon.com/images/I/51AK2nDQhhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HFGB164X?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0D2TFQRQM",
@@ -9915,13 +9915,13 @@
     "price": 984,
     "img": "https://m.media-amazon.com/images/I/41ppF3DPRZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D2TFQRQM?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09NRKJLFX",
@@ -10397,13 +10397,13 @@
     "price": 477.6,
     "img": "https://m.media-amazon.com/images/I/415mRlSA78L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09ZTJ3Z7F?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0BL1NLTQV",
@@ -10420,13 +10420,13 @@
     "price": 948.95,
     "img": "https://m.media-amazon.com/images/I/41vWN1pEDdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BL1NLTQV?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C6B16CZ1",
@@ -10583,13 +10583,13 @@
     "price": 402.28,
     "img": "https://m.media-amazon.com/images/I/41JPGY6DK+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BM6KBG91?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GQSRRVVT",
@@ -10883,13 +10883,13 @@
     "price": 396,
     "img": "https://m.media-amazon.com/images/I/411qGcKnzIL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BM6KKJ12?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B08NDK4BQR",
@@ -10907,13 +10907,13 @@
     "price": 363,
     "img": "https://m.media-amazon.com/images/I/51xGMZEuObL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08NDK4BQR?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CK8DYF8J",
@@ -10954,13 +10954,13 @@
     "price": 299,
     "img": "https://m.media-amazon.com/images/I/410zgzE3u1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H8TKRLHV?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B019EE1FQ0",
@@ -11024,13 +11024,13 @@
     "price": 1532,
     "img": "https://m.media-amazon.com/images/I/41-b7b71qJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CVF2GG52?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0B1VK3K4D",
@@ -11072,13 +11072,13 @@
     "price": 550,
     "img": "https://m.media-amazon.com/images/I/41Ap+hsFiGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CW1WY7ZF?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0D6GH14BQ",
@@ -11118,13 +11118,13 @@
     "price": 499,
     "img": "https://m.media-amazon.com/images/I/41RVJ+-jxnL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09JP9BQQC?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DDFCZN21",
@@ -11234,13 +11234,13 @@
     "price": 464,
     "img": "https://m.media-amazon.com/images/I/418tnz+H-5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BM6HT7H1?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DF71QW53",
@@ -11373,13 +11373,13 @@
     "price": 656,
     "img": "https://m.media-amazon.com/images/I/51ERoehrOWL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09J5B4929?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DQWW7LNZ",
@@ -11419,13 +11419,13 @@
     "price": 525,
     "img": "https://m.media-amazon.com/images/I/51oHHheM7mL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4TGLFHD?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0BJL9FQ29",
@@ -11466,13 +11466,13 @@
     "price": 389,
     "img": "https://m.media-amazon.com/images/I/41x9lwNm0pL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BWV2XNTM?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0BFDSF7L1",
@@ -11558,13 +11558,13 @@
     "price": 989,
     "img": "https://m.media-amazon.com/images/I/51WOnk0NE1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GXC94C8X?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0B646ZKB9",
@@ -11629,13 +11629,13 @@
     "price": 589,
     "img": "https://m.media-amazon.com/images/I/516UzS7OaEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNBRG62C?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H6CL69H2",
@@ -11674,13 +11674,13 @@
     "price": 420,
     "img": "https://m.media-amazon.com/images/I/41JTfCv6XyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CF5YKJGG?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DN5Y25S3",
@@ -11975,13 +11975,13 @@
     "price": 702,
     "img": "https://m.media-amazon.com/images/I/41yc4sqf1XL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GS3HBLQZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H1RXNFLM",
@@ -12178,13 +12178,13 @@
     "price": 599,
     "img": "https://m.media-amazon.com/images/I/61JDciR21aL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F64HJG8X?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0B3W9X4CL",
@@ -12543,13 +12543,13 @@
     "price": 578,
     "img": "https://m.media-amazon.com/images/I/71yMyHCvMqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DLV9YGVV?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0B29PG2W3",
@@ -12815,13 +12815,13 @@
     "price": 4500,
     "img": "https://m.media-amazon.com/images/I/41AbwsPt-eL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FKVYLNT8?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DN6H99MQ",
@@ -13178,13 +13178,13 @@
     "price": 2796.43,
     "img": "https://m.media-amazon.com/images/I/51yzG+ThYlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D7FJJXYL?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09FHRNYVX",
@@ -13334,13 +13334,13 @@
     "price": 243,
     "img": "https://m.media-amazon.com/images/I/31PRgN6S7RL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09NSWPGNP?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B00AYCU8TC",
@@ -15002,13 +15002,13 @@
     "price": 529,
     "img": "https://m.media-amazon.com/images/I/618-lBWyezL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09BTYCZG7?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0FV37D9T4",
@@ -17826,13 +17826,13 @@
     "price": 178.49,
     "img": "https://m.media-amazon.com/images/I/21ulVqF+Q3L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07PWF1D9M?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GWFQFMKJ",
@@ -18522,13 +18522,13 @@
     "price": 7499,
     "img": "https://m.media-amazon.com/images/I/31fIoT1hfVL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DJ98CDNZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DSBYV86B",
@@ -19275,13 +19275,13 @@
     "price": 253,
     "img": "https://m.media-amazon.com/images/I/41ZHVMkC50L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJPP6WN?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GXW6DSF1",
@@ -19297,13 +19297,13 @@
     "price": 349,
     "img": "https://m.media-amazon.com/images/I/41wZx3xBRaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GXW6DSF1?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09VKWTPC6",
@@ -19342,13 +19342,13 @@
     "price": 1770,
     "img": "https://m.media-amazon.com/images/I/51j5dFxGYTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F2MS12WR?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C6GL61ZX",
@@ -19993,13 +19993,13 @@
     "price": 1777,
     "img": "https://m.media-amazon.com/images/I/51UKdvlDTML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F2DHVTN2?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B01H1TIXG0",
@@ -20242,13 +20242,13 @@
     "price": 388,
     "img": "https://m.media-amazon.com/images/I/41PXW+bF39L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07ZG7T3YY?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0G4L5QM6R",
@@ -20396,13 +20396,13 @@
     "price": 219.99,
     "img": "https://m.media-amazon.com/images/I/51N9GIjwBaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FD8DPPKG?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HCQLHQ27",
@@ -20418,13 +20418,13 @@
     "price": 607.75,
     "img": "https://m.media-amazon.com/images/I/31bBbTLTe0L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HCQLHQ27?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CTFQ5FD7",
@@ -20708,13 +20708,13 @@
     "price": 195,
     "img": "https://m.media-amazon.com/images/I/31ZO8RiX18L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F9X2FGV6?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09BV2R784",
@@ -20728,13 +20728,13 @@
     "price": 332,
     "img": "https://m.media-amazon.com/images/I/41EZOTuFHUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09BV2R784?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C7P7KNQ2",
@@ -21081,13 +21081,13 @@
     "price": 272,
     "img": "https://m.media-amazon.com/images/I/41wqL-q9H9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F4PK5NT2?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GW381DBX",
@@ -21414,13 +21414,13 @@
     "price": 279,
     "img": "https://m.media-amazon.com/images/I/413S4XUp27L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FY32GP2T?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GMRK9PF2",
@@ -21480,13 +21480,13 @@
     "price": 184.95,
     "img": "https://m.media-amazon.com/images/I/41B+jgtWokL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BT1S9ZWC?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0G76FX1MZ",
@@ -21524,13 +21524,13 @@
     "price": 155.56,
     "img": "https://m.media-amazon.com/images/I/51ikh7K9aYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C9HFZP4X?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09J8RWWX3",
@@ -21724,13 +21724,13 @@
     "price": 219.68,
     "img": "https://m.media-amazon.com/images/I/41UGV18vsGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09DVW9WWV?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B005GRH5M8",
@@ -21856,13 +21856,13 @@
     "price": 244,
     "img": "https://m.media-amazon.com/images/I/41DwmSG5KnL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07PCN1Y74?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CQRSQJ6R",
@@ -21966,13 +21966,13 @@
     "price": 180,
     "img": "https://m.media-amazon.com/images/I/31LBWe4uBwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FQK2ZGDF?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HQYKRJFD",
@@ -21988,13 +21988,13 @@
     "price": 199,
     "img": "https://m.media-amazon.com/images/I/41xS9OcBNdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HQYKRJFD?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B00N4Z45N6",

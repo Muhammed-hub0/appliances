@@ -2,7 +2,7 @@
 <html lang="ar" dir="rtl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>أجهزة طهي الأرز في مصر | مشترياتك صح</title>
-<meta name="description" content="قارن أسعار أجهزة طهي الأرز على أمازون مصر مع تحديث تلقائي للمواصفات والأسعار.">
+<meta name="description" content="اختر نوع أجهزة طهي الأرز وقارن الأسعار على أمازون مصر.">
 <meta name="theme-color" content="#0f253d">
 <meta property="og:type" content="website">
 <meta property="og:title" content="أجهزة طهي الأرز في مصر | مشترياتك صح">
@@ -44,45 +44,32 @@ h1{font-size:23px;margin:18px 0 8px}
   .social-pill{font-size:11px;padding:5px 8px}
 }
 
+.big-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}
+.big-group{display:flex;flex-direction:column;align-items:flex-start;gap:10px;min-height:230px;padding:22px;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
+.big-group:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
+.big-emoji{font-size:44px;line-height:1;display:flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:16px;background:var(--surface-alt)}
+.big-group b{font-size:20px;font-weight:800;color:var(--text)}
+.big-group .meta{font-size:13px;color:var(--muted)}
+.big-group .go{font-size:13px;color:var(--win);font-weight:800;margin-top:auto}
 .breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
-.banner{display:block;width:100%;height:auto;border-radius:16px;border:1px solid var(--line);margin:0 0 14px}
-.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;padding:12px 14px;margin-bottom:14px}
-.fld{display:flex;flex-direction:column;gap:4px}
-.fld label{font-size:12px;color:var(--muted);font-weight:600}
-select,input{font-family:inherit;font-size:14px;padding:9px 11px;border:2px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);min-width:130px}
-button.reset{font-family:inherit;font-size:14px;padding:9px 14px;border:1px solid var(--b);border-radius:12px;background:var(--b);color:#fff;font-weight:700;cursor:pointer}
-:root[data-theme="dark"] button.reset{color:#0b1a2b}
-.cnt{font-size:13px;color:var(--win);font-weight:700;margin-inline-start:auto;padding-bottom:8px}
-.tablewrap{overflow-x:auto}
-table{width:100%;border-collapse:separate;border-spacing:0;overflow:hidden;font-size:14px}
-th{background:var(--a);color:#fff;padding:11px 10px;text-align:right;position:sticky;top:0;z-index:1;white-space:nowrap}
-td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
-tr.alt td{background:var(--surface-alt)}
-.n{color:var(--muted);width:34px}
-.nm{font-weight:700;min-width:190px}
-.nm a{color:var(--text)}
-.nm a:hover{color:var(--a)}
-.sp{white-space:nowrap}
-.p{font-weight:800;white-space:nowrap;color:var(--win)}
-.w{color:var(--muted);font-size:12px}
-.im{width:90px;text-align:center}
-.lk a{display:inline-block;padding:6px 10px;border-radius:9px;background:var(--a);color:#fff;font-size:12px;white-space:nowrap}
-.lk a:hover{text-decoration:none;opacity:.9}
-@media(max-width:720px){
-  .bar{padding:10px}
-  select,input{font-size:13px;padding:8px;min-width:0;width:100%}
-  .fld{flex:1 1 130px}
-  .cnt{width:100%;margin-inline-start:0;padding-bottom:0}
-  .tablewrap{overflow:visible}
-  table{font-size:12px;table-layout:fixed;width:100%}
-  th:nth-child(1),td.n{display:none}
-  th,td{padding:6px 4px;overflow-wrap:anywhere}
-  .nm{min-width:0;white-space:normal}
-  .im{width:52px}
-  .im img{width:48px;height:48px}
-  .p{font-size:12px}
-  .lk a{padding:5px 7px;font-size:11px}
-}
+@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:150px;padding:16px}.big-emoji{width:54px;height:54px;font-size:32px}.big-group b{font-size:17px}}
+.searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
+.searchbox input{flex:1;min-width:0}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
+.cat{display:flex;flex-direction:column;gap:8px;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:16px;transition:transform .15s ease,border-color .15s ease}
+.cat:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
+.cat .cat-img{width:100%;height:110px;object-fit:contain;background:var(--surface-alt);border-radius:12px;padding:8px}
+.cat .emoji{font-size:30px;line-height:1;height:110px;display:flex;align-items:center;justify-content:center;background:var(--surface-alt);border-radius:12px}
+.cat b{font-size:16px;font-weight:800;color:var(--text)}
+.cat .meta{font-size:12px;color:var(--muted)}
+.cat .go{font-size:12px;color:var(--win);font-weight:800;margin-top:auto}
+.cat.empty{opacity:.55}
+.group{margin:24px 0 6px}
+.group h2{font-size:19px;margin:0 0 10px;padding-inline-start:10px;border-inline-start:4px solid var(--b)}
+.group .grid{margin-top:0}
+#noCats{color:var(--muted);font-weight:700;padding:18px;text-align:center}
+@media(max-width:900px){.grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:650px){.grid{grid-template-columns:repeat(2,1fr)}.cat{padding:12px}.cat b{font-size:14px}}
 </style></head><body>
 <header class="top"><div class="wrap head">
   <div class="brand"><a href="../../index.html"><img src="../../assets/logo.jpg" alt="مشترياتك صح"></a><b>مشترياتك صح · دليل الأجهزة المنزلية</b></div>
@@ -95,549 +82,41 @@ tr.alt td{background:var(--surface-alt)}
 </div></header>
 <main class="wrap">
 <div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← <a href="../../groups/small/index.html">أجهزة منزلية صغيرة</a> ← أجهزة طهي الأرز</div>
-<h1>🍚 أجهزة طهي الأرز على أمازون مصر</h1>
-<p class="lead">47 منتج متوفر حاليًا — الأسعار بتتحدث تلقائيًا كل 6 ساعات.</p>
-<img class="banner" src="../../assets/banner.jpg" alt="مشترياتك صح" style="width:100%;border-radius:16px;border:1px solid var(--line)">
-<div class="bar surface-card">
-  <div class="fld"><label for="fBrand">البراند</label><select id="fBrand"><option value="">الكل</option></select></div>
-  <div class="fld"><label for="fMin">السعر من</label><input id="fMin" type="number" inputmode="numeric" placeholder="0" min="0"></div>
-  <div class="fld"><label for="fMax">السعر إلى</label><input id="fMax" type="number" inputmode="numeric" placeholder="∞" min="0"></div>
-  <button id="fReset" class="reset" type="button">مسح الفلاتر</button>
-  <div class="cnt" id="cnt">47 من 47 منتج</div>
+<h1>🍚 أجهزة طهي الأرز</h1>
+<p class="lead">40 منتج متوفر — اختر النوع عشان تشوف مقارنة الأسعار الكاملة.</p>
+<div class="grid">
+<a class="cat" href="all.html">
+    <span class="emoji">🍚</span>
+    <b>كل أجهزة طهي الأرز</b>
+    <span class="meta">40 منتج متوفر</span>
+    <span class="go">اعرض المنتجات ←</span>
+  </a>
+<a class="cat" href="t/small.html">
+    <span class="emoji">🍚</span>
+    <b>طباخ أرز صغير</b>
+    <span class="meta">16 منتج متوفر</span>
+    <span class="go">اعرض المنتجات ←</span>
+  </a>
+<a class="cat" href="t/large.html">
+    <span class="emoji">🍚</span>
+    <b>طباخ أرز عائلي</b>
+    <span class="meta">16 منتج متوفر</span>
+    <span class="go">اعرض المنتجات ←</span>
+  </a>
+<a class="cat" href="t/standard.html">
+    <span class="emoji">🍚</span>
+    <b>طباخ أرز عادي</b>
+    <span class="meta">8 منتج متوفر</span>
+    <span class="go">اعرض المنتجات ←</span>
+  </a>
 </div>
-<div class="tablewrap"><table id="tbl" class="surface-card">
-<thead><tr><th></th><th>الصورة</th><th>الاسم</th><th>البراند</th><th>السعر</th><th>الرابط</th></tr></thead>
-<tbody>
-<tr data-brand='غير محدد' data-price='250'>
-<td class='n'>1</td>
-<td class='im'><a href='p/B0F1LRR2YK.html'><img src='https://m.media-amazon.com/images/I/51ZyIRtxSbL._SL500_.jpg' loading='lazy' alt='Vegetable طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0F1LRR2YK.html'>Vegetable طباخ أرز</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>250.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0F1LRR2YK?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='261'>
-<td class='n'>2</td>
-<td class='im'><a href='p/B0H958G7J9.html'><img src='https://m.media-amazon.com/images/I/41wn-w1VmvL._SL500_.jpg' loading='lazy' alt='Metal طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0H958G7J9.html'>Metal طباخ أرز</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>261.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0H958G7J9?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='1299'>
-<td class='n'>3</td>
-<td class='im'><a href='p/B08YY223ZQ.html'><img src='https://m.media-amazon.com/images/I/41FFzsaKf-L._SL500_.jpg' loading='lazy' alt='طباخ أرز 500وات' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B08YY223ZQ.html'>طباخ أرز 500وات</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>1,299.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B08YY223ZQ?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='DENX' data-price='1375'>
-<td class='n'>4</td>
-<td class='im'><a href='p/B0H6T1572Z.html'><img src='https://m.media-amazon.com/images/I/41K+HdFNJzL._SL500_.jpg' loading='lazy' alt='DENX طباخ أرز 1لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0H6T1572Z.html'>DENX طباخ أرز 1لتر</a></td>
-<td class='w'>DENX</td>
-
-<td class='p'>1,375.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0H6T1572Z?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='1499'>
-<td class='n'>5</td>
-<td class='im'><a href='p/B0HCVW9979.html'><img src='https://m.media-amazon.com/images/I/41C2RdDAp6L._SL500_.jpg' loading='lazy' alt='طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0HCVW9979.html'>طباخ أرز</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>1,499.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0HCVW9979?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='جاماكي' data-price='1790'>
-<td class='n'>6</td>
-<td class='im'><a href='p/B0HNM6418V.html'><img src='https://m.media-amazon.com/images/I/41FIhGoRp1L._SL500_.jpg' loading='lazy' alt='جاماكي طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0HNM6418V.html'>جاماكي طباخ أرز 2.8لتر</a></td>
-<td class='w'>جاماكي</td>
-
-<td class='p'>1,790.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0HNM6418V?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Tupperware' data-price='1850'>
-<td class='n'>7</td>
-<td class='im'><a href='p/B091FFPNG4.html'><img src='https://m.media-amazon.com/images/I/31PoOsJ9J7L._SL500_.jpg' loading='lazy' alt='Tupperware طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B091FFPNG4.html'>Tupperware طباخ أرز</a></td>
-<td class='w'>Tupperware</td>
-
-<td class='p'>1,850.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B091FFPNG4?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='1948.9'>
-<td class='n'>8</td>
-<td class='im'><a href='p/B0119L4Z40.html'><img src='https://m.media-amazon.com/images/I/31iYJtRIkVS._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 0.6لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0119L4Z40.html'>بلاك طباخ أرز 0.6لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>1,948.90 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0119L4Z40?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='1999'>
-<td class='n'>9</td>
-<td class='im'><a href='p/B0HJZWDNLH.html'><img src='https://m.media-amazon.com/images/I/41V+r3cwoRL._SL500_.jpg' loading='lazy' alt='JAMAKY طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0HJZWDNLH.html'>JAMAKY طباخ أرز 2.8لتر</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>1,999.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0HJZWDNLH?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Tupperware' data-price='2100'>
-<td class='n'>10</td>
-<td class='im'><a href='p/B01DC9C1IY.html'><img src='https://m.media-amazon.com/images/I/31dfZIxroNL._SL500_.jpg' loading='lazy' alt='TUPPERWARE طباخ أرز 3لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B01DC9C1IY.html'>TUPPERWARE طباخ أرز 3لتر</a></td>
-<td class='w'>Tupperware</td>
-
-<td class='p'>2,100.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B01DC9C1IY?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='كينوود' data-price='2200'>
-<td class='n'>11</td>
-<td class='im'><a href='p/B0FW4GBH2F.html'><img src='https://m.media-amazon.com/images/I/41qySmtnw0L._SL500_.jpg' loading='lazy' alt='كينوود طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0FW4GBH2F.html'>كينوود طباخ أرز 1.8لتر</a></td>
-<td class='w'>كينوود</td>
-
-<td class='p'>2,200.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0FW4GBH2F?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='كينوود' data-price='2299'>
-<td class='n'>12</td>
-<td class='im'><a href='p/B0GCMYZDMH.html'><img src='https://m.media-amazon.com/images/I/31PnwyghRqL._SL500_.jpg' loading='lazy' alt='كينوود طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0GCMYZDMH.html'>كينوود طباخ أرز 1.8لتر</a></td>
-<td class='w'>كينوود</td>
-
-<td class='p'>2,299.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0GCMYZDMH?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='2299.9'>
-<td class='n'>13</td>
-<td class='im'><a href='p/B0119L4ZV8.html'><img src='https://m.media-amazon.com/images/I/415sJniML7L._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0119L4ZV8.html'>بلاك طباخ أرز 1.8لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>2,299.90 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0119L4ZV8?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='2450'>
-<td class='n'>14</td>
-<td class='im'><a href='p/B0119L4YPA.html'><img src='https://m.media-amazon.com/images/I/31EnKLZG5kL._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 1لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0119L4YPA.html'>بلاك طباخ أرز 1لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>2,450.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0119L4YPA?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Winning Star' data-price='2490'>
-<td class='n'>15</td>
-<td class='im'><a href='p/B0DJ97WMNM.html'><img src='https://m.media-amazon.com/images/I/41ZqLJYzrIL._SL500_.jpg' loading='lazy' alt='طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0DJ97WMNM.html'>طباخ أرز</a></td>
-<td class='w'>Winning Star</td>
-
-<td class='p'>2,490.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0DJ97WMNM?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='2686.9'>
-<td class='n'>16</td>
-<td class='im'><a href='p/B0119L51A2.html'><img src='https://m.media-amazon.com/images/I/41uaXjeMakL._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0119L51A2.html'>بلاك طباخ أرز 2.8لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>2,686.90 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0119L51A2?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='كينوود' data-price='2699'>
-<td class='n'>17</td>
-<td class='im'><a href='p/B0GCNMWTLQ.html'><img src='https://m.media-amazon.com/images/I/41a+GtUyaXL._SL500_.jpg' loading='lazy' alt='كينوود طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0GCNMWTLQ.html'>كينوود طباخ أرز 2.8لتر</a></td>
-<td class='w'>كينوود</td>
-
-<td class='p'>2,699.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0GCNMWTLQ?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='2740'>
-<td class='n'>18</td>
-<td class='im'><a href='p/B09DD464NF.html'><img src='https://m.media-amazon.com/images/I/41IREgWLXVL._SL500_.jpg' loading='lazy' alt='طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B09DD464NF.html'>طباخ أرز 1.8لتر</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>2,740.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B09DD464NF?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='2749'>
-<td class='n'>19</td>
-<td class='im'><a href='p/B098W2DZB1.html'><img src='https://m.media-amazon.com/images/I/21MILFWJMPS._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B098W2DZB1.html'>بلاك طباخ أرز 2.8لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>2,749.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B098W2DZB1?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='2760'>
-<td class='n'>20</td>
-<td class='im'><a href='p/B0DFH2RN7J.html'><img src='https://m.media-amazon.com/images/I/41x9rSZBBQL._SL500_.jpg' loading='lazy' alt='طباخ أرز 5لتر 700وات' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0DFH2RN7J.html'>طباخ أرز 5لتر 700وات</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>2,760.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0DFH2RN7J?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='2800'>
-<td class='n'>21</td>
-<td class='im'><a href='p/B076KPF7SR.html'><img src='https://m.media-amazon.com/images/I/41JPLIPOokL._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B076KPF7SR.html'>بلاك طباخ أرز 1.8لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>2,800.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B076KPF7SR?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='2881'>
-<td class='n'>22</td>
-<td class='im'><a href='p/B098TXLKX3.html'><img src='https://m.media-amazon.com/images/I/31YmpVG9d1L._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B098TXLKX3.html'>بلاك طباخ أرز 2.8لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>2,881.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B098TXLKX3?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='كينوود' data-price='2999'>
-<td class='n'>23</td>
-<td class='im'><a href='p/B08JKF1L2K.html'><img src='https://m.media-amazon.com/images/I/41hTvjtAYmL._SL500_.jpg' loading='lazy' alt='كينوود طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B08JKF1L2K.html'>كينوود طباخ أرز 2.8لتر</a></td>
-<td class='w'>كينوود</td>
-
-<td class='p'>2,999.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B08JKF1L2K?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Heinrichs' data-price='3166.76'>
-<td class='n'>24</td>
-<td class='im'><a href='p/B0C9DZYZTD.html'><img src='https://m.media-amazon.com/images/I/41AG2USHfcL._SL500_.jpg' loading='lazy' alt='Heinrichs طباخ أرز 800وات' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0C9DZYZTD.html'>Heinrichs طباخ أرز 800وات</a></td>
-<td class='w'>Heinrichs</td>
-
-<td class='p'>3,166.76 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0C9DZYZTD?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='بلاك أند ديكر' data-price='3300'>
-<td class='n'>25</td>
-<td class='im'><a href='p/B07PZ85XP1.html'><img src='https://m.media-amazon.com/images/I/31DjUEiqZhL._SL500_.jpg' loading='lazy' alt='بلاك طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B07PZ85XP1.html'>بلاك طباخ أرز 1.8لتر</a></td>
-<td class='w'>بلاك أند ديكر</td>
-
-<td class='p'>3,300.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B07PZ85XP1?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='تيفال' data-price='3491.03'>
-<td class='n'>26</td>
-<td class='im'><a href='p/B0F1KP5357.html'><img src='https://m.media-amazon.com/images/I/21XdVZI1sFL._SL500_.jpg' loading='lazy' alt='تيفال طباخ أرز 1.5لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0F1KP5357.html'>تيفال طباخ أرز 1.5لتر</a></td>
-<td class='w'>تيفال</td>
-
-<td class='p'>3,491.03 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0F1KP5357?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Home Glory' data-price='3685.03'>
-<td class='n'>27</td>
-<td class='im'><a href='p/B099MSS6T6.html'><img src='https://m.media-amazon.com/images/I/31nUgsm0wIL._SL500_.jpg' loading='lazy' alt='طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B099MSS6T6.html'>طباخ أرز</a></td>
-<td class='w'>Home Glory</td>
-
-<td class='p'>3,685.03 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B099MSS6T6?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='فيليبس' data-price='3735'>
-<td class='n'>28</td>
-<td class='im'><a href='p/B0FGY1L22M.html'><img src='https://m.media-amazon.com/images/I/41HDQKIEBbL._SL500_.jpg' loading='lazy' alt='فيليبس طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0FGY1L22M.html'>فيليبس طباخ أرز 1.8لتر</a></td>
-<td class='w'>فيليبس</td>
-
-<td class='p'>3,735.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0FGY1L22M?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='تيفال' data-price='3879.03'>
-<td class='n'>29</td>
-<td class='im'><a href='p/B091DPY2NF.html'><img src='https://m.media-amazon.com/images/I/31lz0QsxiaS._SL500_.jpg' loading='lazy' alt='تيفال طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B091DPY2NF.html'>تيفال طباخ أرز</a></td>
-<td class='w'>تيفال</td>
-
-<td class='p'>3,879.03 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B091DPY2NF?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='شاومي' data-price='4312.59'>
-<td class='n'>30</td>
-<td class='im'><a href='p/B0CY2KZPZN.html'><img src='https://m.media-amazon.com/images/I/21UB4OqxwHL._SL500_.jpg' loading='lazy' alt='شاومي طباخ أرز 3لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0CY2KZPZN.html'>شاومي طباخ أرز 3لتر</a></td>
-<td class='w'>شاومي</td>
-
-<td class='p'>4,312.59 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0CY2KZPZN?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='4320'>
-<td class='n'>31</td>
-<td class='im'><a href='p/B0CZSJQB34.html'><img src='https://m.media-amazon.com/images/I/41-ObiQk4mL._SL500_.jpg' loading='lazy' alt='Rice طباخ أرز 5لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0CZSJQB34.html'>Rice طباخ أرز 5لتر</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>4,320.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0CZSJQB34?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='شاومي' data-price='5140.03'>
-<td class='n'>32</td>
-<td class='im'><a href='p/B0DQV2F82P.html'><img src='https://m.media-amazon.com/images/I/21NnPAqkfML._SL500_.jpg' loading='lazy' alt='شاومي طباخ أرز 4لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0DQV2F82P.html'>شاومي طباخ أرز 4لتر</a></td>
-<td class='w'>شاومي</td>
-
-<td class='p'>5,140.03 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0DQV2F82P?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Gastroback' data-price='5199'>
-<td class='n'>33</td>
-<td class='im'><a href='p/B0009KA4CA.html'><img src='https://m.media-amazon.com/images/I/41Le2HJ+NcL._SL500_.jpg' loading='lazy' alt='GASTROBACK طباخ أرز 450وات' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0009KA4CA.html'>GASTROBACK طباخ أرز 450وات</a></td>
-<td class='w'>Gastroback</td>
-
-<td class='p'>5,199.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0009KA4CA?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='تيفال' data-price='5334.03'>
-<td class='n'>34</td>
-<td class='im'><a href='p/B09BMQP4VV.html'><img src='https://m.media-amazon.com/images/I/314CQm2EY1L._SL500_.jpg' loading='lazy' alt='تيفال طباخ أرز 1.5لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B09BMQP4VV.html'>تيفال طباخ أرز 1.5لتر</a></td>
-<td class='w'>تيفال</td>
-
-<td class='p'>5,334.03 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B09BMQP4VV?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='فيليبس' data-price='5498.9'>
-<td class='n'>35</td>
-<td class='im'><a href='p/B0DTJ8F6CM.html'><img src='https://m.media-amazon.com/images/I/41vQiZ3H1uL._SL500_.jpg' loading='lazy' alt='فيليبس طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0DTJ8F6CM.html'>فيليبس طباخ أرز 1.8لتر</a></td>
-<td class='w'>فيليبس</td>
-
-<td class='p'>5,498.90 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0DTJ8F6CM?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='غير محدد' data-price='5597.2'>
-<td class='n'>36</td>
-<td class='im'><a href='p/B0H8HFRVTC.html'><img src='https://m.media-amazon.com/images/I/41NQL6-E8VL._SL500_.jpg' loading='lazy' alt='Italy طباخ أرز 2.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0H8HFRVTC.html'>Italy طباخ أرز 2.8لتر</a></td>
-<td class='w'>غير محدد</td>
-
-<td class='p'>5,597.20 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0H8HFRVTC?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='نيوتريكوك' data-price='5735.95'>
-<td class='n'>37</td>
-<td class='im'><a href='p/B08W8QQLWD.html'><img src='https://m.media-amazon.com/images/I/41YZ5rvls4L._SL500_.jpg' loading='lazy' alt='نيوتريكوك طباخ أرز 2.6لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B08W8QQLWD.html'>نيوتريكوك طباخ أرز 2.6لتر</a></td>
-<td class='w'>نيوتريكوك</td>
-
-<td class='p'>5,735.95 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B08W8QQLWD?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='MAGEFESA' data-price='5999'>
-<td class='n'>38</td>
-<td class='im'><a href='p/B087JXV5R1.html'><img src='https://m.media-amazon.com/images/I/41leFEVuo3L._SL500_.jpg' loading='lazy' alt='Magefesa طباخ أرز 8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B087JXV5R1.html'>Magefesa طباخ أرز 8لتر</a></td>
-<td class='w'>MAGEFESA</td>
-
-<td class='p'>5,999.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B087JXV5R1?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='أرشيا' data-price='6400'>
-<td class='n'>39</td>
-<td class='im'><a href='p/B07PCKLKMJ.html'><img src='https://m.media-amazon.com/images/I/31P-K6js03L._SL500_.jpg' loading='lazy' alt='أرشيا طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B07PCKLKMJ.html'>أرشيا طباخ أرز</a></td>
-<td class='w'>أرشيا</td>
-
-<td class='p'>6,400.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B07PCKLKMJ?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Feller' data-price='6499'>
-<td class='n'>40</td>
-<td class='im'><a href='p/B0G93KFVNY.html'><img src='https://m.media-amazon.com/images/I/41h3y4BEIEL._SL500_.jpg' loading='lazy' alt='Feller طباخ أرز 3لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0G93KFVNY.html'>Feller طباخ أرز 3لتر</a></td>
-<td class='w'>Feller</td>
-
-<td class='p'>6,499.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0G93KFVNY?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='Steba' data-price='6500'>
-<td class='n'>41</td>
-<td class='im'><a href='p/B00453ZU3K.html'><img src='https://m.media-amazon.com/images/I/41uk9FxhyML._SL500_.jpg' loading='lazy' alt='Steba طباخ أرز 700وات' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B00453ZU3K.html'>Steba طباخ أرز 700وات</a></td>
-<td class='w'>Steba</td>
-
-<td class='p'>6,500.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B00453ZU3K?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='فيليبس' data-price='6606'>
-<td class='n'>42</td>
-<td class='im'><a href='p/B0BKY74LXB.html'><img src='https://m.media-amazon.com/images/I/41zKG0P6pOL._SL500_.jpg' loading='lazy' alt='فيليبس طباخ أرز 1.8لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0BKY74LXB.html'>فيليبس طباخ أرز 1.8لتر</a></td>
-<td class='w'>فيليبس</td>
-
-<td class='p'>6,606.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0BKY74LXB?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='فيليبس' data-price='7648'>
-<td class='n'>43</td>
-<td class='im'><a href='p/B0BPS4RNWW.html'><img src='https://m.media-amazon.com/images/I/41wbxWoVXTL._SL500_.jpg' loading='lazy' alt='فيليبس طباخ أرز 1.5لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0BPS4RNWW.html'>فيليبس طباخ أرز 1.5لتر</a></td>
-<td class='w'>فيليبس</td>
-
-<td class='p'>7,648.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0BPS4RNWW?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='MAGEFESA' data-price='7999'>
-<td class='n'>44</td>
-<td class='im'><a href='p/B091HWQH29.html'><img src='https://m.media-amazon.com/images/I/41leFEVuo3L._SL500_.jpg' loading='lazy' alt='Magefesa طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B091HWQH29.html'>Magefesa طباخ أرز</a></td>
-<td class='w'>MAGEFESA</td>
-
-<td class='p'>7,999.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B091HWQH29?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='نيوتريكوك' data-price='9600'>
-<td class='n'>45</td>
-<td class='im'><a href='p/B0BXDFKVVX.html'><img src='https://m.media-amazon.com/images/I/41ms+QwU1UL._SL500_.jpg' loading='lazy' alt='نيوتريكوك طباخ أرز 9.5لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B0BXDFKVVX.html'>نيوتريكوك طباخ أرز 9.5لتر</a></td>
-<td class='w'>نيوتريكوك</td>
-
-<td class='p'>9,600.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B0BXDFKVVX?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='جيباس' data-price='9874'>
-<td class='n'>46</td>
-<td class='im'><a href='p/B07V3SD4QQ.html'><img src='https://m.media-amazon.com/images/I/31BvcQH56oL._SL500_.jpg' loading='lazy' alt='جيباس طباخ أرز 2.2لتر' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B07V3SD4QQ.html'>جيباس طباخ أرز 2.2لتر</a></td>
-<td class='w'>جيباس</td>
-
-<td class='p'>9,874.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B07V3SD4QQ?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-<tr data-brand='أرشيا' data-price='15000'>
-<td class='n'>47</td>
-<td class='im'><a href='p/B07NQVX261.html'><img src='https://m.media-amazon.com/images/I/418lCP2+LsL._SL500_.jpg' loading='lazy' alt='أرشيا طباخ أرز' style='width:76px;height:76px;object-fit:contain'></a></td>
-<td class='nm'><a href='p/B07NQVX261.html'>أرشيا طباخ أرز</a></td>
-<td class='w'>أرشيا</td>
-
-<td class='p'>15,000.00 ج.م</td>
-<td class='lk'><a href='https://www.amazon.eg/dp/B07NQVX261?tag=fineartslab-21' target='_blank' rel='nofollow sponsored'>أمازون</a></td>
-</tr>
-</tbody></table></div>
 <div class="ft">
   <div class="notice">تنويه: يجب مراجعة السعر والمواصفات الفنية من صفحة المنتج على أمازون قبل الشراء.</div>
-  <div>آخر فحص تلقائي: ٢٣ نوفمبر ٢٠٢٦ في ٥:١٥ م · 47 منتج معروض</div>
+  <div>آخر فحص تلقائي: ٢٣ نوفمبر ٢٠٢٦ في ٥:٤٤ م · 40 منتج معروض</div>
   <div>كأفلييت أمازون: قد نحصل على عمولة من عمليات الشراء اللي بتحصل عن طريق روابط الصفحة، من غير أي تكلفة إضافية عليك. الأسعار بتتحدث تلقائيًا وقد تختلف لحظة الشراء.</div>
 </div>
 </main>
-<script>
-(function () {
-  var rows = Array.prototype.slice.call(document.querySelectorAll('#tbl tbody tr'));
-  var specKeys = [];
-  var numericKeys = [];
-  var controls = [{ el: document.getElementById('fBrand'), attr: 'data-brand' }];
-  specKeys.forEach(function (k) {
-    controls.push({ el: document.getElementById('f_' + k), attr: 'data-spec-' + k });
-  });
-  var fMin = document.getElementById('fMin');
-  var fMax = document.getElementById('fMax');
-  var cnt = document.getElementById('cnt');
-  var total = rows.length;
-
-  function value(el) { return el ? el.value : ''; }
-  function limit(el) {
-    var n = parseFloat(el.value);
-    return isNaN(n) ? null : n;
-  }
-  function isNumeric(attr) {
-    return attr === 'data-price' || numericKeys.indexOf(attr.replace('data-spec-', '')) !== -1;
-  }
-
-  function matches(r, skipAttr) {
-    for (var i = 0; i < controls.length; i++) {
-      var c = controls[i];
-      if (skipAttr === c.attr) continue;
-      var v = value(c.el);
-      if (v && r.getAttribute(c.attr) !== v) return false;
-    }
-    var p = parseFloat(r.getAttribute('data-price'));
-    var mn = limit(fMin), mx = limit(fMax);
-    if (mn !== null && p < mn) return false;
-    if (mx !== null && p > mx) return false;
-    return true;
-  }
-
-  function fill(c, skipAttr) {
-    var sel = c.el;
-    if (!sel) return;
-    var current = value(sel);
-    var set = {};
-    rows.forEach(function (r) {
-      if (!matches(r, skipAttr)) return;
-      var v = r.getAttribute(c.attr);
-      if (v) set[v] = 1;
-    });
-    var vals = Object.keys(set);
-    vals.sort(isNumeric(c.attr)
-      ? function (a, b) { return parseFloat(a) - parseFloat(b); }
-      : function (a, b) { return a.localeCompare(b, 'ar'); });
-    while (sel.options.length > 1) sel.remove(1);
-    vals.forEach(function (v) {
-      var o = document.createElement('option');
-      o.value = v;
-      o.textContent = v;
-      sel.appendChild(o);
-    });
-    sel.value = (current && vals.indexOf(current) !== -1) ? current : '';
-  }
-
-  function refresh() {
-    for (var pass = 0; pass < 3; pass++) {
-      var before = controls.map(function (c) { return value(c.el); }).join('|');
-      controls.forEach(function (c) { fill(c, c.attr); });
-      if (controls.map(function (c) { return value(c.el); }).join('|') === before) break;
-    }
-  }
-
-  function apply() {
-    var shown = 0;
-    rows.forEach(function (r) {
-      var ok = matches(r, null);
-      r.style.display = ok ? '' : 'none';
-      r.className = ok && (shown % 2 === 1) ? 'alt' : '';
-      if (ok) shown++;
-    });
-    if (cnt) cnt.textContent = shown + ' من ' + total + ' منتج';
-  }
-
-  function update() { refresh(); apply(); }
-
-  controls.forEach(function (c) {
-    if (!c.el) return;
-    c.el.addEventListener('input', update);
-    c.el.addEventListener('change', update);
-  });
-  [fMin, fMax].forEach(function (el) {
-    el.addEventListener('input', update);
-    el.addEventListener('change', update);
-  });
-  var reset = document.getElementById('fReset');
-  if (reset) reset.addEventListener('click', function () {
-    controls.forEach(function (c) { if (c.el) c.el.value = ''; });
-    fMin.value = ''; fMax.value = '';
-    update();
-  });
-  update();
-})();
-(function () {
+<script>(function () {
   var btn = document.getElementById('themeToggleBtn');
   var icon = document.getElementById('themeIcon');
   try {
@@ -653,6 +132,5 @@ tr.alt td{background:var(--surface-alt)}
     if (icon) icon.textContent = dark ? '🌙' : '☀️';
     try { localStorage.setItem('appliances-theme', dark ? 'light' : 'dark'); } catch (e) {}
   });
-})();
-</script>
+})();</script>
 </body></html>

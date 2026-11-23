@@ -925,13 +925,13 @@
     "price": 19030,
     "img": "https://m.media-amazon.com/images/I/31Uyvh7e7fL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F38BGFV2?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H9SW3MR1",
