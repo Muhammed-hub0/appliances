@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "asin": "B0HN94Y21J",
+    "brand": "عام",
+    "name": "عام 1500 وات",
+    "specs": {
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "سخان مياه كهربائي ( هيتر ) محمول للسفر والرحلات، نحاسي، 1500 وات الوان | Instant Heating, Portable Design, Power Indicator Light, Travel Use, Corded Electric",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 270,
+    "img": "https://m.media-amazon.com/images/I/41s78R6HmpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HN94Y21J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1HB5KQ3",
+    "brand": "City Greens",
+    "name": "City Greens 500 وات",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "",
+    "title": "City HMA-1009 500W Electric Water Heater | 500W electric water heater designed for fast and efficient heating with compact safety build.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 395.5,
+    "img": "https://m.media-amazon.com/images/I/31Ky5GesSVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1HB5KQ3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

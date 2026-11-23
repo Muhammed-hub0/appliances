@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "asin": "B0HF1G7BBQ",
+    "brand": "مينتا",
+    "name": "مينتا 750 وات 2 لتر (CH23938A)",
+    "specs": {
+      "watt": "750",
+      "cap": "2"
+    },
+    "model": "CH23938A",
+    "title": "Mienta Blitz II Food Chopper, 750W, 2L Bowl, CH23938A – Powerful Electric Food Processor for Chopping, Mixing and Food Preparation – CH23938A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/41PNHKwzuBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HF1G7BBQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQ48PXKT",
+    "brand": "سوكاني",
+    "name": "سوكاني 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Sokany Acrylic Food Processor 2 Liters 1000 Watts Sk-7039",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1228,
+    "img": "https://m.media-amazon.com/images/I/31tLoVJEZgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQ48PXKT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H42D1XRR",
+    "brand": "فريش",
+    "name": "فريش 600 وات",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Fresh 2 Litre Electric Food Processor Black with Egg Whisk,600 Watts, Stainless Steel, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1322,
+    "img": "https://m.media-amazon.com/images/I/313qke2wsAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H42D1XRR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GGJ91N6D",
+    "brand": "يونيفرسال",
+    "name": "Universal Food King Cooking Electric Food Processor Vegetable Onion Chopper Smart Chopper Green",
+    "specs": {},
+    "model": "",
+    "title": "Universal Food King Cooking Electric Food Processor Vegetable Onion Chopper Smart Chopper Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 350,
+    "img": "https://m.media-amazon.com/images/I/61MKZRcB8lL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GGJ91N6D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BVJRP39G",
+    "brand": "تورنيدو",
+    "name": "Tornado Food Processor Crackle 1000CC",
+    "specs": {},
+    "model": "",
+    "title": "Tornado Food Processor Crackle 1000CC",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1100,
+    "img": "https://m.media-amazon.com/images/I/31fmQfFFKFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BVJRP39G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

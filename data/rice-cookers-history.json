@@ -1,7 +1,13 @@
 {
   "_meta": {
-    "lastRun": "2026-11-23T08:44:26.879Z",
-    "activeCount": 0,
-    "totalCount": 0
-  }
+    "lastRun": "2026-11-23T09:14:02.339Z",
+    "activeCount": 1,
+    "totalCount": 1
+  },
+  "B0H6T1572Z": [
+    {
+      "t": "2026-11-23T09:13:32.226Z",
+      "p": 1375
+    }
+  ]
 }

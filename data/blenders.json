@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HKF7T95P",
@@ -40,7 +41,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BQX86WT9",
@@ -61,7 +63,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DG7J83JH",
@@ -79,6 +82,330 @@
     "price": 721,
     "img": "https://m.media-amazon.com/images/I/51UQeTB-N8L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DG7J83JH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0HLXMTDHR",
+    "brand": "شارب",
+    "name": "شارب 1500 وات 2 سرعة يدوي",
+    "specs": {
+      "watt": "1500",
+      "speed": "2",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "4 in 1 Metal Hand Blender 1500W Sharp Blades 2 Speeds Multi Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1079,
+    "img": "https://m.media-amazon.com/images/I/41LCF92RYsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HLXMTDHR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09DGMGSBK",
+    "brand": "مولينكس",
+    "name": "مولينكس 450 وات 1 سرعة",
+    "specs": {
+      "watt": "450",
+      "speed": "1"
+    },
+    "model": "",
+    "title": "Moulinex LM2B21EG Blendeo, Blender, 450 Watts, Jar 1.5 Liters, 1 Speed and Pulse, Grinder, Ice Crush, Zelkrom Blades, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1450,
+    "img": "https://m.media-amazon.com/images/I/31loGgvNnoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09DGMGSBK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWCGR4JH",
+    "brand": "مينتا",
+    "name": "مينتا 450 وات يدوي (HB111938A)",
+    "specs": {
+      "watt": "450",
+      "type": "يدوي"
+    },
+    "model": "HB111938A",
+    "title": "Mienta - Hand Blender - 450W - Vitesse - HB111938A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 899,
+    "img": "https://m.media-amazon.com/images/I/31U2kmWdtlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWCGR4JH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GW9RNXTG",
+    "brand": "مينتا",
+    "name": "مينتا 450 وات يدوي (HB111938B)",
+    "specs": {
+      "watt": "450",
+      "type": "يدوي"
+    },
+    "model": "HB111938B",
+    "title": "Mienta - Hand Blender - Vitesse - Black- 450W - HB111938B",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 899,
+    "img": "https://m.media-amazon.com/images/I/31ILqZVwR4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GW9RNXTG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BM7HJ1Z9",
+    "brand": "مينتا",
+    "name": "مينتا 1000 وات يدوي (HB11938A)",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "HB11938A",
+    "title": "Mienta - Hand Blender 1000W - HB11938A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1269,
+    "img": "https://m.media-amazon.com/images/I/31VcKDud8oL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BM7HJ1Z9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVRZMT6C",
+    "brand": "مينتا",
+    "name": "مينتا 1000 وات يدوي (HB111338A)",
+    "specs": {
+      "watt": "1000",
+      "type": "يدوي"
+    },
+    "model": "HB111338A",
+    "title": "Mienta - Hand blender Turbo- 1000W - HB111338A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/I/31IeTPzpbiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVRZMT6C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BRKZFT63",
+    "brand": "مينتا",
+    "name": "مينتا 450 وات يدوي (HB111138B)",
+    "specs": {
+      "watt": "450",
+      "type": "يدوي"
+    },
+    "model": "HB111138B",
+    "title": "Mienta - hand blender 450w -hb111138b -black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1240,
+    "img": "https://m.media-amazon.com/images/I/31W9Zj+A3aL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BRKZFT63?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08WJMQQYM",
+    "brand": "فريش",
+    "name": "فريش 360 وات",
+    "specs": {
+      "watt": "360"
+    },
+    "model": "",
+    "title": "Fresh Jumbo Electric Blender 1.5 Liter 360 Watt with 2 Mill",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 940,
+    "img": "https://m.media-amazon.com/images/I/31IGmWUN4BL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJMQQYM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08Y8VMQQ8",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 250 وات (MX900/2)",
+    "specs": {
+      "watt": "250"
+    },
+    "model": "MX900/2",
+    "title": "Tornado Electric Blender 250 Watt 1.5 Liter 2 Mills White MX900/2",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1319,
+    "img": "https://m.media-amazon.com/images/I/315on5lECXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08Y8VMQQ8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07MQKXC4Q",
+    "brand": "مولينكس",
+    "name": "مولينكس 400 وات (LM2411EG)",
+    "specs": {
+      "watt": "400"
+    },
+    "model": "LM2411EG",
+    "title": "Moulinex LM2411EG Blender - 400W, 1.25L, Grinder, Stick",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/I/21LYRaRWvqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07MQKXC4Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FTXRC56V",
+    "brand": "سوكاني",
+    "name": "سوكاني 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "SOKANY Acrylic 2-in-1 Countertop Blender 2.0L, 1000W - SK-03067",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1294,
+    "img": "https://m.media-amazon.com/images/I/516Qip8msCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FTXRC56V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FMPKYBCS",
+    "brand": "سوكاني",
+    "name": "سوكاني 1500 وات",
+    "specs": {
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "SOKANY Acrylic 3-in-1 Countertop Blender 1.6L, 1500W - SK-03062N",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1285,
+    "img": "https://m.media-amazon.com/images/I/412xA1HVItL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FMPKYBCS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G662XB71",
+    "brand": "مينتا",
+    "name": "مينتا 600 وات (BL1281H)",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "BL1281H",
+    "title": "Mienta Blender 600 Watt BL1281H with free gift",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1149,
+    "img": "https://m.media-amazon.com/images/I/31R8-pYXH-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G662XB71?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DV6VVXZF",
+    "brand": "سوكاني",
+    "name": "سوكاني 800 وات",
+    "specs": {
+      "watt": "800"
+    },
+    "model": "",
+    "title": "Sokany SK-03032 800W Blender with Grinder, 1.5 Liter Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1213.13,
+    "img": "https://m.media-amazon.com/images/I/31nYC6IUT-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DV6VVXZF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G66G6CQ6",
+    "brand": "مينتا",
+    "name": "مينتا 700 وات (BL1291G)",
+    "specs": {
+      "watt": "700"
+    },
+    "model": "BL1291G",
+    "title": "Mienta Blender 700 Watt BL1291G",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1349,
+    "img": "https://m.media-amazon.com/images/I/31N5oHnlgoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G66G6CQ6?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

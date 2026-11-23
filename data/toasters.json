@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "asin": "B0GY938JCB",
+    "brand": "AKANE",
+    "name": "AKANE 2 شرائح 750 وات",
+    "specs": {
+      "slots": "2",
+      "watt": "750"
+    },
+    "model": "",
+    "title": "AKANE A.507 750W 2 Slice Toaster, Stainless Steel Bread Toaster with Adjustable Browning Control, Compact Design, Auto Pop-Up, Easy to Clean Crumb Tray, Perfect for Home Kitchen Breakfast",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1301.95,
+    "img": "https://m.media-amazon.com/images/I/41gwX2Ca53L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GY938JCB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HF3DMHMY",
+    "brand": "جاماكي",
+    "name": "جاماكي 2 شرائح 760 وات",
+    "specs": {
+      "slots": "2",
+      "watt": "760"
+    },
+    "model": "",
+    "title": "JMK-2706 Electric Toaster 2 Slice 760W 7 Heat Levels 3 Functions (Reheat – Cancel – Defrost) Jamaki with Crumb Tray: Removable, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1149,
+    "img": "https://m.media-amazon.com/images/I/31cQj2AKZ-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HF3DMHMY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DD2FCJKF",
+    "brand": "جاماكي",
+    "name": "جاماكي 2 شرائح 760 وات (JMK2706)",
+    "specs": {
+      "slots": "2",
+      "watt": "760"
+    },
+    "model": "JMK2706",
+    "title": "Jamaki 2 Slice Toaster Large Size With 3 Functions 760W Crumb Drawer With 7 Heat Levels, Black - jmk2706",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1179,
+    "img": "https://m.media-amazon.com/images/I/41SQMrfyo-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DD2FCJKF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H18QWV4X",
+    "brand": "Homagator",
+    "name": "Homagator 4 شرائح 1200 وات",
+    "specs": {
+      "slots": "4",
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "WINNING STAR ST-9464 1200W Sandwich Maker,4 Slice Triangle Plate Toaster with Non Stick Coating and Indicator Lights - A1-591",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1283.53,
+    "img": "https://m.media-amazon.com/images/I/41-eKsSDJLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H18QWV4X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

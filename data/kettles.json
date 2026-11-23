@@ -18,7 +18,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01L93HNCY",
@@ -39,7 +40,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F9SSJHDN",
@@ -60,7 +62,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H29YPWGB",
@@ -82,7 +85,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GJQ3PW32",
@@ -104,7 +108,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GLQRX22Q",
@@ -120,6 +125,330 @@
     "price": 412.5,
     "img": "https://m.media-amazon.com/images/I/31DdjfNU0PL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GLQRX22Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0CK8G58BP",
+    "brand": "مينتا",
+    "name": "مينتا 1.7 لتر 2200 وات (EK201737A)",
+    "specs": {
+      "cap": "1.7",
+      "watt": "2200"
+    },
+    "model": "EK201737A",
+    "title": "Mienta Electric Cordless Kettle, 1.7 Liters, 2200W, Black - EK201737A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 929,
+    "img": "https://m.media-amazon.com/images/I/41tijwz8LjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CK8G58BP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FH4WS3S9",
+    "brand": "سوكاني",
+    "name": "سوكاني 1.8 لتر 1800 وات",
+    "specs": {
+      "cap": "1.8",
+      "watt": "1800"
+    },
+    "model": "",
+    "title": "Sokany Electric Glass Kettle, 1.8L, 1800W, LED Light, Stainless Steel Filter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1083,
+    "img": "https://m.media-amazon.com/images/I/31ydhchAU6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FH4WS3S9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H83WFJTZ",
+    "brand": "مينتا",
+    "name": "مينتا 1.7 لتر 2200 وات (EK201937A)",
+    "specs": {
+      "cap": "1.7",
+      "watt": "2200"
+    },
+    "model": "EK201937A",
+    "title": "Mienta Kettle, Glow, 2200W, 1.7L, Black, EK201937A | 1.7L Family Capacity - 360° Cordless Base - Water Level Indicator - Fast, Safe & Easy to Clean - Removable Anti-Scale Filter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 875,
+    "img": "https://m.media-amazon.com/images/I/31WSxrYuomL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H83WFJTZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01L93HDUQ",
+    "brand": "فريش",
+    "name": "فريش 1.7 لتر (EPK17051P)",
+    "specs": {
+      "cap": "1.7"
+    },
+    "model": "EPK17051P",
+    "title": "Fresh EPK17051P Electric Kettle, 1.7 Liters, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 875,
+    "img": "https://m.media-amazon.com/images/I/319WbMYvnQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01L93HDUQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FX5J7HK6",
+    "brand": "مينتا",
+    "name": "مينتا 2200 وات (EK201937B)",
+    "specs": {
+      "watt": "2200"
+    },
+    "model": "EK201937B",
+    "title": "Mienta - Kettle - EK201937B - 2200W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 800,
+    "img": "https://m.media-amazon.com/images/I/31gV8nuiXlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FX5J7HK6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D6BVC9CQ",
+    "brand": "مينتا",
+    "name": "مينتا 2200 وات (EK201837A)",
+    "specs": {
+      "watt": "2200"
+    },
+    "model": "EK201837A",
+    "title": "Mienta - Kettle - EK201837A - 2200W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1360,
+    "img": "https://m.media-amazon.com/images/I/418RpEERMkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D6BVC9CQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07MVSTKCV",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 1.7 لتر (JC70-B5)",
+    "specs": {
+      "cap": "1.7"
+    },
+    "model": "JC70-B5",
+    "title": "Black & Decker 1.7L Concealed Coil Kettle, Jc70-B5, White, Plastic Material",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1315.6,
+    "img": "https://m.media-amazon.com/images/I/21TlEb985jL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07MVSTKCV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08J7QDWYN",
+    "brand": "كينوود",
+    "name": "Kenwood ZJP00.000BK Electric Kettle International warranty",
+    "specs": {},
+    "model": "ZJP00",
+    "title": "Kenwood ZJP00.000BK Electric Kettle International warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1418,
+    "img": "https://m.media-amazon.com/images/I/41-CuU9iG6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08J7QDWYN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGXRS4ZB",
+    "brand": "Tank",
+    "name": "Tank 1.5 لتر 1500 وات (EK2417P)",
+    "specs": {
+      "cap": "1.5",
+      "watt": "1500"
+    },
+    "model": "EK2417P",
+    "title": "Tank Safe Touch Kettle, 1.5L Capacity, 1500 Watts, Powder Pink, GS-EK2417P - 2 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/21EdDjwtstL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGXRS4ZB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GSRM9LQN",
+    "brand": "PRIME TECH",
+    "name": "PRIME TECH 2.2 لتر 1500 وات",
+    "specs": {
+      "cap": "2.2",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "PRIME TECH Electric Kettle Glass 2.2 Liter, 1500 Watt, Fast Heating Water Boiler, Auto Shut-Off, Heat Resistant Handle, Cordless Tea & Coffee Kettle, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/41ahUlglwrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GSRM9LQN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGXP5QHC",
+    "brand": "Tank",
+    "name": "Tank 1.5 لتر 1500 وات (EK2417W)",
+    "specs": {
+      "cap": "1.5",
+      "watt": "1500"
+    },
+    "model": "EK2417W",
+    "title": "Tank Safe Touch Kettle, 1.5L Capacity, 1500 Watts, White, GS-EK2417W - 2 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/21DNg1LHr9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGXP5QHC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGXPS36J",
+    "brand": "Tank",
+    "name": "Tank 1.5 لتر 1500 وات (EK2417G)",
+    "specs": {
+      "cap": "1.5",
+      "watt": "1500"
+    },
+    "model": "EK2417G",
+    "title": "Tank Safe Touch Kettle, 1.5L Capacity, 1500 Watts, Grey, GS-EK2417G - 2 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/210LphPONhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGXPS36J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HMRXX465",
+    "brand": "PRIME TECH",
+    "name": "PRIME TECH 1.7 لتر 1500 وات",
+    "specs": {
+      "cap": "1.7",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "Prime Tech 1.7L Stainless Steel Electric Kettle, 1500W Fast Boil with Overheating & Boil-Dry Protection, Model PT-018",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 499,
+    "img": "https://m.media-amazon.com/images/I/21EbVJQuyvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HMRXX465?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HK4C5DFB",
+    "brand": "PRIME TECH",
+    "name": "PRIME TECH 1.8 لتر 1500 وات",
+    "specs": {
+      "cap": "1.8",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "PRIME TECH Electric Kettle 1.8L Stainless Steel, 1500W Fast Boiling Water Kettle with Auto Shut-Off & Boil-Dry Protection, Cordless Tea & Coffee Pot (Model PT-017)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1026,
+    "img": "https://m.media-amazon.com/images/I/31gAEOk5CfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HK4C5DFB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4W4KB1D",
+    "brand": "PRIME TECH",
+    "name": "PRIME TECH 2 لتر 1500 وات",
+    "specs": {
+      "cap": "2",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "PRIME TECH Electric Kettle Glass 2 Liter, 1500 Watt, Fast Heating Water Boiler, Auto Shut-Off, Heat Resistant Handle, Cordless Tea & Coffee Kettle, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/41Hdh9LWZ+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4W4KB1D?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "asin": "B088MQNVM2",
+    "brand": "تيفال",
+    "name": "SEB TEFAL Tightening Knob for Authentique/Cocotte Minute, Pressure Cooker, Black, Plastic, X1040002",
+    "specs": {},
+    "model": "X1040002",
+    "title": "SEB TEFAL Tightening Knob for Authentique/Cocotte Minute, Pressure Cooker, Black, Plastic, X1040002",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 850,
+    "img": "https://m.media-amazon.com/images/I/51AjEXHd-TL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B088MQNVM2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H8H9FKWS",
+    "brand": "generic",
+    "name": "generic 3.5 لتر",
+    "specs": {
+      "cap": "3.5"
+    },
+    "model": "",
+    "title": "3.5Liters Multifunctional small pressure cooker non-stick quick soup MEDIUM Size 22 Cm -3.5Liters",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1430.8,
+    "img": "https://m.media-amazon.com/images/I/51RDtnIciJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8H9FKWS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

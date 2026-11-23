@@ -1,1 +1,88 @@
-[]
+[
+  {
+    "asin": "B0HQT5CDGC",
+    "brand": "جري",
+    "name": "جري 6 لتر 2400 وات تاتش",
+    "specs": {
+      "cap": "6",
+      "watt": "2400",
+      "type": "تاتش"
+    },
+    "model": "",
+    "title": "Electric Air Fryer, 6 Liter Capacity, 2400 Watts, LCD Touch Screen, Non Stick Basket, 360 Degree Air Circulation, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1449,
+    "img": "https://m.media-amazon.com/images/I/41Ni23b3yXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HQT5CDGC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FG1XQHJP",
+    "brand": "فريش",
+    "name": "فريش 6 لتر 2400 وات تاتش",
+    "specs": {
+      "cap": "6",
+      "watt": "2400",
+      "type": "تاتش"
+    },
+    "model": "",
+    "title": "Air Fryer Multifunction Touch 6L 2400W Black+2 Pieces Fresh Round Silicone Air Fryer Liner 6.3 Inch Reusable",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1169.67,
+    "img": "https://m.media-amazon.com/images/I/31KW+lprIwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FG1XQHJP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DXLGNDQW",
+    "brand": "نوفا",
+    "name": "CleanOvate Air Fryer Foam Cleaner 400 ml",
+    "specs": {},
+    "model": "",
+    "title": "CleanOvate Air Fryer Foam Cleaner 400 ml",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 174.42,
+    "img": "https://m.media-amazon.com/images/I/31wCtSCbXKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DXLGNDQW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08ZNV4GK7",
+    "brand": "OVA",
+    "name": "OVA تاتش",
+    "specs": {
+      "type": "تاتش"
+    },
+    "model": "",
+    "title": "Portal Air Fryer, Non-Stick, 0.56 kg, Brown, Touch Control, Stainless Steel, Aluminum, AIR_FRYER, Fry, Dehydrate",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 341,
+    "img": "https://m.media-amazon.com/images/I/41C1PxY6I0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08ZNV4GK7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

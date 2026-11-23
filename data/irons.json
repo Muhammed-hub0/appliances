@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09V1GW3HJ",
@@ -41,7 +42,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CZDDT9MW",
@@ -63,7 +65,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYWBH48",
@@ -80,6 +83,335 @@
     "price": 730,
     "img": "https://m.media-amazon.com/images/I/41oSh4JNxVL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CQYWBH48?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0DTGT3NNW",
+    "brand": "سوكاني",
+    "name": "سوكاني 1500 وات بخار",
+    "specs": {
+      "watt": "1500",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany SK-12008 1500 W Handheld Garment Steam Iron",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1222,
+    "img": "https://m.media-amazon.com/images/I/21wYfopEVcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DTGT3NNW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FH5FFH1F",
+    "brand": "مينتا",
+    "name": "مينتا 2400 وات بخار (SI181640A)",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "SI181640A",
+    "title": "Mienta Steam Iron 2400W SI181640A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/31jcLn0MSbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FH5FFH1F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FH5FXHS4",
+    "brand": "مينتا",
+    "name": "مينتا 2300 وات بخار (SI181540A)",
+    "specs": {
+      "watt": "2300",
+      "type": "بخار"
+    },
+    "model": "SI181540A",
+    "title": "Mienta Steam Iron 2300W SI181540A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1168.43,
+    "img": "https://m.media-amazon.com/images/I/31FSJXntFAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FH5FXHS4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DTGQ5RHL",
+    "brand": "سوكاني",
+    "name": "سوكاني 1700 وات بخار",
+    "specs": {
+      "watt": "1700",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany SK-11046 1700 W Handheld Garment Steam Iron, 360 Ml Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1436,
+    "img": "https://m.media-amazon.com/images/I/31t9j7k6n7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DTGQ5RHL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07PPZ2P7V",
+    "brand": "باناسونيك",
+    "name": "باناسونيك 1800 وات بخار (M300T)",
+    "specs": {
+      "watt": "1800",
+      "type": "بخار"
+    },
+    "model": "M300T",
+    "title": "Panasonic NI-M300T Steam Iron With Titanium Coated Soleplate - 1800 W - White Purple",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1398,
+    "img": "https://m.media-amazon.com/images/I/41+fvEt0Y4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07PPZ2P7V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GLQFFSPT",
+    "brand": "سوكاني",
+    "name": "سوكاني 1400 وات بخار",
+    "specs": {
+      "watt": "1400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany SK-12024 1400W Digital Travel Steam Iron, 110 Ml Water Tank Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499.99,
+    "img": "https://m.media-amazon.com/images/I/31d7v2Ki6sL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GLQFFSPT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B076JG8SR8",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 1600 وات بخار (X1550-B5)",
+    "specs": {
+      "watt": "1600",
+      "type": "بخار"
+    },
+    "model": "X1550-B5",
+    "title": "Black & Decker Steam Iron With Anti Drip 1600W, X1550-B5",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1449,
+    "img": "https://m.media-amazon.com/images/I/41wPHzjZ21L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B076JG8SR8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CC9TJ6WH",
+    "brand": "براون",
+    "name": "براون 1900 وات بخار (SI1019RD)",
+    "specs": {
+      "watt": "1900",
+      "type": "بخار"
+    },
+    "model": "SI1019RD",
+    "title": "Braun TexStyle 1 SI1019RD, Steam Iron, Non-Stick Coating, Thermostat, 25g/min in Turbo Mode, 220ml Water Tank, 1900W, Red/White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/412TEI07whL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CC9TJ6WH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSCCQKV1",
+    "brand": "براون",
+    "name": "براون 2000 وات بخار (STP46)",
+    "specs": {
+      "watt": "2000",
+      "type": "بخار"
+    },
+    "model": "STP46",
+    "title": "Kenwood Non-Stick Teflon Soleplate Steam Iron with Vertical Steam 2000W, Purple – STP46.000WP",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1320,
+    "img": "https://m.media-amazon.com/images/I/31Rrv6tlVRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSCCQKV1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2B93Q5F",
+    "brand": "سوكاني",
+    "name": "سوكاني 2600 وات بخار",
+    "specs": {
+      "watt": "2600",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany Steam Iron, 460mL 2600W, SK-11069",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1473,
+    "img": "https://m.media-amazon.com/images/I/41-rN7Hvj5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2B93Q5F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FKBLDKZL",
+    "brand": "أريون",
+    "name": "أريون 2400 وات بخار",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Arion Ceramic Steam Iron, 1800 – 2400 W, AR-619",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1319,
+    "img": "https://m.media-amazon.com/images/I/31bpkw9c00L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FKBLDKZL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08WJN6WJ7",
+    "brand": "أكاي",
+    "name": "أكاي 2200 وات بخار",
+    "specs": {
+      "watt": "2200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Akai AK-207 Teflon Steam Iron, 2200 Watt - Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 950,
+    "img": "https://m.media-amazon.com/images/I/41mvCO1jrjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJN6WJ7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07PQ2X2NP",
+    "brand": "باناسونيك",
+    "name": "باناسونيك 1550 وات بخار (M250TPTH)",
+    "specs": {
+      "watt": "1550",
+      "type": "بخار"
+    },
+    "model": "M250TPTH",
+    "title": "Panasonic Steam Iron, Pink, 1550 watts, ‎NI-M250TPTH",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/I/41MxyglCt1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07PQ2X2NP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7S4W5TH",
+    "brand": "جري",
+    "name": "جري بخار (220V)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "220V",
+    "title": "Next store 360 Degree Portable Steam Iron - Mini Manual Iron for Home and Travel - High Efficiency for All Fabric Types (220V)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 258.35,
+    "img": "https://m.media-amazon.com/images/I/313+bx+nFdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7S4W5TH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07MMJWBTC",
+    "brand": "باناسونيك",
+    "name": "باناسونيك بخار (M250)",
+    "specs": {
+      "type": "بخار"
+    },
+    "model": "M250",
+    "title": "Panasonic Chinese Steam Iron M250 Pink",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1381,
+    "img": "https://m.media-amazon.com/images/I/31SL2d07CmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07MMJWBTC?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

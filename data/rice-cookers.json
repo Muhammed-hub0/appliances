@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "asin": "B0H6T1572Z",
+    "brand": "DENX",
+    "name": "DENX 1 لتر 400 وات (DX2002)",
+    "specs": {
+      "cap": "1",
+      "watt": "400"
+    },
+    "model": "DX2002",
+    "title": "DENX DX2002 Smart Electric Rice Cooker & Food Steamer, 1L Capacity, 400W Non-Stick Rice Cooker, Automatic Keep Warm Function, Compact Cooker for Rice, Vegetables & Grains",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1375,
+    "img": "https://m.media-amazon.com/images/I/41K+HdFNJzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H6T1572Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]
