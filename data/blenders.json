@@ -1195,7 +1195,7 @@
   {
     "asin": "B0DYF1T45K",
     "brand": "غير محدد",
-    "name": "خلاط 7سرعة",
+    "name": "City خلاط 7سرعة",
     "specs": {
       "speed": "7"
     },
@@ -1217,7 +1217,7 @@
   {
     "asin": "B0H8FN2QPF",
     "brand": "Next store",
-    "name": "Next store خلاط 15سرعة",
+    "name": "Title خلاط 15سرعة",
     "specs": {
       "speed": "15"
     },
@@ -1239,7 +1239,7 @@
   {
     "asin": "B0716QXS2X",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "Blender خلاط",
     "specs": {},
     "model": "",
     "title": "Blender with 2 Grinders - White",
@@ -1922,7 +1922,7 @@
   {
     "asin": "B0C31TQ4DF",
     "brand": "أورايمو",
-    "name": "أورايمو خلاط 2سرعة",
+    "name": "خلاط 2سرعة",
     "specs": {
       "speed": "2"
     },
@@ -2136,7 +2136,7 @@
   {
     "asin": "B0HFFL9JPR",
     "brand": "غير محدد",
-    "name": "خلاط 2000وات يدوي 2سرعة",
+    "name": "Hand خلاط 2000وات يدوي",
     "specs": {
       "watt": "2000",
       "speed": "2",
@@ -2160,7 +2160,7 @@
   {
     "asin": "B0GJQ1N57D",
     "brand": "PLUTO",
-    "name": "PLUTO خلاط 600وات يدوي",
+    "name": "Pluto خلاط 600وات يدوي",
     "specs": {
       "watt": "600",
       "speed": "2",
@@ -2184,7 +2184,7 @@
   {
     "asin": "B0DJ77VXFP",
     "brand": "One Life",
-    "name": "One Life خلاط 1500وات",
+    "name": "One خلاط 1500وات يدوي",
     "specs": {
       "watt": "1500",
       "speed": "5",
@@ -2232,7 +2232,7 @@
   {
     "asin": "B0H46BYXK6",
     "brand": "Homagator",
-    "name": "Homagator خلاط 1500وات يدوي",
+    "name": "Luma خلاط 1500وات يدوي",
     "specs": {
       "watt": "1500",
       "type": "يدوي"
@@ -2278,7 +2278,7 @@
   {
     "asin": "B09VHBCMQ3",
     "brand": "SONAI",
-    "name": "SONAI خلاط 400وات 3سرعة",
+    "name": "Sonai خلاط 400وات 3سرعة",
     "specs": {
       "watt": "400",
       "speed": "3"
@@ -2345,7 +2345,7 @@
   {
     "asin": "B0B6RSF8B2",
     "brand": "SOUTH AREA",
-    "name": "SOUTH AREA خلاط يدوي",
+    "name": "South خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -2543,7 +2543,7 @@
   {
     "asin": "B0DHDF9YTW",
     "brand": "غير محدد",
-    "name": "خلاط 4سرعة",
+    "name": "Vault خلاط 4سرعة",
     "specs": {
       "speed": "4"
     },
@@ -2585,7 +2585,7 @@
   {
     "asin": "B09HZ5C3ZZ",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "Hotel خلاط",
     "specs": {},
     "model": "",
     "title": "Hotel Blender 2 Liter Full Heart",
@@ -2605,7 +2605,7 @@
   {
     "asin": "B0HHYH57KX",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "Ocean خلاط",
     "specs": {},
     "model": "",
     "title": "Ocean Power Multifunction Blender with Variable Speed Control | High-Speed Blending, Large Capacity Jar",
@@ -2685,7 +2685,7 @@
   {
     "asin": "B0FRG1L6JH",
     "brand": "Next store",
-    "name": "Next store خلاط",
+    "name": "Next خلاط",
     "specs": {},
     "model": "",
     "title": "Next Store Powerful Electric Blender with Extra Grinder, Easily Crushes Ice, Modern Design with High Efficiency Motor for Fast Preparation of Juices and Foods, Premium Quality",
@@ -2705,7 +2705,7 @@
   {
     "asin": "B0H46FWGZ3",
     "brand": "Homagator",
-    "name": "Homagator خلاط",
+    "name": "Luma خلاط",
     "specs": {},
     "model": "",
     "title": "Luma Bella - Multi-Purpose Blender 5500W, 2L - A1-30",
@@ -2787,7 +2787,7 @@
   {
     "asin": "B0C8GCCQF6",
     "brand": "SIVOLT",
-    "name": "SIVOLT خلاط يدوي",
+    "name": "volt خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -2809,7 +2809,7 @@
   {
     "asin": "B0GFBV5ZPH",
     "brand": "SIVOLT",
-    "name": "SIVOLT خلاط 900وات يدوي",
+    "name": "Hand خلاط 900وات يدوي",
     "specs": {
       "watt": "900",
       "type": "يدوي"
@@ -2900,7 +2900,7 @@
   {
     "asin": "B0HJ6QKMYS",
     "brand": "غير محدد",
-    "name": "خلاط 1200وات",
+    "name": "1200W خلاط 1200وات",
     "specs": {
       "watt": "1200"
     },
@@ -2922,7 +2922,7 @@
   {
     "asin": "B092322KZL",
     "brand": "فريش",
-    "name": "فريش خلاط 800وات يدوي",
+    "name": "خلاط 800وات يدوي",
     "specs": {
       "watt": "800",
       "type": "يدوي"
@@ -2965,7 +2965,7 @@
   {
     "asin": "B0DVTB4R18",
     "brand": "Winning Star",
-    "name": "Winning Star خلاط يدوي",
+    "name": "Winning خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -3029,7 +3029,7 @@
   {
     "asin": "B0GJQ4T9XW",
     "brand": "PLUTO",
-    "name": "PLUTO خلاط 500وات 2سرعة",
+    "name": "Pluto خلاط 500وات 2سرعة",
     "specs": {
       "watt": "500",
       "speed": "2"
@@ -3297,7 +3297,7 @@
   {
     "asin": "B0HJ73FBL6",
     "brand": "غير محدد",
-    "name": "خلاط 500وات يدوي 2سرعة",
+    "name": "Naifeo خلاط 500وات يدوي",
     "specs": {
       "watt": "500",
       "speed": "2",
@@ -3321,7 +3321,7 @@
   {
     "asin": "B09BHYDK36",
     "brand": "غير محدد",
-    "name": "خلاط 1سرعة",
+    "name": "Blender خلاط 1سرعة",
     "specs": {
       "speed": "1"
     },
@@ -3366,7 +3366,7 @@
   {
     "asin": "B0H6T7LRXB",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "25L خلاط",
     "specs": {},
     "model": "",
     "title": "2.5L Professional High Speed Electric Blender for Juice, Smoothie, Ice Crusher, Fruit",
@@ -3588,7 +3588,7 @@
   {
     "asin": "B0H3L43X5L",
     "brand": "Homagator",
-    "name": "Homagator خلاط 1500وات يدوي",
+    "name": "Luma خلاط 1500وات يدوي",
     "specs": {
       "watt": "1500",
       "type": "يدوي"
@@ -3763,7 +3763,7 @@
   {
     "asin": "B0CD39DYGX",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "ميني خلاط",
     "specs": {},
     "model": "",
     "title": "ميني بليندر كوب عصير المنزلية المحمولة خلاط لاسلكي المصاقة الكهربائية عصير كوب سعة كبيرة بطارية لاسلكي المحمولة",
@@ -3889,7 +3889,7 @@
   {
     "asin": "B0CHL9Q7QD",
     "brand": "Smeg",
-    "name": "Smeg خلاط 600وات 3سرعة",
+    "name": "SMEG خلاط 600وات 3سرعة",
     "specs": {
       "watt": "600",
       "speed": "3"
@@ -4082,7 +4082,7 @@
   {
     "asin": "B0H3LGHG6R",
     "brand": "Homagator",
-    "name": "Homagator خلاط 180وات يدوي",
+    "name": "LumaBella خلاط 180وات يدوي",
     "specs": {
       "watt": "180",
       "speed": "7",
@@ -4218,7 +4218,7 @@
   {
     "asin": "B0BYMQT52T",
     "brand": "Smeg",
-    "name": "Smeg خلاط",
+    "name": "SMEG خلاط",
     "specs": {},
     "model": "BLF03PBEU",
     "title": "SMEG BLF03PBEU Blender, Plastic, Pastel Blue",
@@ -4238,7 +4238,7 @@
   {
     "asin": "B0HL3Y3SRW",
     "brand": "غير محدد",
-    "name": "خلاط 500وات",
+    "name": "Blender خلاط 500وات",
     "specs": {
       "watt": "500"
     },
@@ -4521,7 +4521,7 @@
   {
     "asin": "B09V2CX2FJ",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop خلاط يدوي 7سرعة",
+    "name": "KBZONE خلاط يدوي 7سرعة",
     "specs": {
       "speed": "7",
       "type": "يدوي"
@@ -4653,7 +4653,7 @@
   {
     "asin": "B0CFHP59CS",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop خلاط يدوي",
+    "name": "خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -4760,7 +4760,7 @@
   {
     "asin": "B09BD7TSG4",
     "brand": "Beslike",
-    "name": "Beslike خلاط يدوي 3سرعة",
+    "name": "Milk خلاط يدوي 3سرعة",
     "specs": {
       "speed": "3",
       "type": "يدوي"
@@ -4893,7 +4893,7 @@
   {
     "asin": "B0FF3BFMNS",
     "brand": "غير محدد",
-    "name": "خلاط 3000وات يدوي",
+    "name": "JAMAKY خلاط 3000وات يدوي",
     "specs": {
       "watt": "3000",
       "type": "يدوي"
@@ -5002,7 +5002,7 @@
   {
     "asin": "B0D67442RD",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "Mini خلاط",
     "specs": {},
     "model": "BLUE",
     "title": "Mini Blender, Portable Travel Blender, 380ml Fruit Blender, Mini Blender and Juice Maker with USB Rechargeable, for Making Smoothies, Milkshakes, Smoothies (Blue)",
@@ -5106,7 +5106,7 @@
   {
     "asin": "B0B3SGXHHK",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "Personal خلاط",
     "specs": {},
     "model": "",
     "title": "Personal Size Blender, Portable Blender, Battery Powered USB Blender (Multi Color)",
@@ -5126,7 +5126,7 @@
   {
     "asin": "B0HKG78BD4",
     "brand": "غير محدد",
-    "name": "خلاط",
+    "name": "Hotel خلاط",
     "specs": {},
     "model": "",
     "title": "Hotel Blender Grinder – Electric Blender Grinder Bowl with Lid – Blender | 800 ml Capacity, Stainless Steel Blades",
@@ -5146,7 +5146,7 @@
   {
     "asin": "B0DSVCFGWC",
     "brand": "One Life",
-    "name": "One Life خلاط 700وات",
+    "name": "One خلاط 700وات",
     "specs": {
       "watt": "700"
     },
