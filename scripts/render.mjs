@@ -242,13 +242,15 @@ h1{font-size:23px;margin:18px 0 8px}
 `;
 
 const HUB_CSS = `
-.main-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:12px 0}
-.main-group{min-width:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px}
-.main-group h2{font-size:14px;line-height:1.3;margin:0 0 8px;color:var(--text);padding-inline-start:8px;border-inline-start:3px solid var(--b)}
-.main-group .subgrid{display:flex;flex-wrap:wrap;gap:5px}
-.main-group a{font-size:11px;line-height:1.2;padding:5px 7px;border-radius:8px;background:var(--surface-alt);color:var(--text);text-decoration:none;font-weight:700}
-.main-group a:hover{background:var(--b);color:#fff;text-decoration:none}
-@media(max-width:600px){.main-group{padding:8px}.main-group h2{font-size:12px}.main-group a{font-size:10px;padding:4px 5px}}
+.big-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}
+.big-group{display:flex;flex-direction:column;align-items:flex-start;gap:10px;min-height:230px;padding:22px;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
+.big-group:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
+.big-emoji{font-size:44px;line-height:1;display:flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:16px;background:var(--surface-alt)}
+.big-group b{font-size:20px;font-weight:800;color:var(--text)}
+.big-group .meta{font-size:13px;color:var(--muted)}
+.big-group .go{font-size:13px;color:var(--win);font-weight:800;margin-top:auto}
+.breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
+@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:150px;padding:16px}.big-emoji{width:54px;height:54px;font-size:32px}.big-group b{font-size:17px}}
 .searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
 .searchbox input{flex:1;min-width:0}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
@@ -335,13 +337,13 @@ function footer(rowsCount, meta) {
 </div>`;
 }
 
-function renderHubCard(cat, stats, covers) {
+function renderHubCard(cat, stats, covers, base = '') {
   const count = stats[cat.id] || 0;
   const cover = covers[cat.id];
   const visual = cover
     ? `<img class="cat-img" src="${esc(cover)}" loading="lazy" alt="${esc(cat.title)}">`
     : `<span class="emoji">${cat.emoji}</span>`;
-  return `<a class="cat${count === 0 ? ' empty' : ''}" href="c/${cat.id}/index.html" data-name="${esc(cat.title + ' ' + cat.short + ' ' + cat.id)}">
+  return `<a class="cat${count === 0 ? ' empty' : ''}" href="${base}c/${cat.id}/index.html" data-name="${esc(cat.title + ' ' + cat.short + ' ' + cat.id)}">
     ${visual}
     <b>${esc(cat.title)}</b>
     <span class="meta">${count} منتج متوفر</span>
@@ -349,26 +351,17 @@ function renderHubCard(cat, stats, covers) {
   </a>`;
 }
 
-export function renderHub(stats, meta, covers = {}) {
-  const sections = GROUPS.map((group) => {
+// المستوى 1: الصفحة الرئيسية — 3 أقسام كبيرة بس
+export function renderHub(stats, meta) {
+  const cards = GROUPS.map((group) => {
     const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
-    const cards = cats.map((cat) => renderHubCard(cat, stats, covers)).join('\n');
-    return `<section class="group" data-group="${group.id}">
-  <h2>${group.emoji} ${esc(group.title)}</h2>
-  <div class="grid">
-${cards}
-  </div>
-</section>`;
-  }).join('\n');
-
-  // لمحة سريعة أول ما الموقع يفتح: التلات أقسام الرئيسية وجوههم الأقسام الفرعية
-  const overview = GROUPS.map((group) => {
-    const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
-    const links = cats.map((cat) => `<a href="c/${cat.id}/index.html" data-name="${esc(cat.title + ' ' + cat.short + ' ' + cat.id)}">${esc(cat.title)}</a>`).join('');
-    return `<section class="main-group" data-overview="${group.id}">
-  <h2>${group.emoji} ${esc(group.title)}</h2>
-  <div class="subgrid">${links}</div>
-</section>`;
+    const total = cats.reduce((sum, c) => sum + (stats[c.id] || 0), 0);
+    return `<a class="big-group" href="groups/${group.id}/index.html">
+  <span class="big-emoji">${group.emoji}</span>
+  <b>${esc(group.title)}</b>
+  <span class="meta">${cats.length} أقسام · ${total} منتج</span>
+  <span class="go">اعرض الأقسام ←</span>
+</a>`;
   }).join('\n');
 
   return `<!doctype html>
@@ -387,50 +380,50 @@ ${tracker()}
 ${siteHeader()}
 <main class="wrap">
 <h1>كل الأجهزة المنزلية في مكان واحد 🏠</h1>
-<div class="main-groups">
-${overview}
+<p class="lead">اختر القسم الرئيسي، وبعدين نوع الجهاز، وشوف كل الأسعار والمواصفات من أمازون مصر.</p>
+<div class="big-groups">
+${cards}
 </div>
-<p class="lead">اختر نوع الجهاز عشان تشوف المقارنة الكاملة: الأسعار، المواصفات، والروابط من أمازون مصر. كل قسم بيتحدث تلقائيًا.</p>
-<div class="searchbox surface-card" style="padding:10px 12px">
-  <input id="catSearch" type="search" placeholder="ابحث عن نوع الجهاز... مثال: غسالة، مكواة، تكييف">
-</div>
-<div id="catGrid">
-${sections}
-</div>
-<img class="banner" src="assets/banner.jpg" alt="مشترياتك صح — دليلك للمقارنة الذكية" style="width:100%;border-radius:16px;border:1px solid var(--line)">
-<p id="noCats" hidden>مفيش أقسام مطابقة للبحث.</p>
 ${footer(Object.values(stats).reduce((a, b) => a + b, 0), meta)}
 </main>
-<script>
-${themeScript()}
-(function(){
-  var q=document.getElementById('catSearch');
-  var cards=Array.prototype.slice.call(document.querySelectorAll('#catGrid .cat'));
-  var groups=Array.prototype.slice.call(document.querySelectorAll('#catGrid .group'));
-  var chips=Array.prototype.slice.call(document.querySelectorAll('.main-group a'));
-  var msg=document.getElementById('noCats');
-  function apply(){
-    var v=(q.value||'').trim().toLowerCase();
-    var shown=0;
-    cards.forEach(function(c){
-      var ok=!v||c.getAttribute('data-name').toLowerCase().indexOf(v)!==-1;
-      c.style.display=ok?'':'none';
-      if(ok)shown++;
-    });
-    chips.forEach(function(c){
-      var ok=!v||c.getAttribute('data-name').toLowerCase().indexOf(v)!==-1;
-      c.style.display=ok?'':'none';
-    });
-    groups.forEach(function(g){
-      var any=Array.prototype.slice.call(g.querySelectorAll('.cat')).some(function(c){return c.style.display!=='none';});
-      g.style.display=any?'':'none';
-    });
-    if(msg)msg.hidden=shown!==0;
-  }
-  q.addEventListener('input',apply);
-})();
-</script>
+<script>${themeScript()}</script>
 </body></html>`;
+}
+
+// المستوى 2: صفحة القسم الرئيسي — فيها الأقسام الفرعية (أنواع الأجهزة)
+export function renderGroup(group, stats, covers, meta) {
+  const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
+  const cards = cats.map((cat) => renderHubCard(cat, stats, covers, '../../')).join('\n');
+  const total = cats.reduce((sum, c) => sum + (stats[c.id] || 0), 0);
+
+  return `<!doctype html>
+<html lang="ar" dir="rtl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${esc(group.title)} | مشترياتك صح</title>
+<meta name="description" content="اختر نوع الجهاز من قسم ${esc(group.title)} وقارن أسعاره على أمازون مصر.">
+<meta name="theme-color" content="#0f253d">
+<meta property="og:type" content="website">
+<meta property="og:title" content="${esc(group.title)} | مشترياتك صح">
+<meta property="og:image" content="../../assets/og-image.jpg">
+<link rel="icon" href="../../assets/logo.jpg">
+${tracker()}
+<style>${BASE_CSS}${HUB_CSS}</style></head><body>
+${siteHeader('../../')}
+<main class="wrap">
+<div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${esc(group.title)}</div>
+<h1>${group.emoji} ${esc(group.title)}</h1>
+<p class="lead">${cats.length} قسم · ${total} منتج متوفر — اختر نوع الجهاز عشان تشوف المقارنة الكاملة.</p>
+<div class="grid">
+${cards}
+</div>
+${footer(total, meta)}
+</main>
+<script>${themeScript()}</script>
+</body></html>`;
+}
+
+export function groupOf(categoryId) {
+  return GROUPS.find((g) => g.ids.includes(categoryId)) || GROUPS[0];
 }
 
 function renderSpecHead(category) {
@@ -467,7 +460,7 @@ ${renderSpecCells(offer, category)}
     .join('\n');
 }
 
-export function renderCategory(category, offers, meta) {
+export function renderCategory(category, offers, meta, group = null) {
   const rows = visibleOffers(offers, category);
   const filters = (category.specs || [])
     .map((s) => `<div class="fld"><label for="f_${s.key}">${esc(s.label)}</label><select id="f_${s.key}"><option value="">الكل</option></select></div>`)
@@ -487,7 +480,7 @@ ${tracker()}
 <style>${BASE_CSS}${TABLE_CSS}</style></head><body>
 ${siteHeader('../../')}
 <main class="wrap">
-<div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${esc(category.title)}</div>
+<div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${group ? `<a href="../../groups/${group.id}/index.html">${esc(group.title)}</a> ← ` : ''}${esc(category.title)}</div>
 <h1>${category.emoji} ${esc(category.title)} على أمازون مصر</h1>
 <p class="lead">${rows.length} منتج متوفر حاليًا — الأسعار والمواصفات بتتحدث تلقائيًا كل 6 ساعات.</p>
 <img class="banner" src="../../assets/banner.jpg" alt="مشترياتك صح" style="width:100%;border-radius:16px;border:1px solid var(--line)">
@@ -578,7 +571,11 @@ export function renderCsv(offers, category) {
 }
 
 function renderSitemap(stats) {
-  const urls = [`${SITE_URL}/`, ...CATEGORIES.filter((c) => stats[c.id] > 0).map((c) => `${SITE_URL}/c/${c.id}/index.html`)];
+  const urls = [
+    `${SITE_URL}/`,
+    ...GROUPS.map((g) => `${SITE_URL}/groups/${g.id}/index.html`),
+    ...CATEGORIES.filter((c) => stats[c.id] > 0).map((c) => `${SITE_URL}/c/${c.id}/index.html`),
+  ];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((u) => `  <url><loc>${esc(u)}</loc></url>`).join('\n')}
@@ -604,7 +601,7 @@ export async function writePublic(allData, meta = {}) {
     await rm(join(dir, 'p'), { recursive: true, force: true });
     await mkdir(join(dir, 'p'), { recursive: true });
 
-    await writeFile(join(dir, 'index.html'), renderCategory(category, offers, meta), 'utf8');
+    await writeFile(join(dir, 'index.html'), renderCategory(category, offers, meta, groupOf(category.id)), 'utf8');
     await writeFile(join(dir, `all-${category.id}.csv`), renderCsv(offers, category), 'utf8');
     await Promise.all(
       rows.map((offer) =>
@@ -613,7 +610,13 @@ export async function writePublic(allData, meta = {}) {
     );
   }
 
-  await writeFile(join(OUT_DIR, 'index.html'), renderHub(stats, meta, covers), 'utf8');
+  for (const group of GROUPS) {
+    const dir = join(OUT_DIR, 'groups', group.id);
+    await mkdir(dir, { recursive: true });
+    await writeFile(join(dir, 'index.html'), renderGroup(group, stats, covers, meta), 'utf8');
+  }
+
+  await writeFile(join(OUT_DIR, 'index.html'), renderHub(stats, meta), 'utf8');
   await writeFile(join(OUT_DIR, 'sitemap.xml'), renderSitemap(stats), 'utf8');
   return stats;
 }
