@@ -113,10 +113,10 @@ function themeScript() {
 }
 
 function filterScript(category) {
-  const numericKeys = JSON.stringify((category.specs || []).filter((s) => s.type === 'number').map((s) => s.key));
+  const numericKeys = '[]';
   return `(function () {
   var rows = Array.prototype.slice.call(document.querySelectorAll('#tbl tbody tr'));
-  var specKeys = ${JSON.stringify((category.specs || []).map((s) => s.key))};
+  var specKeys = [];
   var numericKeys = ${numericKeys};
   var controls = [{ el: document.getElementById('fBrand'), attr: 'data-brand' }];
   specKeys.forEach(function (k) {
@@ -429,16 +429,13 @@ export function groupOf(categoryId) {
   return GROUPS.find((g) => g.ids.includes(categoryId)) || GROUPS[0];
 }
 
+// المواصفات اندمجت في الاسم المختصر، فصفحة المقارنة فيها سعر بس بدون أعمدة مواصفات
 function renderSpecHead(category) {
-  return (category.specs || [])
-    .map((s) => `<th class="c-spec">${esc(s.label)}</th>`)
-    .join('');
+  return '';
 }
 
 function renderSpecCells(offer, category) {
-  return (category.specs || [])
-    .map((s) => `<td class="sp c-spec" data-v="${esc(offer.specs?.[s.key] || '')}">${esc(offer.specs?.[s.key] || emptyDash)}</td>`)
-    .join('');
+  return '';
 }
 
 function renderRows(rows, category) {
@@ -447,10 +444,7 @@ function renderRows(rows, category) {
       const url = esc(offer.url || `https://${MARKETPLACE}/dp/${offer.asin}?tag=${PARTNER_TAG}`);
       const detail = `p/${encodeURIComponent(offer.asin)}.html`;
       const image = `<a href='${detail}'><img src='${esc(offer.img)}' loading='lazy' alt='${esc(offer.name)}' style='width:76px;height:76px;object-fit:contain'></a>`;
-      const specAttrs = (category.specs || [])
-        .map((s) => ` data-spec-${s.key}='${esc(offer.specs?.[s.key] || '')}'`)
-        .join('');
-      return `<tr data-brand='${esc(offer.brand || '')}'${specAttrs} data-price='${offer.price}'>
+      return `<tr data-brand='${esc(offer.brand || '')}' data-price='${offer.price}'>
 <td class='n'>${index + 1}</td>
 <td class='im'>${image}</td>
 <td class='nm'><a href='${detail}'>${esc(offer.name)}</a></td>
@@ -465,9 +459,6 @@ ${renderSpecCells(offer, category)}
 
 export function renderCategory(category, offers, meta, group = null) {
   const rows = visibleOffers(offers, category);
-  const filters = (category.specs || [])
-    .map((s) => `<div class="fld"><label for="f_${s.key}">${esc(s.label)}</label><select id="f_${s.key}"><option value="">الكل</option></select></div>`)
-    .join('\n');
 
   return `<!doctype html>
 <html lang="ar" dir="rtl"><head><meta charset="utf-8">
@@ -485,11 +476,10 @@ ${siteHeader('../../')}
 <main class="wrap">
 <div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${group ? `<a href="../../groups/${group.id}/index.html">${esc(group.title)}</a> ← ` : ''}${esc(category.title)}</div>
 <h1>${category.emoji} ${esc(category.title)} على أمازون مصر</h1>
-<p class="lead">${rows.length} منتج متوفر حاليًا — الأسعار والمواصفات بتتحدث تلقائيًا كل 6 ساعات.</p>
+<p class="lead">${rows.length} منتج متوفر حاليًا — الأسعار بتتحدث تلقائيًا كل 6 ساعات.</p>
 <img class="banner" src="../../assets/banner.jpg" alt="مشترياتك صح" style="width:100%;border-radius:16px;border:1px solid var(--line)">
 <div class="bar surface-card">
   <div class="fld"><label for="fBrand">البراند</label><select id="fBrand"><option value="">الكل</option></select></div>
-  ${filters}
   <div class="fld"><label for="fMin">السعر من</label><input id="fMin" type="number" inputmode="numeric" placeholder="0" min="0"></div>
   <div class="fld"><label for="fMax">السعر إلى</label><input id="fMax" type="number" inputmode="numeric" placeholder="∞" min="0"></div>
   <button id="fReset" class="reset" type="button">مسح الفلاتر</button>
