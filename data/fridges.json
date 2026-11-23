@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "asin": "B099DW29Q9",
+    "brand": "توشيبا",
+    "name": "توشيبا 335 لتر",
+    "specs": {
+      "cap": "335"
+    },
+    "model": "",
+    "title": "Toshiba refrigerator shelves set - 14 feet, 335 liters - 3 pieces for the refrigerator cabinet - painted wire shelves",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 300,
+    "img": "https://m.media-amazon.com/images/I/41X2xhIF2fS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B099DW29Q9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

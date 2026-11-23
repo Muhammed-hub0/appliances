@@ -1,1 +1,89 @@
-[]
+[
+  {
+    "asin": "B0DSWZ9R1M",
+    "brand": "سوكاني",
+    "name": "سوكاني 600 وات يدوي",
+    "specs": {
+      "watt": "600",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "SOKANY 2-in-1 Hand Blender 600W - SK-02013",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 680.09,
+    "img": "https://m.media-amazon.com/images/I/31SvWUjUzGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSWZ9R1M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HKF7T95P",
+    "brand": "شارب",
+    "name": "شارب يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "LUV-8002W 300W Hand Blender with LUV-8002W Copper Motor, Stainless Steel Hand Blender Sharp and Powerful Blades for Superior Food Preparation",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 391.5,
+    "img": "https://m.media-amazon.com/images/I/41I2uEZUBtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HKF7T95P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BQX86WT9",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 600 وات",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Arabia Tornado Blender 600 Watt TB-600/2 Original",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 750,
+    "img": "https://m.media-amazon.com/images/I/31KfNs2LoxL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BQX86WT9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DG7J83JH",
+    "brand": "شارب",
+    "name": "شارب 1000 وات 2 سرعة يدوي",
+    "specs": {
+      "watt": "1000",
+      "speed": "2",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Jamakii jmk 3005 1000W Stainless Steel Hand Blender Sharp and Powerful Blades Food Prep 2 Speed",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 721,
+    "img": "https://m.media-amazon.com/images/I/51UQeTB-N8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DG7J83JH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

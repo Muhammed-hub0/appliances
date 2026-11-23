@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "asin": "B0CZDH7BYL",
+    "brand": "RAF",
+    "name": "RAF 1800 وات بخار",
+    "specs": {
+      "watt": "1800",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Steam Iron R.1106B, 1800 Watt, 220v, 50Hz, Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 493,
+    "img": "https://m.media-amazon.com/images/I/31hzifyMZML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZDH7BYL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09V1GW3HJ",
+    "brand": "سوكاني",
+    "name": "سوكاني 1200 وات بخار",
+    "specs": {
+      "watt": "1200",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "Sokany SK-119 Electric Steam Iron 1200 Watts",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 648,
+    "img": "https://m.media-amazon.com/images/I/31LCNVZD9JL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09V1GW3HJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZDDT9MW",
+    "brand": "RAF",
+    "name": "RAF 2400 وات بخار",
+    "specs": {
+      "watt": "2400",
+      "type": "بخار"
+    },
+    "model": "",
+    "title": "RAF Steam Iron R.1231B, 2400 Watt, 220v, 50Hz, Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 461.16,
+    "img": "https://m.media-amazon.com/images/I/41n9NZFnwjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZDDT9MW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQYWBH48",
+    "brand": "سوكاني",
+    "name": "سوكاني 1500 وات جاف",
+    "specs": {
+      "watt": "1500",
+      "type": "جاف"
+    },
+    "model": "",
+    "title": "Sokany A-11010 1500W Dry Iron",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 730,
+    "img": "https://m.media-amazon.com/images/I/41oSh4JNxVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQYWBH48?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

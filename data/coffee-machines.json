@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "asin": "B0FY69C56Q",
+    "brand": "فريش",
+    "name": "فريش إسبريسو",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "",
+    "title": "Portable Hand Press Espresso Coffee Machine – Compact & Light Design for Travel & Office – Portable Coffee Maker Without Electricity to Brew Fresh Espresso Anytime Anywhere",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 738,
+    "img": "https://m.media-amazon.com/images/I/31RwQY9XgpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FY69C56Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B099873LQR",
+    "brand": "سوكاني",
+    "name": "سوكاني 600 وات",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Sokany Turkish Coffee Maker 600W (Silver, 2725603995642)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 374.99,
+    "img": "https://m.media-amazon.com/images/I/411VMRFvA0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B099873LQR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

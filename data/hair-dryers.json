@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "asin": "B09GVSGM52",
+    "brand": "سوكاني",
+    "name": "سوكاني 2200 وات",
+    "specs": {
+      "watt": "2200"
+    },
+    "model": "",
+    "title": "Sokany Sk-174 Professional Hair Dryer- 2200W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399.48,
+    "img": "https://m.media-amazon.com/images/I/41gBtPMVPWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09GVSGM52?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

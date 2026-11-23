@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "asin": "B08X6DB7ZS",
+    "brand": "فريش",
+    "name": "فريش 1.7 لتر (ESK17154)",
+    "specs": {
+      "cap": "1.7"
+    },
+    "model": "ESK17154",
+    "title": "Fresh Stainless Kettle ESK17154 1.7 Liters - Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 699,
+    "img": "https://m.media-amazon.com/images/I/41LaXkaQBdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08X6DB7ZS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01L93HNCY",
+    "brand": "فريش",
+    "name": "فريش 1.7 لتر",
+    "specs": {
+      "cap": "1.7"
+    },
+    "model": "",
+    "title": "Fresh Plastic Kettle, 1.7 Liter Capacity, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 699,
+    "img": "https://m.media-amazon.com/images/I/21fyBASnfZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01L93HNCY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F9SSJHDN",
+    "brand": "سوكاني",
+    "name": "سوكاني 600 وات (SK-09044)",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "SK-09044",
+    "title": "Sokany (SK-09044) Stainless Coffee Kettle 800 ml 600 Watt - 12 Month Warratny",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 358,
+    "img": "https://m.media-amazon.com/images/I/21LHDJM9KiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F9SSJHDN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H29YPWGB",
+    "brand": "سوكاني",
+    "name": "سوكاني 2.5 لتر 1500 وات",
+    "specs": {
+      "cap": "2.5",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "Sokany Glass Electric Kettle, 2.5L 1500W, SK-09077",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 736.5,
+    "img": "https://m.media-amazon.com/images/I/41ryNwPOXmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H29YPWGB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GJQ3PW32",
+    "brand": "جري",
+    "name": "جري 1.7 لتر 2200 وات",
+    "specs": {
+      "cap": "1.7",
+      "watt": "2200"
+    },
+    "model": "",
+    "title": "Pluto Stainless Steel Electric Kettle, 1.7 Liter, 2200 Watts, 360 Degree Rotational Base, Auto Shut-Off, Boil Dry Protection",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 674,
+    "img": "https://m.media-amazon.com/images/I/410vK4rMuiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GJQ3PW32?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GLQRX22Q",
+    "brand": "سوكاني",
+    "name": "سوكاني 600 وات",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Sokany SK-09045 600 W Glass Electric Coffee Kettle, 800 Ml Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 412.5,
+    "img": "https://m.media-amazon.com/images/I/31DdjfNU0PL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GLQRX22Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]

@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "asin": "B01L1UBULU",
+    "brand": "فريش",
+    "name": "فريش حمضيات",
+    "specs": {
+      "type": "حمضيات"
+    },
+    "model": "",
+    "title": "Fresh 1 L Electric Orange Juicer – Black, 35 W Efficient Citrus Extractor",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 749,
+    "img": "https://m.media-amazon.com/images/I/31d52r3N9DL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01L1UBULU?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BL1HR2G7",
+    "brand": "سوكاني",
+    "name": "سوكاني حمضيات (WK-725)",
+    "specs": {
+      "type": "حمضيات"
+    },
+    "model": "WK-725",
+    "title": "Sokany orange & citrus juicer (wk-725)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 618.37,
+    "img": "https://m.media-amazon.com/images/I/41srIRcabNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BL1HR2G7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  }
+]
