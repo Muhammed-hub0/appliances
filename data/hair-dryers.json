@@ -41,7 +41,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GGSBFQQN",
@@ -63,7 +64,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CB51Q6N7",
@@ -85,7 +87,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07PBXW3S9",
@@ -106,7 +109,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07P67VGNZ",
@@ -127,7 +131,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYVRM7X",
@@ -148,7 +153,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DJN6C9L7",
@@ -169,7 +175,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B098QLSRP2",
@@ -190,7 +197,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FJY75VFC",
@@ -211,7 +219,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYVHQCN",
@@ -232,7 +241,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HH4M5H7W",
@@ -253,7 +263,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0992X7RJT",
@@ -272,7 +283,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CDTWH7K9",
@@ -291,7 +303,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BNPXZRQQ",
@@ -310,7 +323,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYV6X7D",
@@ -324,6 +338,322 @@
     "price": 394.85,
     "img": "https://m.media-amazon.com/images/I/31gC2BkFHlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CQYV6X7D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B09YQF7MG5",
+    "brand": "VGR",
+    "name": "VGR 2 سرعة",
+    "specs": {
+      "speed": "2"
+    },
+    "model": "",
+    "title": "VGR V-400 Professional Hair Dryer with Cool Shot Button & 2 Speed Settings",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 857.22,
+    "img": "https://m.media-amazon.com/images/I/41ybbx1HS7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09YQF7MG5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091J45TB9",
+    "brand": "MAX",
+    "name": "MAX 3000 وات",
+    "specs": {
+      "watt": "3000"
+    },
+    "model": "",
+    "title": "Max 9933 Hair Dryer 3000W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 620,
+    "img": "https://m.media-amazon.com/images/I/41H6tNZDKBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091J45TB9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FKHPTJ8P",
+    "brand": "غير محدد",
+    "name": "One Step Electric Hair Dryer & Styler Brush – 1200 Watts, 3 in 1 for Perfect Drying, Straightening, and S",
+    "specs": {
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "One Step Electric Hair Dryer & Styler Brush – 1200 Watts, 3 in 1 for Perfect Drying, Straightening, and Styling!",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 366,
+    "img": "https://m.media-amazon.com/images/I/41g4e1t4WsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FKHPTJ8P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZ1W6SMP",
+    "brand": "غير محدد",
+    "name": "HOME GOLD Hair Dryer 3000W - Superior Drying Performance with Multiple Settings, Ionic Care, and Overheat",
+    "specs": {
+      "watt": "3000"
+    },
+    "model": "BLACK",
+    "title": "HOME GOLD Hair Dryer 3000W - Superior Drying Performance with Multiple Settings, Ionic Care, and Overheat Protection (HG-699 (Black))",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 424.69,
+    "img": "https://m.media-amazon.com/images/I/41mOmdcT0tL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZ1W6SMP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BT51CTPG",
+    "brand": "ENZO PROFESSIONAL",
+    "name": "ENZO PROFESSIONAL 1500 وات",
+    "specs": {
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "Enzo 1500 Watt Wall Mount Hair Dryer for Bathroom Hotel White * Gold EN-6622",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 854.06,
+    "img": "https://m.media-amazon.com/images/I/314PIELHzJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BT51CTPG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FQX5Z493",
+    "brand": "غير محدد",
+    "name": "5000W Professional Hair Dryer, Quick Dry, Smooth Salon Hair Dryer, Powerful Motor, 3 Temperature Settings",
+    "specs": {
+      "speed": "2"
+    },
+    "model": "PT-V1",
+    "title": "5000W Professional Hair Dryer, Quick Dry, Smooth Salon Hair Dryer, Powerful Motor, 3 Temperature Settings, 2 Speeds, Detachable Air Condenser, Overheat Protection (PT-V1)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 359.1,
+    "img": "https://m.media-amazon.com/images/I/41si8VKq6tL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FQX5Z493?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F7GVYXB6",
+    "brand": "غير محدد",
+    "name": "Home Gold Hair Dryer 3000W - Superior Drying Performance with Multiple Settings, Ionic Care and Overheat ",
+    "specs": {
+      "watt": "3000"
+    },
+    "model": "BLACK",
+    "title": "Home Gold Hair Dryer 3000W - Superior Drying Performance with Multiple Settings, Ionic Care and Overheat Protection HG-699 (Black))",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 330,
+    "img": "https://m.media-amazon.com/images/I/31vVWWFrtQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F7GVYXB6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GYLV1DTW",
+    "brand": "غير محدد",
+    "name": "POLITONE 5000W Professional Hair Dryer, Fast Drying Powerful Motor, 3 Heat Settings, 2 Speeds, Detachable",
+    "specs": {
+      "speed": "2"
+    },
+    "model": "V13",
+    "title": "POLITONE 5000W Professional Hair Dryer, Fast Drying Powerful Motor, 3 Heat Settings, 2 Speeds, Detachable Air Condenser and Overheating Protection, PT-V13, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 449,
+    "img": "https://m.media-amazon.com/images/I/51vc9dVnLQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GYLV1DTW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GFGGFF2D",
+    "brand": "غير محدد",
+    "name": "POLITONE 5000W Professional Hair Dryer, Fast Drying Powerful Motor, 3 Heat Settings, 2 Speeds, Detachable",
+    "specs": {
+      "speed": "2"
+    },
+    "model": "V12",
+    "title": "POLITONE 5000W Professional Hair Dryer, Fast Drying Powerful Motor, 3 Heat Settings, 2 Speeds, Detachable Condenser and Overheating Protection, PT-V12 Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 584.1,
+    "img": "https://m.media-amazon.com/images/I/31Uj5Y+0BmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GFGGFF2D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HH9KLBRC",
+    "brand": "غير محدد",
+    "name": "POLITONE 5000W Professional Hair Dryer, Fast Drying Powerful Motor, 3 Heat Settings, 2 Speeds, Detachable",
+    "specs": {
+      "speed": "2"
+    },
+    "model": "",
+    "title": "POLITONE 5000W Professional Hair Dryer, Fast Drying Powerful Motor, 3 Heat Settings, 2 Speeds, Detachable Condenser and Overheating Protection, PT-V Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399.61,
+    "img": "https://m.media-amazon.com/images/I/41OzJQ14mrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HH9KLBRC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DW6YNLGX",
+    "brand": "غير محدد",
+    "name": "Home Gold Hair Dryer 3000W - Superior Drying Performance with Multiple Settings, Ionic Care and Overheat ",
+    "specs": {
+      "watt": "3000"
+    },
+    "model": "",
+    "title": "Home Gold Hair Dryer 3000W - Superior Drying Performance with Multiple Settings, Ionic Care and Overheat Protection (HG-686 (Red)), 3000.0 Watts",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 288.43,
+    "img": "https://m.media-amazon.com/images/I/41U-U93KnFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DW6YNLGX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BFXKV82T",
+    "brand": "Rboron",
+    "name": "Rboron 3000 وات",
+    "specs": {
+      "watt": "3000"
+    },
+    "model": "",
+    "title": "Rboron BR-2288 Hair Dryer 3000W -Red",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 213.75,
+    "img": "https://m.media-amazon.com/images/I/31oBlUQtZKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BFXKV82T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HQJK3YMT",
+    "brand": "USHOP",
+    "name": "USHOP 1200 وات",
+    "specs": {
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "Ushop | 4 in 1 Plastic Hair Dryer with Anti-Frizz Technology & Negative Ions & Cold Shot Button, 1200W Hot Air Brush & Dryer in One, Multicolor",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 450,
+    "img": "https://m.media-amazon.com/images/I/41kmxVHljuL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HQJK3YMT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJCK7XBL",
+    "brand": "غير محدد",
+    "name": "HG-2288 Hair Dryer 3000W Fast and Efficient Drying",
+    "specs": {
+      "watt": "3000"
+    },
+    "model": "",
+    "title": "HG-2288 Hair Dryer 3000W Fast and Efficient Drying",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 329,
+    "img": "https://m.media-amazon.com/images/I/41VbtqGouXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJCK7XBL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B093QCNMFN",
+    "brand": "RBrown",
+    "name": "RBrown 3000 وات",
+    "specs": {
+      "watt": "3000"
+    },
+    "model": "",
+    "title": "RBrown MAX-RBROWN BR-2288 Hair Dryer - 3000W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 280,
+    "img": "https://m.media-amazon.com/images/I/51fQQVclAvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B093QCNMFN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

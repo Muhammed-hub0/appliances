@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09MFCJ5VM",
@@ -41,7 +42,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09BG3WXR5",
@@ -63,7 +65,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09MC86P1V",
@@ -85,7 +88,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B06XVTMMCL",
@@ -106,7 +110,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GKHH98RW",
@@ -127,7 +132,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYSDC7C",
@@ -148,7 +154,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08XS1H42D",
@@ -169,7 +176,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HLD4K6D8",
@@ -190,7 +198,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BWN251WY",
@@ -209,7 +218,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DFVPW4KP",
@@ -228,7 +238,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H46CHQCK",
@@ -250,7 +261,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H4689QCS",
@@ -272,7 +284,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09DQ2NXX3",
@@ -294,7 +307,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08GL9L56X",
@@ -310,6 +324,251 @@
     "price": 859,
     "img": "https://m.media-amazon.com/images/I/414OpOdju+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08GL9L56X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0GPXHCRVQ",
+    "brand": "غير محدد",
+    "name": "Electric Hand Mixer 260W, 7 Speed Kitchen Mixer with Stainless Steel Beaters and Dough Hooks, Lightweight",
+    "specs": {
+      "watt": "260",
+      "speed": "7"
+    },
+    "model": "",
+    "title": "Electric Hand Mixer 260W, 7 Speed Kitchen Mixer with Stainless Steel Beaters and Dough Hooks, Lightweight Portable Food Mixer for Whisking, Mixing, Baking and Cream",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 220.37,
+    "img": "https://m.media-amazon.com/images/I/51xs1eceBlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GPXHCRVQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HFD911CG",
+    "brand": "غير محدد",
+    "name": "Hand Mixer 800W, 3 Years Warranty, 800W Electric Egg Beater, 5 Speeds, 22000 RPM, Double Beaters and Doug",
+    "specs": {
+      "watt": "800",
+      "speed": "5"
+    },
+    "model": "",
+    "title": "Hand Mixer 800W, 3 Years Warranty, 800W Electric Egg Beater, 5 Speeds, 22000 RPM, Double Beaters and Dough Hooks, Easy Clean, for Baking and Dough Mixing(مضرب بيض كهربائى - ضمان 3 سنوات)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1020,
+    "img": "https://m.media-amazon.com/images/I/41cG0nMXSpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HFD911CG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H469VBXP",
+    "brand": "Homagator",
+    "name": "Homagator 250 وات",
+    "specs": {
+      "watt": "250"
+    },
+    "model": "",
+    "title": "Luma Bella - Hand Mixer with Bowl 250W, 2L - B-2012",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 553.01,
+    "img": "https://m.media-amazon.com/images/I/41Re-2WriyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H469VBXP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GLHMTWVQ",
+    "brand": "غير محدد",
+    "name": "Carnival 300W Hand Mixer, Black/Silver",
+    "specs": {
+      "watt": "300"
+    },
+    "model": "",
+    "title": "Carnival 300W Hand Mixer, Black/Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 486,
+    "img": "https://m.media-amazon.com/images/I/41fXg4m+DJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GLHMTWVQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CN6QBFKS",
+    "brand": "غير محدد",
+    "name": "Stand Mixer, 100W Stainless Steel Multi Functional Kitchen Machine, Electric Mixer One-Piece Head-Up Desi",
+    "specs": {
+      "watt": "100"
+    },
+    "model": "",
+    "title": "Stand Mixer, 100W Stainless Steel Multi Functional Kitchen Machine, Electric Mixer One-Piece Head-Up Design, with 2 L Mixing Bowl, Beater, Whisk, Dough Hook",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 542.34,
+    "img": "https://m.media-amazon.com/images/I/41BC+kcwfFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CN6QBFKS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09PSBVV7B",
+    "brand": "Spaceshoop",
+    "name": "Spaceshoop 7 سرعة",
+    "specs": {
+      "speed": "7"
+    },
+    "model": "",
+    "title": "Electric Hand Mixer (7 Speed)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 245.25,
+    "img": "https://m.media-amazon.com/images/I/41dIChkM+7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09PSBVV7B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GQCQ4H2X",
+    "brand": "غير محدد",
+    "name": "مضرب بيض كهربائئ من جاماكى 600 وات استانيلس ستيل مزود ب 5 سرعات مزود ب 4 اسلحة ستانيلس - jmk6009",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "JMK6009",
+    "title": "مضرب بيض كهربائئ من جاماكى 600 وات استانيلس ستيل مزود ب 5 سرعات مزود ب 4 اسلحة ستانيلس - jmk6009",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 739,
+    "img": "https://m.media-amazon.com/images/I/417UeEEls+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GQCQ4H2X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HKG51VL3",
+    "brand": "MiloHub",
+    "name": "MiloHub 7-Speed Electric Hand Mixer, Powerful Kitchen Handheld Food Beater with Stainless Steel Beaters a",
+    "specs": {},
+    "model": "",
+    "title": "MiloHub 7-Speed Electric Hand Mixer, Powerful Kitchen Handheld Food Beater with Stainless Steel Beaters and Dough Hooks, Ergonomic Lightweight Mixer for Baking, Cake Batters, Eggs, Cream, and Dough",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 219,
+    "img": "https://m.media-amazon.com/images/I/51xs1eceBlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HKG51VL3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJJM98MB",
+    "brand": "غير محدد",
+    "name": "Manual Hand Crank Mixer & Egg Beater with Bowl - BPA-Free Plastic, No Electricity Required Used for Bakin",
+    "specs": {},
+    "model": "RED/BLACK",
+    "title": "Manual Hand Crank Mixer & Egg Beater with Bowl - BPA-Free Plastic, No Electricity Required Used for Baking, Desserts & Kitchen Prep, 14 × 14 × 26 cm (Red/Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 288,
+    "img": "https://m.media-amazon.com/images/I/31RZ3V48FDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJJM98MB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HF69TVJ8",
+    "brand": "DENX",
+    "name": "DENX DX3226 Wireless Electric Mixer, Handheld Milk Frother and Drink Mixer with 8000 RPM Speed, 800mAh Re",
+    "specs": {},
+    "model": "DX3226",
+    "title": "DENX DX3226 Wireless Electric Mixer, Handheld Milk Frother and Drink Mixer with 8000 RPM Speed, 800mAh Rechargeable Battery, USB Charging, 4W Power, white",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 299,
+    "img": "https://m.media-amazon.com/images/I/21UT8xG1DaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HF69TVJ8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BVLX8QR1",
+    "brand": "غير محدد",
+    "name": "DSP 25 Watt 800ml Nescafe Electric Milk Mixer KA3069",
+    "specs": {},
+    "model": "KA3069",
+    "title": "DSP 25 Watt 800ml Nescafe Electric Milk Mixer KA3069",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 470,
+    "img": "https://m.media-amazon.com/images/I/218k+fItDrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BVLX8QR1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSLTMR13",
+    "brand": "generic",
+    "name": "Electric Hand Mixer, 7-Speed, with 2 Beaters and 2 Dough Hooks, White",
+    "specs": {},
+    "model": "",
+    "title": "Electric Hand Mixer, 7-Speed, with 2 Beaters and 2 Dough Hooks, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 273.16,
+    "img": "https://m.media-amazon.com/images/I/31Ox52RiU7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSLTMR13?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

@@ -18,7 +18,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07RCG7QJH",
@@ -39,7 +40,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C9JV6PNG",
@@ -60,7 +62,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07N6MNB6K",
@@ -81,7 +84,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08GFRCXF1",
@@ -102,7 +106,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D3D9BL44",
@@ -123,7 +128,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D4WYZ8VG",
@@ -144,7 +150,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07RGWCGLM",
@@ -163,7 +170,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08SJSPV4Q",
@@ -182,7 +190,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01KH1DDG4",
@@ -201,7 +210,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DFYZN9V3",
@@ -223,7 +233,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BR8712J4",
@@ -245,7 +256,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B2Q3W6CN",
@@ -267,7 +279,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BM6J9ZP4",
@@ -289,7 +302,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BWV3N543",
@@ -306,6 +320,324 @@
     "price": 898,
     "img": "https://m.media-amazon.com/images/I/513GK7ZxiPL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BWV3N543?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B08NDMTN2W",
+    "brand": "غير محدد",
+    "name": "VGR Men's Cordless Professional Hair Clipper Runtime: 120 Min Trimmer with 3 Guide Combs (Silver), Standa",
+    "specs": {
+      "type": "مقص",
+      "battery": "120"
+    },
+    "model": "SILVER",
+    "title": "VGR Men's Cordless Professional Hair Clipper Runtime: 120 Min Trimmer with 3 Guide Combs (Silver), Standard",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 376.03,
+    "img": "https://m.media-amazon.com/images/I/41ghO076+3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08NDMTN2W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CKNCG8JM",
+    "brand": "VGR",
+    "name": "VGR مقاوم للماء 90 دقيقة (PINK)",
+    "specs": {
+      "type": "مقاوم للماء",
+      "battery": "90"
+    },
+    "model": "PINK",
+    "title": "VGR V-733 Professional Ladies Grooming Kit,Epilator for women for full body grooming| 6 in 1 lady care set,LED Display,90min Runtime &600mAh Lithium Battery with IPX 7 Waterproof (Pink)1 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1080.41,
+    "img": "https://m.media-amazon.com/images/I/41MCKtf+OML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CKNCG8JM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08JNP488Z",
+    "brand": "VGR",
+    "name": "VGR مقص",
+    "specs": {
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "VGR Professional Cordless Rechargeable Beard Trimmer with Guide Brush for Men, Black, V-055",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 340,
+    "img": "https://m.media-amazon.com/images/I/41vit0kZKgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08JNP488Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GXL7DGW2",
+    "brand": "VGR",
+    "name": "VGR مقاوم للماء",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "VGR Super Trim 2 in 1 Full Body Hair Trimmer and Shaver, V-361, USB Charging, IPX6 Waterproof, LED Display, 500mAh Lithium Battery",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 599,
+    "img": "https://m.media-amazon.com/images/I/41SKDBQ4ZAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GXL7DGW2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1S1Q93H",
+    "brand": "VGR",
+    "name": "VGR مقاوم للماء (GOLD)",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "GOLD",
+    "title": "VGR Super Trim 2 in 1 Full Body Hair Trimmer and Shaver, V-361, USB Charging, IPX6 Waterproof, LED Display, 500mAh Lithium Battery (Gold)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 601.64,
+    "img": "https://m.media-amazon.com/images/I/41A+D7lFn6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1S1Q93H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1MS1SBZ",
+    "brand": "VGR",
+    "name": "VGR مقاوم للماء (PINK)",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "PINK",
+    "title": "VGR V-735 Professional 3-in-1 Lady Shaver Set, IPX7 Waterproof, USB Type-C Rechargeable, for Body, Bikini and Facial Trimming (Pink)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 697,
+    "img": "https://m.media-amazon.com/images/I/41Te-f4lohL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1MS1SBZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09CPFNPTD",
+    "brand": "غير محدد",
+    "name": "Styleader Aluminum Foil Blade Shaver Rechargeable for Men - Silver",
+    "specs": {
+      "type": "شبكي"
+    },
+    "model": "",
+    "title": "Styleader Aluminum Foil Blade Shaver Rechargeable for Men - Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 229.43,
+    "img": "https://m.media-amazon.com/images/I/41+G-M7iQAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09CPFNPTD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1MRVMHM",
+    "brand": "VGR",
+    "name": "VGR مقاوم للماء (GREEN)",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "GREEN",
+    "title": "VGR V-735 Professional 3-in-1 Lady Shaver Set, IPX7 Waterproof, USB Type-C Rechargeable, for Body, Bikini and Facial Trimming (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 606,
+    "img": "https://m.media-amazon.com/images/I/41BIfvvXSXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1MRVMHM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZ51QXDL",
+    "brand": "VGR",
+    "name": "VGR شبكي",
+    "specs": {
+      "type": "شبكي"
+    },
+    "model": "",
+    "title": "VGR V-640S Professional Foil Shaver with Double Titanium Foils, 9000 RPM, USB Charging, 1200 mAh Battery",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1105,
+    "img": "https://m.media-amazon.com/images/I/51N-9-5C+8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZ51QXDL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FJRFL4H2",
+    "brand": "VGR",
+    "name": "VGR مقص (BLACK)",
+    "specs": {
+      "type": "مقص"
+    },
+    "model": "BLACK",
+    "title": "VGR V-353 Professional Electric Ultra Thin Shaver Rechargeable Razor for Face Care Beard Trimmer Reciprocating Blade with USB Travel Shaver, Men's Electric Razor - (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 282,
+    "img": "https://m.media-amazon.com/images/I/41S9LowAkRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FJRFL4H2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GXW6DSF1",
+    "brand": "VGR",
+    "name": "VGR مقص (GOLD)",
+    "specs": {
+      "type": "مقص"
+    },
+    "model": "GOLD",
+    "title": "VGR Professional Hair Trimmer V-071, T-Blade, 2 Speed Motor, USB Rechargeable, with 3 Guide Combs (Gold)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 349,
+    "img": "https://m.media-amazon.com/images/I/41wZx3xBRaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GXW6DSF1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0992FKFRW",
+    "brand": "VGR",
+    "name": "VGR 120 دقيقة",
+    "specs": {
+      "battery": "120"
+    },
+    "model": "",
+    "title": "VGR V-290 Digital Display Professional Cordless Hair Clippers Cutter Rechargeable Wireless Hair Grooming Set Beard Trimming Beard Styling Rechargeable Li-ion Battery 600mAh 120 mins Runtime - Golden",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 459,
+    "img": "https://m.media-amazon.com/images/I/41RJom1slKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0992FKFRW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F4NQK1WD",
+    "brand": "غير محدد",
+    "name": "Trimmer Men Cordless Hair Clipper Electric T Blade Dragon Style Beard Trimmers, Shaver, Edgers Profession",
+    "specs": {
+      "type": "مقص"
+    },
+    "model": "T99",
+    "title": "Trimmer Men Cordless Hair Clipper Electric T Blade Dragon Style Beard Trimmers, Shaver, Edgers Professional Zero Gapped USB Rechargeable Clippers with 4 Guide Combs Men's Grooming Kit (t99)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 185,
+    "img": "https://m.media-amazon.com/images/I/41lWQqKB5OL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F4NQK1WD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08WJPP6WN",
+    "brand": "Gillette",
+    "name": "Gillette 3 شفرات",
+    "specs": {
+      "blades": "3 شفرات"
+    },
+    "model": "",
+    "title": "Gillette Blue 3 Sensitive Disposable Razors 3 bladed 6+2 Free Razors",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 253,
+    "img": "https://m.media-amazon.com/images/I/41ZHVMkC50L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJPP6WN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H8VF13K2",
+    "brand": "غير محدد",
+    "name": "Charging Hair Clippers for Men, USB Rechargeable Professional Electric Shaver Beard Mustache Trimmer with",
+    "specs": {
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "Charging Hair Clippers for Men, USB Rechargeable Professional Electric Shaver Beard Mustache Trimmer with 4 Guide Combs - Gold",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 177.11,
+    "img": "https://m.media-amazon.com/images/I/41VehDP7ilL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8VF13K2?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

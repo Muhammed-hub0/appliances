@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CTKH25TG",
@@ -40,7 +41,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C5XBJNRK",
@@ -61,7 +63,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08TBRYVZB",
@@ -82,7 +85,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HF5FZYHV",
@@ -103,7 +107,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07MW44JP3",
@@ -124,7 +129,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08V8Q2Y89",
@@ -145,7 +151,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FBL67NKN",
@@ -166,7 +173,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08V95HGYK",
@@ -187,7 +195,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C7PJQ7GM",
@@ -208,7 +217,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09V4LT8VV",
@@ -229,7 +239,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C2VN95K3",
@@ -250,7 +261,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DB1R59S7",
@@ -271,7 +283,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BZY8BZ63",
@@ -292,7 +305,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D2KN58BT",
@@ -308,6 +322,314 @@
     "price": 419,
     "img": "https://m.media-amazon.com/images/I/4120JDZH1bL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D2KN58BT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0H95Q3P9K",
+    "brand": "غير محدد",
+    "name": "Portable Air Conditioner, Mini Air Conditioner, 3 Speeds Cooling Fan, 1/2/3H Timer, 360° Rotation, USB Po",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Portable Air Conditioner, Mini Air Conditioner, 3 Speeds Cooling Fan, 1/2/3H Timer, 360° Rotation, USB Port, for Office and Home, Dark Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 249,
+    "img": "https://m.media-amazon.com/images/I/51x-DLBkEHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H95Q3P9K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZKVDRCM",
+    "brand": "غير محدد",
+    "name": "Portable Air Conditioner Fan,Personal Air Conditioner with Ice Tray, Evaporative Air Cooler,Cooling Fan t",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Portable Air Conditioner Fan,Personal Air Conditioner with Ice Tray, Evaporative Air Cooler,Cooling Fan th 7 Colors Light, 5 Sprays,3 Speeds, Fan for Small Room,Office,Car,Camp (may vary colore",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 439,
+    "img": "https://m.media-amazon.com/images/I/41khOEPsWjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZKVDRCM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H672ZYG3",
+    "brand": "غير محدد",
+    "name": "Portable Air Conditioner Cooler Mini Water Cooling Ice USB Cooler with 300ml Tank LED Light Personal Air ",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Portable Air Conditioner Cooler Mini Water Cooling Ice USB Cooler with 300ml Tank LED Light Personal Air Cooler Fan for Home Office Bedroom",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 220,
+    "img": "https://m.media-amazon.com/images/I/41arXeiE7xL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H672ZYG3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FMQDQ86Z",
+    "brand": "غير محدد",
+    "name": "Portable Air Cooler Despencer - Rechargeable Mini Evaporative Air Cooler, Water Air Conditioner Fan, Mini",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "BLUE",
+    "title": "Portable Air Cooler Despencer - Rechargeable Mini Evaporative Air Cooler, Water Air Conditioner Fan, Mini Air Conditioner and Excellent Decoration for Office, Home, Kitchen, Bedroom, Outdoor (Blue)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 296.1,
+    "img": "https://m.media-amazon.com/images/I/41zdS67PFVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FMQDQ86Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H5TX4XVS",
+    "brand": "غير محدد",
+    "name": "Portable Air Conditioner - Personal Humidifier, Evaporative Air Cooler, Mini USB, Desktop Air Conditioner",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Portable Air Conditioner - Personal Humidifier, Evaporative Air Cooler, Mini USB, Desktop Air Conditioner - 4 in 1, Suitable for Bedrooms, Cars, Offices, Living Rooms",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 530,
+    "img": "https://m.media-amazon.com/images/I/51fEF5VILUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H5TX4XVS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C9MFF9MX",
+    "brand": "shengyi",
+    "name": "shengyi متنقل (MULTICOLOR)",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "MULTICOLOR",
+    "title": "SHENGYI Portable Air Conditioner Fan, Mini Personal Evaporative Air Cooler Oscillation/Humidifier/Timing Function, Desktop Misting Fast Cooling Fan With Led Light For Room Office Camping (Multicolor)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 257,
+    "img": "https://m.media-amazon.com/images/I/51kI1LWODtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C9MFF9MX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07RCZWQ7P",
+    "brand": "Arctic Air",
+    "name": "Arctic Air متنقل",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Ontel Arctic Ultra Seen On TV | Evaporative Portable Air Conditioner | Personal Space Cooler |",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 576.74,
+    "img": "https://m.media-amazon.com/images/I/512KjRM-30L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07RCZWQ7P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F1TNXWRN",
+    "brand": "Pomefar",
+    "name": "Pomefar متنقل",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Portable Air Conditioner Cooling Fan, USB Desk Fan 3 Wind Speed 7 Colors LED Light 680ml Water Tank, Mini Evaporative Air Conditioner Fan for Room Office, Personal Air Cooler",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 270,
+    "img": "https://m.media-amazon.com/images/I/411s5gJgciL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F1TNXWRN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DHXGGTPB",
+    "brand": "ALASAMCO",
+    "name": "ALASAMCO متنقل",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "ALASAMCO Portable Humidifier Air Cooler Domestic Small Air Conditioner Portable Hydrocooling Air Adjustment 3-Speed Electric Fan USB Light Fan",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 300,
+    "img": "https://m.media-amazon.com/images/I/51JtYon3BAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DHXGGTPB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H95S9B6Y",
+    "brand": "غير محدد",
+    "name": "Mini Air Conditioner, Portable Air Conditioner, 3 Speeds Cooling Fan, 1/2/3H Timer, 360° Rotation, USB Po",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Mini Air Conditioner, Portable Air Conditioner, 3 Speeds Cooling Fan, 1/2/3H Timer, 360° Rotation, USB Port, for Office and Home, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 249,
+    "img": "https://m.media-amazon.com/images/I/51CU1gSpx7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H95S9B6Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C9MDYNPK",
+    "brand": "shengyi",
+    "name": "shengyi متنقل (WHITE)",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "WHITE",
+    "title": "SHENGYI Portable Air Conditioner Fan, Mini Personal Evaporative Air Cooler Oscillation/Humidifier/Timing Function, Desktop Misting Fast Cooling Fan With Led Light For Room Office Camping (White)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 405,
+    "img": "https://m.media-amazon.com/images/I/51YHtmE-pHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C9MDYNPK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07VVD5MTP",
+    "brand": "غير محدد",
+    "name": "Adjustable Air Conditioner Without Wall Punching, 3254846565",
+    "specs": {},
+    "model": "",
+    "title": "Adjustable Air Conditioner Without Wall Punching, 3254846565",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 390,
+    "img": "https://m.media-amazon.com/images/I/31rwJ31XBrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07VVD5MTP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1NJF67H",
+    "brand": "غير محدد",
+    "name": "موزع هواء التكييف الاحترافي – تصميم قابل للتعديل لتبريد متوازن AC Adjustable Air Vent Deflector Dual Flow",
+    "specs": {},
+    "model": "",
+    "title": "موزع هواء التكييف الاحترافي – تصميم قابل للتعديل لتبريد متوازن AC Adjustable Air Vent Deflector Dual Flow",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 199,
+    "img": "https://m.media-amazon.com/images/I/41auQbkK4bL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1NJF67H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HBP16XH9",
+    "brand": "غير محدد",
+    "name": "Smart Air Conditioner Diffuser with Circular Turbine",
+    "specs": {},
+    "model": "",
+    "title": "Smart Air Conditioner Diffuser with Circular Turbine",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 350,
+    "img": "https://m.media-amazon.com/images/I/31E2cZtUiYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HBP16XH9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091CM8PRN",
+    "brand": "OtherWorldlyWaxes",
+    "name": "Fully Advanced AC Flow Deflector and Soother",
+    "specs": {},
+    "model": "",
+    "title": "Fully Advanced AC Flow Deflector and Soother",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 390,
+    "img": "https://m.media-amazon.com/images/I/31LVRDhXjgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091CM8PRN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

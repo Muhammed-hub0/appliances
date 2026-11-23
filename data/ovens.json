@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B095XWWNRZ",
@@ -40,7 +41,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CZLF8NT1",
@@ -61,7 +63,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09P5DQ5F7",
@@ -82,7 +85,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F9LKHTMF",
@@ -101,7 +105,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F9LMHBMB",
@@ -120,7 +125,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F9LM7YM9",
@@ -139,7 +145,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B087C3LPG4",
@@ -158,7 +165,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08WJL86WZ",
@@ -177,7 +185,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CFR1GRSF",
@@ -199,7 +208,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07MYRPJ7K",
@@ -221,7 +231,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BFVNLX5S",
@@ -242,7 +253,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07XD51XDZ",
@@ -263,7 +275,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CCP44FFT",
@@ -284,7 +297,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BXSHQHXB",
@@ -300,6 +314,300 @@
     "price": 495,
     "img": "https://m.media-amazon.com/images/I/51LpDAQ9BhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BXSHQHXB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0HQ2RZ2VF",
+    "brand": "غير محدد",
+    "name": "Electric Oven KF-3000 36L | KF-3000 36L Capacity, KF-3000",
+    "specs": {
+      "cap": "36"
+    },
+    "model": "",
+    "title": "Electric Oven KF-3000 36L | KF-3000 36L Capacity, KF-3000",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1369,
+    "img": "https://m.media-amazon.com/images/I/51oZtW-q+cL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HQ2RZ2VF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DF5YDYC8",
+    "brand": "غير محدد",
+    "name": "Large Oven Liners for Electric Gas Ovens, Non-Stick Reusable Heat Resistant Baking Mats, Perfect for Easy",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Large Oven Liners for Electric Gas Ovens, Non-Stick Reusable Heat Resistant Baking Mats, Perfect for Easy Cooking and Baking (2)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 287,
+    "img": "https://m.media-amazon.com/images/I/41lscUEznQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DF5YDYC8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWR51JYC",
+    "brand": "غير محدد",
+    "name": "Toaster Electric Oven Switch Control High Quality Support All Wax Conversion",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Toaster Electric Oven Switch Control High Quality Support All Wax Conversion",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 300,
+    "img": "https://m.media-amazon.com/images/I/31-6nzgS1sL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWR51JYC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GHP5S588",
+    "brand": "غير محدد",
+    "name": "Oven Bags For Grilling Food 5 Pcs Cooking Toaster Bags@",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Oven Bags For Grilling Food 5 Pcs Cooking Toaster Bags@",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 169.99,
+    "img": "https://m.media-amazon.com/images/I/51NtxqwBwiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GHP5S588?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B2MJJW5S",
+    "brand": "غير محدد",
+    "name": "Home Electric oven IV8800 White",
+    "specs": {},
+    "model": "IV8800",
+    "title": "Home Electric oven IV8800 White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1266.22,
+    "img": "https://m.media-amazon.com/images/I/41EAp66HaUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B2MJJW5S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HNDQBRQM",
+    "brand": "غير محدد",
+    "name": "Electric Oven Thermostat Temperature Control | Genuine part,precise heat control,for electric oven,easy t",
+    "specs": {},
+    "model": "",
+    "title": "Electric Oven Thermostat Temperature Control | Genuine part,precise heat control,for electric oven,easy to install",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 299,
+    "img": "https://m.media-amazon.com/images/I/211DTj3+-gL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HNDQBRQM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BM6SP6WV",
+    "brand": "غير محدد",
+    "name": "Electric Oven Stabilizers",
+    "specs": {},
+    "model": "",
+    "title": "Electric Oven Stabilizers",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 220,
+    "img": "https://m.media-amazon.com/images/I/31sljaAFKTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BM6SP6WV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GW5YWQFZ",
+    "brand": "غير محدد",
+    "name": "Electric Oven Heater P-Shaped Replacement Heating Element for Electric Ovens",
+    "specs": {},
+    "model": "",
+    "title": "Electric Oven Heater P-Shaped Replacement Heating Element for Electric Ovens",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 350,
+    "img": "https://m.media-amazon.com/images/I/31WiAzPMw-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GW5YWQFZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HLZN1ZLF",
+    "brand": "غير محدد",
+    "name": "Electric Oven Thermostat Temperature Control | Genuine part,Precise heat control,Furnace compatible,Easy ",
+    "specs": {},
+    "model": "",
+    "title": "Electric Oven Thermostat Temperature Control | Genuine part,Precise heat control,Furnace compatible,Easy installation,High Quality",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 300,
+    "img": "https://m.media-amazon.com/images/I/211DTj3+-gL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HLZN1ZLF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GW8XPSYS",
+    "brand": "غير محدد",
+    "name": "Electric Oven Switch 3 Ends Electric Oven Heater Wax Switch Black",
+    "specs": {},
+    "model": "",
+    "title": "Electric Oven Switch 3 Ends Electric Oven Heater Wax Switch Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 300,
+    "img": "https://m.media-amazon.com/images/I/41eG2l-OeXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GW8XPSYS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B4T72VJQ",
+    "brand": "MAKINGTEC",
+    "name": "MAKINGTEC Oven Thermometer - 100-600°F/0-300℃ Dial BBQ Grill Cooker Oven Thermometer, Stainless Steel, An",
+    "specs": {},
+    "model": "",
+    "title": "MAKINGTEC Oven Thermometer - 100-600°F/0-300℃ Dial BBQ Grill Cooker Oven Thermometer, Stainless Steel, Analog Display",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 249,
+    "img": "https://m.media-amazon.com/images/I/41xPg0K43qL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B4T72VJQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09JKQ4GYN",
+    "brand": "generic",
+    "name": "Oven and oven grill",
+    "specs": {},
+    "model": "",
+    "title": "Oven and oven grill",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 291,
+    "img": "https://m.media-amazon.com/images/I/51PMimZ-NpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09JKQ4GYN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DXPMLMPW",
+    "brand": "Novstuf",
+    "name": "4 Oven Rack Protectors, Silicone Oven Guards for Inside The Oven Heat Resistant Oven Shelf Edge Guards Sa",
+    "specs": {},
+    "model": "BLACK",
+    "title": "4 Oven Rack Protectors, Silicone Oven Guards for Inside The Oven Heat Resistant Oven Shelf Edge Guards Safety Protection Bracket Protective Covers Baking Edge Shields for Protect Against Burns (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 235.6,
+    "img": "https://m.media-amazon.com/images/I/4135aldNAFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DXPMLMPW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DWKSZSMZ",
+    "brand": "غير محدد",
+    "name": "Oven Liner - Strong Teflon Mats for Improved Cleaning and Extreme Heat Resistance, Ideal for All Types of",
+    "specs": {},
+    "model": "",
+    "title": "Oven Liner - Strong Teflon Mats for Improved Cleaning and Extreme Heat Resistance, Ideal for All Types of Ovens and Grills, Dishwasher Safe and Reusable(2 Pack)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 220,
+    "img": "https://m.media-amazon.com/images/I/21-ZByJnt5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DWKSZSMZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HCZXD9J8",
+    "brand": "غير محدد",
+    "name": "Reusable Silicone Stove Cover for Electric Cooktop, Heat Resistant Glass Stove Protector, Scratch Resista",
+    "specs": {},
+    "model": "",
+    "title": "Reusable Silicone Stove Cover for Electric Cooktop, Heat Resistant Glass Stove Protector, Scratch Resistant Kitchen Counter Mat, Non-Slip Multipurpose Surface Cover, Grill & Oven Cooking Mat",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 338,
+    "img": "https://m.media-amazon.com/images/I/51u35csSswL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HCZXD9J8?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

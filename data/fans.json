@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B088QGQ3WJ",
@@ -40,7 +41,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08WJNFTJ9",
@@ -61,7 +63,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09231GFK5",
@@ -82,7 +85,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07MWG4PW2",
@@ -103,7 +107,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09NWSMRR3",
@@ -124,7 +129,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H18KQC17",
@@ -145,7 +151,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B098WB81ZD",
@@ -167,7 +174,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08WJKJX6C",
@@ -189,7 +197,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F1NF5MYR",
@@ -211,7 +220,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091FPR51T",
@@ -233,7 +243,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09579PNX9",
@@ -255,7 +266,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CGXXNGD7",
@@ -276,7 +288,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091KKWMCM",
@@ -297,7 +310,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CRVQ23RD",
@@ -313,6 +327,323 @@
     "price": 355,
     "img": "https://m.media-amazon.com/images/I/21PWGXDR+5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CRVQ23RD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0F8BR7R1P",
+    "brand": "غير محدد",
+    "name": "Nationel Stand Fan 18 Inch 5 Blades, Multi Color 50 Watt",
+    "specs": {
+      "size": "18",
+      "type": "أرضية"
+    },
+    "model": "",
+    "title": "Nationel Stand Fan 18 Inch 5 Blades, Multi Color 50 Watt",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 949.05,
+    "img": "https://m.media-amazon.com/images/I/31C4eY5VsJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F8BR7R1P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098MXQ8GT",
+    "brand": "غير محدد",
+    "name": "Mini Fan Desk Speed Adjustable - 220V",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "",
+    "title": "Mini Fan Desk Speed Adjustable - 220V",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 459.9,
+    "img": "https://m.media-amazon.com/images/I/41APB5ck6-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098MXQ8GT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09ND6DVXZ",
+    "brand": "CIVPOWER",
+    "name": "CIVPOWER طاولة",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "",
+    "title": "CIVPOWER Portable Neck Fan, Hands Free Bladeless Fan, Cooling Personal,3 Speeds Adjustment,78 Air Outlet, Headphone Design, Rechargeable, USB Powered Neck for Outdoor Indoor-Multi Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 188.89,
+    "img": "https://m.media-amazon.com/images/I/31iRfuoJaVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09ND6DVXZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H71FKP8T",
+    "brand": "غير محدد",
+    "name": "48V Max Cordless Table Fan with Battery, 3-Speed Settings | Battery Powered, Portable Design, Metal Wire ",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "",
+    "title": "48V Max Cordless Table Fan with Battery, 3-Speed Settings | Battery Powered, Portable Design, Metal Wire Guard, 3-Blade Motor, Indoor & Outdoor Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 810,
+    "img": "https://m.media-amazon.com/images/I/41Y8GJeN2xL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H71FKP8T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07MWXQGCD",
+    "brand": "SONAI",
+    "name": "SONAI 12 بوصة",
+    "specs": {
+      "size": "12"
+    },
+    "model": "",
+    "title": "Sonai MAR-3012 Box Fan, 12 Inch - White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 976,
+    "img": "https://m.media-amazon.com/images/I/41Ha6VSbELL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07MWXQGCD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GSHBJXY1",
+    "brand": "NILMBOT",
+    "name": "NILMBOT طاولة",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "",
+    "title": "3-in-1 Handheld Portable Neck & Desk Cooling Device, 5000mAh USB Rechargeable Fan with LED Digital Display, 5-Speed 6-Blade Personal Airflow System for Travel, Outdoor (Black, 5000, Milliamp Hours)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 977,
+    "img": "https://m.media-amazon.com/images/I/41KrlM0feJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GSHBJXY1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7XRMFG4",
+    "brand": "غير محدد",
+    "name": "Handheld Fan with Base, 5 Adjustable Speeds, Digital Display, 90° Rotation, USB Port, for Indoor and Outd",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "BLUE",
+    "title": "Handheld Fan with Base, 5 Adjustable Speeds, Digital Display, 90° Rotation, USB Port, for Indoor and Outdoor (Blue)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 193.5,
+    "img": "https://m.media-amazon.com/images/I/51wXclqJ9+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7XRMFG4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D97YVVQ2",
+    "brand": "PlayHot",
+    "name": "PlayHot طاولة (BLACK)",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "BLACK",
+    "title": "PlayHot Portable Handheld Turbo Fan, 5 Gear Wind, USB-C Rechargeable Fan, Up to 12 Working Hours, 3 IN 1 Hand Fans with Air Turbo Tech Cooling Fan for Outdoor Activities, Travel, Beach (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1449,
+    "img": "https://m.media-amazon.com/images/I/214PCrPoQUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D97YVVQ2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BYJ27ZDC",
+    "brand": "coldSky",
+    "name": "coldSky طاولة",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "",
+    "title": "coldSky Portable Handheld Fan, 4000mAh Battery Operated 3 in 1 Multifunction Personal Travel Fans with Digital Display, 90° Foldable Desk Fan with Base, 5 Speed Lash Fan for Makeup/Commute/Office",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 225,
+    "img": "https://m.media-amazon.com/images/I/41J9prUxAUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BYJ27ZDC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HCWFPLRC",
+    "brand": "فكرة",
+    "name": "فكرة طاولة",
+    "specs": {
+      "type": "طاولة"
+    },
+    "model": "",
+    "title": "Portable Handheld Fan – Rechargeable Mini Personal Desktop Fan with Power | Portable Handheld Fan – Rechargeable Mini Personal Desktop Fan with Power",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 170,
+    "img": "https://m.media-amazon.com/images/I/31LOEq3UB-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HCWFPLRC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CGY2HT7Y",
+    "brand": "غير محدد",
+    "name": "ATA 18\" 5-Blade Modern Wall Mount Electric Fan with Electronic Touch Control and Remote Control - Silver",
+    "specs": {
+      "size": "18"
+    },
+    "model": "",
+    "title": "ATA 18\" 5-Blade Modern Wall Mount Electric Fan with Electronic Touch Control and Remote Control - Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1103,
+    "img": "https://m.media-amazon.com/images/I/41SoZizMUEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CGY2HT7Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D9VX1TFW",
+    "brand": "Skyline",
+    "name": "Skyline أرضية",
+    "specs": {
+      "type": "أرضية"
+    },
+    "model": "",
+    "title": "SkyLine Stand Fan Remote 18`` JET 6 Blades",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1099,
+    "img": "https://m.media-amazon.com/images/I/312b+abaiNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D9VX1TFW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F724TN2M",
+    "brand": "غير محدد",
+    "name": "Wall Fan 5 Blades 18 Inch Black-Red 50W Powerful Cooling Quiet Home Office Use",
+    "specs": {
+      "size": "18"
+    },
+    "model": "",
+    "title": "Wall Fan 5 Blades 18 Inch Black-Red 50W Powerful Cooling Quiet Home Office Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 731.6,
+    "img": "https://m.media-amazon.com/images/I/615H2V3bshL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F724TN2M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B092324Z31",
+    "brand": "ATA",
+    "name": "ATA سقف",
+    "specs": {
+      "type": "سقف"
+    },
+    "model": "",
+    "title": "ATA - 3-Blade 5-Speed Ceiling Fan",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 953,
+    "img": "https://m.media-amazon.com/images/I/21CmZqyB8dL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B092324Z31?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZJD6L3Q",
+    "brand": "غير محدد",
+    "name": "Karioka First 18\" FB-1837 50W Fan",
+    "specs": {
+      "size": "18"
+    },
+    "model": "",
+    "title": "Karioka First 18\" FB-1837 50W Fan",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 949.05,
+    "img": "https://m.media-amazon.com/images/I/41UH0u-xtAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZJD6L3Q?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

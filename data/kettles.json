@@ -153,7 +153,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FH4WS3S9",
@@ -175,7 +176,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H83WFJTZ",
@@ -197,7 +199,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01L93HDUQ",
@@ -218,7 +221,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FX5J7HK6",
@@ -239,7 +243,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D6BVC9CQ",
@@ -260,7 +265,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07MVSTKCV",
@@ -281,7 +287,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08J7QDWYN",
@@ -300,7 +307,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FGXRS4ZB",
@@ -322,7 +330,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GSRM9LQN",
@@ -344,7 +353,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FGXP5QHC",
@@ -366,7 +376,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FGXPS36J",
@@ -388,7 +399,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HMRXX465",
@@ -410,7 +422,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HK4C5DFB",
@@ -432,7 +445,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H4W4KB1D",
@@ -449,6 +463,215 @@
     "price": 399,
     "img": "https://m.media-amazon.com/images/I/41Hdh9LWZ+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4W4KB1D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0GSRYXRHF",
+    "brand": "غير محدد",
+    "name": "PRIME TECH Electric Kettle 1.5L Stainless Steel,1500 Watt, Fast Boiling Water Kettle with Auto Shut-Off, ",
+    "specs": {
+      "cap": "1.5",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "PRIME TECH Electric Kettle 1.5L Stainless Steel,1500 Watt, Fast Boiling Water Kettle with Auto Shut-Off, Cordless Tea & Coffee Kettle Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 199,
+    "img": "https://m.media-amazon.com/images/I/31hvwzDfevL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GSRYXRHF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HFDJD413",
+    "brand": "غير محدد",
+    "name": "Multifunctional Health Pot, 3 Years Warranty, 1500W Electric Kettle, 1.5L Borosilicate Glass, 20 Smart Me",
+    "specs": {
+      "cap": "1.5",
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "Multifunctional Health Pot, 3 Years Warranty, 1500W Electric Kettle, 1.5L Borosilicate Glass, 20 Smart Menus, 24 Hour Timer, Tea Maker for Home and Office, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1045,
+    "img": "https://m.media-amazon.com/images/I/41eeZnNhfhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HFDJD413?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B093G3L8PT",
+    "brand": "غير محدد",
+    "name": "Flamngo FM3000 stainless steel electric kettle, 1.5 liters - silver",
+    "specs": {
+      "cap": "1.5"
+    },
+    "model": "FM3000",
+    "title": "Flamngo FM3000 stainless steel electric kettle, 1.5 liters - silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 209,
+    "img": "https://m.media-amazon.com/images/I/41bOo7CbYvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B093G3L8PT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DJ7KVL4F",
+    "brand": "FLAMNGO",
+    "name": "FLAMNGO 2.2 لتر (BLACK)",
+    "specs": {
+      "cap": "2.2"
+    },
+    "model": "BLACK",
+    "title": "FLAMNGO Electric Kettle, 2.2L Capacity, Glass Body (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/31DmFH3NpwL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DJ7KVL4F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H8JNNBKR",
+    "brand": "FLAMNGO",
+    "name": "FLAMNGO 2.2 لتر",
+    "specs": {
+      "cap": "2.2"
+    },
+    "model": "",
+    "title": "Flamingo Electric Kettle, Transparent Glass Body, 2.2 Liter Capacity | Auto-Off Security Feature",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/416VxH6HvyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H8JNNBKR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DPGG3H31",
+    "brand": "FLAMNGO",
+    "name": "FLAMNGO 1.5 لتر",
+    "specs": {
+      "cap": "1.5"
+    },
+    "model": "",
+    "title": "FLAMNGO 1.5L Stainless Steel Electric Water Kettle is the ideal choice for households and offices, combining elegance and high efficiency. modern and elegant stainless steel design",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 220,
+    "img": "https://m.media-amazon.com/images/I/51oO7x6+NGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DPGG3H31?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CVW6594X",
+    "brand": "غير محدد",
+    "name": "Zada ZKT-160 500W Stainless Steel Travel Kettle, 600 ml Capacity, Silver/Black",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "",
+    "title": "Zada ZKT-160 500W Stainless Steel Travel Kettle, 600 ml Capacity, Silver/Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 340,
+    "img": "https://m.media-amazon.com/images/I/415sp5ERLjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CVW6594X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2S821FT",
+    "brand": "PRIME TECH",
+    "name": "PRIME TECH 2.5 لتر (BROWN)",
+    "specs": {
+      "cap": "2.5"
+    },
+    "model": "BROWN",
+    "title": "PRIME TECH Stainless Steel Electric Kettle 2.5L Capacity Practical Kettle Perfect for Preparing Hot Drinks Fast Stainless Steel for Long Lasting Durability and Easy to Clean (Brown)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 379,
+    "img": "https://m.media-amazon.com/images/I/41AbrXowiHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2S821FT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSJRJWRH",
+    "brand": "غير محدد",
+    "name": "Electric Hot Water Kettle 500ml Stainless Steel Coffee Machine Greek Turkish Coffee Maker Portable Waterp",
+    "specs": {},
+    "model": "",
+    "title": "Electric Hot Water Kettle 500ml Stainless Steel Coffee Machine Greek Turkish Coffee Maker Portable Waterproof Electric Hot Boiled Pot Home Portable Tea Maker",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 299,
+    "img": "https://m.media-amazon.com/images/I/51D+es57qhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSJRJWRH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BRBB2N91",
+    "brand": "Spaceshoop",
+    "name": "Travel Kettle Electric Small Foldable Portable Kettle,Silicone Collapsible Heating Water Boiler Tea Pot f",
+    "specs": {},
+    "model": "WHITE",
+    "title": "Travel Kettle Electric Small Foldable Portable Kettle,Silicone Collapsible Heating Water Boiler Tea Pot for Camping,Easy for Storage with Separable Power Cord (White)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 208.65,
+    "img": "https://m.media-amazon.com/images/I/31IGszL5sWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BRBB2N91?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

@@ -18,7 +18,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HFB8LYCZ",
@@ -39,7 +40,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H4MFN36L",
@@ -60,7 +62,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DQV4RJD4",
@@ -81,7 +84,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D2C52YCQ",
@@ -102,7 +106,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B5X18FPW",
@@ -118,6 +123,26 @@
     "price": 161.66,
     "img": "https://m.media-amazon.com/images/I/41K-CVbpV4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B5X18FPW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0HH4LJ4WF",
+    "brand": "غير محدد",
+    "name": "4 in 1 Car Vacuum and Tire Inflator with Pressure Gauge and LED Flashlight | CATCH Vacuum and Pump On Lig",
+    "specs": {},
+    "model": "",
+    "title": "4 in 1 Car Vacuum and Tire Inflator with Pressure Gauge and LED Flashlight | CATCH Vacuum and Pump On Lighthouse 12V, Tire Pressure Meter and Emergency Flashlight, Washable Filter and 4m Long Wire",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1350,
+    "img": "https://m.media-amazon.com/images/I/51aCjZ0gBNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HH4LJ4WF?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

@@ -111,7 +111,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09DGMGSBK",
@@ -133,7 +134,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GWCGR4JH",
@@ -155,7 +157,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GW9RNXTG",
@@ -177,7 +180,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BM7HJ1Z9",
@@ -199,7 +203,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DVRZMT6C",
@@ -221,7 +226,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BRKZFT63",
@@ -243,7 +249,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08WJMQQYM",
@@ -264,7 +271,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08Y8VMQQ8",
@@ -285,7 +293,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07MQKXC4Q",
@@ -306,7 +315,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FTXRC56V",
@@ -327,7 +337,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FMPKYBCS",
@@ -348,7 +359,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G662XB71",
@@ -369,7 +381,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DV6VVXZF",
@@ -390,7 +403,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G66G6CQ6",
@@ -406,6 +420,315 @@
     "price": 1349,
     "img": "https://m.media-amazon.com/images/I/31N5oHnlgoL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G66G6CQ6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B08WJN8GWD",
+    "brand": "مينتا",
+    "name": "مينتا 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Mienta ch-645 chopper with blender jar, 1000 watts, white",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1399,
+    "img": "https://m.media-amazon.com/images/I/417D1kN7mpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJN8GWD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G65GFN9B",
+    "brand": "مينتا",
+    "name": "مينتا 600 وات (BL1281G)",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "BL1281G",
+    "title": "Mienta Blender 600 Watt BL1281G with free gift",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1339,
+    "img": "https://m.media-amazon.com/images/I/41A1EOXrbqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G65GFN9B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07D76Q61L",
+    "brand": "مولينكس",
+    "name": "مولينكس 400 وات (LM2421EG)",
+    "specs": {
+      "watt": "400"
+    },
+    "model": "LM2421EG",
+    "title": "Moulinex LM2421EG Plastic Blender, 1.50 Liter, 400 Watt - White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1430,
+    "img": "https://m.media-amazon.com/images/I/21GAyhXI7bL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07D76Q61L?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08X64PSCL",
+    "brand": "مينتا",
+    "name": "مينتا 400 وات",
+    "specs": {
+      "watt": "400"
+    },
+    "model": "",
+    "title": "Mienta BL - 242 Blender with grater and grinder With mugs - 400 Watt",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 925,
+    "img": "https://m.media-amazon.com/images/I/31Hwbb34rDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08X64PSCL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B7SKXVFD",
+    "brand": "فريش",
+    "name": "Fresh Blender Shabah with 2 Mill",
+    "specs": {},
+    "model": "",
+    "title": "Fresh Blender Shabah with 2 Mill",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/31dzxHn72xL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B7SKXVFD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098TZ7PZS",
+    "brand": "فريش",
+    "name": "Fresh Jumbo Blender With Grinder - White - 1.5 L",
+    "specs": {},
+    "model": "",
+    "title": "Fresh Jumbo Blender With Grinder - White - 1.5 L",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 939,
+    "img": "https://m.media-amazon.com/images/I/31ZHrQKxEcS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098TZ7PZS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08Y8Z58B4",
+    "brand": "فريش",
+    "name": "Fresh Blender Shabah with Mill",
+    "specs": {},
+    "model": "",
+    "title": "Fresh Blender Shabah with Mill",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/411Y9tkP40L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08Y8Z58B4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HFFL9JPR",
+    "brand": "غير محدد",
+    "name": "Hand Blender 2000W, 7712 Pure Copper Motor, 4 Stainless Steel Blades, 2 Speed Settings, Immersion Blender",
+    "specs": {
+      "watt": "2000",
+      "speed": "2",
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Hand Blender 2000W, 7712 Pure Copper Motor, 4 Stainless Steel Blades, 2 Speed Settings, Immersion Blender for Soups, Sauces, Smoothies, Juices and Everyday Kitchen Mixing (Blue or Black)(هاند بلندر)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1150,
+    "img": "https://m.media-amazon.com/images/I/51Ed6mX1doL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HFFL9JPR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FVTRXTDJ",
+    "brand": "غير محدد",
+    "name": "Electric Blender 400W - 1.5L Jug + 2 Spice Mills Stainless Steel Blades 5 Speeds Heat Resistant",
+    "specs": {
+      "watt": "400",
+      "speed": "5"
+    },
+    "model": "",
+    "title": "Electric Blender 400W - 1.5L Jug + 2 Spice Mills Stainless Steel Blades 5 Speeds Heat Resistant",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 850,
+    "img": "https://m.media-amazon.com/images/I/51xYUzpiQQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FVTRXTDJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DYF1T45K",
+    "brand": "غير محدد",
+    "name": "City Multifunction Blender 6500W 2L 7 Speeds for Juices and Shakes HMA-1021 6500.0W",
+    "specs": {
+      "speed": "7"
+    },
+    "model": "",
+    "title": "City Multifunction Blender 6500W 2L 7 Speeds for Juices and Shakes HMA-1021 6500.0W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1072.14,
+    "img": "https://m.media-amazon.com/images/I/51SzQDXrm+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DYF1T45K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HQY2RN1T",
+    "brand": "غير محدد",
+    "name": "El Arosa El Ahada Blender Multi Color 500W With 2 Mills | 500W Capacity, 2 Mills, Clear Bowl, On/Off Swit",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "",
+    "title": "El Arosa El Ahada Blender Multi Color 500W With 2 Mills | 500W Capacity, 2 Mills, Clear Bowl, On/Off Switch, Versatile",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 679,
+    "img": "https://m.media-amazon.com/images/I/41MxBMi6GdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HQY2RN1T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GF4QGFZC",
+    "brand": "غير محدد",
+    "name": "Generic Kibbeh Touch Blender with Knife 3 Speeds, Red and Clear",
+    "specs": {
+      "speed": "3"
+    },
+    "model": "",
+    "title": "Generic Kibbeh Touch Blender with Knife 3 Speeds, Red and Clear",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 650,
+    "img": "https://m.media-amazon.com/images/I/41gok6optAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GF4QGFZC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DVTB4R18",
+    "brand": "Winning Star",
+    "name": "Winning Star يدوي",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "",
+    "title": "Winning Star Hand Blender St-5554",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 764.54,
+    "img": "https://m.media-amazon.com/images/I/41KYKxIKhzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DVTB4R18?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0716QXS2X",
+    "brand": "غير محدد",
+    "name": "Blender with 2 Grinders - White",
+    "specs": {},
+    "model": "",
+    "title": "Blender with 2 Grinders - White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 705,
+    "img": "https://m.media-amazon.com/images/I/21xaYDIGpJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0716QXS2X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GPNX7TGV",
+    "brand": "غير محدد",
+    "name": "Multifunctional Hotel Blender, 7500 Watts, with Grinder, Shatterproof, SC-1589, Red and Black",
+    "specs": {},
+    "model": "",
+    "title": "Multifunctional Hotel Blender, 7500 Watts, with Grinder, Shatterproof, SC-1589, Red and Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1399,
+    "img": "https://m.media-amazon.com/images/I/318LUupb+nL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GPNX7TGV?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

@@ -18,7 +18,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B099C1F7GN",
@@ -39,7 +40,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D94LF77J",
@@ -60,7 +62,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B096L5QJJG",
@@ -81,7 +84,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CHN1W1YP",
@@ -102,7 +106,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C5C4ZFNT",
@@ -123,7 +128,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09BDMWZY3",
@@ -144,7 +150,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07VZBGPNY",
@@ -165,7 +172,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0963X9K2P",
@@ -186,7 +194,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07HBBZVZG",
@@ -207,7 +216,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CLRNGR9L",
@@ -228,7 +238,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B1W857LC",
@@ -249,7 +260,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B7747CLQ",
@@ -265,6 +277,324 @@
     "price": 210,
     "img": "https://m.media-amazon.com/images/I/41bWZRM8AiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B7747CLQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0CMWRJ4FH",
+    "brand": "غير محدد",
+    "name": "Home Gold Double Electric Gas Cooker, 2 Burners, 1000W + 1000W, Stainless Steel, Heat-Resistant Coating, ",
+    "specs": {
+      "burners": "2",
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Home Gold Double Electric Gas Cooker, 2 Burners, 1000W + 1000W, Stainless Steel, Heat-Resistant Coating, Black - 16-2023",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1429,
+    "img": "https://m.media-amazon.com/images/I/41aZjRfGekL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CMWRJ4FH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H5MC43JR",
+    "brand": "غير محدد",
+    "name": "Cookers Flat Gas Stove for Cooking 2 Burners with Airtight Seal to Keep It Clean",
+    "specs": {
+      "burners": "2",
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Cookers Flat Gas Stove for Cooking 2 Burners with Airtight Seal to Keep It Clean",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1450,
+    "img": "https://m.media-amazon.com/images/I/41whG+z9MgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H5MC43JR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B096L7NTCM",
+    "brand": "غير محدد",
+    "name": "Natural Sky One-Eye Gas Cooker",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Natural Sky One-Eye Gas Cooker",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 729,
+    "img": "https://m.media-amazon.com/images/I/417tEACwI8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B096L7NTCM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B096R1QJZ7",
+    "brand": "غير محدد",
+    "name": "Gas Cooker 3 eye",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Gas Cooker 3 eye",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 886.9,
+    "img": "https://m.media-amazon.com/images/I/31+YtlvhiDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B096R1QJZ7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HK5786VL",
+    "brand": "غير محدد",
+    "name": "Portable Gas Cooker Single Burner with Auto Ignition and Safety Valve | Push Button Piezo Ignition Auto S",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Portable Gas Cooker Single Burner with Auto Ignition and Safety Valve | Push Button Piezo Ignition Auto Shut-off Valve Fixed Aluminum Base with Carry Bag for Camping and Trekking",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 645,
+    "img": "https://m.media-amazon.com/images/I/41+OUdBNyHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HK5786VL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HK55YZM8",
+    "brand": "غير محدد",
+    "name": "Portable Gas Cooker One Burner One Eye with Auto Ignition | 2 inputs small gas pipe and large piso igniti",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Portable Gas Cooker One Burner One Eye with Auto Ignition | 2 inputs small gas pipe and large piso ignition tube with push button automatic shut-off valve, fixed aluminum base",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 670.5,
+    "img": "https://m.media-amazon.com/images/I/41+OUdBNyHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HK55YZM8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F4ZC4ZWW",
+    "brand": "غير محدد",
+    "name": "Natural Sky Single Eye Gas Cooker | Compact Design | Powerful Flame | Safe & Easy to Clean",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Natural Sky Single Eye Gas Cooker | Compact Design | Powerful Flame | Safe & Easy to Clean",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 699,
+    "img": "https://m.media-amazon.com/images/I/41kKrB7v8nL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F4ZC4ZWW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F5SV7W1M",
+    "brand": "غير محدد",
+    "name": "Carnival Gas Cooker Single Eye",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Carnival Gas Cooker Single Eye",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 699,
+    "img": "https://m.media-amazon.com/images/I/41cCjuN0TbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F5SV7W1M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FLRKXK83",
+    "brand": "غير محدد",
+    "name": "Natural Sky Three Eye Gas Cooker",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Natural Sky Three Eye Gas Cooker",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1100,
+    "img": "https://m.media-amazon.com/images/I/21296gD9QCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FLRKXK83?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HKGRB91F",
+    "brand": "غير محدد",
+    "name": "Happy Home Portable Gas Cooker Black with 2 Butane Cylinder | Self-ignition, Complete Safety System, 220g",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Happy Home Portable Gas Cooker Black with 2 Butane Cylinder | Self-ignition, Complete Safety System, 220g Cylinder, Strong Torch, Suitable for Travel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1099,
+    "img": "https://m.media-amazon.com/images/I/31fXeLUdIJL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HKGRB91F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJBZ5MG4",
+    "brand": "غير محدد",
+    "name": "Gas cooker 3 eyes | High efficiency torch, 3 eyes",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Gas cooker 3 eyes | High efficiency torch, 3 eyes",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1013,
+    "img": "https://m.media-amazon.com/images/I/31WhTMmYzsL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJBZ5MG4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7JCPS9M",
+    "brand": "غير محدد",
+    "name": "Infrared Ceramic Electric Stove, 3500W Digital Electric Cooking Heater, 4 Program Cooking Menu, Automatic",
+    "specs": {
+      "type": "كهربائي"
+    },
+    "model": "",
+    "title": "Infrared Ceramic Electric Stove, 3500W Digital Electric Cooking Heater, 4 Program Cooking Menu, Automatic Time and Temperature Adjustment, Flat Cooker with LED Display, Works with All Kinds of Pots",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1200,
+    "img": "https://m.media-amazon.com/images/I/51QLfRhrMSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7JCPS9M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWD9RCS7",
+    "brand": "غير محدد",
+    "name": "INGHOME Single Eye Flat Gas Cooker, Stainless Steel Body, Save Gas and Time, Carnival",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "INGHOME Single Eye Flat Gas Cooker, Stainless Steel Body, Save Gas and Time, Carnival",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 799,
+    "img": "https://m.media-amazon.com/images/I/41g8GFLWv+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWD9RCS7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HK15M4MN",
+    "brand": "غير محدد",
+    "name": "Carnival Gas Cooker Single Eye | Gas saving, easy to use",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Carnival Gas Cooker Single Eye | Gas saving, easy to use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 845,
+    "img": "https://m.media-amazon.com/images/I/41qLrXwznTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HK15M4MN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWXL1C8Q",
+    "brand": "غير محدد",
+    "name": "Single Eye Gas Cooker, Stainless Steel Body, High Efficiency, Powerful Copper Torch",
+    "specs": {
+      "type": "غاز"
+    },
+    "model": "",
+    "title": "Single Eye Gas Cooker, Stainless Steel Body, High Efficiency, Powerful Copper Torch",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 800,
+    "img": "https://m.media-amazon.com/images/I/41Qljc85+FL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWXL1C8Q?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

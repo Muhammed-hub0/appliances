@@ -62,7 +62,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08B8M7X6R",
@@ -81,7 +82,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BKYF2L8J",
@@ -100,7 +102,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07MX8SCDL",
@@ -119,7 +122,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GSRSX1MX",
@@ -140,7 +144,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HFDKMY87",
@@ -161,7 +166,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FKYF61KL",
@@ -182,7 +188,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08WJMPN7Q",
@@ -203,7 +210,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07YBCG74L",
@@ -224,7 +232,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G6FTFHQG",
@@ -245,7 +254,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CRL45DSV",
@@ -266,7 +276,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H3Q5NFTJ",
@@ -287,7 +298,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F5GJ6CFC",
@@ -303,6 +315,319 @@
     "price": 289.99,
     "img": "https://m.media-amazon.com/images/I/41+YMeoeJ9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F5GJ6CFC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0GVGRLNFR",
+    "brand": "غير محدد",
+    "name": "one year warranty_Turkish Coffee Maker, Stainless Steel Electric Pot Separate Base, Coffee Maker 600ml 10",
+    "specs": {
+      "type": "فورية",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "one year warranty_Turkish Coffee Maker, Stainless Steel Electric Pot Separate Base, Coffee Maker 600ml 1000W, Water Kettle and Instant Drinks, 1 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 342,
+    "img": "https://m.media-amazon.com/images/I/41DkRjw00JL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVGRLNFR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F1FV3FQ5",
+    "brand": "غير محدد",
+    "name": "Portable Manual Espresso Maker, Hand-Operated Coffee Press, Black",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "",
+    "title": "Portable Manual Espresso Maker, Hand-Operated Coffee Press, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 735,
+    "img": "https://m.media-amazon.com/images/I/41ITmZtKRKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F1FV3FQ5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08PL2V27C",
+    "brand": "غير محدد",
+    "name": "Zulay Kitchen Classic Stovetop Espresso Maker for Strong Espresso with Great Flavor, Classic Italian Styl",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "SILVER",
+    "title": "Zulay Kitchen Classic Stovetop Espresso Maker for Strong Espresso with Great Flavor, Classic Italian Style Moka Pot, Delicious Coffee, Easy to Operate and Quick Clean (Silver)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 291.85,
+    "img": "https://m.media-amazon.com/images/I/41pms4UZCML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08PL2V27C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HMFG37V2",
+    "brand": "غير محدد",
+    "name": "Turkish Coffee Maker, Electric Stainless Steel Pot, Separate Rotating Base, Fast Preparation, Preserves N",
+    "specs": {
+      "watt": "600"
+    },
+    "model": "",
+    "title": "Turkish Coffee Maker, Electric Stainless Steel Pot, Separate Rotating Base, Fast Preparation, Preserves Natural Flavor, 500 ml, 600 Watts, 1 Year Warranty.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 340,
+    "img": "https://m.media-amazon.com/images/I/41hJ9VqG8WL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HMFG37V2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FH2JM75N",
+    "brand": "غير محدد",
+    "name": "w.m.a.e Digital Turkish Coffee Maker 1500W 800ml Advanced Digital Sensor - R.117",
+    "specs": {
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "w.m.a.e Digital Turkish Coffee Maker 1500W 800ml Advanced Digital Sensor - R.117",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/310MrV3M3FL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FH2JM75N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HNJYKW7Z",
+    "brand": "غير محدد",
+    "name": "800ml 800W Glass Electric Coffee Machine Long Handle Power Indicator | 800W 800ML 800 Watt Electric Glass",
+    "specs": {
+      "watt": "800"
+    },
+    "model": "",
+    "title": "800ml 800W Glass Electric Coffee Machine Long Handle Power Indicator | 800W 800ML 800 Watt Electric Glass Coffee Machine, Long Handle and Quick Processing Indicator Multi Color",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/41HvFKSrc9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HNJYKW7Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3GGG66Z",
+    "brand": "غير محدد",
+    "name": "R.117 Digital Turkish Coffee Maker Stainless Steel Fast Heating Elegant Design 800ml 1500W Touch Screen D",
+    "specs": {
+      "watt": "1500"
+    },
+    "model": "",
+    "title": "R.117 Digital Turkish Coffee Maker Stainless Steel Fast Heating Elegant Design 800ml 1500W Touch Screen Digital Sensor",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1099,
+    "img": "https://m.media-amazon.com/images/I/3193+h3xTKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3GGG66Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7MCG51N",
+    "brand": "غير محدد",
+    "name": "2 in 1 Portable Manual Espresso Machine for Ground Coffee | Perfect for Travel and Camping, Built-in Wate",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "",
+    "title": "2 in 1 Portable Manual Espresso Machine for Ground Coffee | Perfect for Travel and Camping, Built-in Water Tank, Pressure Room with Filter, Semi Automatic Piston, 60x198mm",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 850,
+    "img": "https://m.media-amazon.com/images/I/31TRHf7tL8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7MCG51N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7NKY85Q",
+    "brand": "غير محدد",
+    "name": "300g Lightweight Manual Portable Espresso Machine, Black | Manual operation without electricity, rich and",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "",
+    "title": "300g Lightweight Manual Portable Espresso Machine, Black | Manual operation without electricity, rich and soft cream, BPA-free, easy to clean, for travel and camping",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 950,
+    "img": "https://m.media-amazon.com/images/I/31ecpyDjwYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7NKY85Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B000YDOMHU",
+    "brand": "غير محدد",
+    "name": "Primula Classic Stovetop Espresso and Coffee Maker, Moka Pot for Italian and Cuban Café Brewing, Greca Co",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "",
+    "title": "Primula Classic Stovetop Espresso and Coffee Maker, Moka Pot for Italian and Cuban Café Brewing, Greca Coffee Maker, Cafeteras, 3 Espresso Cups, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 401.4,
+    "img": "https://m.media-amazon.com/images/I/21c1I37UbML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B000YDOMHU?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7NLV4WZ",
+    "brand": "غير محدد",
+    "name": "300g Lightweight Manual Portable Espresso Machine, Black (Model 1) | Manual operation without electricity",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "",
+    "title": "300g Lightweight Manual Portable Espresso Machine, Black (Model 1) | Manual operation without electricity, rich and soft cream, BPA-free materials, easy to clean, for travel and camping",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 855,
+    "img": "https://m.media-amazon.com/images/I/31ecpyDjwYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7NLV4WZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HN2F7FFY",
+    "brand": "غير محدد",
+    "name": "Portable Capsule Espresso Maker, 80ml Water Capacity, Compact and | For Travel Use, Hand Operation, Compa",
+    "specs": {
+      "type": "كبسولات"
+    },
+    "model": "",
+    "title": "Portable Capsule Espresso Maker, 80ml Water Capacity, Compact and | For Travel Use, Hand Operation, Compact Cylinder Design, Suitable For Camping, Built-in Water Tank",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/31KoHZqVxNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HN2F7FFY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01N6LKASK",
+    "brand": "غير محدد",
+    "name": "Liquid Espresso Machine,Silver - CF3C",
+    "specs": {
+      "type": "إسبريسو"
+    },
+    "model": "",
+    "title": "Liquid Espresso Machine,Silver - CF3C",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 287.53,
+    "img": "https://m.media-amazon.com/images/I/41q+I+nlYdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01N6LKASK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HM51XKSJ",
+    "brand": "غير محدد",
+    "name": "ماكينة تحضير القهوة فصل اتوماتيكى قبل الغليان ومزودة بمستشعر مضاد للتدفق، صانع القهوة التركية الاتوماتيك ",
+    "specs": {},
+    "model": "",
+    "title": "ماكينة تحضير القهوة فصل اتوماتيكى قبل الغليان ومزودة بمستشعر مضاد للتدفق، صانع القهوة التركية الاتوماتيك سعة 4 اكواب Electric Turkish Coffee Maker Automatic anti boiling and anti Flow Sensor",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 690,
+    "img": "https://m.media-amazon.com/images/I/41Cha1KhW+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HM51XKSJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FQ5XYKMC",
+    "brand": "Prime Tech",
+    "name": "Prime Tech Electric Turkish Coffee Pot - 350W, 0.5L Capacity (5 Cups), Fast Heating with Dual Protection ",
+    "specs": {},
+    "model": "BLACK",
+    "title": "Prime Tech Electric Turkish Coffee Pot - 350W, 0.5L Capacity (5 Cups), Fast Heating with Dual Protection System, Practical Design for Kitchen, Office, Trip (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 170,
+    "img": "https://m.media-amazon.com/images/I/41OFMYdO9+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FQ5XYKMC?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
