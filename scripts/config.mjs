@@ -25,10 +25,10 @@ const n = (key, label, pattern, min, max, suffix = '') => ({
 const e = (key, label, options) => ({ key, label, options, type: 'enum' });
 
 // عبارات تدل على إكسسوارات/قطع غيار/كتب بدل الجهاز نفسه.
-// متعمّدة إنها عبارات مركّبة عشان كلمات زي "filter" أو "bag" أو "stand" بتيجي
-// كمان في عنوان الجهاز نفسه (stand mixer / bagless vacuum / air filter).
+// متعمّدة إنها عبارات مركّبة عشان كلمات زي "filter" أو "bag" أو "stand" أو "cleaner"
+// بتيجي كمان في عنوان الجهاز نفسه (stand mixer / bagless vacuum / vacuum cleaner).
 export const ACCESSORY_RE =
-  /\b(replacement|spare)\s+(part|parts|filter|filters|bag|bags|blade|blades|head|heads|kit|kits|brush|brushes|tray|trays|rack|racks|pot|pots|nozzle|nozzles)\b|\baccessor(y|ies)\b|\bcompatible\s+with\b|\bcookbook\b|\brecipe\s+book\b|\bcleaning\s+kit\b|\bprotective\s+(cover|case)\b|\bsilicone\s+(liner|liners|mat|mats|pot|pots|mold|mould|tray|trays)\b|\bparchment\s+paper\b|\bmagnet\b|\borganizer\b|\bsticker\b|\bdecal\b|\bcleaner\b|\bمنظف\b|\bspare\b|\breplacement\b|\bglass\s*plate\b|\bturntable\b|\bknob\b|\bstorage\s+(?:box|container|bin)\b|\bcontainer\b|\b(?:washing\s*machine|fridge|freezer|oven|dishwasher|air\s*conditioner)\s+cover\b|\brefill\s+kit\b|\bwater\s+filter\s+refill\b|\bblade\s*only\b|\bcover\s+only\b|\bcase\s+only\b/i;
+  /\b(replacement|spare)\s+(part|parts|filter|filters|bag|bags|blade|blades|head|heads|kit|kits|brush|brushes|tray|trays|rack|racks|pot|pots|nozzle|nozzles)\b|\baccessor(y|ies)\b|\bcompatible\s+with\b|\bcookbook\b|\brecipe\s+book\b|\bcleaning\s+(?:kit|tablet|pods?|liquid|spray)\b|\bprotective\s+(?:cover|case)\b|\bsilicone\s+(?:liner|liners|mat|mats|pot|pots|mold|mould|tray|trays)\b|\bparchment\s+paper\b|\bmagnet\b|\borganizer\b|\bsticker\b|\bdecal\b|\bمنظف\b|\breplacement\b|\bspare\b|\b(?:glass\s*plate|turntable)\s+(?:for\s+)?(?:microwave|oven)\b|\bstorage\s+(?:box|container|bin)\b|\b(?:washing\s*machine|fridge|freezer|oven|dishwasher|air\s*conditioner)\s+cover\b|\brefill\s+kit\b|\bwater\s+filter\s+refill\b|\b(?:blade|cover|case|head|nozzle|filter|bag|hose)\s+only\b/i;
 
 export const GENERIC_RE =
   /^(air|fryer|microwave|fridge|freezer|shaver|machine|electric|digital|portable|multi|multifunction|smart|home|new|white|black|generic|unbranded|8|\d+|قلاية|قلايه|ميكروويف|مايكروويف|ثلاجة|ثلاجه|فريزر|غسالة|غساله|مكنسة|مكنسه|مكواة|مكواه|غلاية|غلايه|محمصة|محمصه|خلاط|مضرب|فرن|بوتاجاز|سخان|تكييف|مروحة|مروحه|عصارة|عصاره|قدر|ماكينة|ماكينه|جهاز|طقم|عدة|أدوات|ادوات)$/i;
@@ -430,3 +430,145 @@ export const GROUPS = [
     ids: ['shavers', 'hair-dryers'],
   },
 ];
+
+// قواعد تنقيح خاصة بكل قسم: لازم العنوان يذكر الجهاز نفسه، ومش كافي يذكر كلمة
+// عامة زي "juice" أو "diffuser" أو "portafilter" اللي بتيجي في الإكسسوارات.
+export const CATEGORY_FILTERS = {
+  airfryers: {
+    device: /air\s?fryer|airfryer|friteuse|قلاية/i,
+    accessory: /\bair\s*fryer\s+(?:basket|tray|rack|liner|paper)\b|\bbasket\s+for\s+air\s*fryer\b|\bcrisping\s+plate\b/i,
+  },
+  microwaves: {
+    device: /micro\s?wave|مايكروويف|ميكروويف/i,
+    accessory: /\bmicrowave\s+(?:cover|liner|tray|rack)\b|\b(?:cover|liner|tray|rack)\s+for\s+microwave\b|\bmicrowave\s+oven\s+cleaner\b/i,
+  },
+  fridges: {
+    device: /fridge|refrigerator|ثلاج/i,
+    accessory: /(?:^|[\s,(-])(?:fridge|refrigerator)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfridge\s+(?:liner|mat|organizer|bin|shelf|door\s+seal)\b|\b(?:liner|organizer|bin|shelf)\s+for\s+(?:fridge|refrigerator)\b|ممتص\s+رطوبة|معطر\s+ثلاجة/i,
+  },
+  freezers: {
+    device: /freezer|فريزر/i,
+    accessory: /(?:^|[\s,(-])(?:freezer)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfreezer\s+(?:bag|container|cover|liner|mat)\b|\b(?:bag|container|cover|liner)\s+for\s+freezer\b|ممتص\s+رطوبة|\bfreezer\s+mates\b/i,
+  },
+  shavers: {
+    device: /shaver|razor|trimmer|epilat|grooming|bikini|حلاق|ماكينة\s*حلاقة|تشذيب|إزالة\s*شعر/i,
+    accessory: /\bblades?\s+(?:refill|replacement)\b|\brefill\s+(?:blades?|cartridges?|heads?)\b|\breplacement\s+(?:blades?|heads?|cartridges?)\b|\b(?:disposable|manual|straight\s*edge)\s+razor\b|\bshaving\s+(?:brush|bowl|cup|bib|cape)\b|\bbeard\s+bib\b|شفرات\s*(?:بديلة|غيار)|فرشاة\s*حلاقة|كريم\s*حلاقة/i,
+  },
+  'washing-machines': {
+    device: /washing\s*machine|غسالة\s*(?:ملابس|أوتوماتيك|اتوماتيك|فوق|تحميل)|غسال/i,
+    accessory: /\b(?:washing\s*machine|washer)\s+(?:intake\s+|drain\s+|pull\s+)?hose\b|\b(?:intake|drain|pull)\s+hose\b.*\b(?:washing\s*machine|washer)\b|\b(?:filter\s+bag|lint\s+bag|door\s+seal)\b.*\b(?:washing\s*machine|washer)\b|\b(?:washing\s*machine|washer)\s+(?:leather\s+)?cover\b|\bcover\s+for\s+(?:washing\s*machine|washer)\b|خرطوم\s*غسالة|كيس\s*فلتر\s*غسالة/i,
+  },
+  dishwashers: {
+    device: /dish\s?washer|غسالة\s*(?:أطباق|اطباق)/i,
+    accessory: /\bdishwasher\s+(?:hose|filter|rack|basket|salt|tablet|pod|cleaner|cover)\b|\b(?:hose|filter|rack|basket)\s+for\s+dishwasher\b|خرطوم\s*غسالة\s*أطباق/i,
+  },
+  ovens: {
+    device: /\boven\b|فرن|توستر/i,
+    accessory: /^(?:[A-Z][\w-]*\s+){0,2}(?:baking\s+)?(?:oven\s+)?(?:tray|rack|liner|mat|basket)\b|\boven\s+(?:tray|rack|liner|mat|basket)\b|\boven\s+baking\s+(?:tray|sheet|mat)\b|\bair\s*fryer\s+(?:basket|tray|rack|liner)\b|\bparchment\b|غطاء\s*فرن/i,
+  },
+  'coffee-machines': {
+    device: /coffee|espresso|قهوة|كافيه/i,
+    accessory: /^(?:[A-Z][\w-]*\s+){0,2}(?:tamper|portafilter)\b|\bportafilter\b.*\b(?:replacement|spare|\b\d{2}\s*mm\b)|\b(?:tamping\s+station|distribution\s+tool|distributor\s+leveler|leveling\s+tool|knock\s+box|dosing\s+cup|filter\s*paper)\b|^(?:[^,]{0,40}\b)?(?:coffee\s+)?(?:capsules?|pods?|beans?)\b.*\b(?:pack|box|set\s+of|refill)\b|محطة\s*(?:ضغط|تنظيم|مكبس)|صندوق\s*طرق|موزع\s*وفلتر\s*القهوة|فلتر\s*قهوة\s*بديل/i,
+  },
+  blenders: {
+    device: /blender|خلاط/i,
+    accessory: /^(?:[A-Z][\w-]*\s+){0,2}blender\s+(?:jar|cup|jug|blade|lid)\b|\b(?:jar|jug|blade|lid)\s+for\s+blender\b|كوب\s*(?:بديل|غيار)\s*خلاط|خلاط\s+كوب\s*بديل/i,
+  },
+  'food-processors': {
+    device: /food\s*processor|محضر/i,
+    accessory: /^(?:[^,]{0,40}\b)?food\s*processor\s+(?:bowl|blade|lid|container|jar)\b|\b(?:bowl|blade|lid|container|jar)\s+for\s+food\s*processor\b|وعاء\s*بديل|قطع\s*غيار/i,
+  },
+  'vacuum-cleaners': {
+    device: /vacuum|hoover|مكنس/i,
+    accessory: /^(?:[^,]{0,40}\b)?(?:vacuum\s+(?:bag|filter|hose|nozzle|brush|roller|belt)|dust\s*bag|filter\s*bag)\b|\b(?:bag|filter|hose|nozzle|brush|roller|belt)\s+for\s+(?:vacuum|hoover)\b|أكياس\s*(?:غيار|مكنسة)|فلتر\s*(?:بديل|غيار)\s*مكنسة/i,
+  },
+  irons: {
+    device: /\b(?:steam|dry|electric)\s+iron\b|\biron\s*(?:box|steam)\b|مكواة/i,
+    accessory: /\biron\s+(?:cover|shield|protector|soleplate|sole\s+plate|case|board)\b|\b(?:cover|shield|soleplate|case)\s+for\s+iron\b|غطاء\s*مكواة|طاولة\s*مكواة/i,
+  },
+  'hair-dryers': {
+    device: /hair\s*dryer|blow\s*dryer|مجفف\s*شعر|سيشوار/i,
+    accessory: /^(?:(?:universal|silicone)\s+)*(?:hair\s+)?diffuser\b|^hair\s+dryer\s+diffuser\b|\bdiffuser\s+(?:only|replacement)\b/i,
+  },
+  kettles: {
+    device: /kettle|غلاي/i,
+    accessory: /\bkettle\s+(?:filter|lid|jug|base|element)\b|\b(?:filter|lid|jug|base|element)\s+for\s+kettle\b/i,
+  },
+  toasters: {
+    device: /toaster|محمص/i,
+    accessory: /\btoaster\s+(?:bag|cover|rack|tray)\b|\b(?:bag|cover|rack|tray)\s+for\s+toaster\b|غطاء\s*محمصة/i,
+  },
+  mixers: {
+    device: /mixer|مضرب/i,
+    accessory: /\b(?:whisk|beater|dough\s+hook|bowl|attachment)\s+for\s+(?:mixer|stand\s+mixer)\b|\bmixer\s+(?:whisk|beater|attachment)\s+(?:only|replacement|spare)\b|قطعة\s*بديلة/i,
+  },
+  cookers: {
+    device: /cooker|cooking\s*range|\bstove\b|بوتاجاز/i,
+    accessory: /\b(?:gas|stove|cooker)\s+hose\b|\bhose\s+for\s+(?:gas|cooker|stove)\b|\bgas\s+(?:regulator|refill\s+canister|cartridge)\b|\bheat\s+diffuser\b|موزع\s+غاز|خرطوم\s+غاز|اسطوانة\s+غاز\s*(?:صغيرة|محمول|تعبئة)|غطاء\s*بوتاجاز/i,
+  },
+  'water-heaters': {
+    device: /water\s*heater|geyser|\bboiler\b|سخان/i,
+    accessory: /\b(?:water\s+heater|geyser|boiler)\s+(?:hose|pipe|adapter|connector|power\s+cord|element|anode|thermostat)\b|\b(?:hose|adapter|connector|power\s+cord|element|anode|thermostat)\s+for\s+(?:water\s+heater|geyser|boiler)\b|خرطوم\s*سخان|محول\s*سخان|أنبوب\s*سخان/i,
+  },
+  'air-conditioners': {
+    device: /air\s*conditioner|\bac\b|split\s*ac|تكييف|مكيف/i,
+    accessory: /^(?:[^,]{0,45}\b)?(?:air\s*conditioner\s+)?(?:diffuser|deflector|diverter|air\s+blocker)\b|\b(?:diffuser|deflector|diverter)\s+for\s+(?:air\s*conditioner|ac)\b|\bair\s+conditioner\s+(?:diffuser|deflector|diverter|vent\s+cover)\b|موزع\s+تكييف|غطاء\s+تكييف/i,
+  },
+  fans: {
+    device: /\bfan\b|مروح/i,
+    accessory: /\bfan\s+(?:cover|grill|blade|motor|regulator|capacitor)\b|\b(?:cover|grill|blade|motor)\s+for\s+fan\b|غطاء\s*مروحة|ريش\s*مروحة\s*بديل/i,
+  },
+  'rice-cookers': {
+    device: /rice\s*cooker|طباخ\s*أرز/i,
+    accessory: /\brace\s*cooker\s+(?:inner\s+pot|heat\s+diffuser|plate|tray|steam\s+tray)\b|\binner\s+pot\b.*\brace\s*cooker\b|\bheat\s+diffuser\b.*\brace\b|قطعة\s*بديل|قدر\s*بديل/i,
+  },
+  'pressure-cookers': {
+    device: /pressure\s*cooker|قدر\s*ضغط/i,
+    accessory: /\bpressure\s+cooker\s+(?:gasket|seal|valve|lid|inner\s+pot)\b|\b(?:gasket|seal|valve|lid)\s+for\s+pressure\s+cooker\b|ختم\s*قدر\s*ضغط|قطعة\s*بديل/i,
+  },
+  juicers: {
+    device: /\b(?:juicer|juice\s*extractor|citrus\s+press|centrifugal)\b|عصارة|مكبس\s+عصير|عصار/i,
+    accessory: /^(?:[^,]{0,40}\b)?(?:juicer|juice\s+extractor)\s+(?:filter|screen|blade|jug|lid|strainer|pulp\s+container)\b|\bjuice\b.*\b(?:ml|ltr|litre|bottle|carton|pack|set\s+of|\d+\s*pcs)\b|\b(?:bottle|carton|pack)\b.*\bjuice\b|عصير.*\b(?:مل|عبوة|علبة|كرتون)/i,
+  },
+};
+
+// صورة عامة واحدة لكل قسم: صورة منتج معزولة على خلفية بيضاء، مش صورة أول نتيجة
+// في البيانات (اللي ممكن تكون إكسسوار أو صورة بحياة واقعية).
+export const CATEGORY_COVERS = {
+  airfryers: 'https://m.media-amazon.com/images/I/41Ry94z9PBL._SL500_.jpg',
+  microwaves: 'https://m.media-amazon.com/images/I/31rWru0HBkL._SL500_.jpg',
+  fridges: 'https://m.media-amazon.com/images/I/31ciWYFAtCL._SL500_.jpg',
+  freezers: 'https://m.media-amazon.com/images/I/31BnXBhWViL._SL500_.jpg',
+  shavers: 'https://m.media-amazon.com/images/I/31BX4sR7h2L._SL500_.jpg',
+  'washing-machines': 'https://m.media-amazon.com/images/I/21BN7rWi1tL._SL500_.jpg',
+  dishwashers: 'https://m.media-amazon.com/images/I/21yhx6gk4fL._SL500_.jpg',
+  ovens: 'https://m.media-amazon.com/images/I/21y7DRsDN8L._SL500_.jpg',
+  'coffee-machines': 'https://m.media-amazon.com/images/I/414UxiQN2dL._SL500_.jpg',
+  blenders: 'https://m.media-amazon.com/images/I/21Wgb4W7wOL._SL500_.jpg',
+  'food-processors': 'https://m.media-amazon.com/images/I/41i-Mmj2R3L._SL500_.jpg',
+  'vacuum-cleaners': 'https://m.media-amazon.com/images/I/21fjakwi77L._SL500_.jpg',
+  irons: 'https://m.media-amazon.com/images/I/31nbDD3RKYL._SL500_.jpg',
+  'hair-dryers': 'https://m.media-amazon.com/images/I/31Me2MhS07L._SL500_.jpg',
+  kettles: 'https://m.media-amazon.com/images/I/41mGm5XKwmL._SL500_.jpg',
+  toasters: 'https://m.media-amazon.com/images/I/31J+yBtT1jL._SL500_.jpg',
+  mixers: 'https://m.media-amazon.com/images/I/31VEBCvFZVL._SL500_.jpg',
+  cookers: 'https://m.media-amazon.com/images/I/21s3HdsejgL._SL500_.jpg',
+  'water-heaters': 'https://m.media-amazon.com/images/I/31nSBYcKeNL._SL500_.jpg',
+  'air-conditioners': 'https://m.media-amazon.com/images/I/21ROlNwl27L._SL500_.jpg',
+  fans: 'https://m.media-amazon.com/images/I/31NciJPivAL._SL500_.jpg',
+  'rice-cookers': 'https://m.media-amazon.com/images/I/21MILFWJMPS._SL500_.jpg',
+  'pressure-cookers': 'https://m.media-amazon.com/images/I/41C91aecPOL._SL500_.jpg',
+  juicers: 'https://m.media-amazon.com/images/I/31Acqychf+L._SL500_.jpg',
+};
+
+// الفلتر الموحّد: أي عنوان ما بيذكرش الجهاز، أو بيذكر إكسسوار/قطعة غيار، اتشال.
+export function isAccessoryTitle(category, title) {
+  const text = String(title || '').replace(/\s+/g, ' ').trim();
+  if (!text) return true;
+  const rules = CATEGORY_FILTERS[category?.id] || {};
+  if (ACCESSORY_RE.test(text)) return true;
+  if (category?.exclude?.test(text)) return true;
+  if (rules.accessory?.test(text)) return true;
+  if (rules.device && !rules.device.test(text)) return true;
+  return false;
+}

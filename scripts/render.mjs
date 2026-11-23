@@ -7,10 +7,12 @@ import {
   CATEGORY_BY_ID,
   EXCLUDED_BRANDS,
   GROUPS,
+  CATEGORY_COVERS,
   MARKETPLACE,
   MAX_PRICE,
   MIN_PRICE,
   PARTNER_TAG,
+  isAccessoryTitle,
 } from './config.mjs';
 import { productKey } from './naming.mjs';
 
@@ -49,6 +51,7 @@ export function visibleOffers(offers, category) {
   const max = category.maxPrice ?? MAX_PRICE;
   const list = (offers || [])
     .filter((o) => o && o.active !== false)
+    .filter((o) => !isAccessoryTitle(category, o.title || o.name))
     .filter((o) => !EXCLUDED_BRANDS.includes(String(o.brand || '').trim()))
     .filter((o) => Number.isFinite(Number(o.price)))
     .map((o) => ({ ...o, price: Number(o.price) }))
@@ -594,8 +597,10 @@ export async function writePublic(allData, meta = {}) {
     const offers = allData[category.id] || [];
     const rows = visibleOffers(offers, category);
     stats[category.id] = rows.length;
-    // صورة القسم = صورة أول جهاز حقيقي جوه القسم
-    covers[category.id] = rows.find((o) => typeof o.img === 'string' && /^https:\/\//.test(o.img))?.img || '';
+    // صورة القسم = صورة عامة معزولة اتختارت مسبقًا، والصورة القديمة بتاع أول منتج كحل احتياطي
+    covers[category.id] = CATEGORY_COVERS[category.id]
+      || rows.find((o) => typeof o.img === 'string' && /^https:\/\//.test(o.img))?.img
+      || '';
 
     const dir = join(OUT_DIR, 'c', category.id);
     await rm(join(dir, 'p'), { recursive: true, force: true });

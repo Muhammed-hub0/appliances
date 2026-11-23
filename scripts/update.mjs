@@ -3,7 +3,6 @@ import { join } from 'node:path';
 
 import { getItems, hasCredentials, normalizeItem, searchItems } from './amazon.mjs';
 import {
-  ACCESSORY_RE,
   AUTO_ADD_BRANDS,
   CATEGORIES,
   HISTORY_LIMIT,
@@ -14,6 +13,7 @@ import {
   SEARCH_ITEM_COUNT,
   SEARCH_MAX_PRICE,
   SEARCH_PAGES,
+  isAccessoryTitle,
 } from './config.mjs';
 import { describeProduct, isExcludedBrand, productKey } from './naming.mjs';
 import { DATA_DIR, writePublic } from './render.mjs';
@@ -167,7 +167,7 @@ async function findNewItems(category, offers, globalKnown, seen) {
         if (!api.asin || known.has(api.asin)) { stats.dup++; continue; }
         if (!api.title) { stats.noTitle++; continue; }
         if (!category.include.test(api.title)) { stats.include++; continue; }
-        if (ACCESSORY_RE.test(api.title) || category.exclude?.test(api.title)) { stats.accessory++; continue; }
+        if (isAccessoryTitle(category, api.title)) { stats.accessory++; continue; }
         if (!api.image) { stats.noImage++; continue; }
         if (!Number.isFinite(api.price) || api.price < minPrice || api.price > maxPrice) { stats.price++; continue; }
         if (api.condition && !/^(new|unknown)$/i.test(api.condition)) { stats.condition++; continue; }
@@ -221,7 +221,7 @@ function hydrateManual(category, asins, apiItems, known) {
     const api = normalizeItem(raw);
     if (!api.asin || !api.title) { stats.noTitle++; continue; }
     if (!category.include.test(api.title)) { stats.include++; continue; }
-    if (ACCESSORY_RE.test(api.title) || category.exclude?.test(api.title)) { stats.accessory++; continue; }
+    if (isAccessoryTitle(category, api.title)) { stats.accessory++; continue; }
     if (!api.image) { stats.noImage++; continue; }
     if (!Number.isFinite(api.price) || api.price < minPrice || api.price > maxPrice) { stats.price++; continue; }
     if (api.condition && !/^(new|unknown)$/i.test(api.condition)) { stats.condition++; continue; }
@@ -277,7 +277,7 @@ function legacyOffer(row, category) {
   if (!/^[A-Z0-9]{10}$/i.test(asin) || !title || !/^https:\/\//.test(row?.img || '')) return null;
   if (!Number.isFinite(price)) return null;
   if (!category.include.test(title)) return null;
-  if (ACCESSORY_RE.test(title) || category.exclude?.test(title)) return null;
+  if (isAccessoryTitle(category, title)) return null;
 
   const info = describeProduct({ title, byLine: '' }, category);
   return {
@@ -384,9 +384,9 @@ async function main() {
         totalChanges++;
       }
       const badBrand = oldBadBrands.has(String(offer.brand || '').trim());
-      const isAccessory = Boolean(offer.title) && ACCESSORY_RE.test(offer.title);
+      const isAccessory = isAccessoryTitle(cat, offer.title || offer.name);
       if (offer.active !== false && (badBrand || isAccessory)) {
-        console.log(`  اتشال (مش جهاز): ${offer.name || offer.asin}`);
+        console.log(`  اتشال (مش جهاز أو إكسسوار): ${offer.name || offer.asin}`);
         offer.active = false;
         offer.reason = 'filtered';
         totalChanges++;
@@ -419,6 +419,13 @@ async function main() {
         const item = items.get(offer.asin);
         if (!item) continue;
         if (applyApiItem(offer, normalizeItem(item), hist, cat)) totalChanges++;
+        // العنوان الجديد من الـ API ممكن يطلع إكسسوار، فبنعيد الفحص هنا كمان
+        if (offer.active !== false && isAccessoryTitle(cat, offer.title || offer.name)) {
+          console.log(`  اتشال (بعد تحديث الـ API): ${offer.name || offer.asin}`);
+          offer.active = false;
+          offer.reason = 'filtered';
+          totalChanges++;
+        }
       }
 
       // المنتجات اللي الـ API مرجّعش بياناتها
