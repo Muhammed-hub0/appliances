@@ -13,6 +13,8 @@ import {
   MIN_PRICE,
   PARTNER_TAG,
   isAccessoryTitle,
+  typesOf,
+  typeOf,
 } from './config.mjs';
 import { productKey } from './naming.mjs';
 
@@ -443,11 +445,11 @@ function renderSpecCells(offer, category) {
   return '';
 }
 
-function renderRows(rows, category) {
+function renderRows(rows, category, detailPrefix = 'p/') {
   return rows
     .map((offer, index) => {
       const url = esc(offer.url || `https://${MARKETPLACE}/dp/${offer.asin}?tag=${PARTNER_TAG}`);
-      const detail = `p/${encodeURIComponent(offer.asin)}.html`;
+      const detail = `${detailPrefix}${encodeURIComponent(offer.asin)}.html`;
       const image = `<a href='${detail}'><img src='${esc(offer.img)}' loading='lazy' alt='${esc(offer.name)}' style='width:76px;height:76px;object-fit:contain'></a>`;
       return `<tr data-brand='${esc(offer.brand || '')}' data-price='${offer.price}'>
 <td class='n'>${index + 1}</td>
@@ -462,27 +464,36 @@ ${renderSpecCells(offer, category)}
     .join('\n');
 }
 
-export function renderCategory(category, offers, meta, group = null) {
+// جدول المقارنة (بيستخدم لصفحة "كل المنتجات" ولصفحة كل نوع)
+export function renderListPage(category, offers, meta, group = null, opts = {}) {
+  const {
+    assetBase = '../../',
+    detailPrefix = 'p/',
+    categoryHref = 'index.html',
+    tail = 'كل المنتجات',
+    heading = `${category.emoji} ${esc(category.title)} على أمازون مصر`,
+    pageTitle = `${category.title} في مصر`,
+  } = opts;
   const rows = visibleOffers(offers, category);
 
   return `<!doctype html>
 <html lang="ar" dir="rtl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${esc(category.title)} في مصر | مشترياتك صح</title>
+<title>${esc(pageTitle)} | مشترياتك صح</title>
 <meta name="description" content="قارن أسعار ${esc(category.title)} على أمازون مصر مع تحديث تلقائي للمواصفات والأسعار.">
 <meta name="theme-color" content="#0f253d">
 <meta property="og:type" content="website">
 <meta property="og:title" content="${esc(category.title)} في مصر | مشترياتك صح">
-<meta property="og:image" content="../../assets/og-image.jpg">
-<link rel="icon" href="../../assets/logo.jpg">
+<meta property="og:image" content="${assetBase}assets/og-image.jpg">
+<link rel="icon" href="${assetBase}assets/logo.jpg">
 ${tracker()}
 <style>${BASE_CSS}${TABLE_CSS}</style></head><body>
-${siteHeader('../../')}
+${siteHeader(assetBase)}
 <main class="wrap">
-<div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${group ? `<a href="../../groups/${group.id}/index.html">${esc(group.title)}</a> ← ` : ''}${esc(category.title)}</div>
-<h1>${category.emoji} ${esc(category.title)} على أمازون مصر</h1>
+<div class="breadcrumb"><a href="${assetBase}index.html">كل الأجهزة</a> ← ${group ? `<a href="${assetBase}groups/${group.id}/index.html">${esc(group.title)}</a> ← ` : ''}<a href="${categoryHref}">${esc(category.title)}</a> ← ${esc(tail)}</div>
+<h1>${heading}</h1>
 <p class="lead">${rows.length} منتج متوفر حاليًا — الأسعار بتتحدث تلقائيًا كل 6 ساعات.</p>
-<img class="banner" src="../../assets/banner.jpg" alt="مشترياتك صح" style="width:100%;border-radius:16px;border:1px solid var(--line)">
+<img class="banner" src="${assetBase}assets/banner.jpg" alt="مشترياتك صح" style="width:100%;border-radius:16px;border:1px solid var(--line)">
 <div class="bar surface-card">
   <div class="fld"><label for="fBrand">البراند</label><select id="fBrand"><option value="">الكل</option></select></div>
   <div class="fld"><label for="fMin">السعر من</label><input id="fMin" type="number" inputmode="numeric" placeholder="0" min="0"></div>
@@ -493,7 +504,7 @@ ${siteHeader('../../')}
 <div class="tablewrap"><table id="tbl" class="surface-card">
 <thead><tr><th></th><th>الصورة</th><th>الاسم</th><th>البراند</th>${renderSpecHead(category)}<th>السعر</th><th>الرابط</th></tr></thead>
 <tbody>
-${renderRows(rows, category)}
+${renderRows(rows, category, detailPrefix)}
 </tbody></table></div>
 ${footer(rows.length, meta)}
 </main>
@@ -501,6 +512,56 @@ ${footer(rows.length, meta)}
 ${filterScript(category)}
 ${themeScript()}
 </script>
+</body></html>`;
+}
+
+function renderTypeCard(type, count, href) {
+  return `<a class="cat${count === 0 ? ' empty' : ''}" href="${href}">
+    <span class="emoji">${type.emoji}</span>
+    <b>${esc(type.title)}</b>
+    <span class="meta">${count} منتج متوفر</span>
+    <span class="go">اعرض المنتجات ←</span>
+  </a>`;
+}
+
+// صفحة القسم بقت بتفتح كروت الأنواع (زي الصفحة الرئيسية)، وكل نوع بيفتح جدوله
+export function renderCategoryHub(category, offers, meta, group = null) {
+  const rows = visibleOffers(offers, category);
+  const counts = {};
+  for (const o of rows) {
+    const t = typeOf(category, o);
+    counts[t] = (counts[t] || 0) + 1;
+  }
+  const cards = [
+    renderTypeCard({ emoji: category.emoji, title: `كل ${category.title}` }, rows.length, 'all.html'),
+    ...typesOf(category.id)
+      .filter((t) => (counts[t.id] || 0) > 0)
+      .map((t) => renderTypeCard(t, counts[t.id], `t/${t.id}.html`)),
+  ].join('\n');
+
+  return `<!doctype html>
+<html lang="ar" dir="rtl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${esc(category.title)} في مصر | مشترياتك صح</title>
+<meta name="description" content="اختر نوع ${esc(category.title)} وقارن الأسعار على أمازون مصر.">
+<meta name="theme-color" content="#0f253d">
+<meta property="og:type" content="website">
+<meta property="og:title" content="${esc(category.title)} في مصر | مشترياتك صح">
+<meta property="og:image" content="../../assets/og-image.jpg">
+<link rel="icon" href="../../assets/logo.jpg">
+${tracker()}
+<style>${BASE_CSS}${HUB_CSS}</style></head><body>
+${siteHeader('../../')}
+<main class="wrap">
+<div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${group ? `<a href="../../groups/${group.id}/index.html">${esc(group.title)}</a> ← ` : ''}${esc(category.title)}</div>
+<h1>${category.emoji} ${esc(category.title)}</h1>
+<p class="lead">${rows.length} منتج متوفر — اختر النوع عشان تشوف مقارنة الأسعار الكاملة.</p>
+<div class="grid">
+${cards}
+</div>
+${footer(rows.length, meta)}
+</main>
+<script>${themeScript()}</script>
 </body></html>`;
 }
 
@@ -568,11 +629,17 @@ export function renderCsv(offers, category) {
   return '\uFEFF' + lines.map((line) => line.map(csvCell).join(',')).join('\r\n');
 }
 
-function renderSitemap(stats) {
+function renderSitemap(stats, typeCounts = {}) {
   const urls = [
     `${SITE_URL}/`,
     ...GROUPS.map((g) => `${SITE_URL}/groups/${g.id}/index.html`),
-    ...CATEGORIES.filter((c) => stats[c.id] > 0).map((c) => `${SITE_URL}/c/${c.id}/index.html`),
+    ...CATEGORIES.filter((c) => stats[c.id] > 0).flatMap((c) => [
+      `${SITE_URL}/c/${c.id}/index.html`,
+      `${SITE_URL}/c/${c.id}/all.html`,
+      ...Object.entries(typeCounts[c.id] || {})
+        .filter(([, n]) => n > 0)
+        .map(([tid]) => `${SITE_URL}/c/${c.id}/t/${tid}.html`),
+    ]),
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -583,6 +650,7 @@ ${urls.map((u) => `  <url><loc>${esc(u)}</loc></url>`).join('\n')}
 export async function writePublic(allData, meta = {}) {
   const stats = {};
   const covers = {};
+  const typeCounts = {};
   await mkdir(OUT_DIR, { recursive: true });
   await mkdir(join(OUT_DIR, 'assets'), { recursive: true });
   await writeFile(join(OUT_DIR, '.nojekyll'), '', 'utf8');
@@ -597,11 +665,41 @@ export async function writePublic(allData, meta = {}) {
       || rows.find((o) => typeof o.img === 'string' && /^https:\/\//.test(o.img))?.img
       || '';
 
+    const group = groupOf(category.id);
     const dir = join(OUT_DIR, 'c', category.id);
     await rm(join(dir, 'p'), { recursive: true, force: true });
+    await rm(join(dir, 't'), { recursive: true, force: true });
     await mkdir(join(dir, 'p'), { recursive: true });
+    await mkdir(join(dir, 't'), { recursive: true });
 
-    await writeFile(join(dir, 'index.html'), renderCategory(category, offers, meta, groupOf(category.id)), 'utf8');
+    // صفحة القسم = كروت الأنواع (زي الرئيسية)، وكل نوع له جدول مستقل
+    const counts = {};
+    const byType = {};
+    for (const o of rows) {
+      const t = typeOf(category, o);
+      counts[t] = (counts[t] || 0) + 1;
+      (byType[t] ||= []).push(o);
+    }
+    typeCounts[category.id] = counts;
+
+    await writeFile(join(dir, 'index.html'), renderCategoryHub(category, offers, meta, group), 'utf8');
+    await writeFile(join(dir, 'all.html'), renderListPage(category, offers, meta, group, {
+      tail: 'كل المنتجات',
+      heading: `${category.emoji} كل ${esc(category.title)} على أمازون مصر`,
+      pageTitle: `كل ${category.title}`,
+    }), 'utf8');
+    await Promise.all(
+      typesOf(category.id)
+        .filter((t) => counts[t.id] > 0)
+        .map((t) => writeFile(join(dir, 't', `${t.id}.html`), renderListPage(category, byType[t.id], meta, group, {
+          assetBase: '../../../',
+          detailPrefix: '../p/',
+          categoryHref: '../index.html',
+          tail: t.title,
+          heading: `${t.emoji} ${esc(t.title)}`,
+          pageTitle: `${t.title} | ${category.title}`,
+        }), 'utf8')),
+    );
     await writeFile(join(dir, `all-${category.id}.csv`), renderCsv(offers, category), 'utf8');
     await Promise.all(
       rows.map((offer) =>
@@ -617,7 +715,7 @@ export async function writePublic(allData, meta = {}) {
   }
 
   await writeFile(join(OUT_DIR, 'index.html'), renderHub(stats, meta), 'utf8');
-  await writeFile(join(OUT_DIR, 'sitemap.xml'), renderSitemap(stats), 'utf8');
+  await writeFile(join(OUT_DIR, 'sitemap.xml'), renderSitemap(stats, typeCounts), 'utf8');
   return stats;
 }
 

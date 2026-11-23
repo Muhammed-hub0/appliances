@@ -448,15 +448,15 @@ export const CATEGORY_FILTERS = {
   },
   freezers: {
     device: /freezer|فريزر/i,
-    accessory: /(?:^|[\s,(-])(?:freezer)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfreezer\s+(?:bag|container|cover|liner|mat|thermometer|gauge|lock|locks|labels?|mold|mould|tray|ice\s+cube\s+tray)\b|\b(?:bag|container|cover|liner|thermometer|gauge)\s+for\s+freezer\b|\bice\s+(?:cube\s+)?(?:trays?|molds?|moulds?)\b|\bice\s+trays?\b|\bice\s+boxes?\b|\bfreezer\s+labels?\b|\bfood\s+storage\b|\bstorage\s+bowl\b|\b(?:fridge|refrigerator|freezer)\s+(?:door\s+)?locks?\b|\bchild\s+(?:proof|safety)\b.*\block\b|\blocks?\b.*\bchild\s+(?:proof|safety)\b|\bchild\s+safety\s+latch\b|\b(?:freezer|fridge|refrigerator)\b.*\b(?:thermometer|gauge|hygrometer)\b|\b(?:thermometer|gauge|hygrometer)\b.*\b(?:freezer|fridge|refrigerator)\b|ممتص\s+رطوبة|\bfreezer\s+mates\b|\baluminum\s+base\b|\bbase\s+for\b[^.]{0,30}\bfreezer\b|\bfreezer\b[^.]{0,30}\bbase\b|\bcake\s+trays?\b|\bdoor\s+shelf\b/i,
+    accessory: /(?:^|[\s,(-])(?:freezer)?\s*(?:deodorizer|odor\s+eliminator|moisture\s+absorber|drying\s+sticks?|diatom\s+drying)\b(?!\s*filter)|\bfreezer\s+(?:bag|container|cover|liner|mat|thermometer|gauge|lock|locks|labels?|mold|mould|tray|ice\s+cube\s+tray)\b|\b(?:bag|container|cover|liner|thermometer|gauge)\s+for\s+freezer\b|\bice\s+(?:cube\s+)?(?:trays?|molds?|moulds?)\b|\bice\s+trays?\b|\bice\s+boxes?\b|\bfreezer\s+labels?\b|\bfood\s+storage\b|\bstorage\s+bowl\b|\b(?:fridge|refrigerator|freezer)\s+(?:door\s+)?locks?\b|\bchild\s+(?:proof|safety)\b.*\block\b|\blocks?\b.*\bchild\s+(?:proof|safety)\b|\bchild\s+safety\s+latch\b|\b(?:freezer|fridge|refrigerator)\b.*\b(?:thermometer|gauge|hygrometer)\b|\b(?:thermometer|gauge|hygrometer)\b.*\b(?:freezer|fridge|refrigerator)\b|ممتص\s+رطوبة|\bfreezer\s+mates\b|\baluminum\s+base\b|\bbase\s+for\b[^.]{0,30}\bfreezer\b|\bfreezer\b[^.]{0,30}\bbase\b|\bcake\s+trays?\b|\bdoor\s+shelf\b|\bheater\b/i,
   },
   shavers: {
     device: /shaver|razor|trimmer|epilat|grooming|bikini|حلاق|ماكينة\s*حلاقة|تشذيب|إزالة\s*شعر/i,
-    accessory: /^blade\b|\bblades?\s+(?:refill|replacement)\b|\brefill\s+(?:blades?|cartridges?|heads?)\b|\breplacement\s+(?:blades?|heads?|cartridges?)\b|\b(?:disposable|manual|straight\s*edge)\s+razor\b|\bshaving\s+(?:brush|bowl|cup|bib|cape)\b|\bbeard\s+bib\b|\bshaver\s+head\s+for\b|\bhandle\s+only\b|شفرات\s*(?:بديلة|غيار)|فرشاة\s*حلاقة|كريم\s*حلاقة/i,
+    accessory: /^blade\b|\bblades?\s+(?:refill|replacement)\b|\brefill\s+(?:blades?|cartridges?|heads?)\b|\breplacement\s+(?:blades?|heads?|cartridges?)\b|\b(?:disposable|manual|straight\s*edge)\s+razors?\b|\bshaving\s+(?:brush|bowl|cup|bib|cape)\b|\bbeard\s+bib\b|\bshaver\s+head\s+for\b|\bhandle\s+only\b|\bcartridges?\b[^.]{0,20}razor\b|شفرات\s*(?:بديلة|غيار)|فرشاة\s*حلاقة|كريم\s*حلاقة/i,
   },
   'washing-machines': {
     device: /washing\s*machine|غسالة\s*(?:ملابس|أوتوماتيك|اتوماتيك|فوق|تحميل)|غسال/i,
-    accessory: /\b(?:washing\s*machines?|washers?)\s+(?:intake\s+|drain\s+|pull\s+|entry\s+|water\s+expeller\s+)?hoses?\b|\b(?:intake|drain|pull|entry|water\s+expeller)\s+hoses?\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:filter\s+bag|lint\s+bag|door\s+seal)\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:washing\s*machines?|washers?)\s+(?:filter\s+bag|lint\s+filter|shoe\s+bag|laundry\s+bag|stand|base|lifter|cover)\b|\b(?:shoe|laundry)\s+(?:washing\s+)?bags?\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:stand|base|lifter)\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:washing\s*machines?|washers?)\s+(?:leather\s+)?cover\b|\bcover\s+for\s+(?:washing\s*machines?|washers?)\b|خرطوم\s*غسالة|كيس\s*فلتر\s*غسالة/i,
+    accessory: /\b(?:washing\s*machines?|washers?)\s+(?:intake\s+|drain\s+|pull\s+|entry\s+|water\s+expeller\s+)?hoses?\b|\b(?:intake|drain|pull|entry|water\s+expeller)\s+hoses?\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:filter\s+bag|lint\s+bag|door\s+seal)\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:washing\s*machines?|washers?)\s+(?:filter\s+bag|lint\s+filter|shoe\s+bag|laundry\s+bag|stand|base|lifter|cover)\b|\b(?:shoe|laundry)\s+(?:washing\s+)?bags?\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:stand|base|lifter)\b.*\b(?:washing\s*machines?|washers?)\b|\b(?:washing\s*machines?|washers?)\s+(?:leather\s+)?cover\b|\bcover\s+for\s+(?:washing\s*machines?|washers?)\b|\bwashing\s+machine\b[^.]{0,30}\bcover\b|\bwashing\s+machine\b[^.]{0,20}\bfan\b|خرطوم\s*غسالة|كيس\s*فلتر\s*غسالة/i,
   },
   dishwashers: {
     device: /dish\s?washer|غسالة\s*(?:أطباق|اطباق)/i,
@@ -504,7 +504,7 @@ export const CATEGORY_FILTERS = {
   },
   cookers: {
     device: /cooker|cooking\s*range|\bstove\b|بوتاجاز/i,
-    accessory: /\b(?:gas|stove|cooker)\s+hose\b|\bhose\s+for\s+(?:gas|cooker|stove)\b|\bgas\s+(?:regulator|refill\s+canister|cartridge)\b|\bheat\s+diffuser\b|\b(?:stove|cooker)\s+protectors?\b|\b(?:stove|cooker)\s+(?:pipe\s+)?(?:adapter|connector|tube\s+adapter)\b|\b(?:adapter|connector)\b.*\b(?:stove|cooker)\b|\b(?:stove|cooker|gas\s+range|burner)\s+(?:covers?|protectors?|liners?)\b|\b(?:covers?|protectors?|liners?)\b.*\b(?:stove|cooker|burner)\b|\bcooker\s+eyes\s+cover\b|\bprotection\s+liners?\b.*\bstove\b|\bcooking\s+surface\s+protection\b|\bcooker\s+hood\s+bulb\b|\bextractor\s+hood\b|\bmoka\s+pot\b|موزع\s+غاز|خرطوم\s+غاز|اسطوانة\s+غاز\s*(?:صغيرة|محمول|تعبئة)|غطاء\s*بوتاجاز/i,
+    accessory: /\b(?:gas|stove|cooker)\s+hose\b|\bhose\s+for\s+(?:gas|cooker|stove)\b|\bgas\s+(?:regulator|refill\s+canister|cartridge)\b|\bheat\s+diffuser\b|\b(?:stove|cooker)\s+protectors?\b|\b(?:stove|cooker)\s+(?:pipe\s+)?(?:adapter|connector|tube\s+adapter)\b|\b(?:adapter|connector)\b.*\b(?:stove|cooker)\b|\b(?:stove|cooker|gas\s+range|burner)\s+(?:covers?|protectors?|liners?)\b|\b(?:covers?|protectors?|liners?)\b.*\b(?:stove|cooker|burner)\b|\bcooker\s+eyes\s+cover\b|\bprotection\s+liners?\b.*\bstove\b|\bcooking\s+surface\s+protection\b|\bcooker\s+hood\s+bulb\b|\bextractor\s+hood\b|\bmoka\s+pot\b|\b(?:cooker|extractor|kitchen)\s+hood\b|\bhood\b|موزع\s+غاز|خرطوم\s+غاز|اسطوانة\s+غاز\s*(?:صغيرة|محمول|تعبئة)|غطاء\s*بوتاجاز|فلتر|شفاط/i,
   },
   'water-heaters': {
     device: /water\s*heater|geyser|\bboiler\b|سخان/i,
@@ -561,12 +561,185 @@ export const CATEGORY_COVERS = {
   juicers: 'https://m.media-amazon.com/images/I/31Acqychf+L._SL500_.jpg',
 };
 
+// أنواع فرعية داخل كل قسم: صفحة القسم بتفتح كروت الأنواع زي الصفحة الرئيسية،
+// وكل نوع بيفتح جدول منتجاته. أول نمط مطابق يكسب، والباقي "أنواع أخرى".
+export const CATEGORY_TYPES = {
+  fridges: [
+    { id: 'mini', title: 'ثلاجات ميني / سيارة / محمول', emoji: '🧊', re: /mini\s*bar|minibar|\bmini\b|car\b|portable|travel|camping|صغير|سيارة|محمول|ميني|(?:^|[\s,(-])(?:\d{1,2}(?:\.\d+)?|100)\s*(?:l\b|ltr|liter|litre|لتر)/i },
+    { id: 'french-door', title: 'ثلاجات French Door', emoji: '🚪', re: /french\s*door|فرنش\s*دور/i },
+    { id: 'side-by-side', title: 'ثلاجات سايد باي سايد', emoji: '🚪', re: /side\s*by\s*side|سايد\s*باي/i },
+    { id: 'bottom-mount', title: 'ثلاجات فريزر تحت', emoji: '⬇️', re: /bottom\s*mount|bottom\s*freezer|فريزر\s*تحت/i },
+    { id: 'top-mount', title: 'ثلاجات بابين / فريزر فوق', emoji: '⬆️', re: /top\s*mount|top\s*freezer|double\s*door|two\s*door|2\s*door|بابين|فريزر\s*فوق/i },
+    { id: 'single-door', title: 'ثلاجات باب واحد', emoji: '🚪', re: /single\s*door|1\s*door|one\s*door|باب\s*واحد/i },
+  ],
+  freezers: [
+    { id: 'chest', title: 'فريزر صدري / أفقي', emoji: '📦', re: /chest|horizontal|deep\s*freezer|صدري|أفقي|عميق|ديب\s*فريزر/i },
+    { id: 'upright', title: 'فريزر رأسي / أدراج', emoji: '🗄️', re: /upright|vertical|drawer|رأسي|عمودي|أدراج/i },
+  ],
+  'washing-machines': [
+    { id: 'mini', title: 'غسالات صغيرة / محمولة', emoji: '🧺', re: /\bmini\b|portable|compact|foldable|folding|ultrasound|travel|صغير|محمول/i },
+    { id: 'front-load', title: 'غسالات تحميل أمامي', emoji: '🌀', re: /front\s*load|تحميل\s*أمامي|أمامية/i },
+    { id: 'top-load', title: 'غسالات تحميل علوي', emoji: '⬆️', re: /top\s*load|تحميل\s*علوي|علوية|فوق\s*أوتوماتيك/i },
+    { id: 'twin-tub', title: 'غسالات حوضين / نصف أوتوماتيك', emoji: '🛁', re: /twin\s*tub|semi\s*automatic|half\s*automatic|حوضين|نصف\s*أوتوماتيك/i },
+    { id: 'washer-dryer', title: 'غسالة ومجفف', emoji: '💨', re: /washer\s*dryer|washer\s*and\s*dryer|غسالة\s*ومجفف/i },
+  ],
+  dishwashers: [
+    { id: 'built-in', title: 'غسالات أطباق مدمجة', emoji: '🍽️', re: /built\s*in|مدمج/i },
+    { id: 'compact', title: 'غسالات أطباق صغيرة / سطح', emoji: '🍽️', re: /compact|countertop|mini|صغير|سطح/i },
+    { id: 'freestanding', title: 'غسالات أطباق قائمة', emoji: '🍽️', re: /freestanding|standalone|قائم|dish\s*washer|غسالة\s*(?:أطباق|اطباق)/i },
+  ],
+  microwaves: [
+    { id: 'grill', title: 'ميكروويف بشواية', emoji: '🍗', re: /grill|شواية|جريل/i },
+    { id: 'convection', title: 'ميكروويف حمل حراري', emoji: '♨️', re: /convection|حمل\s*حراري|كونفكشن/i },
+    { id: 'solo', title: 'ميكروويف عادي (سولو)', emoji: '📡', re: /solo|سولو|microwave|مايكروويف|ميكروويف/i },
+  ],
+  airfryers: [
+    { id: 'dual', title: 'قلايات هوائية منطقتين', emoji: '🍟', re: /dual|double\s*zone|2\s*basket|منطقتين|مزدوج/i },
+    { id: 'large', title: 'قلايات هوائية عائلية كبيرة', emoji: '🍟', re: /xxl|xxxl|[6-9](?:\.\d)?\s*(?:l\b|ltr|liter|litre|لتر)|large|عائلي/i },
+    { id: 'compact', title: 'قلايات هوائية صغيرة', emoji: '🍟', re: /compact|mini|small|[2-3](?:\.\d)?\s*(?:l\b|ltr|liter|litre|لتر)|صغير/i },
+    { id: 'standard', title: 'قلايات هوائية عادية', emoji: '🍟', re: /air\s*fryer|قلاية/i },
+  ],
+  ovens: [
+    { id: 'built-in', title: 'أفران مدمجة', emoji: '🔥', re: /built\s*in|مدمج/i },
+    { id: 'countertop', title: 'أفران سطح / محمصة', emoji: '🍞', re: /countertop|toaster\s*oven|table|سطح|محمصة/i },
+    { id: 'freestanding', title: 'أفران قائمة', emoji: '🔥', re: /freestanding|range|قائم/i },
+    { id: 'electric', title: 'أفران كهرباء', emoji: '🔥', re: /\boven\b|فرن/i },
+  ],
+  cookers: [
+    { id: 'built-in', title: 'بوتاجازات مدمجة', emoji: '🔥', re: /built\s*in|مدمج|\b(?:60|80|90)\s*cm\b/i },
+    { id: 'camping', title: 'مواقد رحلات / تخييم', emoji: '🏕️', re: /camping|backpacking|hiking|butane|تخييم|رحلات/i },
+    { id: 'gas', title: 'بوتاجازات غاز', emoji: '🔥', re: /\bgas\b|غاز|شله|شعل/i },
+    { id: 'freestanding', title: 'بوتاجازات قائمة', emoji: '🔥', re: /free\s*standing|freestanding|قائم/i },
+    { id: 'electric', title: 'بوتاجازات كهرباء', emoji: '⚡', re: /electric|كهرباء|كهربائي|heater\s+wire|\d{3,4}\s*(?:w\b|watt|وات)|flat\s+cooker|burner|عين|eye/i },
+    { id: 'induction', title: 'بوتاجازات حث (induction)', emoji: '🧲', re: /induction|حث/i },
+  ],
+  'water-heaters': [
+    { id: 'gas', title: 'سخانات غاز', emoji: '🔥', re: /\bgas\b|غاز/i },
+    { id: 'immersion', title: 'سخانات غمر / هتر', emoji: '🔌', re: /immersion|هتر|غمر|portable\s+water\s+heater/i },
+    { id: 'instant', title: 'سخانات فورية', emoji: '⚡', re: /instant|tankless|فوري|لحظي/i },
+    { id: 'electric', title: 'سخانات كهرباء تخزين', emoji: '⚡', re: /electric|كهربائي|storage|تخزين|water\s*heater|سخان|\bboiler\b/i },
+  ],
+  'air-conditioners': [
+    { id: 'split', title: 'تكييف سبليت', emoji: '❄️', re: /split|سبليت|منفصل|\bac\b|\d(?:\.\d)?\s*hp|حصان/i },
+    { id: 'window', title: 'تكييف شباك', emoji: '🪟', re: /window|شباك/i },
+    { id: 'portable', title: 'تكييف محمول', emoji: '❄️', re: /portable|محمول|متنقل/i },
+    { id: 'central', title: 'تكييف مركزي / كاسيت', emoji: '🏢', re: /cassette|central|مركزي|كاسيت/i },
+    { id: 'other-split', title: 'تكييفات أخرى', emoji: '❄️', re: /air\s*conditioner|تكييف|مكيف|\bac\b/i },
+  ],
+  fans: [
+    { id: 'stand', title: 'مراوح أرضية / قائمة', emoji: '🌀', re: /stand|pedestal|shaft|box(?:er)?\s*fan|أرضية|قائم/i },
+    { id: 'table', title: 'مراوح طاولة / مكتب', emoji: '🌀', re: /table|desk|طاولة|مكتب/i },
+    { id: 'ceiling', title: 'مراوح سقف', emoji: '🌀', re: /ceiling|سقف/i },
+    { id: 'wall', title: 'مراوح حائط', emoji: '🌀', re: /wall|حائط|جدار/i },
+    { id: 'tower', title: 'مراوح برج', emoji: '🗼', re: /tower|برج/i },
+    { id: 'exhaust', title: 'شفاطات', emoji: '💨', re: /exhaust|شفاط|ventilation|تهوية/i },
+    { id: 'personal', title: 'مراوح شخصية / USB', emoji: '🌀', re: /usb|personal|handheld|mini|neck|شخصي|رقبة/i },
+  ],
+  irons: [
+    { id: 'garment', title: 'مكاوي بخار عمودية', emoji: '👔', re: /garment|steamer|عمودي/i },
+    { id: 'steam', title: 'مكاوي بخار', emoji: '💨', re: /steam|بخار/i },
+    { id: 'dry', title: 'مكاوي جافة', emoji: '🔥', re: /\bdry\b|جاف/i },
+  ],
+  'vacuum-cleaners': [
+    { id: 'robot', title: 'مكانس روبوت', emoji: '🤖', re: /robot|روبوت/i },
+    { id: 'cordless', title: 'مكانس لاسلكية / عصا', emoji: '🔋', re: /cordless|stick|لاسلكي|عصا|dyson\s*v\d|v\d+\s*(?:detect|absolute|slim)/i },
+    { id: 'wet-dry', title: 'مكانس سوائل / مبلل', emoji: '💧', re: /wet|سوائل|مبلل|wd\s*\d|kärcher|karher/i },
+    { id: 'canister', title: 'مكانس برميلية', emoji: '🛢️', re: /canister|برميل|اسطوانة/i },
+    { id: 'handheld', title: 'مكانس يدوية / سيارة', emoji: '🚗', re: /handheld|car\b|mini|يدوي|سيارة|auto\s+vacuum|12\s*v|mattress|uv|pillow/i },
+    { id: 'upright', title: 'مكانس قائمة', emoji: '🧹', re: /upright|قائم/i },
+  ],
+  kettles: [
+    { id: 'travel', title: 'غلايات سفر / قابلة للطي', emoji: '🧳', re: /travel|foldable|portable|سفر|قابل\s*للطي/i },
+    { id: 'glass', title: 'غلايات زجاج', emoji: '🫖', re: /glass|زجاج/i },
+    { id: 'stainless', title: 'غلايات ستانلس', emoji: '🫖', re: /stainless|ستانلس|صلب/i },
+    { id: 'electric', title: 'غلايات كهرباء', emoji: '🫖', re: /kettle|غلاي/i },
+  ],
+  toasters: [
+    { id: 'sandwich', title: 'محمصات ساندويتش / جريل', emoji: '🥪', re: /sandwich|panini|grill|ساندويتش|جريل|شواية/i },
+    { id: '4-slice', title: 'محمصات 4 شرائح', emoji: '🍞', re: /4\s*slice|4\s*شرائح/i },
+    { id: '2-slice', title: 'محمصات شريحتين', emoji: '🍞', re: /2\s*slice|شريحتين/i },
+    { id: 'oven', title: 'محمصات فرن', emoji: '🍞', re: /oven|فرن/i },
+    { id: 'popup', title: 'محمصات خبز عادية', emoji: '🍞', re: /toaster|محمص/i },
+  ],
+  mixers: [
+    { id: 'stand', title: 'عجانات قائمة', emoji: '🥣', re: /stand|قائم|ستاند|عجان/i },
+    { id: 'hand', title: 'مضارب يدوية', emoji: '🥣', re: /hand|يدوي|يدوى|handheld|مضرب|بيض|egg|beater|mixer/i },
+  ],
+  blenders: [
+    { id: 'hand', title: 'خلاطات يدوية / عصا', emoji: '🥤', re: /hand|stick|immersion|يدوي|عصا/i },
+    { id: 'personal', title: 'خلاطات فردية / سموذي', emoji: '🥤', re: /personal|single|smoothie|portable|mini|usb|فردي|سموذي|محمول/i },
+    { id: 'professional', title: 'خلاطات احترافية قوية', emoji: '🥤', re: /professional|heavy|commercial|احترافي|قوي/i },
+    { id: 'jug', title: 'خلاطات دورق عادية', emoji: '🥤', re: /blender|خلاط/i },
+  ],
+  'food-processors': [
+    { id: 'chopper', title: 'مفارم / محضرات صغيرة', emoji: '🧅', re: /chopper|mini|compact|مفرمة|صغير/i },
+    { id: 'full', title: 'محضرات طعام كاملة', emoji: '🥗', re: /processor|محضر/i },
+  ],
+  'coffee-machines': [
+    { id: 'espresso', title: 'ماكينة اسبريسو', emoji: '☕', re: /espresso|اسبريسو|ضغط/i },
+    { id: 'capsule', title: 'ماكينة كبسولات', emoji: '☕', re: /capsule|pod|كبسول|بود/i },
+    { id: 'turkish', title: 'ماكينة قهوة تركي', emoji: '☕', re: /turkish|turkesh|تركي|كنكة/i },
+    { id: 'press', title: 'فرنش برس / كباسة', emoji: '☕', re: /french\s*press|كباسة|فرنش\s*برس/i },
+    { id: 'drip', title: 'ماكينة فلتر / تقطير', emoji: '☕', re: /drip|filter|فلتر|تقطير|coffee|قهوة/i },
+  ],
+  juicers: [
+    { id: 'manual', title: 'عصارات يدوية', emoji: '🍋', re: /manual|يدوي|hand\s*press|squeezer|acrylic|عصارة\s*يدوية/i },
+    { id: 'slow', title: 'عصارات بطيئة / عصر بارد', emoji: '🥕', re: /slow|masticating|cold\s*press|بطيء|عصر\s*بارد/i },
+    { id: 'citrus', title: 'عصارات حمضيات', emoji: '🍊', re: /citrus|حمضيات|برتقال|ليمون/i },
+    { id: 'centrifugal', title: 'عصارات كهرباء', emoji: '🥤', re: /centrifugal|طرد\s*مركزي|juicer|juice\s*extractor|عصارة|عصار/i },
+  ],
+  'rice-cookers': [
+    { id: 'small', title: 'طباخ أرز صغير', emoji: '🍚', re: /[0-1](?:\.\d)?\s*(?:l\b|ltr|liter|litre|لتر)|small|صغير/i },
+    { id: 'large', title: 'طباخ أرز عائلي', emoji: '🍚', re: /[2-9](?:\.\d)?\s*(?:l\b|ltr|liter|litre|لتر)|large|عائلي/i },
+    { id: 'standard', title: 'طباخ أرز عادي', emoji: '🍚', re: /rice\s*cooker|طباخ\s*أرز/i },
+  ],
+  'pressure-cookers': [
+    { id: 'electric', title: 'قدور ضغط كهربائية', emoji: '🍲', re: /electric|كهربائي/i },
+    { id: 'stovetop', title: 'قدور ضغط للموقد', emoji: '🍲', re: /stovetop|stove|موقد|غاز|pressure\s*cooker|قدر\s*ضغط|حلة/i },
+  ],
+  shavers: [
+    { id: 'men', title: 'ماكينات حلاقة رجالي', emoji: '🧔', re: /\bmen\b|\bman\b|male|رجالي|للرجال|beard|ذقن|لحية|شارب/i },
+    { id: 'women', title: 'ماكينات حلاقة نسائي', emoji: '👩', re: /\bwomen\b|\bwoman\b|lady|ladies|female|نسائي|للنساء|حريمي/i },
+    { id: 'body', title: 'تشذيب جسم / متعدد', emoji: '🪒', re: /body|groom|multigroom|جسم|تشذيب/i },
+    { id: 'clipper', title: 'ماكينات شعر وتشذيب', emoji: '💈', re: /clipper|trimmer|hair\s*cut|قص\s*شعر|epilat/i },
+  ],
+  'hair-dryers': [
+    { id: 'travel', title: 'سيشوار سفر / قابل للطي', emoji: '🧳', re: /travel|compact|foldable|سفر|قابل\s*للطي|صغير/i },
+    { id: 'professional', title: 'سيشوار احترافي / صالون', emoji: '💇', re: /professional|salon|احترافي|صالون/i },
+    { id: 'high-power', title: 'سيشوار قوي', emoji: '💨', re: /[2-9][0-9]{3}\s*(?:w\b|watt|وات)|2200|2400|قوي/i },
+    { id: 'standard', title: 'سيشوار عادي', emoji: '💨', re: /hair\s*dryer|blow\s*dryer|سيشوار|مجفف/i },
+  ],
+};
+
+export const OTHER_TYPE = { id: 'other', title: 'أنواع أخرى', emoji: '📦' };
+
+export function typesOf(categoryId) {
+  return [...(CATEGORY_TYPES[categoryId] || []), OTHER_TYPE];
+}
+
+export function typeOf(category, offer) {
+  // لو المراجعة العميقة لصفحة أمازون حدّدت نوع دقيق (offer.type) بنقدّمه على العنوان
+  const valid = new Set((CATEGORY_TYPES[category?.id] || []).map((t) => t.id));
+  if (offer?.type && valid.has(offer.type)) return offer.type;
+  const text = String(offer?.title || offer?.name || '');
+  for (const t of CATEGORY_TYPES[category?.id] || []) {
+    if (t.re.test(text)) return t.id;
+  }
+  return OTHER_TYPE.id;
+}
+
+// حاجات مش أجهزة أصلًا (إكسسوارات/أدوات/كتب/قطع غيار) بتتسلل لأن اسم الجهاز
+// موجود في العنوان كوصف (dishwasher safe / oven thermometer / AC remote...).
+export const JUNK_RE =
+  /^remote\s+control\b|\bremote\s+control\s+(?:for|compatible|replacement)\b|\b(?:dishwasher|microwave|freezer|oven)\s*[-\s]safe\b|\bdishwasher\s+(?:tabs|tablets|salt|pods?|cleaner|rinse\s+aid)\b|\b(?:tabs|tablets|pods?)\b[^.]{0,30}\bdishwasher\b|\bsponges?\b|\bmugs?\b|\btongs?\b|\bmeal\s+prep\b|\bfood\s+storage\s+containers?\b|\bcontainers?\s+with\s+(?:clear\s+)?lids?\b|\bmixing\s+bowls?\b|\bthermometers?\b|\bstabilizers?\b|\bvoltage\s+protector\b|\bfresheners?\b|\bdeodoriz(?:er|ers|ing)\b|\bodor\s+eliminator\b|\bair\s+purifier\b|\bjars?\s+with\b|\bstorage\s+jars?\b|\b(?:freezer|washer|washing\s+machine)\s+holder\b|\bholder\b[^.]{0,30}\b(?:freezer|washer)\b|\btarpaulin\b|\bwater\s*proof\s+cover\b|\b(?:drain|drainage|intake|water)\s+hose\b|خرطوم|\blight\s+bulbs?\b|\bbulbs?\b|لمبة|\bknobs?\b|\bkey\s+caps?\b|\b(?:cooker|stove)\s+switches?\b|\b(?:gas|sensor|green)\s+valve\b|\bvalve\b[^.]{0,30}\b(?:sensor|replacement|spare)\b|\bregulator\b|منظم\s*(?:انبوبة|غاز)|\btape\b|\bcleaning\s+(?:foam|spray|agent|solution)\b|\bfoam\s+(?:spray|cleaner)\b|\bbooks?\b|\bguides?\b|\bhandbook\b|\btextbook\b|\bfaucet\b|\b(?:basin|sink|shower|bath)\s+mixer\b|\bwaterfall\b|\bwax\b|شمع|\bfishing\b|\blures?\b|\bjig\b|\btoys?\b|\bbuild\s+more\b|\b(?:folding|foldable)\s+(?:hand\s+)?fan\b|\bhand\s+fan\b|\blace\s+fan\b|\bfan\b[^.]{0,30}\blace\b|\bwedding\b[^.]{0,30}\bfan\b|مروحة\s*(?:يدوية|طي)|\bsteamer\s+(?:basket|strainer|rack)\b|\bvegetable\s+steamer\b|\b(?:pizza|baking|cake)\s+(?:pan|tray|sheet|tin)\b|\bnon\s*stick\s+(?:square\s+)?pan\b|صاج|صج\s*فرن|\boven\s+(?:gloves?|mitts?)\b|جوانتي|\bshoe\s+(?:washing|cleaning)\s+bag\b|\bwashing\s+machine\b[^.]{0,40}\b(?:shoe|laundry|mesh)\s+bag\b|غطاء\s*(?:مكيف|تكييف)|\b(?:milk|coffee|cappuccino|latte|frappe)\s+(?:mixer|frother|blender)\b|\bfrothers?\b|\btupperware\b|\bserving\s+(?:jug|pitcher|bowl|dish)\b|\bfreezer\s+(?:molds?|moulds?)\b|\bsilicone\b[^.]{0,20}\b(?:molds?|moulds?)\b|\bmeal\s+prepping\b|\bniqab\b|\bgamepad\b|\bcharging\s+grip\b|\bmobile\s+controller\b|\bpwm\b|\bargb\b|\bpc\s+fan\b|\bcpu\s+fan\b|\bcase\s+fan\b|\bcomputer\s+fan\b|\bhand\s+held\s+fan\b|\bwood(?:en)?\s+fan\b|\bhand\s+made\b[^.]{0,20}\bfan\b|مروحة\s*يد|مروحة\s*خشب|\bcup\s+washing\s+machine\b|\btransparent\s+cover\b|\bcarbon\s+filter\b|\bactivated\s+carbon\b|فلتر\s*كربوني|شفاط\s*مطبخ|\b(?:air|ac|cabin)\s+filter\b|\bautomotive\b/i;
+
 // الفلتر الموحّد: أي عنوان ما بيذكرش الجهاز، أو بيذكر إكسسوار/قطعة غيار، اتشال.
 export function isAccessoryTitle(category, title) {
   const text = String(title || '').replace(/\s+/g, ' ').trim();
   if (!text) return true;
   const rules = CATEGORY_FILTERS[category?.id] || {};
   if (ACCESSORY_RE.test(text)) return true;
+  if (JUNK_RE.test(text)) return true;
   if (category?.exclude?.test(text)) return true;
   if (rules.accessory?.test(text)) return true;
   if (rules.device && !rules.device.test(text)) return true;
