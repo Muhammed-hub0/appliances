@@ -14,7 +14,7 @@ export const SEARCH_MAX_PRICE = 300000;
 export const MAX_STALE_DAYS = 7;
 // بنضيف أكبر عدد ممكن من منتجات أمازون في كل قسم، مش 15 بس
 export const MAX_NEW_PER_CATEGORY = 120;
-export const MAX_STORED_PER_CATEGORY = 600;
+export const MAX_STORED_PER_CATEGORY = 2000;
 export const HISTORY_LIMIT = 200;
 export const SEARCH_PAGES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 export const SEARCH_ITEM_COUNT = 10;

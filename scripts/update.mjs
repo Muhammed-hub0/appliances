@@ -203,6 +203,50 @@ async function findNewItems(category, offers, globalKnown, seen) {
   return { items: list, stats };
 }
 
+// بناء منتج من ASIN اتجمع بالبحث اليدوي + بيانات الـ API (نفس METHOD بتاع الموقع القديم)
+function hydrateManual(category, asins, apiItems, known) {
+  const maxPrice = category.maxPrice ?? 600000;
+  const minPrice = category.minPrice ?? 150;
+  const stats = {
+    raw: 0, dup: 0, noApi: 0, noTitle: 0, include: 0, accessory: 0,
+    noImage: 0, price: 0, condition: 0, availability: 0, brand: 0, weak: 0,
+  };
+  const found = [];
+
+  for (const asin of asins) {
+    stats.raw++;
+    if (known.has(asin)) { stats.dup++; continue; }
+    const raw = apiItems.get(asin);
+    if (!raw) { stats.noApi++; continue; }
+    const api = normalizeItem(raw);
+    if (!api.asin || !api.title) { stats.noTitle++; continue; }
+    if (!category.include.test(api.title)) { stats.include++; continue; }
+    if (ACCESSORY_RE.test(api.title) || category.exclude?.test(api.title)) { stats.accessory++; continue; }
+    if (!api.image) { stats.noImage++; continue; }
+    if (!Number.isFinite(api.price) || api.price < minPrice || api.price > maxPrice) { stats.price++; continue; }
+    if (api.condition && !/^(new|unknown)$/i.test(api.condition)) { stats.condition++; continue; }
+    if (api.availability && !IN_STOCK.has(api.availability)) { stats.availability++; continue; }
+
+    const info = describeProduct({ title: api.title, byLine: api.byLine }, category);
+    const knownBrand = AUTO_ADD_BRANDS.includes(info.brand);
+    const specCount = Object.keys(info.specs || {}).length;
+    const brandOk = Boolean(info.brand) && !isExcludedBrand(info.brand);
+
+    if (!brandOk) {
+      stats.brand++;
+      info.brand = 'غير محدد';
+      info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+    } else if (!knownBrand && specCount === 0) {
+      stats.weak++;
+      info.name = String(api.title).replace(/\s+/g, ' ').trim().slice(0, 105);
+    }
+
+    known.add(asin);
+    found.push({ api, info });
+  }
+  return { items: found, stats };
+}
+
 function makeOffer({ api, info }, category, date) {
   return {
     asin: api.asin,
@@ -276,8 +320,10 @@ async function main() {
   }
 
   const seenByCat = {};
+  const manualSeen = {};
   for (const cat of CATEGORIES) {
     seenByCat[cat.id] = new Set(history[cat.id]._meta?.seenAsins || []);
+    manualSeen[cat.id] = new Set(history[cat.id]._meta?.manualSeen || []);
   }
 
   const renderOnly = process.argv.includes('--render-only') || !hasCredentials();
@@ -308,6 +354,25 @@ async function main() {
     data[cat.id].forEach((o) => globalKnown.add(o.asin));
   }
 
+  // بذور البحث اليدوي: كل ASIN اتجمع من كل صفحات نتائج أمازون قبل ما نربط الـ API
+  const manualAsins = {};
+  const pendingManual = {};
+  let manualTotal = 0;
+  for (const cat of CATEGORIES) {
+    const rows = await loadJson(join(DATA_DIR, `manual-${cat.id}.json`), []);
+    manualAsins[cat.id] = Array.isArray(rows)
+      ? [...new Set(rows.map((a) => String(a || '').trim()).filter((a) => /^[A-Z0-9]{10}$/i.test(a)))]
+      : [];
+    pendingManual[cat.id] = manualAsins[cat.id].filter(
+      (a) => !globalKnown.has(a) && !manualSeen[cat.id].has(a),
+    );
+    manualTotal += manualAsins[cat.id].length;
+  }
+  if (manualTotal) {
+    const pending = Object.values(pendingManual).reduce((a, v) => a + v.length, 0);
+    console.log(`🌱 بذور بحث يدوي: ${manualTotal} ASIN · ${pending} لازم يتجربوا النهاردة`);
+  }
+
   // كل الروابط لازم تشيل تاج الأفلييت، وأي شحن فاضي يتكتب "مجاني"
   // كمان بنشيل أي إكسسوار/منظف أو براند اتضاف بالغلط في نسخة قديمة
   const oldBadBrands = new Set(['نوفا', 'يونيفرسال']);
@@ -332,7 +397,10 @@ async function main() {
   if (renderOnly) {
     console.log('⚠️ مفاتيح Creators API مش موجودة — هيتبنى الموقع بآخر بيانات محفوظة.');
   } else {
-    const allAsins = CATEGORIES.flatMap((cat) => data[cat.id].map((o) => o.asin).filter(Boolean));
+    const allAsins = CATEGORIES.flatMap((cat) => [
+      ...data[cat.id].map((o) => o.asin).filter(Boolean),
+      ...pendingManual[cat.id],
+    ]);
     console.log(`بنحدّث ${allAsins.length} منتج في ${CATEGORIES.length} قسم...`);
 
     const { items, errors } = await getItems(allAsins);
@@ -368,9 +436,21 @@ async function main() {
       }
 
       try {
-        const { items: fresh, stats } = await findNewItems(cat, offers, globalKnown, seenByCat[cat.id]);
-        for (const candidate of fresh.slice(0, MAX_NEW_PER_CATEGORY)) {
+        let fresh = [];
+        let stats = null;
+        if (manualAsins[cat.id].length) {
+          // نفس طريقة الموقع القديم: البحث اليدوي بيجمع الـ ASINs، والـ API بس بيجيب التفاصيل والأسعار
+          const hydrated = hydrateManual(cat, pendingManual[cat.id], items, globalKnown);
+          fresh = hydrated.items;
+          stats = hydrated.stats;
+        } else {
+          const search = await findNewItems(cat, offers, globalKnown, seenByCat[cat.id]);
+          fresh = search.items.slice(0, MAX_NEW_PER_CATEGORY);
+          stats = search.stats;
+        }
+        for (const candidate of fresh) {
           const offer = makeOffer(candidate, cat, today());
+          if (manualAsins[cat.id].length) offer.source = 'manual';
           recordPrice(hist, offer.asin, offer.price);
           offers.push(offer);
           globalKnown.add(offer.asin);
@@ -378,14 +458,19 @@ async function main() {
           added++;
           totalAdded++;
         }
-        console.log(`  ${cat.title}: ${offers.filter((o) => o.active !== false).length} نشط · ${added} جديد`);
-        console.log(
-          `    تشخيص: خام ${stats.raw} · مكرر ${stats.dup} · مش مطابق ${stats.include} · إكسسوار ${stats.accessory}` +
-          ` · بدون صورة ${stats.noImage} · سعر ${stats.price} · حالة ${stats.condition + stats.availability}` +
-          ` · براند غير واضح ${stats.brand} · براند مش معروف ${stats.weak} · عيلة مكررة ${stats.family}`,
-        );
+        const via = manualAsins[cat.id].length ? 'يدوي' : 'بحث API';
+        console.log(`  ${cat.title}: ${offers.filter((o) => o.active !== false).length} نشط · ${added} جديد (${via})`);
+        if (stats) {
+          console.log(
+            `    تشخيص: خام ${stats.raw} · مكرر ${stats.dup} · بدون بيانات API ${stats.noApi || 0}` +
+            ` · مش مطابق ${stats.include} · إكسسوار ${stats.accessory}` +
+            ` · بدون صورة ${stats.noImage} · سعر ${stats.price} · حالة ${stats.condition + stats.availability}` +
+            ` · براند غير واضح ${stats.brand} · براند مش معروف ${stats.weak}` +
+            (stats.family === undefined ? '' : ` · عيلة مكررة ${stats.family}`),
+          );
+        }
       } catch (err) {
-        console.warn(`  ${cat.title}: فشل البحث عن جديد — ${err.message}`);
+        console.warn(`  ${cat.title}: فشل إضافة منتجات — ${err.message}`);
       }
     }
   }
@@ -399,11 +484,13 @@ async function main() {
 
   for (const cat of CATEGORIES) {
     data[cat.id] = prune(data[cat.id]);
+    for (const asin of manualAsins[cat.id]) manualSeen[cat.id].add(asin);
     history[cat.id]._meta = {
       lastRun: meta.updatedAt,
       activeCount: data[cat.id].filter((o) => o.active !== false).length,
       totalCount: data[cat.id].length,
       seenAsins: [...seenByCat[cat.id]].slice(-3000),
+      manualSeen: [...manualSeen[cat.id]].slice(-12000),
     };
     await writeFile(join(DATA_DIR, `${cat.id}.json`), `${JSON.stringify(data[cat.id], null, 2)}\n`, 'utf8');
     await writeFile(join(DATA_DIR, `${cat.id}-history.json`), `${JSON.stringify(history[cat.id], null, 2)}\n`, 'utf8');
