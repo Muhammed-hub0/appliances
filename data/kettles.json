@@ -3215,7 +3215,7 @@
     "title": "Sonai Plastic Electric Water Kettle, 1.7 Liter, 2200 Watt, Black - MAR-3000",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 662.5,
+    "price": 665,
     "img": "https://m.media-amazon.com/images/I/21hc2-ORICL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CTMSJQ1J?tag=fineartslab-21",
     "active": true,
@@ -4755,8 +4755,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B07937HBB7",

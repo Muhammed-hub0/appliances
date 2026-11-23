@@ -1358,7 +1358,7 @@
     "title": "Versuni Philips EP5447/90 Fully Automatic Espresso Machine, LatteGo Milk System, AquaClean Filter, Stainless Steel, 1500 W, Chrome",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 48232.62,
+    "price": 48223.87,
     "img": "https://m.media-amazon.com/images/I/41LFZ0lbEUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08CBJ8W9W?tag=fineartslab-21",
     "active": true,
@@ -2072,8 +2072,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B09FYCYLP6",
@@ -2117,7 +2119,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -4802,7 +4804,7 @@
     "title": "Generic Italian Espresso Maker - Prepare 4 Shot Espresso Coffee with and Fastest Time. Practical Design and Durable Heat Resistant Materials. Ideal for Arabic Coffee Lovers",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 413.81,
+    "price": 311.67,
     "img": "https://m.media-amazon.com/images/I/414iHAbbk8L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DSQX1DZV?tag=fineartslab-21",
     "active": true,
@@ -5092,13 +5094,13 @@
     "price": 533.11,
     "img": "https://m.media-amazon.com/images/I/41X22DBLBoL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GWKNFYLK?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B07MWQKKM3",
@@ -5467,13 +5469,13 @@
     "price": 1700,
     "img": "https://m.media-amazon.com/images/I/31i5xpRkrcL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BNN5Z4QZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GNH6LXCH",
@@ -5489,13 +5491,13 @@
     "price": 1774,
     "img": "https://m.media-amazon.com/images/I/41alpOgAkUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GNH6LXCH?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HLDWJN4C",

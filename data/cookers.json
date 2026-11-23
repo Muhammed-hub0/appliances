@@ -4205,7 +4205,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -4447,8 +4447,10 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0GLDX75FK",
@@ -5049,13 +5051,13 @@
     "price": 200,
     "img": "https://m.media-amazon.com/images/I/51Y0bnIyvAL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FMMS1BW1?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HG2NJYPD",
@@ -5704,13 +5706,13 @@
     "price": 584.9,
     "img": "https://m.media-amazon.com/images/I/21H8qWLxlnL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HF56RTJZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HM14CG6K",
@@ -6292,13 +6294,13 @@
     "price": 159,
     "img": "https://m.media-amazon.com/images/I/31rd5t779ML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FDHKWQHJ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C6JQ8CPN",
@@ -6861,7 +6863,7 @@
     "title": "Hot Plate Electric Single Eye Cooker with Temperature Levels (1000 Watts) | Ebaskt Electric Hot Plate Single Burner 1000W with Adjustable Temperature Control",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 380,
+    "price": 319,
     "img": "https://m.media-amazon.com/images/I/31P5vPvdGdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FZVWQ7V2?tag=fineartslab-21",
     "active": true,
@@ -7063,7 +7065,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"

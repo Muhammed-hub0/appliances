@@ -285,7 +285,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -2040,13 +2040,13 @@
     "price": 596.7,
     "img": "https://m.media-amazon.com/images/I/31ZOfywVrEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FQJ1DKG5?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B07V3NFH2F",
@@ -2645,13 +2645,13 @@
     "price": 9499,
     "img": "https://m.media-amazon.com/images/I/41PwCuZlT7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GMGL9YH3?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GDN82RF5",

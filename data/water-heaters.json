@@ -285,8 +285,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0DFMCGL7C",
@@ -756,7 +758,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -793,7 +795,7 @@
     "title": "Atlantic Electric Water Heater 30L - Concept-1200 W",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3495,
+    "price": 3599,
     "img": "https://m.media-amazon.com/images/I/31SFjGmx0uL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B098V1D4DC?tag=fineartslab-21",
     "active": true,
@@ -2261,7 +2263,7 @@
     "title": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – White - P101 11 KW WH",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12450,
+    "price": 12315,
     "img": "https://m.media-amazon.com/images/I/31sqIGdNwgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HN513BSF?tag=fineartslab-21",
     "active": true,
@@ -2401,7 +2403,7 @@
     "title": "Purity101 Electric Instant Water Heater, 13kW Tankless High-Capacity Digital System, with Remote Control – P101 13k (Grey)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13290,
+    "price": 12999,
     "img": "https://m.media-amazon.com/images/I/31oKBNd9CZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4N9SCLM?tag=fineartslab-21",
     "active": true,
@@ -2501,7 +2503,7 @@
     "title": "Purity Electric Instant Water Heater – 11 kW – Digital – Remote Control – Gray – P101 11 KW GR",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12450,
+    "price": 12315,
     "img": "https://m.media-amazon.com/images/I/21x7cwMdTCL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HN4X3Z99?tag=fineartslab-21",
     "active": true,
@@ -2601,7 +2603,7 @@
     "title": "Purity Digital Instant Electric Water Heater - 9 kW - Remote Control - P101 9 kW GR",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10399,
+    "price": 10319,
     "img": "https://m.media-amazon.com/images/I/21KfZhDwRZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HP88RL9T?tag=fineartslab-21",
     "active": true,
@@ -3647,13 +3649,13 @@
     "price": 299,
     "img": "https://m.media-amazon.com/images/I/21fCAZLTgpL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GRR63KLD?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DQD89ZHW",
@@ -4200,7 +4202,7 @@
     "title": "Ariston Water Heater 10 Liter Natural Gas With adaptor Speed EVO 10 NG ADPT White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 6299,
+    "price": 6399,
     "img": "https://m.media-amazon.com/images/I/31BWuGeoCjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GS77B1TY?tag=fineartslab-21",
     "active": true,
@@ -4704,13 +4706,13 @@
     "price": 225.72,
     "img": "https://m.media-amazon.com/images/I/310XVKQqfqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B088DYLKCZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H3QP1R3H",
@@ -4724,13 +4726,13 @@
     "price": 236,
     "img": "https://m.media-amazon.com/images/I/51Zs2zRPBSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H3QP1R3H?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0D9ZYTL9F",

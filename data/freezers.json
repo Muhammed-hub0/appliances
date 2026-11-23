@@ -895,7 +895,7 @@
     "title": "Fresh FNU-LR250BC Black Upright Freezer, 5 Drawers, Handleless Design",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 19335,
+    "price": 18899,
     "img": "https://m.media-amazon.com/images/I/21sk1uZ8uCL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D5D2YDZT?tag=fineartslab-21",
     "active": true,
@@ -2903,13 +2903,13 @@
     "price": 17999,
     "img": "https://m.media-amazon.com/images/I/31w3mhFSQ1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091J7FQ7G?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -4209,13 +4209,13 @@
     "price": 167.11,
     "img": "https://m.media-amazon.com/images/I/515sotYw-QL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BFCG1D8F?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B07BH79CLF",
@@ -4461,13 +4461,13 @@
     "price": 950,
     "img": "https://m.media-amazon.com/images/I/21dDJLsnylL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09J5C52VW?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09R4Y1JZ6",
@@ -4621,13 +4621,13 @@
     "price": 950,
     "img": "https://m.media-amazon.com/images/I/21laa23r28L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09J59CFWC?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GQ6K44S2",

@@ -534,7 +534,7 @@
     "title": "Sokany SK-2217 Bathroom Hair Dryer",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 919.99,
+    "price": 799.2,
     "img": "https://m.media-amazon.com/images/I/310-YLLd3tL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CQYV96R3?tag=fineartslab-21",
     "active": true,
@@ -1337,8 +1337,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0FRZQ8CVX",
@@ -2247,13 +2249,13 @@
     "price": 209,
     "img": "https://m.media-amazon.com/images/I/51pcqjZh50L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DNN9XRJP?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B096FMHSHL",
@@ -2742,7 +2744,7 @@
     "title": "Sokany SK-2215 2600W Hair Dryer with Diffuser",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 566.9,
+    "price": 565.9,
     "img": "https://m.media-amazon.com/images/I/3169nhTf+kL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07VFLLKLW?tag=fineartslab-21",
     "active": true,
@@ -3814,7 +3816,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"

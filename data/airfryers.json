@@ -376,7 +376,7 @@
     "lastGood": "2026-11-23",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -423,7 +423,7 @@
     "lastGood": "2026-11-20",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -644,7 +644,7 @@
     "title": "Fresh 1800W Mechanical Air Fryer, 7 Liter Capacity",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4182,
+    "price": 4066,
     "img": "https://m.media-amazon.com/images/I/31t7NE31FRL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D1VGDCNF?tag=fineartslab-21",
     "active": true,
@@ -713,7 +713,7 @@
     "title": "Fresh 1800 W Air Fryer, X-Large, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4398.43,
+    "price": 4249,
     "img": "https://m.media-amazon.com/images/I/315WTiY16QL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CW681BVJ?tag=fineartslab-21",
     "active": true,
@@ -744,7 +744,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -815,7 +815,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -932,7 +932,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1115,7 +1115,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1344,7 +1344,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1552,7 +1552,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1646,7 +1646,7 @@
     "lastGood": "2026-11-19",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1713,7 +1713,7 @@
     "lastGood": "2026-11-21",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2008,7 +2008,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3148,13 +3148,13 @@
     "price": 1169.67,
     "img": "https://m.media-amazon.com/images/I/31KW+lprIwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FG1XQHJP?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C3V86BJB",
@@ -4315,7 +4315,7 @@
     "title": "Fresh Air Fryer 7Litres Steam FAF-D1500GM Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7325,
+    "price": 6729,
     "img": "https://m.media-amazon.com/images/I/31E9tSHrCdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01L93HNEM?tag=fineartslab-21",
     "active": true,
@@ -5198,7 +5198,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"

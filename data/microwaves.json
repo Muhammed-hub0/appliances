@@ -156,7 +156,7 @@
     "title": "Sharp 34 liters 1100 watts stainless steel digital combination microwave oven with grill, silver - r-77at-st",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10068,
+    "price": 10048,
     "img": "https://m.media-amazon.com/images/I/31D9Y9fAYoS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B00WU9XF7Y?tag=fineartslab-21",
     "active": true,
@@ -618,7 +618,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1311,13 +1311,13 @@
     "price": 8471,
     "img": "https://m.media-amazon.com/images/I/21DUWB54waL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BLFCG7B7?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-19",
     "lastGood": "2026-11-23",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -1365,7 +1365,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1529,7 +1529,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1665,7 +1665,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1690,7 +1690,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -1924,7 +1924,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2059,7 +2059,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2083,7 +2083,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2109,7 +2109,7 @@
     "lastGood": "2026-11-22",
     "source": "legacy",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -2514,7 +2514,7 @@
     "title": "Jac NGM-43M3-S Digital Microwave with Grill, 1500 Watt, 43 Liter - Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7840.84,
+    "price": 7799,
     "img": "https://m.media-amazon.com/images/I/316qlLrl8ZS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0856WTFXH?tag=fineartslab-21",
     "active": true,
@@ -2674,7 +2674,7 @@
     "title": "Zanussi - Microwave With Grill 23 Liter - Black & Silver ZMG23K38GB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7888,
+    "price": 7890,
     "img": "https://m.media-amazon.com/images/I/31VEIFwDGXL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BJYNMGBF?tag=fineartslab-21",
     "active": true,
@@ -2931,13 +2931,13 @@
     "price": 5400,
     "img": "https://m.media-amazon.com/images/I/31v6PY5pdWL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C6666XMJ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -3181,13 +3181,13 @@
     "price": 530,
     "img": "https://m.media-amazon.com/images/I/51dT727s+lL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H352266N?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CJ7YJV3H",
@@ -3402,13 +3402,13 @@
     "price": 210,
     "img": "https://m.media-amazon.com/images/I/31WF2VFtdhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B00UBVUBEI?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C9JKND5K",
@@ -3582,13 +3582,13 @@
     "price": 814,
     "img": "https://m.media-amazon.com/images/I/5196pX9KXqS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0918KCW41?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H8LRCZB5",
@@ -3850,13 +3850,13 @@
     "price": 171,
     "img": "https://m.media-amazon.com/images/I/31gXRWk9EJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08SWJCXC6?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H3XNTB4R",
@@ -3872,13 +3872,13 @@
     "price": 220.5,
     "img": "https://m.media-amazon.com/images/I/519qnBrchxL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H3XNTB4R?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CWNCMFFZ",
@@ -3972,13 +3972,13 @@
     "price": 550,
     "img": "https://m.media-amazon.com/images/I/51w-DmTtvhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJMYMXVX?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B008IGQUDY",
@@ -4274,13 +4274,13 @@
     "price": 340,
     "img": "https://m.media-amazon.com/images/I/517ii1LV6hL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BN8NXKZY?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0BM5YK9T8",

@@ -706,7 +706,7 @@
     "title": "Midea 2026 (R32) Xtream Pro NEW 1.5 HP Fixed Cool Only Split AC – M1SEFT-12CRN8F-Q8",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 19399,
+    "price": 19300,
     "img": "https://m.media-amazon.com/images/I/21DsEU4+XTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H2BF6HKJ?tag=fineartslab-21",
     "active": true,
@@ -1248,13 +1248,13 @@
     "price": 390,
     "img": "https://m.media-amazon.com/images/I/31LVRDhXjgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091CM8PRN?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GSKTWZYH",
@@ -1747,7 +1747,7 @@
     "title": "LG Air Conditioner Heating/Cooling, Dualcool Inverter Compressor STD, Energy Saving, Fast Cooling,(1.5 HP) S4-W12JA3AE",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 27399,
+    "price": 27449,
     "img": "https://m.media-amazon.com/images/I/21tgCFS3OQL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CK64CHJY?tag=fineartslab-21",
     "active": true,
@@ -2123,7 +2123,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
@@ -2657,13 +2657,13 @@
     "price": 292.5,
     "img": "https://m.media-amazon.com/images/I/41vjy+qYdfL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H7Q3C3QH?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HBP16XH9",
@@ -2677,13 +2677,13 @@
     "price": 350,
     "img": "https://m.media-amazon.com/images/I/31E2cZtUiYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HBP16XH9?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H1NYLQ3L",
@@ -2717,13 +2717,13 @@
     "price": 450,
     "img": "https://m.media-amazon.com/images/I/41sfwXM1+vL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HBD3HQ1G?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H6VKX5Q9",
@@ -2785,7 +2785,7 @@
     "title": "Midea 2026 (R32) Xtream Pro NEW 1.5 HP Fixed Heat & Cool Split AC – M1SEFT-12HRN8F-Q8",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 21399,
+    "price": 21300,
     "img": "https://m.media-amazon.com/images/I/21DsEU4+XTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H2BJXGDF?tag=fineartslab-21",
     "active": true,
@@ -2833,7 +2833,7 @@
     "title": "Midea AI Eco Master 1.5 HP Inverter Heat & Cool Split AC – M1SEFT-12HRDN8F-Q8",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 26184,
+    "price": 26440,
     "img": "https://m.media-amazon.com/images/I/21wuhy4EeWL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FQBZVKL2?tag=fineartslab-21",
     "active": true,
@@ -2981,7 +2981,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3070,7 +3070,7 @@
     "title": "Carrier 2026 (R32) XCOOL 1.5 HP Fixed Cool & Heat Split AC – 53QHEFT12N8-708F",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 23850,
+    "price": 23750,
     "img": "https://m.media-amazon.com/images/I/216D3QUk7DL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H2BKJ897?tag=fineartslab-21",
     "active": true,
@@ -3259,13 +3259,13 @@
     "price": 425,
     "img": "https://m.media-amazon.com/images/I/210NKWXIdwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B00AFN0VX8?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B098TXW99V",
@@ -3430,7 +3430,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -4747,13 +4747,13 @@
     "price": 450,
     "img": "https://m.media-amazon.com/images/I/212TeqlkvTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4XS5VB6?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B09MC5VCFS",
@@ -4791,13 +4791,13 @@
     "price": 225,
     "img": "https://m.media-amazon.com/images/I/418e-9tLNrL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FFHR5DV3?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H1NJF67H",
@@ -5595,13 +5595,13 @@
     "price": 340,
     "img": "https://m.media-amazon.com/images/I/510Nusib9lL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H8M5NCLG?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0HDPSY4XV",
@@ -5739,7 +5739,7 @@
     "title": "Fresh 1.5HP Portable Air Conditioner Cooling only, White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12870,
+    "price": 12399,
     "img": "https://m.media-amazon.com/images/I/4184D8g7INL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F8R6R4S1?tag=fineartslab-21",
     "active": true,
@@ -5894,13 +5894,13 @@
     "price": 1099,
     "img": "https://m.media-amazon.com/images/I/31Qpa1fTBBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CR4HB1B5?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0H1NN75SZ",
@@ -5914,13 +5914,13 @@
     "price": 198,
     "img": "https://m.media-amazon.com/images/I/41RPI4sJLbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H1NN75SZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0D5C61TK5",
@@ -5956,13 +5956,13 @@
     "price": 322,
     "img": "https://m.media-amazon.com/images/I/41UrdeBtLZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GT2KF6W5?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0D2VFQ7MR",
@@ -5998,13 +5998,13 @@
     "price": 291.5,
     "img": "https://m.media-amazon.com/images/I/41uLcCxS2-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FGXSNNNP?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0C6GD92SJ",
@@ -6062,13 +6062,13 @@
     "price": 250,
     "img": "https://m.media-amazon.com/images/I/41clRpGR7RL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HKYN233K?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B08X12VD1C",
@@ -6169,13 +6169,13 @@
     "price": 322.69,
     "img": "https://m.media-amazon.com/images/I/41gYoZan25L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FGXV2B69?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0CCJQW3WJ",

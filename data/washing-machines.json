@@ -973,8 +973,10 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-23",
+    "lastSeenOut": "2026-11-23"
   },
   {
     "asin": "B0DR79D5B6",
@@ -1032,7 +1034,7 @@
     "title": "Fresh Washing Machine - 10 Kg, White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4210.4,
+    "price": 4025,
     "img": "https://m.media-amazon.com/images/I/31V33xLecgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091P1D477?tag=fineartslab-21",
     "active": true,
@@ -2358,13 +2360,13 @@
     "price": 404.26,
     "img": "https://m.media-amazon.com/images/I/31t55hJd8NL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091HYGLDL?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0FHBVN2HM",
@@ -2912,7 +2914,7 @@
     "title": "Fresh Washing Machine Top Load 10 Kg - Black LED",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12969,
+    "price": 12963,
     "img": "https://m.media-amazon.com/images/I/31wbU55J+TL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CK2RY3T4?tag=fineartslab-21",
     "active": true,
@@ -2980,13 +2982,13 @@
     "price": 22822,
     "img": "https://m.media-amazon.com/images/I/312jwzH6eWL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DDQBTF7R?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -3139,7 +3141,7 @@
     "title": "Portable Safety Washing Machine Space Technology Smart Control for Fast and Efficient Washing Machine with Compact Dimensions and Stylish Design - Get It Now From Turkish Store",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 183.08,
+    "price": 182.88,
     "img": "https://m.media-amazon.com/images/I/41O884rC2hL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CPQ6GLX1?tag=fineartslab-21",
     "active": true,
@@ -3439,7 +3441,7 @@
     "title": "Portable Washing Machine with Timer - Large Capacity, Adjustable Cycle & Tumble Cycle NI (Blue)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1397.45,
+    "price": 1305,
     "img": "https://m.media-amazon.com/images/I/410ugCRJHHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DZTLG3QG?tag=fineartslab-21",
     "active": true,
@@ -3487,7 +3489,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23",
     "reason": "out-of-stock"
@@ -3566,13 +3568,13 @@
     "price": 188.73,
     "img": "https://m.media-amazon.com/images/I/51H4IOYBr4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B57HBSMK?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-23"
   },
@@ -4467,13 +4469,13 @@
     "price": 160,
     "img": "https://m.media-amazon.com/images/I/410X4KuAcJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GJT6QM6L?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0FW6D3GF6",
@@ -4489,13 +4491,13 @@
     "price": 150,
     "img": "https://m.media-amazon.com/images/I/31ku-V5mQUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FW6D3GF6?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0DGXR4K5Z",
@@ -4533,13 +4535,13 @@
     "price": 190,
     "img": "https://m.media-amazon.com/images/I/41-SUJR6NiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJZMKT18?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0GYG3FZD8",
@@ -4555,13 +4557,13 @@
     "price": 180,
     "img": "https://m.media-amazon.com/images/I/41-zEQscyIL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GYG3FZD8?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B091C2PRCH",
@@ -4641,13 +4643,13 @@
     "price": 270,
     "img": "https://m.media-amazon.com/images/I/31WXFJpTUsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FFYS93SF?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0FHBYJB24",
@@ -4685,13 +4687,13 @@
     "price": 185,
     "img": "https://m.media-amazon.com/images/I/41-SUJR6NiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJZHL7JZ?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0FHBYK1WY",
@@ -4768,7 +4770,7 @@
     "title": "Next Store Washing Machine Shoe Washing Bag Mesh Shoe Cleaning Protection Net Padded Laundry Bag with Foam Loops Durable Zipper Keep Shoes Noise Prevention",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 189,
+    "price": 158.55,
     "img": "https://m.media-amazon.com/images/I/419-ytJVYjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GKVWGWHR?tag=fineartslab-21",
     "active": true,
@@ -4902,13 +4904,13 @@
     "price": 180,
     "img": "https://m.media-amazon.com/images/I/51NGJGsJW+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJZHGGHM?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0FJ5QSMKL",
@@ -4924,13 +4926,13 @@
     "price": 185,
     "img": "https://m.media-amazon.com/images/I/51NGJGsJW+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJ5QSMKL?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B091J5QPXR",
@@ -4990,13 +4992,13 @@
     "price": 180,
     "img": "https://m.media-amazon.com/images/I/41-SUJR6NiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FXJB2K9X?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": "filtered"
   },
   {
     "asin": "B0FXT2965L",
