@@ -20,7 +20,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HLLDP867",
@@ -43,7 +44,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GGJ1T6WK",
@@ -66,7 +68,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HJ6DHTW7",
@@ -89,7 +92,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GDGKR4HT",
@@ -112,7 +116,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GZ4J712T",
@@ -135,7 +140,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HJXXT2YT",
@@ -158,7 +164,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F7LLTK3K",
@@ -180,7 +187,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GJPYRBC8",
@@ -202,7 +210,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08WJPZXMJ",
@@ -224,7 +233,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091NZ7PG9",
@@ -246,7 +256,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GNN3VJ7D",
@@ -260,7 +271,7 @@
     "title": "TOSHIBA Washing Machine Front Load TW-T21BU115UWEG(MG),Inverter, Steam, WIFI, Aroma+, Great waves, UFB, Slim design, 10.5KG, Morandi Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 22999,
+    "price": 22973,
     "img": "https://m.media-amazon.com/images/I/31u209urtZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GNN3VJ7D?tag=fineartslab-21",
     "active": true,
@@ -268,7 +279,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HKFRBK73",
@@ -290,7 +302,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CDV9FHW8",
@@ -312,7 +325,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08ZNT5F8R",
@@ -329,6 +343,848 @@
     "price": 10999,
     "img": "https://m.media-amazon.com/images/I/31bQBojFq1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08ZNT5F8R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B01J5KP9VK",
+    "brand": "بوش",
+    "name": "بوش 10 كجم 1400 rpm تحميل أمامي (WGK254ZREG)",
+    "specs": {
+      "cap": "10",
+      "spin": "1400",
+      "type": "تحميل أمامي"
+    },
+    "model": "WGK254ZREG",
+    "title": "Bosch Front Load Washing Machine - Series 6-10 Kg - 1400 Rpm - Eco Silence Drive Motor - Delay Start - Wi-Fi - Grey - WGK254ZREG",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29499,
+    "img": "https://m.media-amazon.com/images/I/41MQswb6tfL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01J5KP9VK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GGHTSCY9",
+    "brand": "هوفر",
+    "name": "هوفر 7 كجم 1400 rpm أوتوماتيك",
+    "specs": {
+      "cap": "7",
+      "spin": "1400",
+      "type": "أوتوماتيك"
+    },
+    "model": "",
+    "title": "HOOVER Washing Machine Fully Automatic 7Kg With 5 Kg Dryer Inverter-1400 RPM- Steam Function- WIFI- KG Mode- Active Wash- Rapid Wash- Drum Clean- ItalianTechnology- Silver H3DPS4756TMBRELA",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19288.12,
+    "img": "https://m.media-amazon.com/images/I/31+Ws2NWdIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GGHTSCY9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HM4HJR5T",
+    "brand": "أريستون",
+    "name": "أريستون 10 كجم 1400 rpm تحميل أمامي (WFST10KGG)",
+    "specs": {
+      "cap": "10",
+      "spin": "1400",
+      "type": "تحميل أمامي"
+    },
+    "model": "WFST10KGG",
+    "title": "Ariston Front Load Washing Machine, 10 Kg, Inverter, 1400 RPM, Steam, Grey - AR WFST10kgG EG",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 25754,
+    "img": "https://m.media-amazon.com/images/I/31sdD6RvGvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HM4HJR5T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CTKN93LY",
+    "brand": "ميديا",
+    "name": "ميديا 9 كجم 1400 rpm تحميل أمامي (MF200W90B/)",
+    "specs": {
+      "cap": "9",
+      "spin": "1400",
+      "type": "تحميل أمامي"
+    },
+    "model": "MF200W90B/",
+    "title": "Midea Washing Machine Front Load,MF200W90B/TT, 1400 RPM Inverter Motor,Steam, 9 KG Titanium Grey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19199,
+    "img": "https://m.media-amazon.com/images/I/31-eNZ-QIQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CTKN93LY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F62YX1PV",
+    "brand": "هاير",
+    "name": "هاير 9 كجم تحميل أمامي (HW90-)",
+    "specs": {
+      "cap": "9",
+      "type": "تحميل أمامي"
+    },
+    "model": "HW90-",
+    "title": "Haier 9 KG Front Loading Washing Machine, 525 mm Super Drum, BLDC Inverter Motor, Laser Welding, Steam, Silver, HW90-BP14929AS6",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17399,
+    "img": "https://m.media-amazon.com/images/I/416GueIGIZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F62YX1PV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CDV8VC24",
+    "brand": "توشيبا",
+    "name": "توشيبا 9 كجم أوتوماتيك (WIFI)",
+    "specs": {
+      "cap": "9",
+      "type": "أوتوماتيك"
+    },
+    "model": "WIFI",
+    "title": "Toshiba Tw-Bk100Gf4Eg(Mk) Washing Machine,Ultra Fine Bubbles,Inverter, Steam, Smart, Control (Wifi) 9Kg Morandi Grey, Automatic",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 21195,
+    "img": "https://m.media-amazon.com/images/I/41o2bF4b6sL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CDV8VC24?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08Z6GLP39",
+    "brand": "فريش",
+    "name": "فريش 4 كجم تحميل علوي (SWM400)",
+    "specs": {
+      "cap": "4",
+      "type": "تحميل علوي"
+    },
+    "model": "SWM400",
+    "title": "Fresh SWM400 Top Load Washing Machine 4 Kg - White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2349,
+    "img": "https://m.media-amazon.com/images/I/312Pa6XtvYS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08Z6GLP39?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4H413LQ",
+    "brand": "هاير",
+    "name": "هاير 10 كجم تحميل أمامي (HW100-B14367S8U1)",
+    "specs": {
+      "cap": "10",
+      "type": "تحميل أمامي"
+    },
+    "model": "HW100-B14367S8U1",
+    "title": "Haier Front Load 10KG Washing Machine, 1400 PRM Automatic, with Full Color Touch Control, AI Wash&Steam Wash, Dual Spray, Drum light and Wifi Control (HW100-B14367S8U1)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 26217.5,
+    "img": "https://m.media-amazon.com/images/I/31fisKBxITL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4H413LQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HBXFM7W6",
+    "brand": "وايت بوينت",
+    "name": "وايت بوينت 15 كجم تحميل علوي",
+    "specs": {
+      "cap": "15",
+      "type": "تحميل علوي"
+    },
+    "model": "",
+    "title": "White Point Washing Machine Topload 15 Kg Touch Screen Black WPTL15DGRGBMA",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 16645,
+    "img": "https://m.media-amazon.com/images/I/216eWlwAI+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HBXFM7W6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09HSLVK72",
+    "brand": "سامسونج",
+    "name": "سامسونج 8 كجم 1400 rpm",
+    "specs": {
+      "cap": "8",
+      "spin": "1400"
+    },
+    "model": "",
+    "title": "SAMSUNG WASHING MACHINE 8KG 1400RPM DIGITAL INVERTER ECO BUBBLE WI-FI STEAM INOX WW80T534DAN1AS- (local warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 24626.16,
+    "img": "https://m.media-amazon.com/images/I/31Z5Pf6aD0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09HSLVK72?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HC3F3F3Y",
+    "brand": "فريش",
+    "name": "فريش 8 كجم تحميل علوي",
+    "specs": {
+      "cap": "8",
+      "type": "تحميل علوي"
+    },
+    "model": "",
+    "title": "Fresh FTM-8S Fully Automatic Top Load Washing Machine 8kg, Digital Display, Stainless Steel Drum, Drain Pump, Hot & Cold Water Inlets, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9590,
+    "img": "https://m.media-amazon.com/images/I/31HwAkgXqKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HC3F3F3Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HLLDS224",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 7 كجم أوتوماتيك (FV710SLOB)",
+    "specs": {
+      "cap": "7",
+      "type": "أوتوماتيك"
+    },
+    "model": "FV710SLOB",
+    "title": "Tornado Washing Machine Fully Automatic 7 KG Inverter Motor, 15 Programs, Steam Function, Sensitive Care, Extra Rinse, Allergy Safe Technology, Silver (Made IN Turkey) TWV-FV710SLOB",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 15999,
+    "img": "https://m.media-amazon.com/images/I/21R1At4EGEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HLLDS224?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01J5KQIA6",
+    "brand": "بوش",
+    "name": "بوش 10 كجم تحميل أمامي (WGK254ZXEG)",
+    "specs": {
+      "cap": "10",
+      "type": "تحميل أمامي"
+    },
+    "model": "WGK254ZXEG",
+    "title": "Bosch Series 6 washing machine - frontload - 10 kg - Mini Load - Silver inox - WGK254ZXEG",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 28999,
+    "img": "https://m.media-amazon.com/images/I/31irB0KVvkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01J5KQIA6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DR78TWXH",
+    "brand": "توشيبا",
+    "name": "توشيبا 10.5 كجم تحميل أمامي (BM115GF4EG)",
+    "specs": {
+      "cap": "10.5",
+      "type": "تحميل أمامي"
+    },
+    "model": "BM115GF4EG",
+    "title": "Toshiba Front Loading Washing Machine TWD-BM115GF4EG(MK) Origin Inverter Ultra Fine Bubbles, the great waves, Steam, WI-FI 10.5 KG Washer + 7 KG dryer Morandi Grey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29861.23,
+    "img": "https://m.media-amazon.com/images/I/31ysSkkHBiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DR78TWXH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZQYBX2D",
+    "brand": "إل جي",
+    "name": "إل جي 17 كجم تحميل علوي",
+    "specs": {
+      "cap": "17",
+      "type": "تحميل علوي"
+    },
+    "model": "",
+    "title": "LG Top Loading Washing Machine, 17 kg Capacity, Middle Black, Model T17V1NDHG2",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 24290,
+    "img": "https://m.media-amazon.com/images/I/21BN7rWi1tL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZQYBX2D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BJLG3V3N",
+    "brand": "فريش",
+    "name": "فريش 7 كجم تحميل أمامي (T1000GPGD)",
+    "specs": {
+      "cap": "7",
+      "type": "تحميل أمامي"
+    },
+    "model": "T1000GPGD",
+    "title": "Fresh Automatic Washing Machine Front Loading - 7 Kg - Dark Grey - FFM7VS2T-T1000GPGD - Model 500013953",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 15400,
+    "img": "https://m.media-amazon.com/images/I/31z49rkfJcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BJLG3V3N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H67TYK3B",
+    "brand": "فريش",
+    "name": "فريش 10 كجم تحميل علوي",
+    "specs": {
+      "cap": "10",
+      "type": "تحميل علوي"
+    },
+    "model": "",
+    "title": "Fresh Jumbo Top Load Half Automatic Washing Machine With Twin Tub, 10 kg | Air Drying, 2 Motors, Filter for Lint Removal",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8100,
+    "img": "https://m.media-amazon.com/images/I/31VOGHF5p5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H67TYK3B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FPFSK7P5",
+    "brand": "زانوسي",
+    "name": "زانوسي 8 كجم تحميل أمامي (PERLAMAX)",
+    "specs": {
+      "cap": "8",
+      "type": "تحميل أمامي"
+    },
+    "model": "PERLAMAX",
+    "title": "Automatic Washing Machine(PERLAMAX), Front Load(New Edition), Digital Multi Programs, Pro-white Steam, 8kg, silver with gray door - ZWF8240SV5",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17499,
+    "img": "https://m.media-amazon.com/images/I/51uDMQMrGoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FPFSK7P5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DH4VJJX4",
+    "brand": "وايت بوينت",
+    "name": "وايت بوينت 11 كجم تحميل علوي (WPTL11DGGLAN)",
+    "specs": {
+      "cap": "11",
+      "type": "تحميل علوي"
+    },
+    "model": "WPTL11DGGLAN",
+    "title": "White Point WPTL11DGGLAN Digital Screen Top Loading Washing Machine, 11 kg Load Capacity, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 13015,
+    "img": "https://m.media-amazon.com/images/I/21Na9btDipL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DH4VJJX4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CK2NH39L",
+    "brand": "فريش",
+    "name": "فريش 12 كجم تحميل علوي",
+    "specs": {
+      "cap": "12",
+      "type": "تحميل علوي"
+    },
+    "model": "",
+    "title": "Fresh Washing Machine Top Load 12 Kg - Black LED",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14999,
+    "img": "https://m.media-amazon.com/images/I/313NjSMUITL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CK2NH39L?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DDQB5GXY",
+    "brand": "هاير",
+    "name": "هاير 8 كجم تحميل أمامي (HW80-)",
+    "specs": {
+      "cap": "8",
+      "type": "تحميل أمامي"
+    },
+    "model": "HW80-",
+    "title": "Haier 8 KG Front Loading Washing Machine, 525 mm Super Drum, Direct Motion Inverter Motor, WiFi Haismart, Laser Welding, Steam, Silver, HW80-B14959S6TU1",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17680,
+    "img": "https://m.media-amazon.com/images/I/311K1X4CtxL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DDQB5GXY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D9H2SG35",
+    "brand": "توشيبا",
+    "name": "توشيبا 12 كجم أوتوماتيك (BM130GF4EG)",
+    "specs": {
+      "cap": "12",
+      "type": "أوتوماتيك"
+    },
+    "model": "BM130GF4EG",
+    "title": "Toshiba Washing Machine Automatic TWD-BM130GF4EG(MK) Ultra Fine Bubbles, the great waves, Steam, WI-FI 12KG Washer + 8 KG dryer, Origin Inverter, Morandi Grey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 39999,
+    "img": "https://m.media-amazon.com/images/I/31imDHIn7oL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D9H2SG35?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H17ZFJBW",
+    "brand": "إل جي",
+    "name": "إل جي 11 كجم تحميل علوي",
+    "specs": {
+      "cap": "11",
+      "type": "تحميل علوي"
+    },
+    "model": "",
+    "title": "LG Top Loading Washing Machine, 11 kg, Black, Model T11V1TEHGX",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17990,
+    "img": "https://m.media-amazon.com/images/I/31Y3RPx0y7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H17ZFJBW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CJ813YHF",
+    "brand": "فريش",
+    "name": "فريش 7 كجم أوتوماتيك",
+    "specs": {
+      "cap": "7",
+      "type": "أوتوماتيك"
+    },
+    "model": "",
+    "title": "Fresh Top Automatic Washing Machine, 7Kg, Silver - Ftm-09F12S",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9490,
+    "img": "https://m.media-amazon.com/images/I/31zM03drA8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CJ813YHF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CDY19CQF",
+    "brand": "فريش",
+    "name": "فريش 12 كجم نصف أوتوماتيك",
+    "specs": {
+      "cap": "12",
+      "type": "نصف أوتوماتيك"
+    },
+    "model": "",
+    "title": "mirotic Fresh Washing Machine 12KG Semi Automatic FWT-12000NB",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8500,
+    "img": "https://m.media-amazon.com/images/I/31uxtTGNkmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CDY19CQF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJRFSMS7",
+    "brand": "فريش",
+    "name": "فريش 9 كجم أوتوماتيك",
+    "specs": {
+      "cap": "9",
+      "type": "أوتوماتيك"
+    },
+    "model": "",
+    "title": "Fresh Automatic Washing Machine 9 KG Inverter Direct Drive – Dark Gray",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 20999,
+    "img": "https://m.media-amazon.com/images/I/31KRHgK5yNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJRFSMS7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DT15V3WP",
+    "brand": "ميديا",
+    "name": "ميديا 7 كجم تحميل أمامي (MFN09W70B/S)",
+    "specs": {
+      "cap": "7",
+      "type": "تحميل أمامي"
+    },
+    "model": "MFN09W70B/S",
+    "title": "Midea Front Loading Washing Machine, MFN09W70B/S,Steam, Drum clean, Add Garment, Inverter, Inverter Motor, 7KG,Automatic",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14849,
+    "img": "https://m.media-amazon.com/images/I/31DITl6+csL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DT15V3WP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DR79D5B6",
+    "brand": "توشيبا",
+    "name": "توشيبا 15 كجم تحميل علوي (DUHN1600LUPEG)",
+    "specs": {
+      "cap": "15",
+      "type": "تحميل علوي"
+    },
+    "model": "DUHN1600LUPEG",
+    "title": "TOSHIBA Top Loading Washing Machine,AW-DUHN1600LUPEG(SK), UFB, Great Waves,Steam Heater, DDM, Silver 15Kg, Automatic",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 22500,
+    "img": "https://m.media-amazon.com/images/I/2177ITGUkvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DR79D5B6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1D61L5C",
+    "brand": "فريش",
+    "name": "فريش تحميل علوي",
+    "specs": {
+      "type": "تحميل علوي"
+    },
+    "model": "",
+    "title": "Fresh Top Loading Washing Machine 6 Kilo, Silver, Stainless Steel Drum, 8 Water Levels, Digital Display, Child Lock",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7225,
+    "img": "https://m.media-amazon.com/images/I/11b3SmeqWpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1D61L5C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091P1D477",
+    "brand": "فريش",
+    "name": "فريش 10 كجم",
+    "specs": {
+      "cap": "10"
+    },
+    "model": "",
+    "title": "Fresh Washing Machine - 10 Kg, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4056.2,
+    "img": "https://m.media-amazon.com/images/I/31V33xLecgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091P1D477?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FSLHBB4K",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 8 كجم (TLN08LSL)",
+    "specs": {
+      "cap": "8"
+    },
+    "model": "TLN08LSL",
+    "title": "TORNADO Washing Machine 8 Kg- Pump-Anti Tangle Pulsator-Rapid wash -Anti-bacterial Fan- Silver TWT-TLN08LSL",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 12400.7,
+    "img": "https://m.media-amazon.com/images/I/21uRTEKGbaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FSLHBB4K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098KPQKH4",
+    "brand": "فريش",
+    "name": "فريش 7 كجم",
+    "specs": {
+      "cap": "7"
+    },
+    "model": "",
+    "title": "Fresh Washing Machine STAR 7 KG",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5899,
+    "img": "https://m.media-amazon.com/images/I/31EoGnnQ0AL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098KPQKH4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091K4FSMH",
+    "brand": "فريش",
+    "name": "Fresh Duetto Washing Machine- 5 Kilogram",
+    "specs": {},
+    "model": "",
+    "title": "Fresh Duetto Washing Machine- 5 Kilogram",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5239,
+    "img": "https://m.media-amazon.com/images/I/31eTdfGu6tS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091K4FSMH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08WJPV1WW",
+    "brand": "فريش",
+    "name": "Fresh Air-Dry Modern Washing Machine-7 Kilogram-Blue",
+    "specs": {},
+    "model": "",
+    "title": "Fresh Air-Dry Modern Washing Machine-7 Kilogram-Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6672,
+    "img": "https://m.media-amazon.com/images/I/41NV7RuEMUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08WJPV1WW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G1ML2LLV",
+    "brand": "ميديا",
+    "name": "Midea washing Machine Twin Tub MTE02W120/W, Super big drum, Filter Air flow 360, 12K, White",
+    "specs": {},
+    "model": "MTE02W120/W",
+    "title": "Midea washing Machine Twin Tub MTE02W120/W, Super big drum, Filter Air flow 360, 12K, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7545,
+    "img": "https://m.media-amazon.com/images/I/21nww9fwr5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G1ML2LLV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09TW2ZD5G",
+    "brand": "فريش",
+    "name": "Fresh 5 Cleo Washing Machine (White)",
+    "specs": {},
+    "model": "WHITE",
+    "title": "Fresh 5 Cleo Washing Machine (White)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3245,
+    "img": "https://m.media-amazon.com/images/I/31y6Q4TcCmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09TW2ZD5G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DHLTJ3GR",
+    "brand": "غير محدد",
+    "name": "Washing Machine Jack 10K Half Automatic",
+    "specs": {
+      "type": "أوتوماتيك"
+    },
+    "model": "",
+    "title": "Washing Machine Jack 10K Half Automatic",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5400,
+    "img": "https://m.media-amazon.com/images/I/31H7dNQgtgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DHLTJ3GR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DHLQTT29",
+    "brand": "غير محدد",
+    "name": "Washing Machine Jack 10 Kilo Half Automatic",
+    "specs": {
+      "type": "أوتوماتيك"
+    },
+    "model": "",
+    "title": "Washing Machine Jack 10 Kilo Half Automatic",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5400,
+    "img": "https://m.media-amazon.com/images/I/31H7dNQgtgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DHLQTT29?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HPYZ14Y5",
+    "brand": "غير محدد",
+    "name": "12L Portable Washing Machine with Spin Dryer, Foldable 2 in 1 Touch Screen | Touch Screen, One Button Ope",
+    "specs": {},
+    "model": "",
+    "title": "12L Portable Washing Machine with Spin Dryer, Foldable 2 in 1 Touch Screen | Touch Screen, One Button Operation, Large Size, Wash And Dry,Easy To Fold And Store",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 699.76,
+    "img": "https://m.media-amazon.com/images/I/41kh22uJakL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HPYZ14Y5?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

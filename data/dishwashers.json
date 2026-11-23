@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GWQCX4BF",
@@ -41,7 +42,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FSKLDTJB",
@@ -63,7 +65,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HFJDLCSC",
@@ -84,7 +87,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CYC7JBGC",
@@ -105,7 +109,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DFM8JFRY",
@@ -126,7 +131,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GD2127LL",
@@ -147,7 +153,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CD65DPPF",
@@ -168,7 +175,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H9Z7KBXD",
@@ -189,7 +197,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GYS82PTJ",
@@ -210,7 +219,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BR2NDSV4",
@@ -229,7 +239,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B091NYQX44",
@@ -248,7 +259,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DGF1CPKQ",
@@ -267,7 +279,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CNLSD7Q4",
@@ -286,7 +299,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GR62HYVK",
@@ -300,6 +314,389 @@
     "price": 20488,
     "img": "https://m.media-amazon.com/images/I/210Mu7qDw9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GR62HYVK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0DJRCNVHK",
+    "brand": "بيكو",
+    "name": "بيكو 13 مكان قائم (DVN05322S)",
+    "specs": {
+      "places": "13",
+      "type": "قائم"
+    },
+    "model": "DVN05322S",
+    "title": "BEKO Dishwasher, Full-size Stainless Steel, 13 Place Settings, Freestanding, Silver - DVN05322S",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 16830,
+    "img": "https://m.media-amazon.com/images/I/213WhVp5QpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DJRCNVHK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HFJHRQVW",
+    "brand": "بيكو",
+    "name": "بيكو 15 مكان (BDFN36531XCPI)",
+    "specs": {
+      "places": "15"
+    },
+    "model": "BDFN36531XCPI",
+    "title": "Beko Dishwasher - 15 Place Settings - 11 Programs - Wi-Fi & Bluetooth - PowerIntense - SensorAdapt - Touch Screen - BLDC Motor - SelfDry - Grey - BDFN36531XCPI",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 34499,
+    "img": "https://m.media-amazon.com/images/I/31s+VIUPKmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HFJHRQVW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H7N8511J",
+    "brand": "إل جي",
+    "name": "إل جي 14 مكان (DFC287HVS)",
+    "specs": {
+      "places": "14"
+    },
+    "model": "DFC287HVS",
+    "title": "LG Dishwasher – 14 Place Settings - QuadWash™ - TrueSteam™ - Auto Open Dry - Heat Dry - ThinQ™ Wi-Fi - Direct Drive Inverter - Silver - DFC287HVS",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 52499,
+    "img": "https://m.media-amazon.com/images/I/31FQhhDuTNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H7N8511J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CHXP548W",
+    "brand": "بيكو",
+    "name": "بيكو 15 مكان (BDFN26520XQ)",
+    "specs": {
+      "places": "15"
+    },
+    "model": "BDFN26520XQ",
+    "title": "Beko Dishwasher 60 cm, 15 Place settings, 6 program, Fast+, model BDFN26520XQ Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 25323,
+    "img": "https://m.media-amazon.com/images/I/31eW-6Ky9WL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CHXP548W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CG6DRQ5S",
+    "brand": "ميديا",
+    "name": "ميديا 13 مكان (WQP13-5201C)",
+    "specs": {
+      "places": "13"
+    },
+    "model": "WQP13-5201C",
+    "title": "Midea Dishwasher WQP13-5201C-S 6programs, Anti Bacteria Filter, Half Load, Free standing 13 Place set - Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 18099,
+    "img": "https://m.media-amazon.com/images/I/31SBq3aqV3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CG6DRQ5S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BR2NG8H7",
+    "brand": "بيكو",
+    "name": "Beko dishwasher 45 cm 5 program 10 person - black led display - half load - time delay -inv",
+    "specs": {},
+    "model": "",
+    "title": "Beko dishwasher 45 cm 5 program 10 person - black led display - half load - time delay -inv",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 18199,
+    "img": "https://m.media-amazon.com/images/I/21gqvpvVxjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BR2NG8H7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09QDG1SFP",
+    "brand": "تورنيدو",
+    "name": "Tornado Digital, 7 Programs Dishwasher for 10 Person (45cm, Dark Silver, TDV-FN107DDS)",
+    "specs": {},
+    "model": "FN107DDS",
+    "title": "Tornado Digital, 7 Programs Dishwasher for 10 Person (45cm, Dark Silver, TDV-FN107DDS)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 21264,
+    "img": "https://m.media-amazon.com/images/I/21hyB6Y9o9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09QDG1SFP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09YZ3XDB3",
+    "brand": "فريش",
+    "name": "Fresh Dishwasher -A15 60 cm- 12 Persons Silver, A15-60-SR",
+    "specs": {},
+    "model": "A15",
+    "title": "Fresh Dishwasher -A15 60 cm- 12 Persons Silver, A15-60-SR",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 15999,
+    "img": "https://m.media-amazon.com/images/I/31gnRKKBW4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09YZ3XDB3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CKRVFFZX",
+    "brand": "وايت بوينت",
+    "name": "white point WPD148HDB - Dish Washer - 14 PERSON - 8 Programs - Half load - Digetal - Black - turky",
+    "specs": {},
+    "model": "WPD148HDB",
+    "title": "white point WPD148HDB - Dish Washer - 14 PERSON - 8 Programs - Half load - Digetal - Black - turky",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19750,
+    "img": "https://m.media-amazon.com/images/I/3141uHfyISL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CKRVFFZX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HNXP6735",
+    "brand": "وايت بوينت",
+    "name": "White Point Al Abed Dishwasher WPD105DDB, 10 Person Capacity | 5 Wash Programmes, Mid-Size, Model WPD105D",
+    "specs": {},
+    "model": "WPD105DDB",
+    "title": "White Point Al Abed Dishwasher WPD105DDB, 10 Person Capacity | 5 Wash Programmes, Mid-Size, Model WPD105DDB",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 16990,
+    "img": "https://m.media-amazon.com/images/I/31dt1wLnAiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HNXP6735?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DGQJLYGC",
+    "brand": "بيكو",
+    "name": "Beko Dishwasher 5 Programs 14 Persons 60 cm - LED - Half Load + Hygiene Intense + Steam Gloss - BDFN15421",
+    "specs": {},
+    "model": "BDFN15421S",
+    "title": "Beko Dishwasher 5 Programs 14 Persons 60 cm - LED - Half Load + Hygiene Intense + Steam Gloss - BDFN15421S",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 20999,
+    "img": "https://m.media-amazon.com/images/I/21yMWaWXGYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DGQJLYGC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BR2NXB51",
+    "brand": "بيكو",
+    "name": "Beko Dishwasher 60 cm 6 program 15 person - Inox - LED Display - (CornerIntense)-Hygiene -SteamGloss-Fast",
+    "specs": {},
+    "model": "CORNERINTENSE",
+    "title": "Beko Dishwasher 60 cm 6 program 15 person - Inox - LED Display - (CornerIntense)-Hygiene -SteamGloss-Fast+ - Half load- Inv.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29999,
+    "img": "https://m.media-amazon.com/images/I/31oIchDHdvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BR2NXB51?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CYVP7XL4",
+    "brand": "بيكو",
+    "name": "Beko Dishwasher, 10 persons & 5 programs, compact size, width 45 cm, Half load feature - Model DVS05020S",
+    "specs": {},
+    "model": "DVS05020S",
+    "title": "Beko Dishwasher, 10 persons & 5 programs, compact size, width 45 cm, Half load feature - Model DVS05020S",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14999,
+    "img": "https://m.media-amazon.com/images/I/21K5TPfm31L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CYVP7XL4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C72Y2B5K",
+    "brand": "بيكو",
+    "name": "Beko Dishwasher 15 person 6 program, 60 * 60 cm, (CornerIntense)-SteamGloss, Half load - BDFN36531XC",
+    "specs": {},
+    "model": "CORNERINTENSE",
+    "title": "Beko Dishwasher 15 person 6 program, 60 * 60 cm, (CornerIntense)-SteamGloss, Half load - BDFN36531XC",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29999,
+    "img": "https://m.media-amazon.com/images/I/3181zoIGLBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C72Y2B5K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HC35TLCQ",
+    "brand": "Argosta",
+    "name": "Argosta 10 مكان",
+    "specs": {
+      "places": "10"
+    },
+    "model": "",
+    "title": "Argosta AR-DW-10001-S 10 Place Settings Dishwasher – A++ Energy Efficiency, 6 Wash Programmes, LED Display",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 11700,
+    "img": "https://m.media-amazon.com/images/I/21s0bSuk+nL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HC35TLCQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GKCXJ337",
+    "brand": "غير محدد",
+    "name": "LEVON 13 Place Dishwasher | Silver | With 3 Stage Timer | Child Safety Lock | Digital | With 6 Universal ",
+    "specs": {
+      "places": "13"
+    },
+    "model": "S13",
+    "title": "LEVON 13 Place Dishwasher | Silver | With 3 Stage Timer | Child Safety Lock | Digital | With 6 Universal Programs - Model LV-DWED3RC-S13",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14349,
+    "img": "https://m.media-amazon.com/images/I/21WAJfe2xyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GKCXJ337?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DPWT7MJJ",
+    "brand": "غير محدد",
+    "name": "Ocean Digital Dishwasher, 15 Place Settings, 8 Programs, Silver- ODOI 815 VXB, Made in Turkey",
+    "specs": {
+      "places": "15"
+    },
+    "model": "",
+    "title": "Ocean Digital Dishwasher, 15 Place Settings, 8 Programs, Silver- ODOI 815 VXB, Made in Turkey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 25119.46,
+    "img": "https://m.media-amazon.com/images/I/31igGvdHu6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DPWT7MJJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DJMMSH1X",
+    "brand": "Heinrichs",
+    "name": "Heinrichs قائم",
+    "specs": {
+      "type": "قائم"
+    },
+    "model": "",
+    "title": "Heinrich´s Portable Mini Dishwasher, Table Dishwasher with 6.5 L Consumption, Only with Water Connection, Small + Freestanding for Office, Camping/Motorhome, 7 Programmes, 1380 W [Energy C",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 24123.17,
+    "img": "https://m.media-amazon.com/images/I/31+AKvCV0pL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DJMMSH1X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D6RY1XGN",
+    "brand": "Ocean",
+    "name": "Ocean 13 مكان",
+    "specs": {
+      "places": "13"
+    },
+    "model": "",
+    "title": "Ocean Digital Dishwasher, 13 Place Settings, 8 Programs, Dark Stainless - ODH 813 V XBN, Made in Turkey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19824.23,
+    "img": "https://m.media-amazon.com/images/I/41RJLFgH-KL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D6RY1XGN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

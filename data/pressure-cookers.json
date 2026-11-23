@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09V5N7TZZ",
@@ -41,7 +42,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B096WKCP7T",
@@ -63,7 +65,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DB8PB43C",
@@ -85,7 +88,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DFVN57MT",
@@ -107,7 +111,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09GNK3CR4",
@@ -129,7 +134,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09GNKWS5X",
@@ -151,7 +157,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CL2FNBFY",
@@ -173,7 +180,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQK9B1WX",
@@ -195,7 +203,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GLQK7B5S",
@@ -217,7 +226,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQYWGNS4",
@@ -238,7 +248,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FC2ZF9ND",
@@ -259,7 +270,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07MCQB72N",
@@ -280,7 +292,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B085GJPBL3",
@@ -301,7 +314,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DR9LVR9Q",
@@ -318,6 +332,893 @@
     "price": 3299,
     "img": "https://m.media-amazon.com/images/I/414NsrwzmqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DR9LVR9Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0HR1N5NSK",
+    "brand": "RAF",
+    "name": "RAF 6 لتر 1000 وات",
+    "specs": {
+      "cap": "6",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "RAF R.173 Electric Pressure Cooker, 1000W, 6L",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4289.43,
+    "img": "https://m.media-amazon.com/images/I/41ZFmPEF8WL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HR1N5NSK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B087C62SX9",
+    "brand": "أرشيا",
+    "name": "أرشيا 8 لتر (EP110)",
+    "specs": {
+      "cap": "8"
+    },
+    "model": "EP110",
+    "title": "Arshia- 8L DIGITAL PRESSURE COOKER - BLACK - EP110\"Min 1 year manufacturer warranty\"",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9990,
+    "img": "https://m.media-amazon.com/images/I/41C91aecPOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B087C62SX9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09RWQFNMN",
+    "brand": "مولينكس",
+    "name": "مولينكس 1090 وات (CE753827)",
+    "specs": {
+      "watt": "1090"
+    },
+    "model": "CE753827",
+    "title": "Moulinex turbo cuisine electrical pressure cooker, 5 litre, 915-1090w, black, ce753827, 1 year warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 7250,
+    "img": "https://m.media-amazon.com/images/I/31sDdXqX0+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09RWQFNMN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HL67FPY6",
+    "brand": "غير محدد",
+    "name": "Silver Love 8L Digital Electric Pressure Cooker 12 Programs 1300W 12 Food | 12 Smart Cooking Program, Saf",
+    "specs": {
+      "cap": "8",
+      "watt": "1300"
+    },
+    "model": "",
+    "title": "Silver Love 8L Digital Electric Pressure Cooker 12 Programs 1300W 12 Food | 12 Smart Cooking Program, Safe and Manual Function, Multi-Function, Year Warranty, Digital Display",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3499,
+    "img": "https://m.media-amazon.com/images/I/514r99gAwBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HL67FPY6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HRC1JD16",
+    "brand": "عام",
+    "name": "عام 6 لتر 1000 وات",
+    "specs": {
+      "cap": "6",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Electric Pressure Cooker 10-in-1 Multifunctional 6L 1000W | LED Digital Display, Non-Stick Inner Pot, Safe Locking Lid, Serves up to 8 People, Multiple Cooking Modes",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3109,
+    "img": "https://m.media-amazon.com/images/I/51N5Gi7vcHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HRC1JD16?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GW99QZYL",
+    "brand": "DENX",
+    "name": "DENX 8 لتر 1350 وات (DX3401)",
+    "specs": {
+      "cap": "8",
+      "watt": "1350"
+    },
+    "model": "DX3401",
+    "title": "DENX DX3401 8L Electric Pressure Cooker 1350W – Multi-Functional Digital Cooker for Rice, Meat, Soup & Stew, Fast Cooking, Keep Warm Function, Energy Efficient Kitchen Appliance",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3630,
+    "img": "https://m.media-amazon.com/images/I/417k6cc4yZL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GW99QZYL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HCMB7DRN",
+    "brand": "غير محدد",
+    "name": "JMK-7502 1000W 6L Multipurpose Electric Pressure Cooker for All Food Cooking",
+    "specs": {
+      "cap": "6",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "JMK-7502 1000W 6L Multipurpose Electric Pressure Cooker for All Food Cooking",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3299,
+    "img": "https://m.media-amazon.com/images/I/51HUy7OAJVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HCMB7DRN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HF3MHZ83",
+    "brand": "غير محدد",
+    "name": "Digital Electric Pressure Cooker 6 Liter 12 Programs 1000 Watt JMK7503 | 70 KPa, SS410 Stainless Steel Bo",
+    "specs": {
+      "cap": "6",
+      "watt": "1000"
+    },
+    "model": "JMK7503",
+    "title": "Digital Electric Pressure Cooker 6 Liter 12 Programs 1000 Watt JMK7503 | 70 KPa, SS410 Stainless Steel Body, Non-Stick Inside Bowl, Digital LED Display, 1 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3423,
+    "img": "https://m.media-amazon.com/images/I/51OVayW+HbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HF3MHZ83?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HCM67HYS",
+    "brand": "غير محدد",
+    "name": "Gamaky 12-in-1 Digital Electric Pressure Cooker (6L, 1000W) – Fast cooking with preset programs, 12 cooki",
+    "specs": {
+      "cap": "6",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Gamaky 12-in-1 Digital Electric Pressure Cooker (6L, 1000W) – Fast cooking with preset programs, 12 cooking functions, safety features, and a 1-year warranty (Model JMK 7503).",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3499,
+    "img": "https://m.media-amazon.com/images/I/51OVayW+HbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HCM67HYS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GX7W5JNS",
+    "brand": "غير محدد",
+    "name": "Electric Pressure Cooker 6 Liter – 1000 Watt – Electric Pressure Cooker – 14 Cooking Programs – LED Digit",
+    "specs": {
+      "cap": "6",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Electric Pressure Cooker 6 Liter – 1000 Watt – Electric Pressure Cooker – 14 Cooking Programs – LED Digital Display – 70Kpa Pressure – High Safety – Stainless Steel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3744,
+    "img": "https://m.media-amazon.com/images/I/41RT8vwdi8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GX7W5JNS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DFH27X14",
+    "brand": "غير محدد",
+    "name": "DSP Electric Pressure Cooker With Automatic And Adjustable Temperature, 4.5 Liter, 1350 Watt KB-5009",
+    "specs": {
+      "cap": "4.5",
+      "watt": "1350"
+    },
+    "model": "",
+    "title": "DSP Electric Pressure Cooker With Automatic And Adjustable Temperature, 4.5 Liter, 1350 Watt KB-5009",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3270.9,
+    "img": "https://m.media-amazon.com/images/I/31t62zy3sYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DFH27X14?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4W99C7V",
+    "brand": "غير محدد",
+    "name": "JAMAKY Electric Pressure Cooker, 8 Liters, 1350 Watts, 8 Cooking Modes, Digital Touch Display, JMK7504",
+    "specs": {
+      "cap": "8",
+      "watt": "1350"
+    },
+    "model": "JMK7504",
+    "title": "JAMAKY Electric Pressure Cooker, 8 Liters, 1350 Watts, 8 Cooking Modes, Digital Touch Display, JMK7504",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3999,
+    "img": "https://m.media-amazon.com/images/I/31I9Ux4sXqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4W99C7V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09TQ1KGW3",
+    "brand": "Zinox",
+    "name": "Zinox 12 لتر",
+    "specs": {
+      "cap": "12"
+    },
+    "model": "",
+    "title": "Zinox pressure cooker 12 liter black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1955.64,
+    "img": "https://m.media-amazon.com/images/I/31ETPzTfdYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09TQ1KGW3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09TQ56XF9",
+    "brand": "Zinox",
+    "name": "Zinox 8 لتر",
+    "specs": {
+      "cap": "8"
+    },
+    "model": "",
+    "title": "Zinox pressure cooker Black 8 liter ZPC8",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1767.96,
+    "img": "https://m.media-amazon.com/images/I/41HLbd7CcQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09TQ56XF9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DRZ3RHPZ",
+    "brand": "غير محدد",
+    "name": "FASHION.HOME Non-Stick Pressure Cooker, 7L, Aluminum, Fast & Healthy Cooking Gas & Electric Stoves",
+    "specs": {
+      "cap": "7"
+    },
+    "model": "",
+    "title": "FASHION.HOME Non-Stick Pressure Cooker, 7L, Aluminum, Fast & Healthy Cooking Gas & Electric Stoves",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 932,
+    "img": "https://m.media-amazon.com/images/I/41SBvUtGXkL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DRZ3RHPZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZ21Y894",
+    "brand": "غير محدد",
+    "name": "Home Perfect Turkish Made 12 Liter Stainless Steel Pressure Cooker 304",
+    "specs": {
+      "cap": "12"
+    },
+    "model": "",
+    "title": "Home Perfect Turkish Made 12 Liter Stainless Steel Pressure Cooker 304",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3499,
+    "img": "https://m.media-amazon.com/images/I/31+15RnPrjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZ21Y894?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01LLH5CAS",
+    "brand": "غير محدد",
+    "name": "Palson Sapore Plus Electric Pressure Cooker, Silver, 8 Liter, 30997",
+    "specs": {
+      "cap": "8"
+    },
+    "model": "",
+    "title": "Palson Sapore Plus Electric Pressure Cooker, Silver, 8 Liter, 30997",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5700,
+    "img": "https://m.media-amazon.com/images/I/41TJaIwL+zL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01LLH5CAS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09JZHM3KV",
+    "brand": "Zinox",
+    "name": "Zinox 6 لتر",
+    "specs": {
+      "cap": "6"
+    },
+    "model": "",
+    "title": "Zinox pressure cooker Black 6 liter ZPC6L",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1570.43,
+    "img": "https://m.media-amazon.com/images/I/21qht7EUJSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09JZHM3KV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGVQGZ66",
+    "brand": "غير محدد",
+    "name": "Aluminium Pressure Cooker 7 Liter",
+    "specs": {
+      "cap": "7"
+    },
+    "model": "",
+    "title": "Aluminium Pressure Cooker 7 Liter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1596,
+    "img": "https://m.media-amazon.com/images/I/41A2gkpXO8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGVQGZ66?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09KN18QGW",
+    "brand": "غير محدد",
+    "name": "ALSAIF Traditional Stainless Steel Pressure Cooker Size 11 Liter, Silver, K96011, 5 Year Warranty",
+    "specs": {
+      "cap": "11"
+    },
+    "model": "K96011",
+    "title": "ALSAIF Traditional Stainless Steel Pressure Cooker Size 11 Liter, Silver, K96011, 5 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4086,
+    "img": "https://m.media-amazon.com/images/I/41lWeziNEhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09KN18QGW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H6R69R5R",
+    "brand": "غير محدد",
+    "name": "Aluminum Pressure Cooker 5 Liter 22 Cm Silver Aby001",
+    "specs": {
+      "cap": "5"
+    },
+    "model": "ABY001",
+    "title": "Aluminum Pressure Cooker 5 Liter 22 Cm Silver Aby001",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1446.12,
+    "img": "https://m.media-amazon.com/images/I/412Qflnkt2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H6R69R5R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08CKW3JLB",
+    "brand": "غير محدد",
+    "name": "Al Saif Aluminum Pressure Cooker Color: Silver, Size: 3 Liter",
+    "specs": {
+      "cap": "3"
+    },
+    "model": "",
+    "title": "Al Saif Aluminum Pressure Cooker Color: Silver, Size: 3 Liter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2257,
+    "img": "https://m.media-amazon.com/images/I/41z8djtuHyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08CKW3JLB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09KN17PYR",
+    "brand": "ALSAIF",
+    "name": "ALSAIF 9 لتر (K96009)",
+    "specs": {
+      "cap": "9"
+    },
+    "model": "K96009",
+    "title": "AL SAIF Traditional Stainless Steel Pressure Cooker Size: 9 Liter Color: Stainless Steel Model: K96009, 5 Years warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3899,
+    "img": "https://m.media-amazon.com/images/I/41Y-YkutrpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09KN17PYR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08HCYMDB6",
+    "brand": "ALSAIF",
+    "name": "ALSAIF 5 لتر",
+    "specs": {
+      "cap": "5"
+    },
+    "model": "",
+    "title": "Al Saif Aluminum Granite Pressure Cooker Size: 5Liter, Color: Pearl White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3376.38,
+    "img": "https://m.media-amazon.com/images/I/41VJkTZEkiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08HCYMDB6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H6C3LR5S",
+    "brand": "NUJAIN",
+    "name": "NUJAIN 8 لتر",
+    "specs": {
+      "cap": "8"
+    },
+    "model": "",
+    "title": "High-Quality Speed & Safe Pressure Cooker with Premium Mirror Finish – Energy Efficient Fast Cooking Pot – Advanced Safety Valve & Locking System – Professional Grade Kitchenware (8L)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2199,
+    "img": "https://m.media-amazon.com/images/I/419em9+7eAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H6C3LR5S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQGKXPRC",
+    "brand": "غير محدد",
+    "name": "Al Saif Pressure Cooker, 7 Liter, Stainless Steel",
+    "specs": {
+      "cap": "7"
+    },
+    "model": "",
+    "title": "Al Saif Pressure Cooker, 7 Liter, Stainless Steel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3563.95,
+    "img": "https://m.media-amazon.com/images/I/21UNFsWri+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQGKXPRC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H6R2MYN6",
+    "brand": "غير محدد",
+    "name": "Aluminum Pressure Cooker 7 Liter Size 24 Cm Aby001 Silver",
+    "specs": {
+      "cap": "7"
+    },
+    "model": "ABY001",
+    "title": "Aluminum Pressure Cooker 7 Liter Size 24 Cm Aby001 Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1779.11,
+    "img": "https://m.media-amazon.com/images/I/417MR5tXhPL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H6R2MYN6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B082VXGS7T",
+    "brand": "Trust Pro",
+    "name": "Trust Pro 11 لتر",
+    "specs": {
+      "cap": "11"
+    },
+    "model": "",
+    "title": "Trust Pro Stainless Steel Pressure Cooker 11 Liter, 28CM11L",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4199,
+    "img": "https://m.media-amazon.com/images/I/41cCH9GBh7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B082VXGS7T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZJDXTQH",
+    "brand": "غير محدد",
+    "name": "High Purity Aluminum Pressure Cooker 7 Liter Silver Color For Fast Cooking",
+    "specs": {
+      "cap": "7"
+    },
+    "model": "",
+    "title": "High Purity Aluminum Pressure Cooker 7 Liter Silver Color For Fast Cooking",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1596,
+    "img": "https://m.media-amazon.com/images/I/51g9kYbd79L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZJDXTQH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0854K8B1N",
+    "brand": "ALSAIF",
+    "name": "ALSAIF 15 لتر (K96015)",
+    "specs": {
+      "cap": "15"
+    },
+    "model": "K96015",
+    "title": "AL SAIF PRESSURE COOKER 15 liter S.Steel, K96015",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5036,
+    "img": "https://m.media-amazon.com/images/I/41lu8ulRzAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0854K8B1N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BT87RVMC",
+    "brand": "Zinox",
+    "name": "Zinox 10 لتر",
+    "specs": {
+      "cap": "10"
+    },
+    "model": "",
+    "title": "Zinox 18/10 Stainless Steel Pressure Cooker 10 Liter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2275,
+    "img": "https://m.media-amazon.com/images/I/41IZjyFbjSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BT87RVMC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H422LY17",
+    "brand": "غير محدد",
+    "name": "Aluminium Pressure Cooker 2.5 Liter Pure",
+    "specs": {
+      "cap": "2.5"
+    },
+    "model": "",
+    "title": "Aluminium Pressure Cooker 2.5 Liter Pure",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1999,
+    "img": "https://m.media-amazon.com/images/I/41Mzn6w20aL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H422LY17?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08HD6768D",
+    "brand": "ALSAIF",
+    "name": "ALSAIF 15 لتر (K98015/PW)",
+    "specs": {
+      "cap": "15"
+    },
+    "model": "K98015/PW",
+    "title": "AL SAIF Aluminum Granite Pressure Cooker Size: 15 Liter Color: Pearl White Model: K98015/PW, 5 Years warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5950,
+    "img": "https://m.media-amazon.com/images/I/51wAjG-dwoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08HD6768D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GTC9BN7J",
+    "brand": "غير محدد",
+    "name": "Aluminium Pressure Cooker 3 Liter",
+    "specs": {
+      "cap": "3"
+    },
+    "model": "",
+    "title": "Aluminium Pressure Cooker 3 Liter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1999,
+    "img": "https://m.media-amazon.com/images/I/31tFCYQPC3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GTC9BN7J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09KMZ555B",
+    "brand": "ALSAIF",
+    "name": "ALSAIF 12 لتر (K98012/PW)",
+    "specs": {
+      "cap": "12"
+    },
+    "model": "K98012/PW",
+    "title": "AL SAIF Aluminum Granite Pressure Cooker Size: 12 Liter Color: Pearl White Model: K98012/PW, 5 Years warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4656,
+    "img": "https://m.media-amazon.com/images/I/41b-PHFd+QL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09KMZ555B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HFKVCBSX",
+    "brand": "غير محدد",
+    "name": "Zinox Pressure Cooker 5 Liter Aluminium Silver Easy to Use and Clean PC-AL-5L",
+    "specs": {
+      "cap": "5"
+    },
+    "model": "",
+    "title": "Zinox Pressure Cooker 5 Liter Aluminium Silver Easy to Use and Clean PC-AL-5L",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1899,
+    "img": "https://m.media-amazon.com/images/I/414JInkQy1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HFKVCBSX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H3FWQBRV",
+    "brand": "غير محدد",
+    "name": "قدر ضغط 9 لتر المونيوم من سمارت كيتشن",
+    "specs": {
+      "cap": "9"
+    },
+    "model": "",
+    "title": "قدر ضغط 9 لتر المونيوم من سمارت كيتشن",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1915,
+    "img": "https://m.media-amazon.com/images/I/41k6w29GteL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H3FWQBRV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09235GNYS",
+    "brand": "ALZA",
+    "name": "ALZA 12 لتر",
+    "specs": {
+      "cap": "12"
+    },
+    "model": "",
+    "title": "ALZA Manual Pressure Cooker 12 L – stainless steel 18/10 – Made in Spain",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6100,
+    "img": "https://m.media-amazon.com/images/I/31q+g-f6jNS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09235GNYS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQGNBB2N",
+    "brand": "غير محدد",
+    "name": "Al Saif Pressure Cooker, Aluminum, 15 Liter",
+    "specs": {
+      "cap": "15"
+    },
+    "model": "",
+    "title": "Al Saif Pressure Cooker, Aluminum, 15 Liter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4999,
+    "img": "https://m.media-amazon.com/images/I/21LhIJYYRnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQGNBB2N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H5RJSV8Y",
+    "brand": "غير محدد",
+    "name": "Multifunctional Pressure Cooker – Large Pressure Cooker for Fast Cooking and Family Meal Preparation with",
+    "specs": {},
+    "model": "",
+    "title": "Multifunctional Pressure Cooker – Large Pressure Cooker for Fast Cooking and Family Meal Preparation with High Efficiency (Litre, 5)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1485,
+    "img": "https://m.media-amazon.com/images/I/310z5x77fWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H5RJSV8Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091J4TGJK",
+    "brand": "غير محدد",
+    "name": "Pressure Cooker 7 Litre",
+    "specs": {},
+    "model": "",
+    "title": "Pressure Cooker 7 Litre",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1596,
+    "img": "https://m.media-amazon.com/images/I/519LEPvd+vL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091J4TGJK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GQJHMSZ6",
+    "brand": "غير محدد",
+    "name": "Cookware, Mini Pressure Cooker, Non-Stick, Multifunctional Cooking Pot, Mini Pressure Cooker for Home Sou",
+    "specs": {},
+    "model": "",
+    "title": "Cookware, Mini Pressure Cooker, Non-Stick, Multifunctional Cooking Pot, Mini Pressure Cooker for Home Soup, Multi-Colour, Stainless Steel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 620,
+    "img": "https://m.media-amazon.com/images/I/41SEeXZNJDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GQJHMSZ6?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

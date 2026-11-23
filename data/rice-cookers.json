@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B098TXLKX3",
@@ -41,7 +42,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F1KP5357",
@@ -63,7 +65,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09BMQP4VV",
@@ -85,7 +88,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BXDFKVVX",
@@ -107,7 +111,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0119L4ZV8",
@@ -128,7 +133,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0119L51A2",
@@ -149,7 +155,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FW4GBH2F",
@@ -170,7 +177,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0119L4Z40",
@@ -191,7 +199,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B098W2DZB1",
@@ -212,7 +221,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CY2KZPZN",
@@ -233,7 +243,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08W8QQLWD",
@@ -254,7 +265,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GCMYZDMH",
@@ -275,7 +287,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FGY1L22M",
@@ -296,7 +309,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BPS4RNWW",
@@ -312,6 +326,519 @@
     "price": 7648,
     "img": "https://m.media-amazon.com/images/I/41wbxWoVXTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BPS4RNWW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0DQV2F82P",
+    "brand": "شاومي",
+    "name": "شاومي 4 لتر",
+    "specs": {
+      "cap": "4"
+    },
+    "model": "",
+    "title": "Xiaomi Multifunctional rice cooker 4L GB",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5140.03,
+    "img": "https://m.media-amazon.com/images/I/21NnPAqkfML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DQV2F82P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B076KPF7SR",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 1.8 لتر (RC1850-B5-SP)",
+    "specs": {
+      "cap": "1.8"
+    },
+    "model": "RC1850-B5-SP",
+    "title": "Black & Decker Rice Cooker 1.8 L (Rc1850-B5-Sp), White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2800,
+    "img": "https://m.media-amazon.com/images/I/41JPLIPOokL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B076KPF7SR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GCNMWTLQ",
+    "brand": "كينوود",
+    "name": "كينوود 2.8 لتر",
+    "specs": {
+      "cap": "2.8"
+    },
+    "model": "",
+    "title": "KENWOOD Rice Cooker 2 in 1 2.8L 16 Cup with Food Steamer Basket, Non-Stick Cooker, Tempered Glass Cover, Hot & Baking Indicator Lights, Spatula Holder, Handle",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2699,
+    "img": "https://m.media-amazon.com/images/I/41a+GtUyaXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GCNMWTLQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DTJ8F6CM",
+    "brand": "فيليبس",
+    "name": "فيليبس 1.8 لتر (HD4717/30)",
+    "specs": {
+      "cap": "1.8"
+    },
+    "model": "HD4717/30",
+    "title": "Philips 3000 Series HD4717/30 - Digital Rice Cooker, 1.8L capacity, FreshDefense Tech, 48H Keep Warm, 16 Cooking Menus, Smart 3D Heating, Non-Stick Coating, Fluffy Rice Every Time",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5498.9,
+    "img": "https://m.media-amazon.com/images/I/41vQiZ3H1uL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DTJ8F6CM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08JKF1L2K",
+    "brand": "كينوود",
+    "name": "كينوود 2.8 لتر (RCM71)",
+    "specs": {
+      "cap": "2.8"
+    },
+    "model": "RCM71",
+    "title": "Kenwood rice cooker with steamer, large 2.8l capacity, rcm71.000ss. - international warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/41hTvjtAYmL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08JKF1L2K?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BKY74LXB",
+    "brand": "فيليبس",
+    "name": "فيليبس 1.8 لتر (HD4515/55)",
+    "specs": {
+      "cap": "1.8"
+    },
+    "model": "HD4515/55",
+    "title": "Philips Digital Rice Cooker - with Smart 3D heating, 1.8L, Automatic keep warm function - HD4515/55",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6606,
+    "img": "https://m.media-amazon.com/images/I/41zKG0P6pOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BKY74LXB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07PZ85XP1",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر 1.8 لتر",
+    "specs": {
+      "cap": "1.8"
+    },
+    "model": "",
+    "title": "Black Decker 1.8L Automatic Rice Cooker, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3300,
+    "img": "https://m.media-amazon.com/images/I/31DjUEiqZhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07PZ85XP1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091DPY2NF",
+    "brand": "تيفال",
+    "name": "TEFAL Mecha Sperical 1.8 Litre Electrical Rice Cooker, Silver/White, Stainless Steel/Plastic, RK242127",
+    "specs": {},
+    "model": "RK242127",
+    "title": "TEFAL Mecha Sperical 1.8 Litre Electrical Rice Cooker, Silver/White, Stainless Steel/Plastic, RK242127",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3879.03,
+    "img": "https://m.media-amazon.com/images/I/31lz0QsxiaS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091DPY2NF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H6T1572Z",
+    "brand": "DENX",
+    "name": "DENX 1 لتر 400 وات (DX2002)",
+    "specs": {
+      "cap": "1",
+      "watt": "400"
+    },
+    "model": "DX2002",
+    "title": "DENX DX2002 Smart Electric Rice Cooker & Food Steamer, 1L Capacity, 400W Non-Stick Rice Cooker, Automatic Keep Warm Function, Compact Cooker for Rice, Vegetables & Grains",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1375,
+    "img": "https://m.media-amazon.com/images/I/41K+HdFNJzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H6T1572Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HNM6418V",
+    "brand": "جاماكي",
+    "name": "جاماكي 2.8 لتر 1000 وات",
+    "specs": {
+      "cap": "2.8",
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Electric Rice Cooker 2.8L 1000W With Heat Retention Function Jamaki Model 7501",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1790,
+    "img": "https://m.media-amazon.com/images/I/41FIhGoRp1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HNM6418V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJZWDNLH",
+    "brand": "غير محدد",
+    "name": "JAMAKY Electric Rice Cooker JMK7501 2.8L 1000W | Non-stick inner bowl, keep warm function, built-in steam",
+    "specs": {
+      "cap": "2.8",
+      "watt": "1000"
+    },
+    "model": "JMK7501",
+    "title": "JAMAKY Electric Rice Cooker JMK7501 2.8L 1000W | Non-stick inner bowl, keep warm function, built-in steam strainer, iron shell",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1999,
+    "img": "https://m.media-amazon.com/images/I/41V+r3cwoRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJZWDNLH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DFH2RN7J",
+    "brand": "غير محدد",
+    "name": "DSP 5.0L Digital Multifunction Rice Cooker 700W kb5004 12 Cooking Programs Silver/Black",
+    "specs": {
+      "cap": "5",
+      "watt": "700"
+    },
+    "model": "KB5004",
+    "title": "DSP 5.0L Digital Multifunction Rice Cooker 700W kb5004 12 Cooking Programs Silver/Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2760,
+    "img": "https://m.media-amazon.com/images/I/41x9rSZBBQL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DFH2RN7J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HRFVVK85",
+    "brand": "غير محدد",
+    "name": "JAMAKY Electric Rice Cooker JMK7501 2.8L | 1000W capacity, built-in steam bowl, fashion design, easy to u",
+    "specs": {
+      "cap": "2.8",
+      "watt": "1000"
+    },
+    "model": "JMK7501",
+    "title": "JAMAKY Electric Rice Cooker JMK7501 2.8L | 1000W capacity, built-in steam bowl, fashion design, easy to use, suitable for family",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1999,
+    "img": "https://m.media-amazon.com/images/I/41cDuU-XSAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HRFVVK85?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08YY223ZQ",
+    "brand": "غير محدد",
+    "name": "MediaTech Healthy Food Steamer, 500 Watt, 3-Tier Bowls, 3 Baskets, Rice Bowl/Rice Cooker, Steam Cooker wi",
+    "specs": {
+      "watt": "500"
+    },
+    "model": "FS88",
+    "title": "MediaTech Healthy Food Steamer, 500 Watt, 3-Tier Bowls, 3 Baskets, Rice Bowl/Rice Cooker, Steam Cooker with 0-60 Min Timer Function, Electric Steame,MT-FS88 - Silver/Black(2 Years Warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/I/41FFzsaKf-L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08YY223ZQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09DD464NF",
+    "brand": "غير محدد",
+    "name": "Home rice cooker 1.8L NG810 Silver",
+    "specs": {
+      "cap": "1.8"
+    },
+    "model": "NG810",
+    "title": "Home rice cooker 1.8L NG810 Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2740,
+    "img": "https://m.media-amazon.com/images/I/41IREgWLXVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09DD464NF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01DC9C1IY",
+    "brand": "Tupperware",
+    "name": "Tupperware 3 لتر",
+    "specs": {
+      "cap": "3"
+    },
+    "model": "",
+    "title": "TUPPERWARE Microwave Rice Meister 3.0 L Purple Large Rice Cooker Micro 9896",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2100,
+    "img": "https://m.media-amazon.com/images/I/31dfZIxroNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01DC9C1IY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C9DZYZTD",
+    "brand": "Heinrichs",
+    "name": "Heinrichs 800 وات",
+    "specs": {
+      "watt": "800"
+    },
+    "model": "",
+    "title": "Heinrich´s Steamer, 3-Layer Stackable Tiers Bowls, BPA-Free, Dishwasher Safe, 9 Litre Capacity, Includes Rice Bowl/Rice Cooker, Steam Cooker with 0-60 Min Timer Function, 800 Watt, Stainless Steel",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3166.76,
+    "img": "https://m.media-amazon.com/images/I/41AG2USHfcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C9DZYZTD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HCVW9979",
+    "brand": "غير محدد",
+    "name": "Electric Rice Cooker with Heat Retention Function Easy to Use for Perfectly Cooked Rice and Hot Meals Mod",
+    "specs": {},
+    "model": "",
+    "title": "Electric Rice Cooker with Heat Retention Function Easy to Use for Perfectly Cooked Rice and Hot Meals Model 7501",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/41C2RdDAp6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HCVW9979?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DJ97WMNM",
+    "brand": "Winning Star",
+    "name": "Electric Rice Cooker",
+    "specs": {},
+    "model": "",
+    "title": "Electric Rice Cooker",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2490,
+    "img": "https://m.media-amazon.com/images/I/41ZqLJYzrIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DJ97WMNM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B099MSS6T6",
+    "brand": "Home Glory",
+    "name": "Home Rice cooker NG 519 , 2725619457769",
+    "specs": {},
+    "model": "",
+    "title": "Home Rice cooker NG 519 , 2725619457769",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3685.03,
+    "img": "https://m.media-amazon.com/images/I/31nUgsm0wIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B099MSS6T6?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091KQ246D",
+    "brand": "Tupperware",
+    "name": "Tupperware - Microwave Rice Cooker",
+    "specs": {},
+    "model": "",
+    "title": "Tupperware - Microwave Rice Cooker",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1900,
+    "img": "https://m.media-amazon.com/images/I/41h0oHlPYyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091KQ246D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H958G7J9",
+    "brand": "غير محدد",
+    "name": "Metal Rice Cooker – Non-Stick Coating | Metal Handle and Durable Material for Daily Use",
+    "specs": {},
+    "model": "",
+    "title": "Metal Rice Cooker – Non-Stick Coating | Metal Handle and Durable Material for Daily Use",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 261,
+    "img": "https://m.media-amazon.com/images/I/41wn-w1VmvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H958G7J9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09BDYHLN4",
+    "brand": "Tupperware",
+    "name": "Tupperware Ani Microwave Rice Cooker - 2724290898700",
+    "specs": {},
+    "model": "",
+    "title": "Tupperware Ani Microwave Rice Cooker - 2724290898700",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1950,
+    "img": "https://m.media-amazon.com/images/I/51hMv3OA3uL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09BDYHLN4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GBZBB7JS",
+    "brand": "غير محدد",
+    "name": "Electric Rice Cooker Easy Disassembly and Clean with Spoon Measuring Cup Strainer Vegetable Steamer",
+    "specs": {},
+    "model": "",
+    "title": "Electric Rice Cooker Easy Disassembly and Clean with Spoon Measuring Cup Strainer Vegetable Steamer",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3199,
+    "img": "https://m.media-amazon.com/images/I/41t7iNDZz+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GBZBB7JS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091FFPNG4",
+    "brand": "Tupperware",
+    "name": "Tupperware microwave rice cooker - Capacity: 3.0 litres - Purple - 31046 Large Rice Cooker",
+    "specs": {},
+    "model": "",
+    "title": "Tupperware microwave rice cooker - Capacity: 3.0 litres - Purple - 31046 Large Rice Cooker",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1850,
+    "img": "https://m.media-amazon.com/images/I/31PoOsJ9J7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091FFPNG4?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

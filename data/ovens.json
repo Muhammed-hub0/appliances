@@ -20,7 +20,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F946JK5N",
@@ -43,7 +44,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0B9X1D2SM",
@@ -66,7 +68,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07QP3TDM8",
@@ -88,7 +91,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0H5KZNVPX",
@@ -110,7 +114,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08GRN7NXW",
@@ -132,7 +137,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HQ4MJ75Z",
@@ -154,7 +160,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08G57CTMN",
@@ -176,7 +183,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D5PHJW8V",
@@ -198,7 +206,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07QL2K1TR",
@@ -220,7 +229,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B00EVQIQ0U",
@@ -242,7 +252,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C2CLLVC8",
@@ -264,7 +275,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DHH8D5NJ",
@@ -286,7 +298,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BJL48WRK",
@@ -308,7 +321,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HK8K5G1D",
@@ -325,6 +339,934 @@
     "price": 2840,
     "img": "https://m.media-amazon.com/images/I/31b23IzyLzL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HK8K5G1D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B091P14JZZ",
+    "brand": "أريون",
+    "name": "أريون 45 لتر كونفكشن 1600 وات (BLACK)",
+    "specs": {
+      "cap": "45",
+      "type": "كونفكشن",
+      "watt": "1600"
+    },
+    "model": "BLACK",
+    "title": "Arion 45L Electric Oven with Rotisserie & Convection, 1600W – Model AR-4502-D, Adjustable Temperature up to 250°C, 60-Min Timer & Internal Light (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2666,
+    "img": "https://m.media-amazon.com/images/I/31MJFy9GdiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091P14JZZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09JMZZ1MP",
+    "brand": "كينوود",
+    "name": "كينوود 100 لتر كونفكشن (MOM99)",
+    "specs": {
+      "cap": "100",
+      "type": "كونفكشن"
+    },
+    "model": "MOM99",
+    "title": "KENWOOD 100L Toaster Oven - Oven Toaster Grill Large Capacity Double Glass Door Multifunctional with Rotisserie and Convection Function for Grilling, Toasting, Broiling, Baking, Defrosting MOM99 Silvr",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 16701,
+    "img": "https://m.media-amazon.com/images/I/41gRDRKqYcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09JMZZ1MP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09VC6P1MQ",
+    "brand": "فريش",
+    "name": "فريش 65 لتر",
+    "specs": {
+      "cap": "65"
+    },
+    "model": "",
+    "title": "Fresh Oven 65L Silver with Grill and Fan",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4229,
+    "img": "https://m.media-amazon.com/images/I/31JDOsQfYpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09VC6P1MQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C11F8ZMC",
+    "brand": "فريش",
+    "name": "فريش 45 لتر",
+    "specs": {
+      "cap": "45"
+    },
+    "model": "",
+    "title": "Fresh Electric Oven Casa 45L Black/FR-4503R",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3080,
+    "img": "https://m.media-amazon.com/images/I/31cbpfi3NvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C11F8ZMC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098PFQLBK",
+    "brand": "فريش",
+    "name": "فريش 48 لتر",
+    "specs": {
+      "cap": "48"
+    },
+    "model": "",
+    "title": "Fresh fr-48ecco electric oven, 48 liters with grill, lamp and fan",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3445.9,
+    "img": "https://m.media-amazon.com/images/I/413dJFr2CjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098PFQLBK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G1T744V5",
+    "brand": "فريش",
+    "name": "فريش 48 لتر (FR4804RCL)",
+    "specs": {
+      "cap": "48"
+    },
+    "model": "FR4804RCL",
+    "title": "Fresh Cosmos ECO Plus+ FR4804RCL Electric Oven 48 Liters, Multi-Function Countertop Oven, Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4460,
+    "img": "https://m.media-amazon.com/images/I/41hP-BAmyXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G1T744V5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091J84LT2",
+    "brand": "فريش",
+    "name": "فريش 36 لتر",
+    "specs": {
+      "cap": "36"
+    },
+    "model": "",
+    "title": "Fresh Oven 36 Litres with grill, FR-36R - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2988,
+    "img": "https://m.media-amazon.com/images/I/31uzuXMnt2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091J84LT2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BH4QMRC7",
+    "brand": "أكاي",
+    "name": "أكاي 45 لتر",
+    "specs": {
+      "cap": "45"
+    },
+    "model": "",
+    "title": "Akai Oven 45 Liter Grill",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1539,
+    "img": "https://m.media-amazon.com/images/I/4104cEg-WUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BH4QMRC7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B095XWWNRZ",
+    "brand": "كومتيل",
+    "name": "كومتيل 36 لتر",
+    "specs": {
+      "cap": "36"
+    },
+    "model": "",
+    "title": "Kumtel kf-3000 electric oven, 36 liter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1390,
+    "img": "https://m.media-amazon.com/images/I/51N+6q1lwhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B095XWWNRZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FP2BJVH9",
+    "brand": "بوش",
+    "name": "بوش 71 لتر (HBF011BR0T)",
+    "specs": {
+      "cap": "71"
+    },
+    "model": "HBF011BR0T",
+    "title": "Bosch Series 2 Built-In Electric Oven 71 Litres, 60cm, Stainless Steel, 4 Heating Functions, Hydrolytic Cleaning, Hot Air Fan– HBF011BR0T",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 22999,
+    "img": "https://m.media-amazon.com/images/I/41-baid3HML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FP2BJVH9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZLF8NT1",
+    "brand": "سوكاني",
+    "name": "سوكاني 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "SOKANY Electric Pizza Oven, Electric Pizza Maker, Pizza Oven for Home, 220 °C, 1000 Watt, Plate Made of Fireproof Stone with 23 cm, Red-08013",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1234,
+    "img": "https://m.media-amazon.com/images/I/41ZrZLqOT6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZLF8NT1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CP15649B",
+    "brand": "وايت بوينت",
+    "name": "وايت بوينت 2000 وات (WPEO48GBKA)",
+    "specs": {
+      "watt": "2000"
+    },
+    "model": "WPEO48GBKA",
+    "title": "White point WPEO48GBKA - Electric Oven - 48 litr - 2000 w - with grill - 3 keyes - light - air fan - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3239,
+    "img": "https://m.media-amazon.com/images/I/41tFI3Q5LGL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CP15649B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DNQWRFQS",
+    "brand": "فريش",
+    "name": "فريش 25 لتر",
+    "specs": {
+      "cap": "25"
+    },
+    "model": "",
+    "title": "Fresh Mechanical Air Fryer Oven, 25 Liter Capacity",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5255.67,
+    "img": "https://m.media-amazon.com/images/I/31j7DwCS5EL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DNQWRFQS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DKG33S54",
+    "brand": "أكاي",
+    "name": "أكاي 55 لتر",
+    "specs": {
+      "cap": "55"
+    },
+    "model": "",
+    "title": "Multifunction Electric Oven - The Perfect Choice For Your Kitchen Black In Silver 55 Liter AKAI",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2453,
+    "img": "https://m.media-amazon.com/images/I/41+8A9V3TqL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DKG33S54?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DJF7QRZQ",
+    "brand": "نينجا",
+    "name": "Ninja Foodi 10-in-1 Multifunction Oven, Fast Mini Oven, Countertop Oven, 10 Baking Functions, Air Fry, Pi",
+    "specs": {},
+    "model": "",
+    "title": "Ninja Foodi 10-in-1 Multifunction Oven, Fast Mini Oven, Countertop Oven, 10 Baking Functions, Air Fry, Pizza, Grill, Bake, Toast, Bagel and More, Make Sized Meals",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 22117,
+    "img": "https://m.media-amazon.com/images/I/41VN6yDqT7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DJF7QRZQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B081V72DGV",
+    "brand": "كومتيل",
+    "name": "Kumtel - Kf3125 Electric Oven",
+    "specs": {},
+    "model": "KF3125",
+    "title": "Kumtel - Kf3125 Electric Oven",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1620,
+    "img": "https://m.media-amazon.com/images/I/41PMDBDR6eL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B081V72DGV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DV7DCL8S",
+    "brand": "سوكاني",
+    "name": "SOKANY SK-145 Multifunctional Electric Oven with Coffee Maker and Frying Tray",
+    "specs": {},
+    "model": "",
+    "title": "SOKANY SK-145 Multifunctional Electric Oven with Coffee Maker and Frying Tray",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1899,
+    "img": "https://m.media-amazon.com/images/I/41mPQIX5+GL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DV7DCL8S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BXT218SD",
+    "brand": "IDO",
+    "name": "IDO 50 لتر توستر 2000 وات (TO50SG-BK)",
+    "specs": {
+      "cap": "50",
+      "type": "توستر",
+      "watt": "2000"
+    },
+    "model": "TO50SG-BK",
+    "title": "IDO Toaster Oven with Rotisserie for Toasting, Baking and Broiling - 50L - 2000W - Double Glass - Multifunction – TO50SG-BK - Black - 2 Years Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3599,
+    "img": "https://m.media-amazon.com/images/I/41dffGb3RaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BXT218SD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BXT3P6VX",
+    "brand": "غير محدد",
+    "name": "IDO Toaster Oven with Rotisserie for Toasting, Baking and Broiling - 50L - 2000W - Double Glass - Multifu",
+    "specs": {
+      "cap": "50",
+      "type": "توستر",
+      "watt": "2000"
+    },
+    "model": "TO50DG-SV",
+    "title": "IDO Toaster Oven with Rotisserie for Toasting, Baking and Broiling - 50L - 2000W - Double Glass - Multifunction – TO50DG-SV - Silver - 2 Years Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3870,
+    "img": "https://m.media-amazon.com/images/I/41VWOgYSbBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BXT3P6VX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BXT498VB",
+    "brand": "IDO",
+    "name": "IDO 45 لتر توستر 1800 وات (TO45SG-BK)",
+    "specs": {
+      "cap": "45",
+      "type": "توستر",
+      "watt": "1800"
+    },
+    "model": "TO45SG-BK",
+    "title": "IDO Toaster Oven with Rotisserie for Toasting, Baking and Broiling - 45L - 1800W - Double Glass - Multifunction – TO45SG-BK - Black - 2 Years Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3110,
+    "img": "https://m.media-amazon.com/images/I/41KsPrP4-+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BXT498VB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CFR1GRSF",
+    "brand": "iHome",
+    "name": "iHome 45 لتر 1200 وات",
+    "specs": {
+      "cap": "45",
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "iHome Electric Oven KI-7000 45 Liter 1200W,Thermostat,Black (International Warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/I/51PcPL+rKiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CFR1GRSF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CDVFDSSK",
+    "brand": "iHome",
+    "name": "iHome 40 لتر 1200 وات",
+    "specs": {
+      "cap": "40",
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "iHome Electric Oven KI-5100 40 Liter 1200W,Grill,Timer 90m,Thermostat,Black (International Warranty)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1549,
+    "img": "https://m.media-amazon.com/images/I/21mpmZ+jdYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CDVFDSSK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HNWRQHMV",
+    "brand": "غير محدد",
+    "name": "Nauticall Electric Oven DL-D5000 with Grill & Fan, 2000W | Convection Fan, Interior Light, Even Cooking, ",
+    "specs": {
+      "type": "كونفكشن",
+      "watt": "2000"
+    },
+    "model": "D5000",
+    "title": "Nauticall Electric Oven DL-D5000 with Grill & Fan, 2000W | Convection Fan, Interior Light, Even Cooking, Baking & Grilling, Easy to Clean",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2499,
+    "img": "https://m.media-amazon.com/images/I/31-DD9JnVNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HNWRQHMV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GPWTHZ3J",
+    "brand": "Nouval",
+    "name": "Nouval 45 لتر 1800 وات",
+    "specs": {
+      "cap": "45",
+      "watt": "1800"
+    },
+    "model": "",
+    "title": "Nouval Tick Fera multifunctional Electric oven with tray large capacity 45L,1800w",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3599,
+    "img": "https://m.media-amazon.com/images/I/31ypXczn5WL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GPWTHZ3J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CBQ95S5L",
+    "brand": "ATA",
+    "name": "ATA 49 لتر 2000 وات",
+    "specs": {
+      "cap": "49",
+      "watt": "2000"
+    },
+    "model": "",
+    "title": "ATA Electric Oven 2000 watt, 49 Liter - Black",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2149,
+    "img": "https://m.media-amazon.com/images/I/31cBXGqapjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CBQ95S5L?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HRR8VD6Y",
+    "brand": "غير محدد",
+    "name": "Kai 40L Large Capacity Electric Oven 1200W 4 Programs Thermostat | 4 drivers, Thermostatic, Stainless ste",
+    "specs": {
+      "cap": "40",
+      "watt": "1200"
+    },
+    "model": "",
+    "title": "Kai 40L Large Capacity Electric Oven 1200W 4 Programs Thermostat | 4 drivers, Thermostatic, Stainless steel mesh, 1 key multifunction, 1 year warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1579,
+    "img": "https://m.media-amazon.com/images/I/41NFUjKGwUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HRR8VD6Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B097F2RTJJ",
+    "brand": "غير محدد",
+    "name": "Telemisr TCO 36 RS-Electric Oven- 36 Liter, Silver",
+    "specs": {
+      "cap": "36"
+    },
+    "model": "",
+    "title": "Telemisr TCO 36 RS-Electric Oven- 36 Liter, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2199,
+    "img": "https://m.media-amazon.com/images/I/417xEl4R2oL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B097F2RTJJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HPYSKZPJ",
+    "brand": "غير محدد",
+    "name": "3 in 1 Multifunctional Electric Oven with Coffee Machine and Grill | Table top, non-stick, easy to clean,",
+    "specs": {
+      "type": "مدمج"
+    },
+    "model": "",
+    "title": "3 in 1 Multifunctional Electric Oven with Coffee Machine and Grill | Table top, non-stick, easy to clean, full breakfast, built in toaster",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1699,
+    "img": "https://m.media-amazon.com/images/I/51CAm-N1mTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HPYSKZPJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D2BF53F2",
+    "brand": "غير محدد",
+    "name": "فرن كهربائي فرن متعدد الوظائف 3 مفتاح مع شواية و صينية سعة كبيرة 45 لتر بشكيه ستانلس ستيل 2200 واط",
+    "specs": {
+      "cap": "45"
+    },
+    "model": "",
+    "title": "فرن كهربائي فرن متعدد الوظائف 3 مفتاح مع شواية و صينية سعة كبيرة 45 لتر بشكيه ستانلس ستيل 2200 واط",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1911.68,
+    "img": "https://m.media-amazon.com/images/I/41JXTnqTgzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D2BF53F2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09N2L8P1B",
+    "brand": "Touch Elzenouki",
+    "name": "Touch Elzenouki 36 لتر",
+    "specs": {
+      "cap": "36"
+    },
+    "model": "",
+    "title": "Touch Elzenouki 40616 Jumbo Electric Oven, 36 L | Jumbo 36 Liter Electric Oven with M Shape Top Heater, Fan, Inside Bulb and Grilling, Prepares Your Delicious Foods Easily.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2800.26,
+    "img": "https://m.media-amazon.com/images/I/41vy1h+RReL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09N2L8P1B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FSWWNB6N",
+    "brand": "Purity",
+    "name": "Purity 60 لتر (KPT606EEBL)",
+    "specs": {
+      "cap": "60"
+    },
+    "model": "KPT606EEBL",
+    "title": "Purity Built-in Electric Oven 60cm, 60L Capacity, 8 Cooking Functions, Mechanical Timer with Cut-Off, Black (Made in Turkey) – KPT606EEBL",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 11549,
+    "img": "https://m.media-amazon.com/images/I/31drQFWWELL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FSWWNB6N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0923H23MP",
+    "brand": "Telemisr",
+    "name": "Telemisr 36 لتر",
+    "specs": {
+      "cap": "36"
+    },
+    "model": "",
+    "title": "Telemisr TCO 36 NS-Electric Oven- 36 Liter, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2499,
+    "img": "https://m.media-amazon.com/images/I/41dzGQFvVVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0923H23MP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DMTJNGWC",
+    "brand": "غير محدد",
+    "name": "Mini Toaster Oven: the perfect solution for quick and tasty meals",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Mini Toaster Oven: the perfect solution for quick and tasty meals",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1903,
+    "img": "https://m.media-amazon.com/images/I/41W5uAEqEyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DMTJNGWC?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GQ78M7BB",
+    "brand": "غير محدد",
+    "name": "Electric Oven 3 in 1 Tabletop Multifunctional Electric Cooking Ovens Coffee Maker Non-stick Toaster Table",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "Electric Oven 3 in 1 Tabletop Multifunctional Electric Cooking Ovens Coffee Maker Non-stick Toaster Table Ovens Full Breakfast Family Easy to Clean",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1599,
+    "img": "https://m.media-amazon.com/images/I/41Mcz8KnvKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GQ78M7BB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DMTJ5VLN",
+    "brand": "غير محدد",
+    "name": "\"Mini Toaster Oven: The Perfect Solution for Quick and Delicious Meals\"",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "\"Mini Toaster Oven: The Perfect Solution for Quick and Delicious Meals\"",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1899,
+    "img": "https://m.media-amazon.com/images/I/41ZgQRNGH5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DMTJ5VLN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0922NZKM7",
+    "brand": "CAIYUAN",
+    "name": "CAIYUAN توستر",
+    "specs": {
+      "type": "توستر"
+    },
+    "model": "",
+    "title": "3 in 1 Mini Oven, Tabletop Oven, Electric Cooking Ovens, Coffee Maker, Toaster, Non-Stick Iron, Table Ovens Make a Complete Breakfast for Family, Black, Without Lid",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2900,
+    "img": "https://m.media-amazon.com/images/I/51y3d2O48ES._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0922NZKM7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HLCPLG3R",
+    "brand": "غير محدد",
+    "name": "HI-7100 40L Electric Oven with Grill, Multifunctional Oven for Baking | Hand Heat Control, Fan and Bulb, ",
+    "specs": {
+      "cap": "40"
+    },
+    "model": "",
+    "title": "HI-7100 40L Electric Oven with Grill, Multifunctional Oven for Baking | Hand Heat Control, Fan and Bulb, 3 Control Keys, Baking, Roasting and Cooking, 2 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2149,
+    "img": "https://m.media-amazon.com/images/I/41gROLV4p8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HLCPLG3R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GBXC2K18",
+    "brand": "غير محدد",
+    "name": "45L Electric Oven Multifunction Oven with Inner Grill, Tray and Cooking Grid; Precise Triple Control Syst",
+    "specs": {
+      "cap": "45"
+    },
+    "model": "",
+    "title": "45L Electric Oven Multifunction Oven with Inner Grill, Tray and Cooking Grid; Precise Triple Control System for Professional Results at Home",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2089.05,
+    "img": "https://m.media-amazon.com/images/I/4136Hnc2PlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GBXC2K18?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HQ2RZ2VF",
+    "brand": "غير محدد",
+    "name": "Electric Oven KF-3000 36L | KF-3000 36L Capacity, KF-3000",
+    "specs": {
+      "cap": "36"
+    },
+    "model": "",
+    "title": "Electric Oven KF-3000 36L | KF-3000 36L Capacity, KF-3000",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1369,
+    "img": "https://m.media-amazon.com/images/I/51oZtW-q+cL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HQ2RZ2VF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D2BF18LV",
+    "brand": "غير محدد",
+    "name": "فرن كهربائي فرن متعدد الوظائف Flamingo 3 مفتاح مع شواية وصينيه سعة كبيرة 40 لتر ستانلس ستيل 1800 واط",
+    "specs": {
+      "cap": "40"
+    },
+    "model": "",
+    "title": "فرن كهربائي فرن متعدد الوظائف Flamingo 3 مفتاح مع شواية وصينيه سعة كبيرة 40 لتر ستانلس ستيل 1800 واط",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1901.22,
+    "img": "https://m.media-amazon.com/images/I/41SfdD0lR5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D2BF18LV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D2BCW3TX",
+    "brand": "H-Home",
+    "name": "H-Home 40 لتر",
+    "specs": {
+      "cap": "40"
+    },
+    "model": "",
+    "title": "Electric oven multifunctional oven 1 key with tray and grid large capacity 40L stainless steel grill",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1599,
+    "img": "https://m.media-amazon.com/images/I/41QY7SczraL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D2BCW3TX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B2MJJW5S",
+    "brand": "غير محدد",
+    "name": "Home Electric oven IV8800 White",
+    "specs": {},
+    "model": "IV8800",
+    "title": "Home Electric oven IV8800 White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1266.22,
+    "img": "https://m.media-amazon.com/images/I/41EAp66HaUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B2MJJW5S?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HL71JN13",
+    "brand": "غير محدد",
+    "name": "Electric Oven 3 in 1 Tabletop Multifunctional Electric Cooking Ovens Coffee Maker Non-Stick Roaster Grill",
+    "specs": {},
+    "model": "",
+    "title": "Electric Oven 3 in 1 Tabletop Multifunctional Electric Cooking Ovens Coffee Maker Non-Stick Roaster Grill Table Ovens Full Breakfast Family Easy to Clean",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1599,
+    "img": "https://m.media-amazon.com/images/I/51vqrJ0mVnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HL71JN13?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B077XFYDGB",
+    "brand": "nuovva",
+    "name": "nuovva Copper Crisper Tray Non-Stick Oven Baking Tray with Elevated Mesh Crisping Grill Basket 2 Piece Se",
+    "specs": {},
+    "model": "",
+    "title": "nuovva Copper Crisper Tray Non-Stick Oven Baking Tray with Elevated Mesh Crisping Grill Basket 2 Piece Set –",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 256,
+    "img": "https://m.media-amazon.com/images/I/41qa86gOuML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B077XFYDGB?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FXXLGJ95",
@@ -40,7 +41,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07CB9CM1V",
@@ -61,7 +63,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GBTYLYSW",
@@ -80,7 +83,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09DJDTV29",
@@ -99,7 +103,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FP4VNJGQ",
@@ -116,6 +121,197 @@
     "price": 21836,
     "img": "https://m.media-amazon.com/images/I/31mwdYZzWwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FP4VNJGQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0CWV9LST4",
+    "brand": "شاومي",
+    "name": "شاومي روبوت",
+    "specs": {
+      "type": "روبوت"
+    },
+    "model": "",
+    "title": "Xiaomi Robot Vacuum E5, 2000Pa Powerful Suction Fan, 2600mAh Nominal Battery Capacity, 3 Level Settings of Suction Power, Gyroscope, Intelligent Path Planning, White|6 month manufacturer warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6945,
+    "img": "https://m.media-amazon.com/images/I/31Qrf-ewmSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CWV9LST4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B087QS3KXX",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر لاسلكي (DVA320J-B5)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "DVA320J-B5",
+    "title": "Black & Decker 21.6Wh Lithium-ion Dustbuster Cordless Hand Vacuum, Grey - DVA320J-B5",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2749,
+    "img": "https://m.media-amazon.com/images/I/41kVGmhbfUL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B087QS3KXX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B087QT4TNV",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر لاسلكي (NVC115WA-B5)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "NVC115WA-B5",
+    "title": "Black+Decker 3.6V 1.5Ah Li-Ion Cordless Dustbuster Handheld Vacuum, Blue - NVC115WA-B5, 2 Years Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2036.03,
+    "img": "https://m.media-amazon.com/images/I/412E1jCPQtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B087QT4TNV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CHHMNLQP",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر لاسلكي (NVD220BP-GB)",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "NVD220BP-GB",
+    "title": "Black & Decker 7.2V/2.0Ah Cordless Handheld Dustbuster Vacuum, Lively Lavender/Breeze Purple - NVD220BP-GB,",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2909.03,
+    "img": "https://m.media-amazon.com/images/I/415PcUIG-YL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CHHMNLQP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B087QT1Q68",
+    "brand": "بلاك أند ديكر",
+    "name": "بلاك أند ديكر يدوي (NVC115JL-B5)",
+    "specs": {
+      "type": "يدوي"
+    },
+    "model": "NVC115JL-B5",
+    "title": "Black & Decker 3.6V Li-Ion Handheld Vacuum DUStbUSter, Grey/White - Nvc115Jl-B5",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2333,
+    "img": "https://m.media-amazon.com/images/I/41yAOpMO+QL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B087QT1Q68?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CY94NVCZ",
+    "brand": "بيكو",
+    "name": "بيكو لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Beko Cordless Vacuum dry and wet - Capacity 0.55 liter - Suction Power 25 W - Black & Blue - VRT 60221 VD",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 12299,
+    "img": "https://m.media-amazon.com/images/I/21cKEiQwsOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CY94NVCZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DSV1LMMQ",
+    "brand": "فريش",
+    "name": "فريش 1900 وات",
+    "specs": {
+      "watt": "1900"
+    },
+    "model": "",
+    "title": "Fresh Vacuum1900 watt, fantom",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3999,
+    "img": "https://m.media-amazon.com/images/I/41R9IXzk9HL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DSV1LMMQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HJ4DB7VW",
+    "brand": "غير محدد",
+    "name": "مكنسة كهربائية عمودي 6 في 1 مع ممسحة و خزان مياه ، تتحول لمكنسة يدوية ، قوة 600–1000 وات ، فلتر HEPA قابل",
+    "specs": {
+      "watt": "1000",
+      "type": "عمودي"
+    },
+    "model": "",
+    "title": "مكنسة كهربائية عمودي 6 في 1 مع ممسحة و خزان مياه ، تتحول لمكنسة يدوية ، قوة 600–1000 وات ، فلتر HEPA قابل للغسل ، خزان تربة 1.4 لتر ، سلك 8 متر ، ضمان 18 شهر - متعدد الالوان",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4319.04,
+    "img": "https://m.media-amazon.com/images/I/31KUBzb+8bL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HJ4DB7VW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GVG5XHLW",
+    "brand": "Bissell",
+    "name": "Bissell لاسلكي",
+    "specs": {
+      "type": "لاسلكي"
+    },
+    "model": "",
+    "title": "Bissell CrossWave Edge Cordless Wet & Dry Floor Vacuum with ZeroGap Technology Black – 4328K",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17499,
+    "img": "https://m.media-amazon.com/images/I/3191J1BMFrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GVG5XHLW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

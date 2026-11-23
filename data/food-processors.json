@@ -19,7 +19,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08V11HCW8",
@@ -33,7 +34,7 @@
     "title": "Braun FP 3235 SI PurEase 12 in 1 Food processor, 800W, 2.1L Bowl, Metal Design, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7295.51,
+    "price": 7293.31,
     "img": "https://m.media-amazon.com/images/I/41YC0D0Wd1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08V11HCW8?tag=fineartslab-21",
     "active": true,
@@ -41,7 +42,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HGGGRS4L",
@@ -63,7 +65,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FHQPN7XY",
@@ -84,7 +87,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08P51VFF5",
@@ -105,7 +109,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F6D8MM5W",
@@ -126,7 +131,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B086Q435F4",
@@ -147,7 +153,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08X63H6FW",
@@ -168,7 +175,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B00IXCG03S",
@@ -189,7 +197,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09Y4MM6VP",
@@ -210,7 +219,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08N1FQCFB",
@@ -229,7 +239,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HH7DZKRY",
@@ -246,6 +257,220 @@
     "price": 854.05,
     "img": "https://m.media-amazon.com/images/I/41EBP5jG1tL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HH7DZKRY?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0BC1YZK6H",
+    "brand": "كينوود",
+    "name": "كينوود 650 وات 1.3 لتر (FDP22)",
+    "specs": {
+      "watt": "650",
+      "cap": "1.3"
+    },
+    "model": "FDP22",
+    "title": "Kenwood, MultiPro Go FDP22.​130GY, Food Processor, for Chopping, Slicing, Grating, Pureeing and Kneading Dough, with Express Serve, 1.3L Bowl, Knife blade, 4mm Slicing/Grating Disk, 650 Watts, Grey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5280,
+    "img": "https://m.media-amazon.com/images/I/41PPg21cWXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BC1YZK6H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HF1G7BBQ",
+    "brand": "مينتا",
+    "name": "مينتا 750 وات 2 لتر (CH23938A)",
+    "specs": {
+      "watt": "750",
+      "cap": "2"
+    },
+    "model": "CH23938A",
+    "title": "Mienta Blitz II Food Chopper, 750W, 2L Bowl, CH23938A – Powerful Electric Food Processor for Chopping, Mixing and Food Preparation – CH23938A",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1499,
+    "img": "https://m.media-amazon.com/images/I/41PNHKwzuBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HF1G7BBQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZ4FT1L7",
+    "brand": "AKANE",
+    "name": "AKANE 1100 وات 6 لتر",
+    "specs": {
+      "watt": "1100",
+      "cap": "6"
+    },
+    "model": "",
+    "title": "AKANE A.81659 Food Processor 1100W 6.0L Large Capacity Food Chopper with 360° Mixing System, Multifunction Kitchen Processor for Meat, Vegetables and Daily Food Preparation",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1799.1,
+    "img": "https://m.media-amazon.com/images/I/31tBLaqeN9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZ4FT1L7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQ48PXKT",
+    "brand": "سوكاني",
+    "name": "سوكاني 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Sokany Acrylic Food Processor 2 Liters 1000 Watts Sk-7039",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1228,
+    "img": "https://m.media-amazon.com/images/I/31tLoVJEZgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQ48PXKT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BBD5F8QX",
+    "brand": "بوش",
+    "name": "بوش 900 وات",
+    "specs": {
+      "watt": "900"
+    },
+    "model": "",
+    "title": "Bosch - food processor - 2.3 Litter - 900 W - MultiTalent 3 Plus -17000 RPM - MCM3PM386",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6999,
+    "img": "https://m.media-amazon.com/images/I/41HKHSFlI4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BBD5F8QX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DLJGNXYW",
+    "brand": "أرشيا",
+    "name": "أرشيا 1000 وات (FP050-3327)",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "FP050-3327",
+    "title": "Arshia 10-in-1 Food Processor, 10 inches, Stainless Steel, 1000 Watts, Plastic and Stainless Steel FP050-3327",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6999,
+    "img": "https://m.media-amazon.com/images/I/31FfrI+wLNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DLJGNXYW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098TW1J9X",
+    "brand": "مولينكس",
+    "name": "Moulinex Odacio Food processor 38 function FP7371",
+    "specs": {},
+    "model": "FP7371",
+    "title": "Moulinex Odacio Food processor 38 function FP7371",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 8299,
+    "img": "https://m.media-amazon.com/images/I/41AM7i1yxFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098TW1J9X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HDLJ797V",
+    "brand": "غير محدد",
+    "name": "Food Chopper 2L with 3 Year Warranty,1000W Kitchen Food Processor with 4 Stainless Steel Spiral Blades, S",
+    "specs": {
+      "watt": "1000",
+      "cap": "2"
+    },
+    "model": "",
+    "title": "Food Chopper 2L with 3 Year Warranty,1000W Kitchen Food Processor with 4 Stainless Steel Spiral Blades, Stainless Steel Bowl, Meat Grinder, Garlic Mincer(كبه فرم كهربائيه - ضمان 3 سنوات)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 900,
+    "img": "https://m.media-amazon.com/images/I/41yLUQd3x3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HDLJ797V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H68BZDGQ",
+    "brand": "غير محدد",
+    "name": "محضر طعام 7 فى 1 قوى ملفات نحاس 100% بقوة 1000 وات مزود ب دورق 2 لتر شفرات ستانليلس حادة يحتوي علي مصفاه ",
+    "specs": {
+      "watt": "1000",
+      "cap": "2"
+    },
+    "model": "",
+    "title": "محضر طعام 7 فى 1 قوى ملفات نحاس 100% بقوة 1000 وات مزود ب دورق 2 لتر شفرات ستانليلس حادة يحتوي علي مصفاه مزود بكبة فرم و 2 مطحنة وعصرة فوكة و برتقال مزود بسرعات 1 سنة ضمان",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1620,
+    "img": "https://m.media-amazon.com/images/I/41oKQwK6s+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H68BZDGQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B096L4GHHQ",
+    "brand": "Touch Elzenouki",
+    "name": "Touch Elzenouki 1000 وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Touch Elzenouki 40510N King Kitchen Machine, 1000 W | 1000 watt food processor with mixer, cup, mill, orange juicer, 5 cutting and human discs.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2948.43,
+    "img": "https://m.media-amazon.com/images/I/315A+yuR3KL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B096L4GHHQ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

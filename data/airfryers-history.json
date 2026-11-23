@@ -9,6 +9,10 @@
     {
       "t": "2026-11-23T09:31:24.746Z",
       "p": 5501
+    },
+    {
+      "t": "2026-11-23T10:00:58.332Z",
+      "p": 5500
     }
   ],
   "B0CWP7M17B": [
@@ -90,8 +94,227 @@
     }
   ],
   "_meta": {
-    "lastRun": "2026-11-23T09:37:17.704Z",
-    "activeCount": 15,
-    "totalCount": 15
-  }
+    "lastRun": "2026-11-23T10:13:02.286Z",
+    "activeCount": 136,
+    "totalCount": 136,
+    "seenAsins": [
+      "B0GD7K4M6Z",
+      "B0CJNXLBWT",
+      "B09GKWKDV2",
+      "B0C6QZNL42",
+      "B0C99Q42K7",
+      "B0HQPHVV6D",
+      "B0D4ZBVYCP",
+      "B0CZDF33C6",
+      "B0GYGCHY7J",
+      "B0BKYGXN9V",
+      "B0HG58R1XJ",
+      "B07YN9KLC9",
+      "B0D1VGDCNF",
+      "B09QJWQFB6",
+      "B01L93HM20",
+      "B0CW681BVJ",
+      "B09CQCF1FH",
+      "B0CBGCRPLH",
+      "B0C3V5J7PS",
+      "B0BB2NP5B8",
+      "B0GY9N6ZR6",
+      "B0C9DKD8GJ",
+      "B08KGDTNG6",
+      "B0D3F5F1JW",
+      "B0BSFM7XLD",
+      "B08XQCDLXK",
+      "B08XQDNG71",
+      "B091NRLB9V",
+      "B09S18BFPH",
+      "B0D8WHQMHT",
+      "B0CZDKRF1V",
+      "B0CRRHF45Q",
+      "B0GY1DZTZN",
+      "B0FFHMBKCL",
+      "B0F1NB8JKK",
+      "B0D91TKYWJ",
+      "B0DRC9MRH3",
+      "B0D8QNH6HK",
+      "B08HN18T49",
+      "B0C8NV1365",
+      "B0C53F58XL",
+      "B0BB2Q9DQR",
+      "B0DXLJL5K6",
+      "B09STVM86X",
+      "B0HPG4QJ3B",
+      "B0CKFKTBZH",
+      "B0D14861L9",
+      "B0FV8JH3S2",
+      "B08KSBMSZB",
+      "B0BRKXWPSQ",
+      "B08WJBVM5G",
+      "B0C4C72Y9Y",
+      "B09VLK78F8",
+      "B07ZYB62YW",
+      "B0F89L37HK",
+      "B0C4Q9131G",
+      "B0FXBFHBDP",
+      "B0CPFT191B",
+      "B0CP43NP25",
+      "B0C79TRMNQ",
+      "B0FV3C1ZB1",
+      "B0767DNSMH",
+      "B0DQLM3KFX",
+      "B0F21BT1PH",
+      "B0BYNVWYMB",
+      "B0F99K7DS9",
+      "B0C7QP7951",
+      "B0CJVNGMFL",
+      "B0F4KKN7BD",
+      "B0HRCKKR69",
+      "B0DCNXSY24",
+      "B0GLQ9WQY1",
+      "B08W8J6RW6",
+      "B0FXXJ95Z5",
+      "B0H42BFCNX",
+      "B0D9W76ZDV",
+      "B0CJVRLY8T",
+      "B0CVNH19PJ",
+      "B0DJ8PQNRZ",
+      "B0FX2VVTS2",
+      "B0FXTX853Y",
+      "B0FXTW9724",
+      "B0HNFVX75D",
+      "B0HDLM962J",
+      "B0FPCZ7KJT",
+      "B0GPD6FHK5",
+      "B0CBBB83KB",
+      "B0GDF8W3XL",
+      "B0FSKXFH69",
+      "B0FM4GVBJ2",
+      "B0DQLPD1CG",
+      "B0F63KPYR6",
+      "B0DRWB41MB",
+      "B0DSLCV151",
+      "B0BQBVRZYG",
+      "B0BWFB7JNF",
+      "B0DXD96SY7",
+      "B0G4DS48WR",
+      "B0CVNGY6ZM",
+      "B0837H1TCV",
+      "B08GC1QZ5W",
+      "B0BQRL7F8N",
+      "B0C4ZXCR5J",
+      "B0CKDN3PCJ",
+      "B0DJK2YDNH",
+      "B0CGZYSP69",
+      "B08KQHCCDK",
+      "B0DFYRN3GC",
+      "B0FDGLCR1H",
+      "B0H7FJ5WST",
+      "B0H6H1X522",
+      "B0HMXH8KYF",
+      "B0HJ6CRHHK",
+      "B0CP8WWZFZ",
+      "B0H6MGMGZJ",
+      "B0G4K8FTXB",
+      "B0HJ4KXLNR",
+      "B0HJ6C7XZD",
+      "B0CQMYP3LF",
+      "B0F5JVMLDP",
+      "B0FQ5TCDPP"
+    ]
+  },
+  "B0CGZYSP69": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 4000
+    }
+  ],
+  "B08KQHCCDK": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 7029
+    }
+  ],
+  "B0DFYRN3GC": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 16625
+    }
+  ],
+  "B0FDGLCR1H": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 1149
+    }
+  ],
+  "B0H7FJ5WST": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 2115
+    }
+  ],
+  "B0H6H1X522": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 1439.1
+    }
+  ],
+  "B0HMXH8KYF": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 1079
+    }
+  ],
+  "B0HJ6CRHHK": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 1079
+    }
+  ],
+  "B0CP8WWZFZ": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 2979
+    }
+  ],
+  "B0H6MGMGZJ": [
+    {
+      "t": "2026-11-23T10:01:23.292Z",
+      "p": 1365.22
+    }
+  ],
+  "B0G4K8FTXB": [
+    {
+      "t": "2026-11-23T10:01:23.293Z",
+      "p": 1444
+    }
+  ],
+  "B0HJ4KXLNR": [
+    {
+      "t": "2026-11-23T10:01:23.293Z",
+      "p": 1291.5
+    }
+  ],
+  "B0HJ6C7XZD": [
+    {
+      "t": "2026-11-23T10:01:23.293Z",
+      "p": 1349
+    }
+  ],
+  "B0CQMYP3LF": [
+    {
+      "t": "2026-11-23T10:01:23.293Z",
+      "p": 1752.3
+    }
+  ],
+  "B0F5JVMLDP": [
+    {
+      "t": "2026-11-23T10:01:23.293Z",
+      "p": 1145
+    }
+  ],
+  "B0FQ5TCDPP": [
+    {
+      "t": "2026-11-23T10:01:23.293Z",
+      "p": 1024.55
+    }
+  ]
 }

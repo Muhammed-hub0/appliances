@@ -20,7 +20,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LCVQ0UY",
@@ -43,7 +44,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GMWTHDW7",
@@ -66,7 +68,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DT2M7YWW",
@@ -89,7 +92,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B09TSM2JMC",
@@ -112,7 +116,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GRPMWT6D",
@@ -135,7 +140,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FQC2DD5Q",
@@ -158,7 +164,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0101RZ9CA",
@@ -181,7 +188,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GW8SDV98",
@@ -204,7 +212,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0GHS61LBR",
@@ -227,7 +236,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B01LCVOK06",
@@ -250,7 +260,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F5VFNLVH",
@@ -273,7 +284,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G2JXY7P5",
@@ -296,7 +308,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BXPMRTM5",
@@ -319,7 +332,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HNNTXPMW",
@@ -337,6 +351,865 @@
     "price": 26224,
     "img": "https://m.media-amazon.com/images/I/21e9YbngaqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HNNTXPMW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B093W76H71",
+    "brand": "شارب",
+    "name": "شارب 2.25 حصان سبليت إنفرتر (XP18UHE)",
+    "specs": {
+      "hp": "2.25",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "XP18UHE",
+    "title": "SHARP Split Air Conditioner 2.25HP Cool - Heat Inverter Digital, Plasmacluster, Silver AY-XP18UHE",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 42599,
+    "img": "https://m.media-amazon.com/images/I/21PlEZdD78L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B093W76H71?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2MF1D6N",
+    "brand": "كارير",
+    "name": "كارير 1.5 حصان سبليت إنفرتر",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "",
+    "title": "Carrier XCOOL 1.5 HP Inverter Cool & Heat Split AC – 53QHEFT12DN8-708F",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 31500,
+    "img": "https://m.media-amazon.com/images/I/11eyc50OstL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2MF1D6N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GHT3RWP8",
+    "brand": "فريش",
+    "name": "فريش 1.5 حصان سبليت إنفرتر (SIFW13C/IP-)",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "SIFW13C/IP-",
+    "title": "Fresh Split Air Conditioner 1.5 HP - Smart Inverter With Plasma X-SIFW13C/IP-AG-R32 - Cooling Only, Without Holder",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19650,
+    "img": "https://m.media-amazon.com/images/I/21aIzEHuKrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GHT3RWP8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FQBZG498",
+    "brand": "ميديا",
+    "name": "ميديا 3 حصان سبليت إنفرتر",
+    "specs": {
+      "hp": "3",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "",
+    "title": "Midea AI Eco Master 3 HP Inverter Cool Only Split AC – M1SEFT-24CRDN8F-Q8",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 42680,
+    "img": "https://m.media-amazon.com/images/I/21wuhy4EeWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FQBZG498?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FQBZCGCF",
+    "brand": "ميديا",
+    "name": "ميديا 2.25 حصان سبليت إنفرتر",
+    "specs": {
+      "hp": "2.25",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "",
+    "title": "Midea AI Eco Master 2.25 HP Inverter Cool Only Split AC – M1SEFT-18CRDN8F-Q8",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 36999,
+    "img": "https://m.media-amazon.com/images/I/21wuhy4EeWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FQBZCGCF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DT2H5RC8",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 1.5 حصان سبليت تبريد فقط (C12BEE)",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت",
+      "cool": "تبريد فقط"
+    },
+    "model": "C12BEE",
+    "title": "TORNADO Split Air Conditioner 1.5 HP Cooling Only, Fast Cooling, Dry Function, Auto Swing, Auto Restart, Self Diagnose, Tropical Rotary Compressor, Dust Filter, Low Noise, White TH-C12BEE",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19390,
+    "img": "https://m.media-amazon.com/images/I/316ETdAut8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DT2H5RC8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2N18H7Y",
+    "brand": "كارير",
+    "name": "كارير 2.25 حصان سبليت إنفرتر",
+    "specs": {
+      "hp": "2.25",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "",
+    "title": "Carrier XCOOL 2.25 HP Inverter Cool & Heat Split AC – 53QHEFT18DN8-708F",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 42280,
+    "img": "https://m.media-amazon.com/images/I/11eyc50OstL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2N18H7Y?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F9FNZL8C",
+    "brand": "شارب",
+    "name": "شارب 2.25 حصان سبليت إنفرتر (BTU/H)",
+    "specs": {
+      "hp": "2.25",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "BTU/H",
+    "title": "SHARP Split Air Conditioner 2.25 HP 18000 (BTU/H) Inverter, Cool - Heat, (AIOT) Smart, Digital, Plasmacluster, ECO Mode, Fast Cooling, Auto Swing, Self Clean, Tropical Compressor, White AY-XP18BHE",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 42799,
+    "img": "https://m.media-amazon.com/images/I/21MXL8PU9nL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F9FNZL8C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09YHX8G9X",
+    "brand": "يونيون إير",
+    "name": "يونيون إير 1.5 حصان سبليت تبريد فقط",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت",
+      "cool": "تبريد فقط"
+    },
+    "model": "",
+    "title": "Unionaire Megafy Split Air Conditioner, 1.5 HP Cooling Only, white - MEGO012CV5RBWPK-LN - Without Holder",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 16815,
+    "img": "https://m.media-amazon.com/images/I/21eiByykC1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09YHX8G9X?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F9FR6BTK",
+    "brand": "شارب",
+    "name": "شارب 3 حصان سبليت إنفرتر (BTU/H)",
+    "specs": {
+      "hp": "3",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "BTU/H",
+    "title": "SHARP Split Air Conditioner 3 HP 24000 (BTU/H) Inverter, Cool - Heat, (AIOT) Smart, Digital, Plasmacluster, ECO Mode, Fast Cooling, Auto Swing, Self Clean, Tropical Compressor, White AY-XP24BHE",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 43596,
+    "img": "https://m.media-amazon.com/images/I/21MXL8PU9nL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F9FR6BTK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F8LDSNHB",
+    "brand": "تورنيدو",
+    "name": "تورنيدو 3 حصان سبليت تبريد فقط (C24BEE)",
+    "specs": {
+      "hp": "3",
+      "type": "سبليت",
+      "cool": "تبريد فقط"
+    },
+    "model": "C24BEE",
+    "title": "TORNADO Split Air Conditioner 3 HP Cooling Only, Fast Cooling, Dry Function, Auto Swing, Auto Restart, Self Diagnose, Tropical Rotary Compressor, Dust Filter, Low Noise, White TH-C24BEE",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 32360,
+    "img": "https://m.media-amazon.com/images/I/218qUpWVSpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F8LDSNHB?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CC6N12B9",
+    "brand": "فريش",
+    "name": "فريش 1.5 حصان سبليت إنفرتر (SIFW13C/)",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت",
+      "cool": "إنفرتر"
+    },
+    "model": "SIFW13C/",
+    "title": "Fresh Split Air Conditioner 1.5 HP - Smart Inverter- Cooling Only - SIFW13C/IPAMZ - Without holder",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19499,
+    "img": "https://m.media-amazon.com/images/I/21dje2MDbbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CC6N12B9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F6V4H5FL",
+    "brand": "هاير",
+    "name": "هاير 2.25 حصان سبليت تبريد فقط",
+    "specs": {
+      "hp": "2.25",
+      "type": "سبليت",
+      "cool": "تبريد فقط"
+    },
+    "model": "",
+    "title": "Haier Split Air Conditioner 2.25 HP Cooling only, 19663W Cooling Capacity, 1100m³/h Air Flow, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29999,
+    "img": "https://m.media-amazon.com/images/I/118KsPxt3qL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F6V4H5FL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DFCMFD8J",
+    "brand": "هاير",
+    "name": "هاير 1.5 حصان إنفرتر",
+    "specs": {
+      "hp": "1.5",
+      "cool": "إنفرتر"
+    },
+    "model": "",
+    "title": "Haier Air Conditioner 1.5 HP Smart ECO Inverter cooling only - White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19298,
+    "img": "https://m.media-amazon.com/images/I/115wCYiQHRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DFCMFD8J?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2BF6HKJ",
+    "brand": "ميديا",
+    "name": "ميديا 1.5 حصان سبليت (R32)",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت"
+    },
+    "model": "R32",
+    "title": "Midea 2026 (R32) Xtream Pro NEW 1.5 HP Fixed Cool Only Split AC – M1SEFT-12CRN8F-Q8",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19399,
+    "img": "https://m.media-amazon.com/images/I/21DsEU4+XTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2BF6HKJ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DBR2DRXP",
+    "brand": "إل جي",
+    "name": "إل جي 1.5 حصان سبليت",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت"
+    },
+    "model": "",
+    "title": "LG Split Air Conditioner 1.5 HP Cool & Heat New Hero White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19699,
+    "img": "https://m.media-amazon.com/images/I/21ROlNwl27L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DBR2DRXP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2BM4WR1",
+    "brand": "كارير",
+    "name": "كارير 1.5 حصان سبليت (R32)",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت"
+    },
+    "model": "R32",
+    "title": "Carrier 2026 (R32) XCOOL 1.5 HP Fixed Cool Only Split AC – 53KHEFT12N8-708F",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 22790,
+    "img": "https://m.media-amazon.com/images/I/216D3QUk7DL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2BM4WR1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2BVQ27G",
+    "brand": "كارير",
+    "name": "كارير 2.25 حصان سبليت (R32)",
+    "specs": {
+      "hp": "2.25",
+      "type": "سبليت"
+    },
+    "model": "R32",
+    "title": "Carrier 2026 (R32) XCOOL 2.25 HP Fixed Cool Only Split AC – 53KHEFT18N8-708F",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 33150,
+    "img": "https://m.media-amazon.com/images/I/216D3QUk7DL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2BVQ27G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CW1NYQ7N",
+    "brand": "إل جي",
+    "name": "إل جي 1.5 حصان تبريد فقط (C12RZACA)",
+    "specs": {
+      "hp": "1.5",
+      "cool": "تبريد فقط"
+    },
+    "model": "C12RZACA",
+    "title": "LG HERO On/Off Air Conditioner 1.5 HP Cooling Only, Fast Cooling, Auto Swing, Smart Diagnosis, Blue Fin,S4-C12RZACA",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 18998,
+    "img": "https://m.media-amazon.com/images/I/21+yQFlj9PL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CW1NYQ7N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H68LZFYD",
+    "brand": "فريش",
+    "name": "فريش 1.5 حصان إنفرتر (EIFW12C/IW-)",
+    "specs": {
+      "hp": "1.5",
+      "cool": "إنفرتر"
+    },
+    "model": "EIFW12C/IW-",
+    "title": "Fresh Elite Inverter Air Conditioner 1.5 HP Cooling Only EIFW12C/IW-R32 | Inverter Technology | R32 Eco-Friendly Refrigerant | Turbo Cooling | Self-Cleaning | 5-Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 19475,
+    "img": "https://m.media-amazon.com/images/I/11Et4cisIyL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H68LZFYD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0C193Q1FD",
+    "brand": "هاير",
+    "name": "هاير 1.5 حصان تبريد فقط (R410)",
+    "specs": {
+      "hp": "1.5",
+      "cool": "تبريد فقط"
+    },
+    "model": "R410",
+    "title": "Haier Air Conditioner Smart Cool 12000 BTU/h - 1.5 HP - ON/OFF R410 / Cooling Only - HSU12KCROCC",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 18499,
+    "img": "https://m.media-amazon.com/images/I/11z1pWh1CtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0C193Q1FD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CGXBMZ5T",
+    "brand": "فريش",
+    "name": "فريش 1.5 حصان سبليت (FUFW12H/IW)",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت"
+    },
+    "model": "FUFW12H/IW",
+    "title": "Fresh 1.5HP Professional Turbo FUFW12H/IW Split Cooling and Heating Split Air Conditioner Without Plasma - without holder",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 21174,
+    "img": "https://m.media-amazon.com/images/I/21gXcb6M1tL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CGXBMZ5T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4H4P2RR",
+    "brand": "إل جي",
+    "name": "إل جي 2.25 حصان إنفرتر (Q18RZACA)",
+    "specs": {
+      "hp": "2.25",
+      "cool": "إنفرتر"
+    },
+    "model": "Q18RZACA",
+    "title": "LG HERO Air Conditioner 2.25 HP - Cooling Only - Inverter Technology - Plasma Ionizer - T3 Technology - Fast Cooling - 4-Way Swing – Auto restart - White - S4-Q18RZACA",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 34199,
+    "img": "https://m.media-amazon.com/images/I/21EtFDvYjaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4H4P2RR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DBR36RM9",
+    "brand": "إل جي",
+    "name": "إل جي 2.25 حصان تبريد فقط (C18RZACA)",
+    "specs": {
+      "hp": "2.25",
+      "cool": "تبريد فقط"
+    },
+    "model": "C18RZACA",
+    "title": "LG S4-C18RZACA 18K BTU New Hero Air Conditioner with 2.25 HP Cooling Only, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29150,
+    "img": "https://m.media-amazon.com/images/I/21ROlNwl27L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DBR36RM9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B089G97MK3",
+    "brand": "كارير",
+    "name": "كارير 1.5 حصان سبليت",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت"
+    },
+    "model": "",
+    "title": "Carrier 53QHCT-12 Optimax Cooling & Heating Split Air Conditioner - 1.5 HP",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 23900,
+    "img": "https://m.media-amazon.com/images/I/21oVJgtc0+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B089G97MK3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2BJPZ3P",
+    "brand": "ميديا",
+    "name": "ميديا 3 حصان سبليت (R32)",
+    "specs": {
+      "hp": "3",
+      "type": "سبليت"
+    },
+    "model": "R32",
+    "title": "Midea 2026 (R32) Xtream Pro NEW 3 HP Fixed Heat & Cool Split AC – M1SEFT-24HRN8F-Q8",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 41150,
+    "img": "https://m.media-amazon.com/images/I/21DsEU4+XTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2BJPZ3P?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2BH1XW8",
+    "brand": "كارير",
+    "name": "كارير 2.5 حصان سبليت (R32)",
+    "specs": {
+      "hp": "2.5",
+      "type": "سبليت"
+    },
+    "model": "R32",
+    "title": "Carrier 2026 (R32) XCOOL 2.5 HP Fixed Cool & Heat Split AC – 53QHEFT18N8-708F",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 35200,
+    "img": "https://m.media-amazon.com/images/I/216D3QUk7DL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2BH1XW8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H2BJ19DV",
+    "brand": "ميديا",
+    "name": "ميديا 2.25 حصان سبليت (R32)",
+    "specs": {
+      "hp": "2.25",
+      "type": "سبليت"
+    },
+    "model": "R32",
+    "title": "Midea 2026 (R32) Xtream Pro NEW 2.25 HP Fixed Cool Only Split AC – M1SEFT-18CRN8F-Q8",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 31690,
+    "img": "https://m.media-amazon.com/images/I/21DsEU4+XTL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H2BJ19DV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CSZ1THD8",
+    "brand": "هاير",
+    "name": "هاير 2.25 حصان تبريد فقط (R410)",
+    "specs": {
+      "hp": "2.25",
+      "cool": "تبريد فقط"
+    },
+    "model": "R410",
+    "title": "Haier Air Conditioner Smart Cool 18000 BTU/h - 2.25 HP - ON/OFF R410 / Cooling Only - HSU18KCROCC",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 27780,
+    "img": "https://m.media-amazon.com/images/I/11z1pWh1CtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CSZ1THD8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GYLS6CD7",
+    "brand": "كارير",
+    "name": "كارير 1.5 حصان إنفرتر",
+    "specs": {
+      "hp": "1.5",
+      "cool": "إنفرتر"
+    },
+    "model": "",
+    "title": "Carrier XCOOL Inverter Air Conditioner 1.5 HP Cooling & Heating 53QHEFT12DN8-708F",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 29500,
+    "img": "https://m.media-amazon.com/images/I/31h739802+L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GYLS6CD7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CSYVHZ4R",
+    "brand": "هاير",
+    "name": "هاير 1.5 حصان (R410)",
+    "specs": {
+      "hp": "1.5"
+    },
+    "model": "R410",
+    "title": "Haier Air Conditioner Smart Cool 12000 BTU/h - 1.5 HP - ON/OFF R410 / Heating/Cooling - HSU12KHROCC - Without Holder",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 20788,
+    "img": "https://m.media-amazon.com/images/I/11z1pWh1CtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CSYVHZ4R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091J6G6MR",
+    "brand": "يونيون إير",
+    "name": "Unionaire Air Conditioner (1.5 Ph, White)",
+    "specs": {},
+    "model": "",
+    "title": "Unionaire Air Conditioner (1.5 Ph, White)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17499,
+    "img": "https://m.media-amazon.com/images/I/21ZQVxtVb4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091J6G6MR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B097LTGV21",
+    "brand": "Free Air",
+    "name": "Free Air 1.5 حصان سبليت",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت"
+    },
+    "model": "",
+    "title": "Free Air FR-12CR Split System Air Conditioner, Cold Only - White - 1.5 HP",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 16222,
+    "img": "https://m.media-amazon.com/images/I/21Ss07NoACL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B097LTGV21?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09231YR3D",
+    "brand": "aura",
+    "name": "aura 1.5 حصان سبليت",
+    "specs": {
+      "hp": "1.5",
+      "type": "سبليت"
+    },
+    "model": "",
+    "title": "Aura - Air Conditioner FAE-12CR Split Unit 1.5 HP Cool Only",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 17141,
+    "img": "https://m.media-amazon.com/images/I/217SATVyTCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09231YR3D?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CTKH25TG",
+    "brand": "DAOLIGI",
+    "name": "DAOLIGI متنقل",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Mini Air Conditioning Portable Air Cooler Mobile Air Conditioner with 3 Speeds, 1/2/3H Timer, 360° Rotation, Small Personal Air Conditioning Fan, USB Desktop Cooling Fan for Office, Home, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 240,
+    "img": "https://m.media-amazon.com/images/I/41YCFx7kUIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CTKH25TG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H4KCYG2C",
+    "brand": "غير محدد",
+    "name": "HO Live Electric Freon Portable Air Conditioner, 12000 BTU, 3300 Watts Cooling, Model HO-12KC-POR",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "HO Live Electric Freon Portable Air Conditioner, 12000 BTU, 3300 Watts Cooling, Model HO-12KC-POR",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 14999,
+    "img": "https://m.media-amazon.com/images/I/313vVrPHNjL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4KCYG2C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0HF5FZYHV",
+    "brand": "USHOP",
+    "name": "USHOP متنقل",
+    "specs": {
+      "type": "متنقل"
+    },
+    "model": "",
+    "title": "Ushop | 3 in 1 Air Cooler, Mini Air Conditioner Humidifier Purifier, 3 Speeds and 7 Colors LED Light, Personal Air Conditioner, Portable Desktop Air Cooler",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 270,
+    "img": "https://m.media-amazon.com/images/I/31G503gwOpL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0HF5FZYHV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07VVD5MTP",
+    "brand": "غير محدد",
+    "name": "Adjustable Air Conditioner Without Wall Punching, 3254846565",
+    "specs": {},
+    "model": "",
+    "title": "Adjustable Air Conditioner Without Wall Punching, 3254846565",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 390,
+    "img": "https://m.media-amazon.com/images/I/31rwJ31XBrL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07VVD5MTP?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091CM8PRN",
+    "brand": "OtherWorldlyWaxes",
+    "name": "Fully Advanced AC Flow Deflector and Soother",
+    "specs": {},
+    "model": "",
+    "title": "Fully Advanced AC Flow Deflector and Soother",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 390,
+    "img": "https://m.media-amazon.com/images/I/31LVRDhXjgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091CM8PRN?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",

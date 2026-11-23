@@ -18,7 +18,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C2J8DQC1",
@@ -39,7 +40,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F79XWF8H",
@@ -60,7 +62,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0G8CGL9TN",
@@ -81,14 +84,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08BKKD1VN",
     "brand": "كيمي",
     "name": "كيمي مقص (KM2027)",
     "specs": {
-      "type": "مقص"
+      "type": "مقص",
+      "gender": "رجالي"
     },
     "model": "KM2027",
     "title": "KEMEI Foil Shaver Barber for Men,Electric Razor Rechargeable with Beard Trimmer,Cordless Lithium Titanium Foil Shavers with Travel Case,KM2027",
@@ -102,14 +107,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CLX1HQ17",
     "brand": "فيليبس",
     "name": "فيليبس مقص (MG3740/40)",
     "specs": {
-      "type": "مقص"
+      "type": "مقص",
+      "gender": "رجالي"
     },
     "model": "MG3740/40",
     "title": "Philips Norelco Multi Groomer All-in-One Trimmer Series 3000-13 Piece Mens Grooming Kit for Beard, Face, Nose, Ear Hair Trimmer and Hair Clipper - NO Blade Oil Needed, MG3740/40",
@@ -123,14 +130,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07RCG7QJH",
     "brand": "كيمي",
     "name": "كيمي 3 شفرات",
     "specs": {
-      "blades": "3 شفرات"
+      "blades": "3 شفرات",
+      "gender": "نسائي"
     },
     "model": "",
     "title": "Kemei Electric Shaver 3 in 1 Double Blade Frequency 3 Blades Travel Safety Razor for Men and Women",
@@ -144,7 +153,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQCHPY8S",
@@ -165,14 +175,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0C9JV6PNG",
     "brand": "كيمي",
     "name": "كيمي مقص",
     "specs": {
-      "type": "مقص"
+      "type": "مقص",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "KEMEI KM-696 5 in 1 electric HAIR SHAVER full care grooming kit. Professional Body Ear Nose Hair, Men’s Beard Grooming Kit Mustache Trimmer, Cordless Electric Hair Clippers Haircut",
@@ -186,14 +198,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B07N6MNB6K",
     "brand": "كيمي",
     "name": "كيمي مقاوم للماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Kemei KM-1910 Eyebrow and facial trimmer wet and dry For Men",
@@ -207,14 +221,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B08GFRCXF1",
     "brand": "كيمي",
     "name": "كيمي شبكي",
     "specs": {
-      "type": "شبكي"
+      "type": "شبكي",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Kemei Foil Shavers for Men Electric Razor with Bald Trimming Cordless Electric Shavers with LED Display 2 in 1",
@@ -228,7 +244,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CLWH333W",
@@ -249,7 +266,8 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CQCKD3KS",
@@ -270,14 +288,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D4VB3LL9",
     "brand": "فيليبس",
     "name": "فيليبس مقص (BG3007/01)",
     "specs": {
-      "type": "مقص"
+      "type": "مقص",
+      "gender": "رجالي"
     },
     "model": "BG3007/01",
     "title": "Philips BG3007/01 Cordless Showerproof New Body Trimmer for Men | Body Groomer with Skin Protect Technology | Ideal for all Body Areas & Private Part | Skin Friendly Body & Groin Shaver",
@@ -291,14 +311,16 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FMXLJHQV",
     "brand": "فيليبس",
     "name": "فيليبس مقص (BT3617/15)",
     "specs": {
-      "type": "مقص"
+      "type": "مقص",
+      "gender": "رجالي"
     },
     "model": "BT3617/15",
     "title": "Philips Beard Trimmer 3000 BT3617/15",
@@ -307,6 +329,1752 @@
     "price": 2156.8,
     "img": "https://m.media-amazon.com/images/I/41ogDfXtIUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FMXLJHQV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0FYHMWV13",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي مقاوم للماء 80 دقيقة (BRL138/00)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء",
+      "battery": "80"
+    },
+    "model": "BRL138/00",
+    "title": "Philips Lady Shaver Series 6000 Cordless, Wet & Dry, For Legs, Body & Bikini,80Min Runtime,Sb-A Charging- Brl138/00",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4350,
+    "img": "https://m.media-amazon.com/images/I/31xG4XsZeSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FYHMWV13?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B098W13Z2B",
+    "brand": "كيمي",
+    "name": "كيمي رجالي مقص",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "Kemei 5558 Dry For Men - Clipper & Trimmer",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 289.75,
+    "img": "https://m.media-amazon.com/images/I/41eIivFEacL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B098W13Z2B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09WY4ZT7C",
+    "brand": "كيمي",
+    "name": "كيمي رجالي مقاوم للماء",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "Kemei Men'S Electric Razor Waterproof Reciprocating Razor Cordless Precision Beard Trimmer Twin Blade Usb Rechargeable Grooming Razors,Shaving & Hair Removal Products",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 495,
+    "img": "https://m.media-amazon.com/images/I/41JF7aviunL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09WY4ZT7C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FND4NWVL",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي مقاوم للماء",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "Philips Electric Trimmer and Shaver OneBlade | Unmatched skin protection for private parts, bikinis, underarms, and intimate areas | No post-shave irritation | For women and men | Waterproof",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2745,
+    "img": "https://m.media-amazon.com/images/I/51LhTEXfHRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FND4NWVL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CWRPVNWL",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقاوم للماء (S1151/03)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء"
+    },
+    "model": "S1151/03",
+    "title": "Philips Electric Shaver for Men, Wet and Dry Shave, 3D Floating Heads, 27 Self Sharpening Blades, Cordless, Waterproof S1151/03 (New Model)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2203.42,
+    "img": "https://m.media-amazon.com/images/I/41IsZlkPv0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CWRPVNWL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00RYSOBFG",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي مقص (BRT38315)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص"
+    },
+    "model": "BRT38315",
+    "title": "Philips Essential Bikini Trimmer. Trim. Shave & Style. Mini Shaving Head Included. Portable. Battery, Brt38315. 2 Years Warranty, Whitepurple",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2870.88,
+    "img": "https://m.media-amazon.com/images/I/416HKpVpfHL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00RYSOBFG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07MG5KNM5",
+    "brand": "كيمي",
+    "name": "كيمي رجالي مقص (KM6559)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "KM6559",
+    "title": "Kemei KM6559 Dry For Men Hair Trimmer",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 345,
+    "img": "https://m.media-amazon.com/images/I/41rQu78MN6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07MG5KNM5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CXF691ZF",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقص (BT3232/15)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "BT3232/15",
+    "title": "Philips Beardtrimmer 3000 Series BT3232/15",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2028.33,
+    "img": "https://m.media-amazon.com/images/I/41GLg4fvtKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CXF691ZF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BHT7NX51",
+    "brand": "شاومي",
+    "name": "شاومي رجالي مقص",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "Xiaomi Grooming Kit Pro, 40 length settings, Face, Hair, Body - Everything-in-One Professional Styling Trimmer, Body Grooming, Nose & Ear Hair Trimming, Hair Clippers, Beard Combs, Quick Charge",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2999,
+    "img": "https://m.media-amazon.com/images/I/41I8rRnoIKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BHT7NX51?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FRN6W5J4",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقص (MG7922/15)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "MG7922/15",
+    "title": "All-in-One Trimmer 7000 Series 13-in-1 Men's Care Set MG7922/15",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3849,
+    "img": "https://m.media-amazon.com/images/I/41s9ZZoTYYL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FRN6W5J4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BQN79PH9",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقص (MG5910/49)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "MG5910/49",
+    "title": "Philips Norelco Multigroom Series 5000 18 Piece, Beard Face, Hair, Body and Intimate Hair Trimmer for Men – NO Blade Oil MG5910/49",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3940,
+    "img": "https://m.media-amazon.com/images/I/41KXugG4YiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BQN79PH9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00ROSVV7M",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقص (MG1100/16)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "MG1100/16",
+    "title": "Philips Multigroom Series 1000 Ultra Precise Beard Styler, DualCut Precision Trimmer, Detail Shaver Attachment, Fully Washable, AA Battery, 3 Precision Combs – MG1100/16",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1590.95,
+    "img": "https://m.media-amazon.com/images/I/31Zh8XRj1xL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00ROSVV7M?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D3D9BL44",
+    "brand": "فريش",
+    "name": "فريش رجالي مقص",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "VGR 906 Fresh Fade Professional Hair Trimmer, 9000rpm Zero Gapped Beard Trimmer for Men, DLC T-Blade Cordless Hair Clipper for Barbers and USB Rechargeable, Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/41YJlOQXAVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D3D9BL44?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G2S72LDS",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقص (MG5942/15)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "MG5942/15",
+    "title": "Philips India's No.1 Men's Trimmer | All-in-one Trimmer : Face,Head,Body | 13-in-1 Self sharpening Blade | Precision Trimming | Nose/Ear Trimmers | Showerproof I MG5942/15",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3198,
+    "img": "https://m.media-amazon.com/images/I/41e8+nkL4FL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G2S72LDS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CZTWY2SW",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقص",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "Philips OneBlade Gen Z Beard and Body Trimmer and Styler | Ideal for the 1st finish | Designed for skin comfort, no cuts and nicks, dual protection technology | Prone to acne, beard",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2899,
+    "img": "https://m.media-amazon.com/images/I/41t6JGA4weL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CZTWY2SW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CJYHCPSL",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقاوم للماء (MG5920/15)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء"
+    },
+    "model": "MG5920/15",
+    "title": "Philips Series 5000 All-in-One Trimmer – 10-in-1 Grooming Kit for Beard, Hair, Face & Body, Adjustable Length Settings 0.5–16mm, Wet & Dry Use, Washable, Cordless – International Warranty – MG5920/15",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3431,
+    "img": "https://m.media-amazon.com/images/I/41l1XvZYLIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CJYHCPSL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BSR22WY1",
+    "brand": "كيمي",
+    "name": "كيمي نسائي مقاوم للماء",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "KEMEI Professional Body Hair Trimmer for Men & Women, KM-3208 with LED Light, USB Fast Charging & Ceramic Blade Heads, Waterproof Wet/Dry, Suitable For Body Private Part Shaving,And Pubic Hair.",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 565.75,
+    "img": "https://m.media-amazon.com/images/I/21It4GoWHcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BSR22WY1?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CVQZRHMW",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي مقاوم للماء (BG3007/01)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء"
+    },
+    "model": "BG3007/01",
+    "title": "Philips Bodygroom Series 3000 Showerproof Body & Groin Trimmer for Men, Skin-Friendly, 3mm Comb, Cordless Use, 40-Min Runtime, No Oil Needed, Wet & Dry Use – International Warranty – BG3007/01",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2998.95,
+    "img": "https://m.media-amazon.com/images/I/41R2ZNJ8JOL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CVQZRHMW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GQZLNGS2",
+    "brand": "كيمي",
+    "name": "كيمي نسائي مقص",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "KEMEI Women's 4 in 1 Electric Shaver, Rechargeable Facial Shaver and Bikini Trimmer, Women's Intimate Shaver for Bikini Area, Face, Legs and Armpits - Gentle Hair Removal (Red)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 674.9,
+    "img": "https://m.media-amazon.com/images/I/412TLmXBsVL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GQZLNGS2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GQZ6CG46",
+    "brand": "كيمي",
+    "name": "كيمي نسائي مقص (PINK)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص"
+    },
+    "model": "PINK",
+    "title": "Kemei Electric Shaver for Women 4-in-1, Rechargeable Bikini Trimmer | Intimate Shaver for Women for Bikini Area, Face, Legs & Armpits – Gentle Hair Removal (Pink)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 625,
+    "img": "https://m.media-amazon.com/images/I/411ORTZHCEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GQZ6CG46?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B009T0537W",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي مقاوم للماء (HP6341/00)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "HP6341/00",
+    "title": "Philips SatinShave Essential Women’s Electric Shaver for Legs, Cordless Wet & Dry Use, HP6341/00",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2970,
+    "img": "https://m.media-amazon.com/images/I/31IYX2UARAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B009T0537W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CWJF37L8",
+    "brand": "براون",
+    "name": "براون نسائي مقاوم للماء",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "Braun Epilator Silk-épil 7, Hair Removal Device, Women Shaver & Trimmer, Wet and Dry, Wide Head, Includes Shaver Head and Trimmer Comb, SE7-041, Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 5699,
+    "img": "https://m.media-amazon.com/images/I/41gfjr4+-UL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CWJF37L8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D62W9RQ7",
+    "brand": "باناسونيك",
+    "name": "باناسونيك نسائي مقاوم للماء (WM31-P262)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "WM31-P262",
+    "title": "Panasonic 5-in-1 Full waterproof Women Multi-grooming Kit with dedicated trimmer for body and its own bikini trimmer and shaver for gentle full body grooming - ES-WM31-P262",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2508.03,
+    "img": "https://m.media-amazon.com/images/I/41sDgmwaHzL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D62W9RQ7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D2PBZ1CX",
+    "brand": "براون",
+    "name": "براون نسائي مقاوم للماء (SE1000)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "SE1000",
+    "title": "Braun Silk‑épil 1 SE1‑000 Epilator for Women – 20 Tweezers, AC Powered Hair Removal Device, Basic Wet & Dry Epilator for Legs and Arms – SE1000",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1929.6,
+    "img": "https://m.media-amazon.com/images/I/31DZBaei2VL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D2PBZ1CX?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CQRX2KHZ",
+    "brand": "براون",
+    "name": "براون نسائي مقص",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "Braun Silk-épil 3, Wired epilator for Hair Removal, attachments for Razors, Trimmer and Massage for Body, 3-202, Raspberry",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2795,
+    "img": "https://m.media-amazon.com/images/I/41PCByueZcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CQRX2KHZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FHQ9GHFF",
+    "brand": "سوكاني",
+    "name": "سوكاني نسائي مقاوم للماء",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "SOKANY 3 in 1 Epilator, Hair Removal Machine, Facial Hair Removal for Women, Wet and Dry Cordless Hair Removal, Epilator for Legs and Body, with Opti Light",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 699,
+    "img": "https://m.media-amazon.com/images/I/311cw84t4NL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FHQ9GHFF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07TMHXW4G",
+    "brand": "براون",
+    "name": "براون نسائي مقص (FG1103)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص"
+    },
+    "model": "FG1103",
+    "title": "Braun Silk epil FG1103 Bikini Styler 3 in 1 Trimmer with 4 Extras - Pink",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2925,
+    "img": "https://m.media-amazon.com/images/I/41yUmtTYyNL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07TMHXW4G?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B079D83CPM",
+    "brand": "براون",
+    "name": "براون نسائي مقص (FG1100)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص"
+    },
+    "model": "FG1100",
+    "title": "Braun Silk-épil FG1100 Precision Trimmer for Bikini and Eyebrow Pink",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2399,
+    "img": "https://m.media-amazon.com/images/I/31Oh2p1GVbL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B079D83CPM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D4WYZ8VG",
+    "brand": "كيمي",
+    "name": "كيمي رجالي مقص (T99)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "T99",
+    "title": "Kemei Professional Original Hair Clipper and Beard Trimmer, Gold, WS-T99",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 153,
+    "img": "https://m.media-amazon.com/images/I/41a2jMdaFlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D4WYZ8VG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08SJSPV4Q",
+    "brand": "فيليبس",
+    "name": "فيليبس رجالي (PQ206/18)",
+    "specs": {
+      "gender": "رجالي"
+    },
+    "model": "PQ206/18",
+    "title": "Philips Men's Electric Travel Shaver, Cordless, Battery-Powered Convenient to Carry - PQ206/18",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1026,
+    "img": "https://m.media-amazon.com/images/I/31eIvfOJX2L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08SJSPV4Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B088D6D3B3",
+    "brand": "كيمي",
+    "name": "كيمي مقاوم للماء",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "Bivolt Km-1910 Waterproof Rechargeable Electric Hair Trimmer Shaver Kemei",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 563.36,
+    "img": "https://m.media-amazon.com/images/I/41pJ+D9DD6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B088D6D3B3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09M49MMM7",
+    "brand": "كيمي",
+    "name": "كيمي مقص",
+    "specs": {
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "Kemei KM-5021 3in1 Rechargeable Hair trimmer",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 360,
+    "img": "https://m.media-amazon.com/images/I/413i7ERSlcL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09M49MMM7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FN3KSVT4",
+    "brand": "فيليبس",
+    "name": "فيليبس مقص (MG3940/15)",
+    "specs": {
+      "type": "مقص"
+    },
+    "model": "MG3940/15",
+    "title": "Philips All-In-One Series 3000 Trimmer Mg3940/15",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2549,
+    "img": "https://m.media-amazon.com/images/I/41mY9En+5ML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FN3KSVT4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01E67U8TA",
+    "brand": "كيمي",
+    "name": "كيمي رجالي",
+    "specs": {
+      "gender": "رجالي"
+    },
+    "model": "",
+    "title": "shaver machine for men KM-5017-MEDIUM",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 379,
+    "img": "https://m.media-amazon.com/images/I/31dX97Fg+3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01E67U8TA?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00K3FFIOA",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي (HP6306/50)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "HP6306/50",
+    "title": "Philips SatinShave Essential Women’s Electric Shaver for Legs, Cordless, HP6306/50",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3100,
+    "img": "https://m.media-amazon.com/images/I/41cgzHTub6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00K3FFIOA?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FGWPZG7V",
+    "brand": "فيليبس",
+    "name": "فيليبس مقاوم للماء (BRL128/10)",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "BRL128/10",
+    "title": "Philips Cordless Wet & Dry Lady Shaver, Legs, Arm, Underarm, Wet & Dry Usage, USB-A Charging, Quick Charge for the first use | Number 1 Lady Shaver Brand Globally! | BRL128/10",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4049,
+    "img": "https://m.media-amazon.com/images/I/41qpUUgV-1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FGWPZG7V?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BDGCSPL7",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي (BRR474/00)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "BRR474/00",
+    "title": "Philips Beauty Series 5000 Electric Shaver and Personal Groomer for Women, Cordless & Compact, Hypollergenic Head, Gentle & Quick Hair Removal Easy Finishing Touch Ups, BRR474/00",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2850,
+    "img": "https://m.media-amazon.com/images/I/41jn0Zh4OKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BDGCSPL7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B079D3WY8Q",
+    "brand": "براون",
+    "name": "براون مقاوم للماء",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "Braun Silk-épil Lady Shaver 5-160, 3-in-1 Wet and Dry Electric Shaver, Trimmer and Exfoliation System with 2 Extras, Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3299,
+    "img": "https://m.media-amazon.com/images/I/31JGENY7O0L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B079D3WY8Q?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0992YVTHH",
+    "brand": "كيمي",
+    "name": "كيمي نسائي",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "",
+    "title": "Kemei KM-2068 Shaver working with Dry for Women - Epilators",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 490,
+    "img": "https://m.media-amazon.com/images/I/31gzyWBrQtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0992YVTHH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DHGC6GLL",
+    "brand": "براون",
+    "name": "براون نسائي (SE3000)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "SE3000",
+    "title": "Braun Silk-épil 3 – 3-000 Women’s Epilator, Corded Hair Removal with 20 Tweezers and SmartLight, Smooth Skin for Up to 4 Weeks, Ergonomic Design, Purple – SE3000",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2107.81,
+    "img": "https://m.media-amazon.com/images/I/41MtvlR7HXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DHGC6GLL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DXVRDG3H",
+    "brand": "براون",
+    "name": "براون نسائي",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "",
+    "title": "Braun Silk-épil 3 3-000 Epilator - Purple",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2064.16,
+    "img": "https://m.media-amazon.com/images/I/41aGV-DGRiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DXVRDG3H?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BB8JF6QD",
+    "brand": "سوكاني",
+    "name": "سوكاني نسائي",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "",
+    "title": "Epilator for Women 3-in-1 Rechargeable Cordless Hair Remover, 2-Speed 5W Device for Face, Legs, Arms, Bikini Area – SK-17006",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 724.9,
+    "img": "https://m.media-amazon.com/images/I/41W+EH7iLtL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BB8JF6QD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0F5GV7BSQ",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي (BRE229/00)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "BRE229/00",
+    "title": "Philips Epilator Series 2000, Corded Epilator for Legs Hair Removal Device for Women, Model BRE229/00",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1888,
+    "img": "https://m.media-amazon.com/images/I/41Rmk94j+QL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0F5GV7BSQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B004CRSLU8",
+    "brand": "براون",
+    "name": "براون نسائي (FG1100)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "FG1100",
+    "title": "Braun Silk-épil 3in1 FG1100 Bikini Styler with 4 Extras, Pink",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2150,
+    "img": "https://m.media-amazon.com/images/I/31xeY-N1gAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B004CRSLU8?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08L9RRNY5",
+    "brand": "براون",
+    "name": "براون مقاوم للماء (BS1000)",
+    "specs": {
+      "type": "مقاوم للماء"
+    },
+    "model": "BS1000",
+    "title": "Braun Body Mini Trimmer For Gentle Body Hair Removal, Precision Trimmer, Wet & Dry, 100% Waterproof, BS1000, White",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1895,
+    "img": "https://m.media-amazon.com/images/I/31fAhbMGD9L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08L9RRNY5?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00SYM39IG",
+    "brand": "ريمينجتون",
+    "name": "ريمينجتون نسائي (WPG4035)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "WPG4035",
+    "title": "Remington Smooth & Silky Ultimate Bikini Kit - WPG4035",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2300,
+    "img": "https://m.media-amazon.com/images/I/31ldZ3CTsIS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00SYM39IG?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DFYN8174",
+    "brand": "فيليبس",
+    "name": "فيليبس نسائي (QP1924/30)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "QP1924/30",
+    "title": "Philips OneBlade Intimate Women and Men Hair Removal Razor for Intimate Area, Armpits and Armpits, Shaves and Trimms, Skin Protection Blade QP1924/30",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3527.7,
+    "img": "https://m.media-amazon.com/images/I/41otsDoBY7L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DFYN8174?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B00EE21D10",
+    "brand": "باناسونيك",
+    "name": "باناسونيك نسائي (WR40)",
+    "specs": {
+      "gender": "نسائي"
+    },
+    "model": "WR40",
+    "title": "Panasonic ES-WR40 Women's Shaver with Slim line Design and Pivoting Head , Battery Operated",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 889.11,
+    "img": "https://m.media-amazon.com/images/I/31qh-tmg-dL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B00EE21D10?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07RGWCGLM",
+    "brand": "كيمي",
+    "name": "KEMEI Electric razor, Orange",
+    "specs": {},
+    "model": "",
+    "title": "KEMEI Electric razor, Orange",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 472.9,
+    "img": "https://m.media-amazon.com/images/I/41MFNhOgbgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07RGWCGLM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B01KH1DDG4",
+    "brand": "فيليبس",
+    "name": "Philips PQ206 Electric Shaver Battery Powered - Convenient To Carry",
+    "specs": {},
+    "model": "PQ206",
+    "title": "Philips PQ206 Electric Shaver Battery Powered - Convenient To Carry",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 800,
+    "img": "https://m.media-amazon.com/images/I/41K-+n5bgiL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B01KH1DDG4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DQWLLMBS",
+    "brand": "براون",
+    "name": "Braun All-in-One Series 3 8-in-1 Grooming Kit, Ultra Sharp Blade, 14 Lengths AIO3540, Grey",
+    "specs": {},
+    "model": "AIO3540",
+    "title": "Braun All-in-One Series 3 8-in-1 Grooming Kit, Ultra Sharp Blade, 14 Lengths AIO3540, Grey",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2290,
+    "img": "https://m.media-amazon.com/images/I/4131nc1OZEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DQWLLMBS?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0922VFCCT",
+    "brand": "كيمي",
+    "name": "KEMEI Lady Shaver Double function and shaver Rechargeable Hair Remover",
+    "specs": {},
+    "model": "",
+    "title": "KEMEI Lady Shaver Double function and shaver Rechargeable Hair Remover",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 639.7,
+    "img": "https://m.media-amazon.com/images/I/31SEiPHGc8L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0922VFCCT?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DFYZN9V3",
+    "brand": "VGR",
+    "name": "VGR رجالي مقاوم للماء 90 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء",
+      "battery": "90"
+    },
+    "model": "",
+    "title": "VGR V-360 Digital Display Cordless Dual Sided OneBlade Trimmer & Shaver 0.5-9mm Adjustable Comb for complete Beard Styling & Body Hair Trimming 90 mins Runtime Fully Washable IPX5 Waterproof, Green",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 636,
+    "img": "https://m.media-amazon.com/images/I/51f18tq0RvL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DFYZN9V3?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BR8712J4",
+    "brand": "VGR",
+    "name": "VGR رجالي مقاوم للماء 100 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء",
+      "battery": "100"
+    },
+    "model": "",
+    "title": "VGR V-305 Premium Cordless Rechargeable IPX7 Fully Waterproof 3 Head Electric Shaver Wet & Dry Rotary Shavers for Men with Pop-up Trimmer Super-Fast Charge 100 minutes Runtime with LED Digital Display",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 859,
+    "img": "https://m.media-amazon.com/images/I/41joN0w6HoL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BR8712J4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0B2Q3W6CN",
+    "brand": "VGR",
+    "name": "VGR رجالي مقاوم للماء 60 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء",
+      "battery": "60"
+    },
+    "model": "",
+    "title": "VGR V-105 5-in-1, Face, Hair and Body - Multi Grooming Kit, Hair Trimmer, Beard Trimmer, Ear & Nose Trimmer, Head Shaver Full Body Grooming Kit, Fully Washable IPX6 Waterproof, Runtime: 60 minutes",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 869,
+    "img": "https://m.media-amazon.com/images/I/41HzLmTZhEL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B2Q3W6CN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BM6J9ZP4",
+    "brand": "VGR",
+    "name": "VGR رجالي مقص 200 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص",
+      "battery": "200"
+    },
+    "model": "",
+    "title": "VGR V-962 Professional Pro Self Haircut Hair Clipper Beard trimmer Digital Display Blades USB Charging cable 4 Guide Combs for men 0mm Bald Head Clipper Runtime 200 mins 1200 mAh Li-ion Battery",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 607.45,
+    "img": "https://m.media-amazon.com/images/I/41IwsgMayhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BM6J9ZP4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08NDMTN2W",
+    "brand": "غير محدد",
+    "name": "VGR Men's Cordless Professional Hair Clipper Runtime: 120 Min Trimmer with 3 Guide Combs (Silver), Standa",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص",
+      "battery": "120"
+    },
+    "model": "SILVER",
+    "title": "VGR Men's Cordless Professional Hair Clipper Runtime: 120 Min Trimmer with 3 Guide Combs (Silver), Standard",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 376.03,
+    "img": "https://m.media-amazon.com/images/I/41ghO076+3L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08NDMTN2W?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BWV3N543",
+    "brand": "VGR",
+    "name": "VGR رجالي مقص 180 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص",
+      "battery": "180"
+    },
+    "model": "",
+    "title": "VGR V-106 6-in-1, Face, Hair and Body - Multi Grooming Kit, Hair Trimmer, Beard Trimmer, Ear & Nose Trimmer Head Shaver Full Body Grooming Kit, Metal Body comes with Travel Pouch, Runtime 180 minutes",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 898,
+    "img": "https://m.media-amazon.com/images/I/513GK7ZxiPL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BWV3N543?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H291RJV4",
+    "brand": "VGR",
+    "name": "VGR رجالي مقص 37 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص",
+      "battery": "37"
+    },
+    "model": "",
+    "title": "VGR 037 Mini T-Blade Hair Trimmer for Men, Zero Gap Trimmers, Green | Metal Body, Stainless Steel Blade, LED Display, USB Charging, 1/2/3/6mm Guards, Travel & Home Use, 80min Runtime",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 450,
+    "img": "https://m.media-amazon.com/images/I/518yv0ru8oL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H291RJV4?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CKNCG8JM",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء 90 دقيقة (PINK)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء",
+      "battery": "90"
+    },
+    "model": "PINK",
+    "title": "VGR V-733 Professional Ladies Grooming Kit,Epilator for women for full body grooming| 6 in 1 lady care set,LED Display,90min Runtime &600mAh Lithium Battery with IPX 7 Waterproof (Pink)1 Year Warranty",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1080.41,
+    "img": "https://m.media-amazon.com/images/I/41MCKtf+OML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CKNCG8JM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GZKFCTNV",
+    "brand": "VGR",
+    "name": "VGR نسائي مقص 90 دقيقة",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص",
+      "battery": "90"
+    },
+    "model": "",
+    "title": "VGR 763 5 in 1 Bikini Trimmer and Electric Shaver for Women | IPX7 washable; built-in light; Travel lock; 90 minutes runtime; USB-C charging; 4 heads and dock",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1199,
+    "img": "https://m.media-amazon.com/images/I/419hYeKdE5L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GZKFCTNV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0CKNGQ5FD",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء 90 دقيقة (GREEN)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء",
+      "battery": "90"
+    },
+    "model": "GREEN",
+    "title": "VGR V-733 Professional Ladies Grooming Kit,Epilator for women for full body grooming| 6 in 1 lady care set,LED Display,90min Runtime &600mAh Lithium Battery with IPX 7 Waterproof (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 999,
+    "img": "https://m.media-amazon.com/images/I/41EVUaHhUhL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0CKNGQ5FD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B095R5D43B",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء 35 دقيقة (PINK)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء",
+      "battery": "35"
+    },
+    "model": "PINK",
+    "title": "VGR V-722 Cordless Professional 2-in-1 Women Epilator & Shaver for different body areas for Wet & Dry | 35 minutes Runtime | Pack of 1 (Pink)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 505,
+    "img": "https://m.media-amazon.com/images/I/51KfwYgtyBS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B095R5D43B?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0BWV4CC94",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء 60 دقيقة",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء",
+      "battery": "60"
+    },
+    "model": "",
+    "title": "VGR V-726 Compact Professional Cordless Women Epilator for different body areas for gentle hair removal at home Wet & Dry use 60 minutes Runtime",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 550,
+    "img": "https://m.media-amazon.com/images/I/41hZiA2EbnL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BWV4CC94?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G9ST4H38",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء 60 دقيقة (GREEN)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء",
+      "battery": "60"
+    },
+    "model": "GREEN",
+    "title": "VGR V-762 Professional 3-in-1 Lady Epilator for Women, Rechargeable Cordless Epilator Shaver and Callus Remover, IPX7 Waterproof, LED Display, 60 Minutes Runtime (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 931.06,
+    "img": "https://m.media-amazon.com/images/I/41EAmq0xWDL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G9ST4H38?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GYLM8MPF",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء 120 دقيقة (GREEN)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء",
+      "battery": "120"
+    },
+    "model": "GREEN",
+    "title": "VGR V-705 Compact Professional Cordless Women Epilator for different body areas for gentle hair removal at home Wet & Dry use 120 minutes Runtime 32 Tweezers system & 2 speed settings (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 550,
+    "img": "https://m.media-amazon.com/images/I/31HVmBL5FML._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GYLM8MPF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GXFZC88T",
+    "brand": "VGR",
+    "name": "VGR رجالي مقص 90 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص",
+      "battery": "90"
+    },
+    "model": "",
+    "title": "VGR V-366 3 in 1 Grooming Kit with 600mAh Lithium battery, All in one Trimmer for Men, Suitable for Face, Nose, Ear & Body Grooming, 90 min Runtime",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 495,
+    "img": "https://m.media-amazon.com/images/I/41kQAJeoqaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GXFZC88T?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B08JNP488Z",
+    "brand": "VGR",
+    "name": "VGR رجالي مقص",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "VGR Professional Cordless Rechargeable Beard Trimmer with Guide Brush for Men, Black, V-055",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 340,
+    "img": "https://m.media-amazon.com/images/I/41vit0kZKgL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B08JNP488Z?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1MS1SBZ",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء (PINK)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "PINK",
+    "title": "VGR V-735 Professional 3-in-1 Lady Shaver Set, IPX7 Waterproof, USB Type-C Rechargeable, for Body, Bikini and Facial Trimming (Pink)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 697,
+    "img": "https://m.media-amazon.com/images/I/41Te-f4lohL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1MS1SBZ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B09CPFNPTD",
+    "brand": "غير محدد",
+    "name": "Styleader Aluminum Foil Blade Shaver Rechargeable for Men - Silver",
+    "specs": {
+      "gender": "رجالي",
+      "type": "شبكي"
+    },
+    "model": "",
+    "title": "Styleader Aluminum Foil Blade Shaver Rechargeable for Men - Silver",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 229.43,
+    "img": "https://m.media-amazon.com/images/I/41+G-M7iQAL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B09CPFNPTD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H1MRVMHM",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء (GREEN)",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "GREEN",
+    "title": "VGR V-735 Professional 3-in-1 Lady Shaver Set, IPX7 Waterproof, USB Type-C Rechargeable, for Body, Bikini and Facial Trimming (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 606,
+    "img": "https://m.media-amazon.com/images/I/41BIfvvXSXL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H1MRVMHM?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H254Q6V7",
+    "brand": "VGR",
+    "name": "VGR نسائي مقص",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "VGR 761 Women's Shaver, 4 in 1 Cordless Intimate Razor for Women, Pink | Nasal Hair Trimmer and Facial Epilator, Electric Lady Shaver for Legs, Face, Body, and Armpits",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 596,
+    "img": "https://m.media-amazon.com/images/I/41yWpnXaKCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H254Q6V7?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D8J9C59F",
+    "brand": "VGR",
+    "name": "VGR رجالي مقاوم للماء",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "VGR 095 Beard Trimmer for Men, 6 in 1 Waterproof Cordless Hair Trimmer and Trimmer, Electric Shavers with T-Blade, Grooming Kit for Nose Body Ear Mustache",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 939,
+    "img": "https://m.media-amazon.com/images/I/51IYkZtdy1L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D8J9C59F?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FJRFL4H2",
+    "brand": "VGR",
+    "name": "VGR رجالي مقص (BLACK)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "BLACK",
+    "title": "VGR V-353 Professional Electric Ultra Thin Shaver Rechargeable Razor for Face Care Beard Trimmer Reciprocating Blade with USB Travel Shaver, Men's Electric Razor - (Black)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 282,
+    "img": "https://m.media-amazon.com/images/I/41S9LowAkRL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FJRFL4H2?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DN23S936",
+    "brand": "غير محدد",
+    "name": "Aluminum Rechargeable Electric Razor for Men - Quick Charge, Continuous Shaving, and Super Hard Titanium ",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "GOLD",
+    "title": "Aluminum Rechargeable Electric Razor for Men - Quick Charge, Continuous Shaving, and Super Hard Titanium Alloy Plating Foil for a Comfortable Grooming Experience, Beard Trimmer, 3W (Gold)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 297,
+    "img": "https://m.media-amazon.com/images/I/51IbFejJyWL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DN23S936?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D31314VR",
+    "brand": "ENSSU",
+    "name": "ENSSU رجالي مقص",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقص"
+    },
+    "model": "",
+    "title": "Enssu Men's Intimate Hair Trimmer,Multifunctional Shaving Machine | Safe Ceramic Blade, IPX7 A Provad'Agua, Rechargeable 1H, Perfect for Beard, Crotch, Chest, Abdomen, Armpits and Pubes",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1422,
+    "img": "https://m.media-amazon.com/images/I/414M9Jh6YIL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D31314VR?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0H5JX3WMD",
+    "brand": "VGR",
+    "name": "VGR نسائي مقاوم للماء",
+    "specs": {
+      "gender": "نسائي",
+      "type": "مقاوم للماء"
+    },
+    "model": "",
+    "title": "VGR 735 3-in-1 Women's Shaver, Facial Hair Remover & Bikini Trimmer, Green | 3 Interchangeable Heads, IPX7 Wet & Dry, 500mAh Battery, LED Indicator, Travel Lock, USB Charging Portable Grooming Kit",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 625,
+    "img": "https://m.media-amazon.com/images/I/410cu4QqhdL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H5JX3WMD?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0991XTMBL",
+    "brand": "VGR",
+    "name": "VGR مقاوم للماء 90 دقيقة",
+    "specs": {
+      "type": "مقاوم للماء",
+      "battery": "90"
+    },
+    "model": "",
+    "title": "VGR V-306 Premium Cordless Rechargeable IPX7 Fully Waterproof 3 Head Electric Shaver Wet & Dry Rotary Shavers with Pop-up Trimmer Super-Fast Charge 90 minutes Runtime with LED Digital Display - Blue",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 722,
+    "img": "https://m.media-amazon.com/images/I/51SPoGLS4gS._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0991XTMBL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0GWVTW4TF",
+    "brand": "VGR",
+    "name": "VGR رجالي مقاوم للماء (GREEN)",
+    "specs": {
+      "gender": "رجالي",
+      "type": "مقاوم للماء"
+    },
+    "model": "GREEN",
+    "title": "VGR V-634 4-in-1 Rechargeable Men's Grooming Kit, Waterproof Hair and Body Trimmer with LED Display, 4 Interchangeable Heads, 9 Guide Combs, USB Charging (Green)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1181,
+    "img": "https://m.media-amazon.com/images/I/613Jto2O7NL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0GWVTW4TF?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-23",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0992FKFRW",
+    "brand": "VGR",
+    "name": "VGR رجالي 120 دقيقة",
+    "specs": {
+      "gender": "رجالي",
+      "battery": "120"
+    },
+    "model": "",
+    "title": "VGR V-290 Digital Display Professional Cordless Hair Clippers Cutter Rechargeable Wireless Hair Grooming Set Beard Trimming Beard Styling Rechargeable Li-ion Battery 600mAh 120 mins Runtime - Golden",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 459,
+    "img": "https://m.media-amazon.com/images/I/41RJom1slKL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0992FKFRW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-23",
