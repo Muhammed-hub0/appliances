@@ -834,7 +834,7 @@
   {
     "asin": "B0DSCCQKV1",
     "brand": "براون",
-    "name": "براون مكواة بخار 2000وات",
+    "name": "كينوود مكواة بخار 2000وات",
     "specs": {
       "watt": "2000",
       "type": "بخار"
@@ -1241,7 +1241,7 @@
   {
     "asin": "B0HKZLNZG5",
     "brand": "غير محدد",
-    "name": "مكواة بخار 1500وات",
+    "name": "Handheld مكواة بخار 1500وات",
     "specs": {
       "watt": "1500",
       "type": "بخار"
@@ -1264,7 +1264,7 @@
   {
     "asin": "B0F4PT8CT5",
     "brand": "غير محدد",
-    "name": "مكواة جاف 1800وات",
+    "name": "Dry مكواة جاف 1800وات",
     "specs": {
       "watt": "1800",
       "type": "جاف"
@@ -1287,7 +1287,7 @@
   {
     "asin": "B0F4PTRCXS",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2200وات",
+    "name": "Steam مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -1310,7 +1310,7 @@
   {
     "asin": "B0F4RVGZ3H",
     "brand": "غير محدد",
-    "name": "مكواة جاف 1200وات",
+    "name": "Smile مكواة جاف 1200وات",
     "specs": {
       "watt": "1200",
       "type": "جاف"
@@ -1333,7 +1333,7 @@
   {
     "asin": "B0D6L1LSQC",
     "brand": "غير محدد",
-    "name": "مكواة بخار 1200وات",
+    "name": "Dry مكواة بخار 1200وات",
     "specs": {
       "watt": "1200",
       "type": "بخار"
@@ -1379,7 +1379,7 @@
   {
     "asin": "B0DZV4YQZK",
     "brand": "SIVOLT",
-    "name": "SIVOLT مكواة بخار 2200وات",
+    "name": "Iron مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -1402,7 +1402,7 @@
   {
     "asin": "B0H7C3BRPS",
     "brand": "Next store",
-    "name": "Next store مكواة بخار",
+    "name": "Next مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -1471,7 +1471,7 @@
   {
     "asin": "B08YY2GPKT",
     "brand": "Touch Elzenouki",
-    "name": "Touch Elzenouki مكواة جاف",
+    "name": "Touch مكواة جاف 1000وات",
     "specs": {
       "watt": "1000",
       "type": "جاف"
@@ -1517,7 +1517,7 @@
   {
     "asin": "B08GL9B9ZC",
     "brand": "Touch Elzenouki",
-    "name": "Touch Elzenouki مكواة جاف",
+    "name": "Touch مكواة جاف 1600وات",
     "specs": {
       "watt": "1600",
       "type": "جاف"
@@ -1565,7 +1565,7 @@
   {
     "asin": "B09DQ1622L",
     "brand": "SONAI",
-    "name": "SONAI مكواة بخار",
+    "name": "Sonai مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -1587,7 +1587,7 @@
   {
     "asin": "B0CLVM6GJ8",
     "brand": "Amsaro",
-    "name": "Amsaro مكواة بخار",
+    "name": "AMSARO مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -1631,7 +1631,7 @@
   {
     "asin": "B0GQQ4Q1MN",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Professional مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -1719,7 +1719,7 @@
   {
     "asin": "B0HKJF6MLK",
     "brand": "غير محدد",
-    "name": "مكواة",
+    "name": "Mini مكواة",
     "specs": {},
     "model": "",
     "title": "Mini Electric Iron for Clothes, Travel and Crafts, Compact, Red",
@@ -2240,7 +2240,7 @@
   {
     "asin": "B0HMX31B2T",
     "brand": "PLUTO",
-    "name": "PLUTO مكواة بخار 2400وات",
+    "name": "Pluto مكواة بخار 2400وات",
     "specs": {
       "watt": "2400",
       "type": "بخار"
@@ -2263,7 +2263,7 @@
   {
     "asin": "B0H7PN2N6S",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2200وات",
+    "name": "Storm مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -2309,7 +2309,7 @@
   {
     "asin": "B0H7N22BW4",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2200وات",
+    "name": "Storm مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -2332,7 +2332,7 @@
   {
     "asin": "B0FQC3CLB3",
     "brand": "غير محدد",
-    "name": "مكواة بخار 3000وات",
+    "name": "3000W مكواة بخار 3000وات",
     "specs": {
       "watt": "3000",
       "type": "بخار"
@@ -2355,7 +2355,7 @@
   {
     "asin": "B091CZZ81C",
     "brand": "Otherworlds Inc",
-    "name": "Otherworlds Inc مكواة بخار",
+    "name": "مكواة بخار 700وات",
     "specs": {
       "watt": "700",
       "type": "بخار"
@@ -2401,7 +2401,7 @@
   {
     "asin": "B08GL8Y6BW",
     "brand": "Touch Elzenouki",
-    "name": "Touch Elzenouki مكواة بخار",
+    "name": "Touch مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -2470,7 +2470,7 @@
   {
     "asin": "B0BDX6K8S5",
     "brand": "غير محدد",
-    "name": "مكواة جاف 1000وات",
+    "name": "1000W مكواة جاف 1000وات",
     "specs": {
       "watt": "1000",
       "type": "جاف"
@@ -2493,7 +2493,7 @@
   {
     "asin": "B09YVMHFSZ",
     "brand": "TZS First Austria",
-    "name": "TZS First Austria مكواة",
+    "name": "مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -2516,7 +2516,7 @@
   {
     "asin": "B0HGGLRT4P",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2200وات",
+    "name": "Storm مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -2539,7 +2539,7 @@
   {
     "asin": "B0DQY47979",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2000وات",
+    "name": "Powerful مكواة بخار 2000وات",
     "specs": {
       "watt": "2000",
       "type": "بخار"
@@ -2607,7 +2607,7 @@
   {
     "asin": "B0H8JP9W1J",
     "brand": "Next store",
-    "name": "Next store مكواة بخار",
+    "name": "Next مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2629,7 +2629,7 @@
   {
     "asin": "B0D5BYCG8W",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "PureIron مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2673,7 +2673,7 @@
   {
     "asin": "B0D419XR8H",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "PRISHWI مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2695,7 +2695,7 @@
   {
     "asin": "B0D42479WN",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2717,7 +2717,7 @@
   {
     "asin": "B0D5Y7SRRJ",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Stainless مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2739,7 +2739,7 @@
   {
     "asin": "B0D7ZZLW7G",
     "brand": "GreenVillage enterprise",
-    "name": "GreenVillage enterprise مكواة بخار",
+    "name": "GreenVillage مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2783,7 +2783,7 @@
   {
     "asin": "B0BV6WN4F9",
     "brand": "Generic Value Products",
-    "name": "Generic Value Products مكواة",
+    "name": "LinJie مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2827,7 +2827,7 @@
   {
     "asin": "B0BHHY3BBV",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Upgraded مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2915,7 +2915,7 @@
   {
     "asin": "B0HR5VZ2WF",
     "brand": "غير محدد",
-    "name": "مكواة",
+    "name": "Freesia مكواة",
     "specs": {},
     "model": "6PCS",
     "title": "Freesia Scented Candle - Luxurious smokeless soy wax blend infused with dried floral accents, encased in a stylish travel tin and decorative iron box, offering 5-6 hours of calming fragrance. (6pcs)",
@@ -2935,7 +2935,7 @@
   {
     "asin": "B0HQVBSNPN",
     "brand": "غير محدد",
-    "name": "مكواة",
+    "name": "Heat مكواة",
     "specs": {},
     "model": "",
     "title": "Heat Protector Pad - High quality Teflon coated protector for the sole of the electric iron, non-stick ensures a smooth ironing experience and prevents unwanted shine on clothes",
@@ -2955,7 +2955,7 @@
   {
     "asin": "B07G99NX1P",
     "brand": "PH PandaHall",
-    "name": "PH PandaHall مكواة",
+    "name": "PandaHall مكواة",
     "specs": {},
     "model": "",
     "title": "PandaHall Elite 49.6 inch(1.26m) Metal Bag Strap Chain, Unwelded Iron Box Chains with Alloy Clasps, Light Gold",
@@ -2975,7 +2975,7 @@
   {
     "asin": "B091D3Y8R8",
     "brand": "غير محدد",
-    "name": "مكواة",
+    "name": "Iron مكواة",
     "specs": {},
     "model": "",
     "title": "Iron Box Wooden Jigsaw Puzzle Kit Tangram Wooden Puzzle Toys",
@@ -3015,7 +3015,7 @@
   {
     "asin": "B0DP4YXSM5",
     "brand": "Winning Star",
-    "name": "Winning Star مكواة",
+    "name": "Winning مكواة",
     "specs": {},
     "model": "",
     "title": "Winning Star Electric Iron St-218",
@@ -3240,7 +3240,7 @@
   {
     "asin": "B0DVZ9V4H8",
     "brand": "Winning Star",
-    "name": "Winning Star مكواة بخار",
+    "name": "Winning مكواة بخار 2000وات",
     "specs": {
       "watt": "2000",
       "type": "بخار"
@@ -3309,7 +3309,7 @@
   {
     "asin": "B0DNXPKVQ6",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2200وات",
+    "name": "Steam مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -3332,7 +3332,7 @@
   {
     "asin": "B0GRNTV3XN",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3583,7 +3583,7 @@
   {
     "asin": "B0GH14HCZT",
     "brand": "Home Store",
-    "name": "Home Store مكواة بخار",
+    "name": "مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -3719,7 +3719,7 @@
   {
     "asin": "B0B2DHVD81",
     "brand": "SHEETLA ENTERPRISES",
-    "name": "SHEETLA ENTERPRISES مكواة بخار",
+    "name": "SHEETLA مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3878,7 +3878,7 @@
   {
     "asin": "B0DPVQDGZM",
     "brand": "Wonka",
-    "name": "Wonka مكواة بخار",
+    "name": "Travel مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3900,7 +3900,7 @@
   {
     "asin": "B0BLSJS34W",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Upgrade مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3990,7 +3990,7 @@
   {
     "asin": "B0GN478CYQ",
     "brand": "Junior Imagine The Best",
-    "name": "Junior Imagine The Best مكواة",
+    "name": "Junior مكواة بخار 1800وات",
     "specs": {
       "watt": "1800",
       "type": "بخار"
@@ -4125,7 +4125,7 @@
   {
     "asin": "B0BNDRTTRT",
     "brand": "Generic Value Products",
-    "name": "Generic Value Products مكواة",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4147,7 +4147,7 @@
   {
     "asin": "B0FXSVPLWN",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4238,7 +4238,7 @@
   {
     "asin": "B0DVZ9CFWT",
     "brand": "Winning Star",
-    "name": "Winning Star مكواة بخار",
+    "name": "Winning مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4304,7 +4304,7 @@
   {
     "asin": "B0FL1H68J2",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4326,7 +4326,7 @@
   {
     "asin": "B0GH1HDTHW",
     "brand": "Home Store",
-    "name": "Home Store مكواة بخار",
+    "name": "مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -4349,7 +4349,7 @@
   {
     "asin": "B0CQYD5BCQ",
     "brand": "Epic Gear",
-    "name": "Epic Gear مكواة بخار",
+    "name": "Epicgear مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4462,7 +4462,7 @@
   {
     "asin": "B0H3L68RXQ",
     "brand": "Homagator",
-    "name": "Homagator مكواة بخار 2700وات",
+    "name": "Luma مكواة بخار 2700وات",
     "specs": {
       "watt": "2700",
       "type": "بخار"
@@ -4531,7 +4531,7 @@
   {
     "asin": "B0H3LFJ7D1",
     "brand": "Homagator",
-    "name": "Homagator مكواة بخار 2700وات",
+    "name": "Luma مكواة بخار 2700وات",
     "specs": {
       "watt": "2700",
       "type": "بخار"
@@ -4554,7 +4554,7 @@
   {
     "asin": "B0F146PDH4",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4620,7 +4620,7 @@
   {
     "asin": "B091D44M2T",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Handy مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4779,7 +4779,7 @@
   {
     "asin": "B0HQDLXNZ9",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2800وات",
+    "name": "Jmaki مكواة بخار 2800وات",
     "specs": {
       "watt": "2800",
       "type": "بخار"
@@ -4824,7 +4824,7 @@
   {
     "asin": "B0G3YXB4XB",
     "brand": "غير محدد",
-    "name": "مكواة بخار 1500وات",
+    "name": "Loma مكواة بخار 1500وات",
     "specs": {
       "watt": "1500",
       "type": "بخار"
@@ -4847,7 +4847,7 @@
   {
     "asin": "B0FN7WS153",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2600وات",
+    "name": "Steam مكواة بخار 2600وات",
     "specs": {
       "watt": "2600",
       "type": "بخار"
@@ -4893,7 +4893,7 @@
   {
     "asin": "B0HR65L79Z",
     "brand": "غير محدد",
-    "name": "مكواة",
+    "name": "Travel مكواة",
     "specs": {},
     "model": "4PCS",
     "title": "Travel Soy Wax Candle - Portable freesia-scented candle with dried flowers, smokeless formula, and a chic iron box for protection and style, ideal for short trips with 5-6 hour burn duration. (4pcs)",
@@ -4913,7 +4913,7 @@
   {
     "asin": "B0HR5VWL7H",
     "brand": "غير محدد",
-    "name": "مكواة",
+    "name": "Freesia مكواة",
     "specs": {},
     "model": "4PCS",
     "title": "Freesia Scented Candle - Luxurious smokeless soy wax blend infused with dried floral accents, encased in a stylish travel tin and decorative iron box, offering 5-6 hours of calming fragrance. (4pcs)",
@@ -5002,7 +5002,7 @@
   {
     "asin": "B0HN4KS9QY",
     "brand": "NUJAIN",
-    "name": "NUJAIN مكواة بخار",
+    "name": "Handheld مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -5069,7 +5069,7 @@
   {
     "asin": "B0B4NBQBJY",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "ORLOV-Professional مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -5136,7 +5136,7 @@
   {
     "asin": "B0F9TNRX3Q",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2200وات",
+    "name": "Steam مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -5247,7 +5247,7 @@
   {
     "asin": "B0GNHS6FPP",
     "brand": "Next store",
-    "name": "Next store مكواة بخار",
+    "name": "Next مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -5292,7 +5292,7 @@
   {
     "asin": "B0FTW4KZ9W",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2600وات",
+    "name": "Steam مكواة بخار 2600وات",
     "specs": {
       "watt": "2600",
       "type": "بخار"
@@ -5337,7 +5337,7 @@
   {
     "asin": "B0DGY6W36W",
     "brand": "غير محدد",
-    "name": "مكواة بخار 1500وات",
+    "name": "Jack مكواة بخار 1500وات",
     "specs": {
       "watt": "1500",
       "type": "بخار"
@@ -5449,7 +5449,7 @@
   {
     "asin": "B0GNHC75K3",
     "brand": "Next store",
-    "name": "Next store مكواة بخار",
+    "name": "Next مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -5811,7 +5811,7 @@
   {
     "asin": "B0DRP9SKDR",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Compact مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -5856,7 +5856,7 @@
   {
     "asin": "B0H3L7YWRT",
     "brand": "Homagator",
-    "name": "Homagator مكواة بخار 2200وات",
+    "name": "Luma مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -5879,7 +5879,7 @@
   {
     "asin": "B0HMX8DNC4",
     "brand": "PLUTO",
-    "name": "PLUTO مكواة بخار 2300وات",
+    "name": "Pluto مكواة بخار 2300وات",
     "specs": {
       "watt": "2300",
       "type": "بخار"
@@ -5902,7 +5902,7 @@
   {
     "asin": "B0FPB9NHJ5",
     "brand": "غير محدد",
-    "name": "مكواة جاف 1000وات",
+    "name": "City مكواة جاف 1000وات",
     "specs": {
       "watt": "1000",
       "type": "جاف"
@@ -6083,7 +6083,7 @@
   {
     "asin": "B09QLKC4DR",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Folding مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -6196,7 +6196,7 @@
   {
     "asin": "B0F144PS31",
     "brand": "Wonka",
-    "name": "Wonka مكواة بخار",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -6218,7 +6218,7 @@
   {
     "asin": "B0DPVPTDCS",
     "brand": "Wonka",
-    "name": "Wonka مكواة بخار",
+    "name": "Travel مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -6286,7 +6286,7 @@
   {
     "asin": "B0GQ9ZNXJS",
     "brand": "غير محدد",
-    "name": "مكواة بخار 2800وات",
+    "name": "2800W مكواة بخار 2800وات",
     "specs": {
       "watt": "2800",
       "type": "بخار"
@@ -6354,7 +6354,7 @@
   {
     "asin": "B0FD7K84KJ",
     "brand": "غير محدد",
-    "name": "مكواة بخار",
+    "name": "Mini مكواة بخار",
     "specs": {
       "type": "بخار"
     },
