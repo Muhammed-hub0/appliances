@@ -28,7 +28,6 @@ jobs:
     timeout-minutes: 90
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: تحميل الملفات
         uses: actions/checkout@v4
@@ -81,6 +80,27 @@ jobs:
           echo "الأرشيف مش ظاهر بعد الانتظار"
           exit 1
 
-      - name: النشر على GitHub Pages
-        id: deploy
+      # حتى بعد ظهور الأرشيف، deploy-pages@v4 بيفشل أحيانًا في قراءته من API جيت هاب.
+      # بنجرّب 3 مرات بفواصل زمنية عشان التعثر اللحظي ما يعملش Run failed وإيميل.
+      - name: النشر على GitHub Pages (1/3)
+        id: deploy1
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: استنى قبل المحاولة التانية
+        if: steps.deploy1.outcome != 'success'
+        run: sleep 30
+
+      - name: النشر على GitHub Pages (2/3)
+        id: deploy2
+        if: steps.deploy1.outcome != 'success'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: استنى قبل المحاولة التالتة
+        if: steps.deploy2.outcome != 'success'
+        run: sleep 60
+
+      - name: النشر على GitHub Pages (3/3)
+        if: steps.deploy2.outcome != 'success'
         uses: actions/deploy-pages@v4
