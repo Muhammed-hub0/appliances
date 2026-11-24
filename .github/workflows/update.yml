@@ -45,8 +45,11 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL || 'https://muhammed-hub0.github.io/appliances/' }}
         run: node scripts/update.mjs ${{ inputs.render_only && '--render-only' || '' }}
 
+      # في تشغيل إعادة البناء من البيانات المحفوظة مفيش داعي لعمل كوميت أو push
+      # (النشر بيحصل من الأرشيف)، وده بيمنع إيميلات فشل بسبب رفض تحديث المرجع.
       - name: حفظ البيانات المتغيرة
         id: save
+        if: ${{ !inputs.render_only }}
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
@@ -63,14 +66,35 @@ jobs:
             echo "مفيش تغييرات"
           else
             git commit -m "تحديث تلقائي للأسعار $(date -u +%Y-%m-%dT%H:%MZ)"
-            if ! git push origin "HEAD:${GITHUB_REF_NAME}" > /tmp/push.log 2>&1; then
+            pushed=0
+            for attempt in 1 2 3; do
+              if git push origin "HEAD:${GITHUB_REF_NAME}" > /tmp/push.log 2>&1; then
+                pushed=1
+                break
+              fi
               cat /tmp/push.log
               if grep -Eq 'fetch first|non-fast-forward' /tmp/push.log; then
                 echo "concurrent=true" >> "$GITHUB_OUTPUT"
                 echo "⚠️ Remote اتغير أثناء الـ push — هنتخطى النشر من غير فشل الخدمة."
                 exit 0
               fi
+              # جيت هاب بيرفض تحديث المرجع أحيانًا بخطأ داخلي مؤقت بدون سبب حقيقي.
+              # بنجرّب تاني، ولو فضل رافض بنكمّل النشر من الأرشيف من غير إيميل فشل.
+              if grep -q 'commit_refs_rules' /tmp/push.log; then
+                if [ "$attempt" -lt 3 ]; then
+                  echo "⚠️ رفض مؤقت لتحديث المرجع ($attempt/3) — هنتجرّب تاني بعد شوية."
+                  sleep 20
+                  git fetch origin --quiet
+                  continue
+                fi
+                echo "save_soft=true" >> "$GITHUB_OUTPUT"
+                echo "⚠️ جيت هاب لسه رافض تحديث المرجع بعد 3 محاولات — هينشر من الأرشيف من غير فشل التشغيل."
+                exit 0
+              fi
               exit 1
+            done
+            if [ "$pushed" -ne 1 ]; then
+              echo "save_soft=true" >> "$GITHUB_OUTPUT"
             fi
           fi
 
