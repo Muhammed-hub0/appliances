@@ -98,9 +98,9 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: استنى قبل المحاولة التالتة
-        if: steps.deploy2.outcome != 'success'
+        if: steps.deploy1.outcome != 'success' && steps.deploy2.outcome != 'success'
         run: sleep 60
 
       - name: النشر على GitHub Pages (3/3)
-        if: steps.deploy2.outcome != 'success'
+        if: steps.deploy1.outcome != 'success' && steps.deploy2.outcome != 'success'
         uses: actions/deploy-pages@v4
