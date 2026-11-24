@@ -1,2716 +1,2784 @@
 {
-    "B0CK8G58BP":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  929
-                       }
-                   ],
-    "B0CHD1GHHP":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  1912.95
-                       }
-                   ],
-    "B075FC8ZJ3":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  2358
-                       }
-                   ],
-    "B07XCX7CYQ":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  1795.5
-                       }
-                   ],
-    "B0BSF9Q7Y9":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  2259
-                       }
-                   ],
-    "B08J868N1S":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  2099
-                       },
-                       {
-                           "t":  "2026-11-23T10:08:44.312Z",
-                           "p":  2095
-                       }
-                   ],
-    "B08J7PCCCX":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  1806
-                       }
-                   ],
-    "B08PT66VV8":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  3179
-                       }
-                   ],
-    "B08CXTZF5H":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  2187.05
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.888Z",
-                           "p":  2184.5
-                       }
-                   ],
-    "B005013GYQ":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  2328
-                       }
-                   ],
-    "B01L93HDUQ":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  875
-                       }
-                   ],
-    "B08XJRP314":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  802
-                       }
-                   ],
-    "B0FX5J7HK6":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  800
-                       },
-                       {
-                           "t":  "2026-11-23T10:54:48.235Z",
-                           "p":  854
-                       },
-                       {
-                           "t":  "2026-11-23T16:51:10.372Z",
-                           "p":  900
-                       }
-                   ],
-    "B08X6DB7ZS":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  699
-                       }
-                   ],
-    "B0D6BVC9CQ":  [
-                       {
-                           "t":  "2026-11-23T09:35:08.558Z",
-                           "p":  1360
-                       }
-                   ],
-    "_meta":  {
-                  "lastRun":  "2026-11-24T12:35:44.472Z",
-                  "activeCount":  233,
-                  "totalCount":  236,
-                  "seenAsins":  [
-                                    "B08XJSCJYW",
-                                    "B08Y7P1PNL",
-                                    "B0H29YPWGB",
-                                    "B0DDCDYW45",
-                                    "B0FH4WS3S9",
-                                    "B091GNKV3L",
-                                    "B0C6MBKTSZ",
-                                    "B0GJQ3PW32",
-                                    "B0H83WFJTZ",
-                                    "B07MVSTKCV",
-                                    "B0DXQ9SZBQ",
-                                    "B07NDZMRCP",
-                                    "B093ZW7MXQ",
-                                    "B0F9SSJHDN",
-                                    "B0GLQRX22Q",
-                                    "B0HK3Q99ZQ",
-                                    "B08J7QDWYN",
-                                    "B0FSF1WQC8",
-                                    "B0FGXRS4ZB",
-                                    "B0GSRYXRHF",
-                                    "B0GSRM9LQN",
-                                    "B0FGXP5QHC",
-                                    "B0FGXPS36J",
-                                    "B0HMRXX465",
-                                    "B0HK4C5DFB",
-                                    "B0FR6M3Z53",
-                                    "B0HFDJD413",
-                                    "B0FGXNDBXG",
-                                    "B0H4W4KB1D",
-                                    "B093G3L8PT",
-                                    "B0DJ7KVL4F",
-                                    "B0H8JNNBKR",
-                                    "B0DPGG3H31",
-                                    "B0CVW6594X",
-                                    "B0H2S821FT",
-                                    "B0DS153CKT",
-                                    "B0DNWSFLDX",
-                                    "B0H58MJQ5X",
-                                    "B0DTQ5YWHJ",
-                                    "B0DZHZ7C9B",
-                                    "B0BRBB2N91",
-                                    "B0DSJRJWRH",
-                                    "B0GXWVQ7XF",
-                                    "B0DYLB3LND",
-                                    "B08J7NGZVL",
-                                    "B093TJV7ZY",
-                                    "B0BHST5KJP",
-                                    "B0H29XVPT7",
-                                    "B0GLQPW37V",
-                                    "B0HNXNSXYJ",
-                                    "B0CKNDK6JQ",
-                                    "B0BCK4375T",
-                                    "B005013GXC",
-                                    "B0FLKJSFY4",
-                                    "B091JPZL6N",
-                                    "B0D33C9LTL",
-                                    "B098VXS2KY",
-                                    "B0H5C6HZ9L",
-                                    "B0CY1DJDL9",
-                                    "B09DQ278PX",
-                                    "B0728GST91",
-                                    "B0FR5YG2LK",
-                                    "B0HF81YHZ1",
-                                    "B0D1R1HKHZ",
-                                    "B07Z3KHFR8",
-                                    "B0CVW6ZSLH",
-                                    "B0FR6FMTTC",
-                                    "B0H1H9B8VT",
-                                    "B091D1PD6D",
-                                    "B0DY884PKX",
-                                    "B0FCSL7Z6P",
-                                    "B0H1H8M4CN",
-                                    "B0GH1C3WMX",
-                                    "B0BVC2SNHV",
-                                    "B0CVW7LHWF",
-                                    "B0G9XP22LL",
-                                    "B0GYLJ4P7W",
-                                    "B0FXJCCLJV",
-                                    "B0HKGFFN9J",
-                                    "B0CBZRCR1S",
-                                    "B091D2YL4W",
-                                    "B0F7HX2DGR",
-                                    "B0FKZZRFKJ",
-                                    "B0CPKG6GKM",
-                                    "B0HKRWCMD1",
-                                    "B0GQ68XXRJ",
-                                    "B0G6FNQKC6",
-                                    "B0DZHYPY41",
-                                    "B0FM429KKD",
-                                    "B0GQM7KS4S",
-                                    "B0FN4PSL1V",
-                                    "B0F2262XDY",
-                                    "B08WJMSLJ2",
-                                    "B0CL7F9KDF",
-                                    "B097DK81GJ",
-                                    "B0HQXTYK8R",
-                                    "B0H2SC15R8",
-                                    "B0DVRMTZNC",
-                                    "B0FR5JVYD7",
-                                    "B0DTJFRRSF",
-                                    "B0FSXL98R8",
-                                    "B0G15351J1",
-                                    "B0DTQ7HP1N",
-                                    "B0923CFCVV",
-                                    "B0FF3BXD5C",
-                                    "B08LNCSQJT",
-                                    "B0DB7SQMN4",
-                                    "B0DWYJHSLV",
-                                    "B08P4J53T6",
-                                    "B0G821NMHK",
-                                    "B0HCHX2VS8",
-                                    "B0C9QRCGZN",
-                                    "B0H8NNJKWV",
-                                    "B0G1XQW47D",
-                                    "B0GQNXGYSX",
-                                    "B091DBPQBC",
-                                    "B0991WL7FQ",
-                                    "B098TZKLCJ",
-                                    "B091J4YS42",
-                                    "B0FP9YT579",
-                                    "B0FGXRG6C9",
-                                    "B0FGXPRJGS",
-                                    "B01L93HNCY",
-                                    "B0C19HMH71",
-                                    "B08WJJF8K5",
-                                    "B09RVBR937",
-                                    "B097LK9H6W",
-                                    "B091CVX9HK",
-                                    "B0DTGMTQC4",
-                                    "B07B6TZNWT",
-                                    "B0CTMSJQ1J",
-                                    "B0CKZDJMVM",
-                                    "B08WJLC3VN",
-                                    "B0GLQDTCS4",
-                                    "B0HCJ3S2TX",
-                                    "B0FTXLYHR9",
-                                    "B08538D6NH",
-                                    "B0DV5SXMXL",
-                                    "B08538FHMY",
-                                    "B0GSCD679V",
-                                    "B0BNP12RYR",
-                                    "B0GL95GNZK",
-                                    "B0GWFGB49D",
-                                    "B0CF2H7T9W",
-                                    "B0CY9568YJ",
-                                    "B0G14S8MFS",
-                                    "B0FRY54SSC",
-                                    "B0GNHTDJRB",
-                                    "B0FF37TVBW",
-                                    "B0HDZMQH81",
-                                    "B0CYZXHCYD",
-                                    "B0H14Y1LBJ",
-                                    "B0HJWN7R8B",
-                                    "B0F3V8BDBB",
-                                    "B0GJPZCDZ1",
-                                    "B0FMP5D9CQ",
-                                    "B0D1QNHQMD",
-                                    "B0HKSG3NK8",
-                                    "B0FQ611LY4",
-                                    "B0HBKTB6F9",
-                                    "B0957MC1WY",
-                                    "B0FF91MCHB",
-                                    "B0H2B36HWV",
-                                    "B0H2TYLXPD",
-                                    "B091D2DK3T",
-                                    "B075WW8GGL",
-                                    "B0H8NWS82D",
-                                    "B0BL38MSRM",
-                                    "B0B6WQCBV8",
-                                    "B0F5DWHZWV",
-                                    "B0FQC96HWK",
-                                    "B0CZG586D4",
-                                    "B091NY2R88",
-                                    "B09S3WCMSH",
-                                    "B0F67DNY9J",
-                                    "B0FXXSH353",
-                                    "B0G14TJRSQ",
-                                    "B0H6VJ618H",
-                                    "B0D2315M76",
-                                    "B0H96KKT1B",
-                                    "B09NQVQW5B",
-                                    "B0DZ4W4D7S",
-                                    "B09692WD35",
-                                    "B0GQ82YFHV",
-                                    "B0H87K9PJR",
-                                    "B097NPS2HT",
-                                    "B0CWDR7625",
-                                    "B0BWFQSVYX",
-                                    "B0H2J5V3FT",
-                                    "B0GHSDL29S",
-                                    "B09B8S5FP2",
-                                    "B0F4PTBMTZ",
-                                    "B0F7HXPR5S",
-                                    "B0D5WPYJL3",
-                                    "B00MWU18RA",
-                                    "B0GTZ7PS5Y",
-                                    "B078JBWQ4N",
-                                    "B0GVP9K9GB",
-                                    "B0FMP6CG7P",
-                                    "B0FMP45DQL",
-                                    "B07937HBB7",
-                                    "B0F48WJYFM",
-                                    "B0FJY24613",
-                                    "B0FD87S29V",
-                                    "B0FWZ39S7T",
-                                    "B098TXZDW4",
-                                    "B0DQLXVXJG",
-                                    "B0HRB8ZRBH",
-                                    "B0DXQB8478",
-                                    "B098VVTVTT",
-                                    "B09D3Z8FB1",
-                                    "B0H5QXMHH3",
-                                    "B0BN5QTLRB",
-                                    "B0DH575NS5",
-                                    "B0FH5LT792",
-                                    "B0DSV4XQNP",
-                                    "B0HR9PQ9WP",
-                                    "B0HG5FJ9HM",
-                                    "B0HG5LS3Q7",
-                                    "B0DSWNC4K9",
-                                    "B09MBZHFRW",
-                                    "B0H2B2VTW4",
-                                    "B0FQ3DVNJG",
-                                    "B0BCK48DXY",
-                                    "B0HBQ27DL6",
-                                    "B0DWKT5HQR",
-                                    "B0HF8MGPR6",
-                                    "B0GJT42DPT",
-                                    "B0GPNJYH6S",
-                                    "B0H8LHB3K7",
-                                    "B091GPL8W4",
-                                    "B0CHZ4Z8P7",
-                                    "B091BV2QLV",
-                                    "B0923178BV",
-                                    "B0GWDX8K96",
-                                    "B0FCMYDZRK",
-                                    "B0GGZPMW9C",
-                                    "B097LLXB4R",
-                                    "B0GXPTRRSX",
-                                    "B0HG9QG46F",
-                                    "B0FPKC27XS",
-                                    "B09J198VL9",
-                                    "B0CD8342NQ",
-                                    "B08WJL6D95",
-                                    "B0GXSBYLNS",
-                                    "B0FBY1DTZV",
-                                    "B0HBKK7YYC",
-                                    "B0C9DN3BVC",
-                                    "B0HCJY7MXF",
-                                    "B0GXSQP25F",
-                                    "B0GYGQ8VMB",
-                                    "B0HFNSBGM5",
-                                    "B0DMTH6KD1",
-                                    "B0GWXND3GF",
-                                    "B0FMP62DCX",
-                                    "B0GL943Z8C",
-                                    "B0GP1GYV8X",
-                                    "B0DVTF4YN6",
-                                    "B0CWLC5HNF",
-                                    "B0H7QCFBLV",
-                                    "B08X1JPVG9",
-                                    "B0FFZ59KFX",
-                                    "B08WJPRTFD",
-                                    "B091NNLLNR",
-                                    "B0F27XJ3BQ",
-                                    "B0GH159G22",
-                                    "B0DWYWMHS4",
-                                    "B0GCGMPSTT",
-                                    "B0752MB9PW",
-                                    "B0GWFC5KY6",
-                                    "B0FGXN6SBX",
-                                    "B091J5F22M",
-                                    "B0DQDX2QXD",
-                                    "B0DP3JZW88",
-                                    "B0D232HNLH",
-                                    "B077QWM1K7",
-                                    "B0HHL2F6TH",
-                                    "B08WJL8KBP",
-                                    "B0DJBXHBZL",
-                                    "B07D5SXCTL",
-                                    "B0H42WTQ3C",
-                                    "B0HGRF3TNW",
-                                    "B0G159JDCH",
-                                    "B0DQDXFVFV",
-                                    "B071743LPD",
-                                    "B0G13Y13TC",
-                                    "B09D3YPBR8",
-                                    "B0771Q5F26",
-                                    "B0H7CKRWQH",
-                                    "B0DQLWDYDB",
-                                    "B0HFSSZZ1D",
-                                    "B0H7X5JHFF",
-                                    "B0GQV3CCJ2",
-                                    "B0CVXQ35X3",
-                                    "B0DBHWR4VC",
-                                    "B08L1YMRG2",
-                                    "B077PMH82M",
-                                    "B096MV62GK",
-                                    "B0FLDZN15W",
-                                    "B07NDMMHN9",
-                                    "B0BL7PY3VV",
-                                    "B097DK41H3",
-                                    "B09NQF4KG3",
-                                    "B08X5Z7QWM",
-                                    "B0HQPHXJN2",
-                                    "B09TFNSPHK",
-                                    "B0GH1BS7FY",
-                                    "B0HNXQ9245",
-                                    "B07MFD97JP",
-                                    "B091J5BVWC",
-                                    "B01N9ZFCIY",
-                                    "B0H2J1W8GG",
-                                    "B09FT2QFN8",
-                                    "B0C28SCBW2"
-                                ],
-                  "manualSeen":  [
-                                     "B0FGXRS4ZB",
-                                     "B0FGXRG6C9",
-                                     "B0FGXPRJGS",
-                                     "B093G3L8PT",
-                                     "B0CK8G58BP",
-                                     "B0CHD1GHHP",
-                                     "B01L93HDUQ",
-                                     "B075FC8ZJ3",
-                                     "B0DJ7KVL4F",
-                                     "B0FGXP5QHC",
-                                     "B0GSRYXRHF",
-                                     "B08J7QDWYN",
-                                     "B0GSRM9LQN",
-                                     "B0FX5J7HK6",
-                                     "B08J868N1S",
-                                     "B0D6BVC9CQ",
-                                     "B07MVSTKCV",
-                                     "B0FGXPS36J",
-                                     "B08XJRP314",
-                                     "B01L93HNCY",
-                                     "B07XCX7CYQ",
-                                     "B08X6DB7ZS",
-                                     "B0BSF9Q7Y9",
-                                     "B0H8JNNBKR",
-                                     "B0DG6CG7NV",
-                                     "B0FR6M3Z53",
-                                     "B0DPGG3H31",
-                                     "B08J7PCCCX",
-                                     "B0DXQ9SZBQ",
-                                     "B0HMRXX465",
-                                     "B0HK4C5DFB",
-                                     "B07NDZMRCP",
-                                     "B0C19HMH71",
-                                     "B0HRZGY8CX",
-                                     "B07J1QF3MV",
-                                     "B0H29YPWGB",
-                                     "B08PT66VV8",
-                                     "B08XJSCJYW",
-                                     "B08WJJF8K5",
-                                     "B098TZHVNP",
-                                     "B08Y7P1PNL",
-                                     "B0FCSSFCWP",
-                                     "B0FGXNDBXG",
-                                     "B0HFDJD413",
-                                     "B0CVW6594X",
-                                     "B09RVBR937",
-                                     "B0DDCDYW45",
-                                     "B0FH4WS3S9",
-                                     "B091GNKV3L",
-                                     "B0GJQ3PW32",
-                                     "B0H83WFJTZ",
-                                     "B0C6MBKTSZ",
-                                     "B096L7853M",
-                                     "B0BG2V3ZQ5",
-                                     "B096L55Z2S",
-                                     "B0BMYX99PZ",
-                                     "B093ZW7MXQ",
-                                     "B0FSF1WQC8",
-                                     "B0GLQRX22Q",
-                                     "B0BRBB2N91",
-                                     "B097LK9H6W",
-                                     "B08J7NGZVL",
-                                     "B005013GXC",
-                                     "B08LNCSQJT",
-                                     "B0H2S821FT",
-                                     "B0DYLB3LND",
-                                     "B0H4W4KB1D",
-                                     "B091CVX9HK",
-                                     "B0DTGMTQC4",
-                                     "B0DSJRJWRH",
-                                     "B09SDYVLV1",
-                                     "B0DNWSFLDX",
-                                     "B07B6TZNWT",
-                                     "B0H58MJQ5X",
-                                     "B0CTMSJQ1J",
-                                     "B0CKZDJMVM",
-                                     "B0HKGFFN9J",
-                                     "B0F7HX2DGR",
-                                     "B0HKRWCMD1",
-                                     "B0H29XVPT7",
-                                     "B08WJLC3VN",
-                                     "B098VXS2KY",
-                                     "B0BHST5KJP",
-                                     "B0FKZZRFKJ",
-                                     "B0DTQ5YWHJ",
-                                     "B0GLQDTCS4",
-                                     "B0728GST91",
-                                     "B0DWYJHSLV",
-                                     "B0H5C6HZ9L",
-                                     "B0CPKG6GKM",
-                                     "B0DB7SQMN4",
-                                     "B0GLQPW37V",
-                                     "B0HCJ3S2TX",
-                                     "B0GQ68XXRJ",
-                                     "B0FTXLYHR9",
-                                     "B0DVRMTZNC",
-                                     "B07Z3KHFR8",
-                                     "B0G9XP22LL",
-                                     "B0G6FNQKC6",
-                                     "B0DZHYPY41",
-                                     "B0CBZRCR1S",
-                                     "B08538D6NH",
-                                     "B0DV5SXMXL",
-                                     "B08538FHMY",
-                                     "B0CL7F9KDF",
-                                     "B0FR5YG2LK",
-                                     "B0GSCD679V",
-                                     "B0D1R1HKHZ",
-                                     "B0F2262XDY",
-                                     "B0BNP12RYR",
-                                     "B0GL95GNZK",
-                                     "B0GWFGB49D",
-                                     "B0CY1DJDL9",
-                                     "B0CF2H7T9W",
-                                     "B0H1H8M4CN",
-                                     "B0FCSL7Z6P",
-                                     "B0HF81YHZ1",
-                                     "B0CY9568YJ",
-                                     "B0G14S8MFS",
-                                     "B0FRY54SSC",
-                                     "B0GNHTDJRB",
-                                     "B0FF37TVBW",
-                                     "B0HDZMQH81",
-                                     "B0CYZXHCYD",
-                                     "B0H14Y1LBJ",
-                                     "B0H1H9B8VT",
-                                     "B0FM429KKD",
-                                     "B0HJWN7R8B",
-                                     "B0F3V8BDBB",
-                                     "B0GJPZCDZ1",
-                                     "B0FMP5D9CQ",
-                                     "B0GQM7KS4S",
-                                     "B0D1QNHQMD",
-                                     "B097DK81GJ",
-                                     "B0H2S85ZD3",
-                                     "B0FP9YT579",
-                                     "B0HKSG3NK8",
-                                     "B0FQ611LY4",
-                                     "B0HBKTB6F9",
-                                     "B0957MC1WY",
-                                     "B0FF91MCHB",
-                                     "B0H2B36HWV",
-                                     "B0H2TYLXPD",
-                                     "B0GQNXGYSX",
-                                     "B091D2DK3T",
-                                     "B0FF3BXD5C",
-                                     "B075WW8GGL",
-                                     "B0H8NWS82D",
-                                     "B0BL38MSRM",
-                                     "B0B6WQCBV8",
-                                     "B0F5DWHZWV",
-                                     "B0FQC96HWK",
-                                     "B091DBPQBC",
-                                     "B0CZG586D4",
-                                     "B091NY2R88",
-                                     "B09S3WCMSH",
-                                     "B0F67DNY9J",
-                                     "B0FXXSH353",
-                                     "B0G14TJRSQ",
-                                     "B0H6VJ618H",
-                                     "B0D2315M76",
-                                     "B0H96KKT1B",
-                                     "B09NQVQW5B",
-                                     "B0DZ4W4D7S",
-                                     "B09692WD35",
-                                     "B0GQ82YFHV",
-                                     "B0GYLJ4P7W",
-                                     "B0H87K9PJR",
-                                     "B097NPS2HT",
-                                     "B0CWDR7625",
-                                     "B0BWFQSVYX",
-                                     "B0H2J5V3FT",
-                                     "B0GHSDL29S",
-                                     "B09B8S5FP2",
-                                     "B0F4PTBMTZ",
-                                     "B0F7HXPR5S",
-                                     "B0D5WPYJL3",
-                                     "B00MWU18RA",
-                                     "B0GTZ7PS5Y",
-                                     "B078JBWQ4N",
-                                     "B0GVP9K9GB",
-                                     "B0FMP6CG7P",
-                                     "B0FMP45DQL",
-                                     "B07937HBB7",
-                                     "B0F48WJYFM",
-                                     "B0FJY24613",
-                                     "B0FLKJSFY4",
-                                     "B0FD87S29V",
-                                     "B0FWZ39S7T",
-                                     "B0991WL7FQ",
-                                     "B098TXZDW4",
-                                     "B0DQLXVXJG",
-                                     "B0HRB8ZRBH",
-                                     "B0DXQB8478",
-                                     "B0D33C9LTL",
-                                     "B098VVTVTT",
-                                     "B09D3Z8FB1",
-                                     "B0H5QXMHH3",
-                                     "B0BN5QTLRB",
-                                     "B0DH575NS5",
-                                     "B0FH5LT792",
-                                     "B0DSV4XQNP",
-                                     "B0HR9PQ9WP",
-                                     "B0HG5FJ9HM",
-                                     "B0HG5LS3Q7",
-                                     "B0DSWNC4K9",
-                                     "B09MBZHFRW",
-                                     "B0H2B2VTW4",
-                                     "B0FQ3DVNJG",
-                                     "B0BCK48DXY",
-                                     "B0HBQ27DL6",
-                                     "B0DWKT5HQR",
-                                     "B0HF8MGPR6",
-                                     "B0CVW7LHWF",
-                                     "B0GJT42DPT",
-                                     "B0GPNJYH6S",
-                                     "B0H8LHB3K7",
-                                     "B091GPL8W4",
-                                     "B0CHZ4Z8P7",
-                                     "B091BV2QLV",
-                                     "B0CTMSZYHD",
-                                     "B0923178BV",
-                                     "B0GWDX8K96",
-                                     "B0FCMYDZRK",
-                                     "B0GGZPMW9C",
-                                     "B097LLXB4R",
-                                     "B0GXPTRRSX",
-                                     "B0HG9QG46F",
-                                     "B0FPKC27XS",
-                                     "B09J198VL9",
-                                     "B0CD8342NQ",
-                                     "B08WJL6D95",
-                                     "B0GXSBYLNS",
-                                     "B0FBY1DTZV",
-                                     "B0HBKK7YYC",
-                                     "B0C9DN3BVC",
-                                     "B0HCJY7MXF",
-                                     "B0GXSQP25F",
-                                     "B0GYGQ8VMB",
-                                     "B0HFNSBGM5",
-                                     "B0DMTH6KD1",
-                                     "B0GWXND3GF",
-                                     "B0FMP62DCX",
-                                     "B0GL943Z8C",
-                                     "B0GP1GYV8X",
-                                     "B0DVTF4YN6",
-                                     "B0CWLC5HNF",
-                                     "B07PCMVX2R",
-                                     "B0H7QCFBLV",
-                                     "B08X1JPVG9",
-                                     "B0HNXNSXYJ",
-                                     "B0FFZ59KFX",
-                                     "B0F9SSJHDN",
-                                     "B005013GYQ",
-                                     "B08CXTZF5H",
-                                     "B0HK3Q99ZQ",
-                                     "B0BCK4375T",
-                                     "B0GXWVQ7XF",
-                                     "B08WJPRTFD",
-                                     "B09DQ278PX",
-                                     "B091NNLLNR",
-                                     "B0DZHZ7C9B",
-                                     "B091J4YS42",
-                                     "B0F27XJ3BQ",
-                                     "B0GH159G22",
-                                     "B0DTJFRRSF",
-                                     "B0BVC2SNHV",
-                                     "B0G15351J1",
-                                     "B0DWYWMHS4",
-                                     "B0GCGMPSTT",
-                                     "B0752MB9PW",
-                                     "B0FSXL98R8",
-                                     "B0FN4PSL1V",
-                                     "B0GWFC5KY6",
-                                     "B0DTQ7HP1N",
-                                     "B0GH1C3WMX",
-                                     "B0FGXN6SBX",
-                                     "B091J5F22M",
-                                     "B0DQDX2QXD",
-                                     "B0DP3JZW88",
-                                     "B0D232HNLH",
-                                     "B077QWM1K7",
-                                     "B0HHL2F6TH",
-                                     "B0FXJCCLJV",
-                                     "B08WJL8KBP",
-                                     "B0DJBXHBZL",
-                                     "B07D5SXCTL",
-                                     "B0FBK93PDY",
-                                     "B0HJMVJ67H",
-                                     "B0FR5JVYD7",
-                                     "B0H42WTQ3C",
-                                     "B0HKGX35B6",
-                                     "B0HGRF3TNW",
-                                     "B0G159JDCH",
-                                     "B0G1XQW47D",
-                                     "B0DQDXFVFV",
-                                     "B0923CFCVV",
-                                     "B071743LPD",
-                                     "B0G13Y13TC",
-                                     "B09D3YPBR8",
-                                     "B0771Q5F26",
-                                     "B0H7CKRWQH",
-                                     "B0DQLWDYDB",
-                                     "B0HFSSZZ1D",
-                                     "B0H7X5JHFF",
-                                     "B0GQV3CCJ2",
-                                     "B0CVXQ35X3",
-                                     "B0HHBYN7FG",
-                                     "B0DBHWR4VC",
-                                     "B08L1YMRG2",
-                                     "B077PMH82M",
-                                     "B096MV62GK",
-                                     "B0FLDZN15W",
-                                     "B07NDMMHN9",
-                                     "B0BL7PY3VV",
-                                     "B097DK41H3",
-                                     "B09NQF4KG3",
-                                     "B08X5Z7QWM",
-                                     "B0HQPHXJN2",
-                                     "B091J62D1M",
-                                     "B09TFNSPHK",
-                                     "B0GH1BS7FY",
-                                     "B0HNXQ9245",
-                                     "B07MFD97JP",
-                                     "B091J5BVWC",
-                                     "B01N9ZFCIY",
-                                     "B0H2J1W8GG",
-                                     "B09FT2QFN8",
-                                     "B0C28SCBW2",
-                                     "B0CVW6ZSLH",
-                                     "B0FR6FMTTC",
-                                     "B091D2YL4W",
-                                     "B08WJMSLJ2"
-                                 ]
-              },
-    "B08XJSCJYW":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1989
-                       }
-                   ],
-    "B08Y7P1PNL":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1680
-                       }
-                   ],
-    "B0H29YPWGB":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  736.5
-                       }
-                   ],
-    "B0DDCDYW45":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1798
-                       }
-                   ],
-    "B0FH4WS3S9":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1083
-                       }
-                   ],
-    "B091GNKV3L":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  2230.03
-                       }
-                   ],
-    "B0C6MBKTSZ":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1560
-                       }
-                   ],
-    "B0GJQ3PW32":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  674
-                       }
-                   ],
-    "B0H83WFJTZ":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  875
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.888Z",
-                           "p":  870
-                       }
-                   ],
-    "B07MVSTKCV":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1315.6
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.888Z",
-                           "p":  1545
-                       }
-                   ],
-    "B0DXQ9SZBQ":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  2327
-                       },
-                       {
-                           "t":  "2026-11-23T10:54:48.235Z",
-                           "p":  2395
-                       }
-                   ],
-    "B07NDZMRCP":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  2378
-                       }
-                   ],
-    "B093ZW7MXQ":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1795
-                       }
-                   ],
-    "B0F9SSJHDN":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  358
-                       }
-                   ],
-    "B0GLQRX22Q":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  412.5
-                       }
-                   ],
-    "B0HK3Q99ZQ":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1699
-                       }
-                   ],
-    "B08J7QDWYN":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1418
-                       }
-                   ],
-    "B0FSF1WQC8":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  3451.9
-                       }
-                   ],
-    "B0FGXRS4ZB":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  999
-                       }
-                   ],
-    "B0GSRYXRHF":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  199
-                       }
-                   ],
-    "B0GSRM9LQN":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  399
-                       }
-                   ],
-    "B0FGXP5QHC":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  999
-                       }
-                   ],
-    "B0FGXPS36J":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  999
-                       }
-                   ],
-    "B0HMRXX465":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  499
-                       }
-                   ],
-    "B0HK4C5DFB":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1026
-                       }
-                   ],
-    "B0FR6M3Z53":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1549
-                       }
-                   ],
-    "B0HFDJD413":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1045
-                       }
-                   ],
-    "B0FGXNDBXG":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1599
-                       }
-                   ],
-    "B0H4W4KB1D":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  399
-                       }
-                   ],
-    "B093G3L8PT":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  209
-                       }
-                   ],
-    "B0DJ7KVL4F":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  399
-                       }
-                   ],
-    "B0H8JNNBKR":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  399
-                       }
-                   ],
-    "B0DPGG3H31":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  220
-                       }
-                   ],
-    "B0CVW6594X":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  340
-                       }
-                   ],
-    "B0H2S821FT":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  379
-                       }
-                   ],
-    "B0DS153CKT":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  2499
-                       }
-                   ],
-    "B0DNWSFLDX":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  449
-                       }
-                   ],
-    "B0H58MJQ5X":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  298.82
-                       }
-                   ],
-    "B0DTQ5YWHJ":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  275
-                       }
-                   ],
-    "B0DZHZ7C9B":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  283.57
-                       }
-                   ],
-    "B0BRBB2N91":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  208.65
-                       }
-                   ],
-    "B0DSJRJWRH":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  299
-                       }
-                   ],
-    "B0GXWVQ7XF":  [
-                       {
-                           "t":  "2026-11-23T10:09:09.481Z",
-                           "p":  1100
-                       }
-                   ],
-    "B0DYLB3LND":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1799
-                       }
-                   ],
-    "B08J7NGZVL":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1437
-                       }
-                   ],
-    "B093TJV7ZY":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1895
-                       }
-                   ],
-    "B0BHST5KJP":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  2210
-                       }
-                   ],
-    "B0H29XVPT7":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1915.83
-                       }
-                   ],
-    "B0GLQPW37V":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1220
-                       },
-                       {
-                           "t":  "2026-11-23T13:43:30.491Z",
-                           "p":  1390
-                       }
-                   ],
-    "B0HNXNSXYJ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  999
-                       }
-                   ],
-    "B0CKNDK6JQ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1299
-                       }
-                   ],
-    "B0BCK4375T":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  2316.47
-                       }
-                   ],
-    "B005013GXC":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  2350
-                       }
-                   ],
-    "B0FLKJSFY4":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  12999.99
-                       }
-                   ],
-    "B091JPZL6N":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1569
-                       }
-                   ],
-    "B0D33C9LTL":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  2399
-                       }
-                   ],
-    "B098VXS2KY":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  820
-                       }
-                   ],
-    "B0H5C6HZ9L":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1350
-                       }
-                   ],
-    "B0CY1DJDL9":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  6090
-                       }
-                   ],
-    "B09DQ278PX":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  799
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.889Z",
-                           "p":  788
-                       }
-                   ],
-    "B0728GST91":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  4559
-                       }
-                   ],
-    "B0FR5YG2LK":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1199
-                       }
-                   ],
-    "B0HF81YHZ1":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  782.02
-                       }
-                   ],
-    "B0D1R1HKHZ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1143.16
-                       }
-                   ],
-    "B07Z3KHFR8":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1292
-                       }
-                   ],
-    "B0CVW6ZSLH":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  656.02
-                       }
-                   ],
-    "B0FR6FMTTC":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1549
-                       }
-                   ],
-    "B0H1H9B8VT":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  355
-                       }
-                   ],
-    "B091D1PD6D":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  245.66
-                       }
-                   ],
-    "B0DY884PKX":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  499
-                       }
-                   ],
-    "B0FCSL7Z6P":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  299
-                       }
-                   ],
-    "B0H1H8M4CN":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  440.58
-                       }
-                   ],
-    "B0GH1C3WMX":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1209.66
-                       }
-                   ],
-    "B0BVC2SNHV":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  239
-                       }
-                   ],
-    "B0CVW7LHWF":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  656.02
-                       }
-                   ],
-    "B0G9XP22LL":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  560.26
-                       }
-                   ],
-    "B0GYLJ4P7W":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  699.73
-                       }
-                   ],
-    "B0FXJCCLJV":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  599
-                       }
-                   ],
-    "B0HKGFFN9J":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  253
-                       }
-                   ],
-    "B0CBZRCR1S":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  249
-                       }
-                   ],
-    "B091D2YL4W":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  599
-                       }
-                   ],
-    "B0F7HX2DGR":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  319
-                       }
-                   ],
-    "B0FKZZRFKJ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  229
-                       }
-                   ],
-    "B0CPKG6GKM":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  299
-                       }
-                   ],
-    "B0HKRWCMD1":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1259.1
-                       }
-                   ],
-    "B0GQ68XXRJ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1105.16
-                       }
-                   ],
-    "B0G6FNQKC6":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1103.5
-                       }
-                   ],
-    "B0DZHYPY41":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  291.84
-                       }
-                   ],
-    "B0FM429KKD":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  2925.12
-                       }
-                   ],
-    "B0GQM7KS4S":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  940
-                       }
-                   ],
-    "B0FN4PSL1V":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  326.19
-                       }
-                   ],
-    "B0F2262XDY":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  360
-                       }
-                   ],
-    "B08WJMSLJ2":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  249
-                       }
-                   ],
-    "B0CL7F9KDF":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  249
-                       }
-                   ],
-    "B097DK81GJ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  248
-                       }
-                   ],
-    "B0HQXTYK8R":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  555
-                       }
-                   ],
-    "B0H2SC15R8":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  379
-                       }
-                   ],
-    "B0DVRMTZNC":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  299
-                       }
-                   ],
-    "B0FR5JVYD7":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1499
-                       }
-                   ],
-    "B0DTJFRRSF":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  410
-                       }
-                   ],
-    "B0FSXL98R8":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  454.17
-                       }
-                   ],
-    "B0G15351J1":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  221.92
-                       }
-                   ],
-    "B0DTQ7HP1N":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  310
-                       }
-                   ],
-    "B0923CFCVV":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  657.67
-                       }
-                   ],
-    "B0FF3BXD5C":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  749
-                       }
-                   ],
-    "B08LNCSQJT":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  233.29
-                       },
-                       {
-                           "t":  "2026-11-23T11:47:45.347Z",
-                           "p":  319
-                       },
-                       {
-                           "t":  "2026-11-23T16:51:10.375Z",
-                           "p":  233.29
-                       }
-                   ],
-    "B0DB7SQMN4":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  238.73
-                       }
-                   ],
-    "B0DWYJHSLV":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  356.25
-                       }
-                   ],
-    "B08P4J53T6":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  342.65
-                       }
-                   ],
-    "B0G821NMHK":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  692.48
-                       }
-                   ],
-    "B0HCHX2VS8":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1083.83
-                       }
-                   ],
-    "B0C9QRCGZN":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  238.73
-                       }
-                   ],
-    "B0H8NNJKWV":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  390
-                       }
-                   ],
-    "B0G1XQW47D":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  470
-                       }
-                   ],
-    "B0GQNXGYSX":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  1455.39
-                       }
-                   ],
-    "B091DBPQBC":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  252
-                       }
-                   ],
-    "B0991WL7FQ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  253
-                       }
-                   ],
-    "B098TZKLCJ":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  4599
-                       }
-                   ],
-    "B091J4YS42":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  299
-                       }
-                   ],
-    "B0FP9YT579":  [
-                       {
-                           "t":  "2026-11-23T10:55:42.091Z",
-                           "p":  307.17
-                       }
-                   ],
-    "B0FGXRG6C9":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1599
-                       }
-                   ],
-    "B0FGXPRJGS":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2425
-                       }
-                   ],
-    "B01L93HNCY":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  699
-                       }
-                   ],
-    "B0C19HMH71":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  799
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.891Z",
-                           "p":  770
-                       }
-                   ],
-    "B08WJJF8K5":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1539
-                       }
-                   ],
-    "B09RVBR937":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2200
-                       }
-                   ],
-    "B097LK9H6W":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  220
-                       }
-                   ],
-    "B091CVX9HK":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  460
-                       }
-                   ],
-    "B0DTGMTQC4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  410
-                       }
-                   ],
-    "B07B6TZNWT":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1549.95
-                       }
-                   ],
-    "B0CTMSJQ1J":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  662.5
-                       },
-                       {
-                           "t":  "2026-11-23T14:20:46.680Z",
-                           "p":  665
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.891Z",
-                           "p":  649
-                       }
-                   ],
-    "B0CKZDJMVM":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  799.9
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.891Z",
-                           "p":  788.9
-                       }
-                   ],
-    "B08WJLC3VN":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1879
-                       }
-                   ],
-    "B0GLQDTCS4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  656
-                       }
-                   ],
-    "B0HCJ3S2TX":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1021.86
-                       }
-                   ],
-    "B0FTXLYHR9":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  844.45
-                       }
-                   ],
-    "B08538D6NH":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1876
-                       }
-                   ],
-    "B0DV5SXMXL":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  816
-                       }
-                   ],
-    "B08538FHMY":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2400
-                       }
-                   ],
-    "B0GSCD679V":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1460
-                       }
-                   ],
-    "B0BNP12RYR":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  252.67
-                       }
-                   ],
-    "B0GL95GNZK":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  653.03
-                       }
-                   ],
-    "B0GWFGB49D":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  259
-                       }
-                   ],
-    "B0CF2H7T9W":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  151
-                       }
-                   ],
-    "B0CY9568YJ":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  290
-                       }
-                   ],
-    "B0G14S8MFS":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  439.53
-                       }
-                   ],
-    "B0FRY54SSC":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  212.18
-                       }
-                   ],
-    "B0GNHTDJRB":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1919.7
-                       }
-                   ],
-    "B0FF37TVBW":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  774
-                       }
-                   ],
-    "B0HDZMQH81":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  549
-                       }
-                   ],
-    "B0CYZXHCYD":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  454.65
-                       }
-                   ],
-    "B0H14Y1LBJ":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  488
-                       }
-                   ],
-    "B0HJWN7R8B":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2025
-                       }
-                   ],
-    "B0F3V8BDBB":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  4999
-                       }
-                   ],
-    "B0GJPZCDZ1":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2118
-                       }
-                   ],
-    "B0FMP5D9CQ":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  991.8
-                       }
-                   ],
-    "B0D1QNHQMD":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1143.16
-                       }
-                   ],
-    "B0HKSG3NK8":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1550
-                       }
-                   ],
-    "B0FQ611LY4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  539.1
-                       }
-                   ],
-    "B0HBKTB6F9":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  699
-                       }
-                   ],
-    "B0957MC1WY":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1499
-                       }
-                   ],
-    "B0FF91MCHB":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  529
-                       }
-                   ],
-    "B0H2B36HWV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2100
-                       }
-                   ],
-    "B0H2TYLXPD":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  272.3
-                       }
-                   ],
-    "B091D2DK3T":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  420
-                       }
-                   ],
-    "B075WW8GGL":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  9000
-                       }
-                   ],
-    "B0H8NWS82D":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  898.55
-                       }
-                   ],
-    "B0BL38MSRM":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  739
-                       }
-                   ],
-    "B0B6WQCBV8":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2015.52
-                       }
-                   ],
-    "B0F5DWHZWV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  249.68
-                       }
-                   ],
-    "B0FQC96HWK":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  353.96
-                       }
-                   ],
-    "B0CZG586D4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  401
-                       }
-                   ],
-    "B091NY2R88":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1397.82
-                       }
-                   ],
-    "B09S3WCMSH":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  265
-                       },
-                       {
-                           "t":  "2026-11-23T13:07:34.991Z",
-                           "p":  324.9
-                       }
-                   ],
-    "B0F67DNY9J":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  399
-                       }
-                   ],
-    "B0FXXSH353":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1453.61
-                       }
-                   ],
-    "B0G14TJRSQ":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  370.2
-                       }
-                   ],
-    "B0H6VJ618H":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  378
-                       }
-                   ],
-    "B0D2315M76":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  591.5
-                       }
-                   ],
-    "B0H96KKT1B":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  565.47
-                       }
-                   ],
-    "B09NQVQW5B":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1516.77
-                       }
-                   ],
-    "B0DZ4W4D7S":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  649
-                       }
-                   ],
-    "B09692WD35":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  316.51
-                       }
-                   ],
-    "B0GQ82YFHV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  990
-                       }
-                   ],
-    "B0H87K9PJR":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  530
-                       }
-                   ],
-    "B097NPS2HT":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  570
-                       }
-                   ],
-    "B0CWDR7625":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  216.63
-                       }
-                   ],
-    "B0BWFQSVYX":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  419
-                       }
-                   ],
-    "B0H2J5V3FT":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  560
-                       }
-                   ],
-    "B0GHSDL29S":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  400
-                       }
-                   ],
-    "B09B8S5FP2":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  264
-                       }
-                   ],
-    "B0F4PTBMTZ":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  449
-                       }
-                   ],
-    "B0F7HXPR5S":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  299.99
-                       }
-                   ],
-    "B0D5WPYJL3":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  303.39
-                       }
-                   ],
-    "B00MWU18RA":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  4289
-                       }
-                   ],
-    "B0GTZ7PS5Y":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  408.84
-                       }
-                   ],
-    "B078JBWQ4N":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  4733
-                       }
-                   ],
-    "B0GVP9K9GB":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  393.79
-                       }
-                   ],
-    "B0FMP6CG7P":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1666
-                       }
-                   ],
-    "B0FMP45DQL":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  771.45
-                       }
-                   ],
-    "B07937HBB7":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  11299
-                       }
-                   ],
-    "B0F48WJYFM":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  539.1
-                       }
-                   ],
-    "B0FJY24613":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  401.77
-                       }
-                   ],
-    "B0FD87S29V":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  960.12
-                       }
-                   ],
-    "B0FWZ39S7T":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  306.97
-                       }
-                   ],
-    "B098TXZDW4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  450
-                       }
-                   ],
-    "B0DQLXVXJG":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  509.15
-                       }
-                   ],
-    "B0HRB8ZRBH":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  8700
-                       }
-                   ],
-    "B0DXQB8478":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2400
-                       }
-                   ],
-    "B098VVTVTT":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  400
-                       }
-                   ],
-    "B09D3Z8FB1":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  12375
-                       }
-                   ],
-    "B0H5QXMHH3":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  594
-                       }
-                   ],
-    "B0BN5QTLRB":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  234
-                       }
-                   ],
-    "B0DH575NS5":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2660
-                       }
-                   ],
-    "B0FH5LT792":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  238.73
-                       }
-                   ],
-    "B0DSV4XQNP":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  770.04
-                       }
-                   ],
-    "B0HR9PQ9WP":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  999
-                       }
-                   ],
-    "B0HG5FJ9HM":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2025
-                       }
-                   ],
-    "B0HG5LS3Q7":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2025
-                       }
-                   ],
-    "B0DSWNC4K9":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  650
-                       }
-                   ],
-    "B09MBZHFRW":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1421.6
-                       }
-                   ],
-    "B0H2B2VTW4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2033
-                       }
-                   ],
-    "B0FQ3DVNJG":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1206.15
-                       }
-                   ],
-    "B0BCK48DXY":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  4499
-                       }
-                   ],
-    "B0HBQ27DL6":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  382.5
-                       }
-                   ],
-    "B0DWKT5HQR":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  839.94
-                       }
-                   ],
-    "B0HF8MGPR6":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  450.8
-                       }
-                   ],
-    "B0GJT42DPT":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1162.5
-                       }
-                   ],
-    "B0GPNJYH6S":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1565.51
-                       }
-                   ],
-    "B0H8LHB3K7":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  378
-                       }
-                   ],
-    "B091GPL8W4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  499
-                       }
-                   ],
-    "B0CHZ4Z8P7":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1568
-                       }
-                   ],
-    "B091BV2QLV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  270
-                       }
-                   ],
-    "B0923178BV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  366
-                       }
-                   ],
-    "B0GWDX8K96":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1639.86
-                       }
-                   ],
-    "B0FCMYDZRK":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  620
-                       }
-                   ],
-    "B0GGZPMW9C":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1129.61
-                       }
-                   ],
-    "B097LLXB4R":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  239.72
-                       }
-                   ],
-    "B0GXPTRRSX":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  809.1
-                       }
-                   ],
-    "B0HG9QG46F":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  999
-                       }
-                   ],
-    "B0FPKC27XS":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1466.58
-                       }
-                   ],
-    "B09J198VL9":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  279.1
-                       }
-                   ],
-    "B0CD8342NQ":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  799
-                       }
-                   ],
-    "B08WJL6D95":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2449
-                       }
-                   ],
-    "B0GXSBYLNS":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1466.25
-                       }
-                   ],
-    "B0FBY1DTZV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2686.9
-                       }
-                   ],
-    "B0HBKK7YYC":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  599
-                       }
-                   ],
-    "B0C9DN3BVC":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  840
-                       }
-                   ],
-    "B0HCJY7MXF":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  925
-                       }
-                   ],
-    "B0GXSQP25F":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  3940.2
-                       }
-                   ],
-    "B0GYGQ8VMB":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  849
-                       }
-                   ],
-    "B0HFNSBGM5":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1500
-                       }
-                   ],
-    "B0DMTH6KD1":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  649
-                       }
-                   ],
-    "B0GWXND3GF":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  5950
-                       }
-                   ],
-    "B0FMP62DCX":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  495
-                       }
-                   ],
-    "B0GL943Z8C":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1237.5
-                       }
-                   ],
-    "B0GP1GYV8X":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1156
-                       }
-                   ],
-    "B0DVTF4YN6":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1233
-                       }
-                   ],
-    "B0CWLC5HNF":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1801.04
-                       }
-                   ],
-    "B0H7QCFBLV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  550
-                       }
-                   ],
-    "B08X1JPVG9":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  350
-                       },
-                       {
-                           "t":  "2026-11-23T13:07:34.996Z",
-                           "p":  260.14
-                       }
-                   ],
-    "B0FFZ59KFX":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1599
-                       }
-                   ],
-    "B08WJPRTFD":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1899
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.894Z",
-                           "p":  1905
-                       }
-                   ],
-    "B091NNLLNR":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  406
-                       }
-                   ],
-    "B0F27XJ3BQ":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1266
-                       }
-                   ],
-    "B0GH159G22":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1188.05
-                       }
-                   ],
-    "B0DWYWMHS4":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  3100
-                       }
-                   ],
-    "B0GCGMPSTT":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1104.99
-                       },
-                       {
-                           "t":  "2026-11-23T16:03:02.698Z",
-                           "p":  1550
-                       }
-                   ],
-    "B0752MB9PW":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  8000
-                       }
-                   ],
-    "B0GWFC5KY6":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1529.1
-                       }
-                   ],
-    "B0FGXN6SBX":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2999
-                       },
-                       {
-                           "t":  "2026-11-23T23:42:53.894Z",
-                           "p":  2965.94
-                       }
-                   ],
-    "B091J5F22M":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1199
-                       }
-                   ],
-    "B0DQDX2QXD":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1052
-                       },
-                       {
-                           "t":  "2026-11-23T13:07:34.996Z",
-                           "p":  1271
-                       }
-                   ],
-    "B0DP3JZW88":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  3307.7
-                       }
-                   ],
-    "B0D232HNLH":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  425.7
-                       }
-                   ],
-    "B077QWM1K7":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  8075
-                       }
-                   ],
-    "B0HHL2F6TH":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  741
-                       }
-                   ],
-    "B08WJL8KBP":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1344.69
-                       }
-                   ],
-    "B0DJBXHBZL":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2770
-                       }
-                   ],
-    "B07D5SXCTL":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2999
-                       }
-                   ],
-    "B0H42WTQ3C":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  271.29
-                       }
-                   ],
-    "B0HGRF3TNW":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  650
-                       }
-                   ],
-    "B0G159JDCH":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  385.9
-                       }
-                   ],
-    "B0DQDXFVFV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  699
-                       }
-                   ],
-    "B071743LPD":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  4637
-                       }
-                   ],
-    "B0G13Y13TC":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  281.64
-                       }
-                   ],
-    "B09D3YPBR8":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  10000
-                       }
-                   ],
-    "B0771Q5F26":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  11500
-                       }
-                   ],
-    "B0H7CKRWQH":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1501.67
-                       }
-                   ],
-    "B0DQLWDYDB":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  253
-                       }
-                   ],
-    "B0HFSSZZ1D":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  850
-                       }
-                   ],
-    "B0H7X5JHFF":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1141.57
-                       }
-                   ],
-    "B0GQV3CCJ2":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  730
-                       }
-                   ],
-    "B0CVXQ35X3":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2999
-                       }
-                   ],
-    "B0DBHWR4VC":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  4280
-                       }
-                   ],
-    "B08L1YMRG2":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  3707
-                       }
-                   ],
-    "B077PMH82M":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  10518.72
-                       }
-                   ],
-    "B096MV62GK":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1165.9
-                       }
-                   ],
-    "B0FLDZN15W":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  364.37
-                       }
-                   ],
-    "B07NDMMHN9":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  14284
-                       }
-                   ],
-    "B0BL7PY3VV":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  713.16
-                       }
-                   ],
-    "B097DK41H3":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  349
-                       }
-                   ],
-    "B09NQF4KG3":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2990
-                       }
-                   ],
-    "B08X5Z7QWM":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  427.86
-                       }
-                   ],
-    "B0HQPHXJN2":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  899
-                       }
-                   ],
-    "B09TFNSPHK":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1529.1
-                       }
-                   ],
-    "B0GH1BS7FY":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  1155.32
-                       }
-                   ],
-    "B0HNXQ9245":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  999
-                       }
-                   ],
-    "B07MFD97JP":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  2225
-                       }
-                   ],
-    "B091J5BVWC":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.355Z",
-                           "p":  739
-                       }
-                   ],
-    "B01N9ZFCIY":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.356Z",
-                           "p":  12100
-                       }
-                   ],
-    "B0H2J1W8GG":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.356Z",
-                           "p":  871.51
-                       }
-                   ],
-    "B09FT2QFN8":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.356Z",
-                           "p":  659.81
-                       }
-                   ],
-    "B0C28SCBW2":  [
-                       {
-                           "t":  "2026-11-23T11:47:45.356Z",
-                           "p":  999
-                       }
-                   ]
+  "B0CK8G58BP": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 929
+    }
+  ],
+  "B0CHD1GHHP": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 1912.95
+    }
+  ],
+  "B075FC8ZJ3": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 2358
+    }
+  ],
+  "B07XCX7CYQ": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 1795.5
+    },
+    {
+      "t": "2026-11-24T22:12:32.851Z",
+      "p": 1809.11
+    }
+  ],
+  "B0BSF9Q7Y9": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 2259
+    }
+  ],
+  "B08J868N1S": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 2099
+    },
+    {
+      "t": "2026-11-23T10:08:44.312Z",
+      "p": 2095
+    }
+  ],
+  "B08J7PCCCX": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 1806
+    },
+    {
+      "t": "2026-11-24T22:12:32.851Z",
+      "p": 1829
+    }
+  ],
+  "B08PT66VV8": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 3179
+    }
+  ],
+  "B08CXTZF5H": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 2187.05
+    },
+    {
+      "t": "2026-11-23T23:42:53.888Z",
+      "p": 2184.5
+    },
+    {
+      "t": "2026-11-24T22:12:32.851Z",
+      "p": 2187.05
+    }
+  ],
+  "B005013GYQ": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 2328
+    }
+  ],
+  "B01L93HDUQ": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 875
+    },
+    {
+      "t": "2026-11-24T22:12:32.851Z",
+      "p": 871
+    }
+  ],
+  "B08XJRP314": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 802
+    }
+  ],
+  "B0FX5J7HK6": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 800
+    },
+    {
+      "t": "2026-11-23T10:54:48.235Z",
+      "p": 854
+    },
+    {
+      "t": "2026-11-23T16:51:10.372Z",
+      "p": 900
+    },
+    {
+      "t": "2026-11-24T22:12:32.851Z",
+      "p": 875
+    }
+  ],
+  "B08X6DB7ZS": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 699
+    }
+  ],
+  "B0D6BVC9CQ": [
+    {
+      "t": "2026-11-23T09:35:08.558Z",
+      "p": 1360
+    }
+  ],
+  "_meta": {
+    "lastRun": "2026-11-24T22:12:32.979Z",
+    "activeCount": 230,
+    "totalCount": 236,
+    "seenAsins": [
+      "B08XJSCJYW",
+      "B08Y7P1PNL",
+      "B0H29YPWGB",
+      "B0DDCDYW45",
+      "B0FH4WS3S9",
+      "B091GNKV3L",
+      "B0C6MBKTSZ",
+      "B0GJQ3PW32",
+      "B0H83WFJTZ",
+      "B07MVSTKCV",
+      "B0DXQ9SZBQ",
+      "B07NDZMRCP",
+      "B093ZW7MXQ",
+      "B0F9SSJHDN",
+      "B0GLQRX22Q",
+      "B0HK3Q99ZQ",
+      "B08J7QDWYN",
+      "B0FSF1WQC8",
+      "B0FGXRS4ZB",
+      "B0GSRYXRHF",
+      "B0GSRM9LQN",
+      "B0FGXP5QHC",
+      "B0FGXPS36J",
+      "B0HMRXX465",
+      "B0HK4C5DFB",
+      "B0FR6M3Z53",
+      "B0HFDJD413",
+      "B0FGXNDBXG",
+      "B0H4W4KB1D",
+      "B093G3L8PT",
+      "B0DJ7KVL4F",
+      "B0H8JNNBKR",
+      "B0DPGG3H31",
+      "B0CVW6594X",
+      "B0H2S821FT",
+      "B0DS153CKT",
+      "B0DNWSFLDX",
+      "B0H58MJQ5X",
+      "B0DTQ5YWHJ",
+      "B0DZHZ7C9B",
+      "B0BRBB2N91",
+      "B0DSJRJWRH",
+      "B0GXWVQ7XF",
+      "B0DYLB3LND",
+      "B08J7NGZVL",
+      "B093TJV7ZY",
+      "B0BHST5KJP",
+      "B0H29XVPT7",
+      "B0GLQPW37V",
+      "B0HNXNSXYJ",
+      "B0CKNDK6JQ",
+      "B0BCK4375T",
+      "B005013GXC",
+      "B0FLKJSFY4",
+      "B091JPZL6N",
+      "B0D33C9LTL",
+      "B098VXS2KY",
+      "B0H5C6HZ9L",
+      "B0CY1DJDL9",
+      "B09DQ278PX",
+      "B0728GST91",
+      "B0FR5YG2LK",
+      "B0HF81YHZ1",
+      "B0D1R1HKHZ",
+      "B07Z3KHFR8",
+      "B0CVW6ZSLH",
+      "B0FR6FMTTC",
+      "B0H1H9B8VT",
+      "B091D1PD6D",
+      "B0DY884PKX",
+      "B0FCSL7Z6P",
+      "B0H1H8M4CN",
+      "B0GH1C3WMX",
+      "B0BVC2SNHV",
+      "B0CVW7LHWF",
+      "B0G9XP22LL",
+      "B0GYLJ4P7W",
+      "B0FXJCCLJV",
+      "B0HKGFFN9J",
+      "B0CBZRCR1S",
+      "B091D2YL4W",
+      "B0F7HX2DGR",
+      "B0FKZZRFKJ",
+      "B0CPKG6GKM",
+      "B0HKRWCMD1",
+      "B0GQ68XXRJ",
+      "B0G6FNQKC6",
+      "B0DZHYPY41",
+      "B0FM429KKD",
+      "B0GQM7KS4S",
+      "B0FN4PSL1V",
+      "B0F2262XDY",
+      "B08WJMSLJ2",
+      "B0CL7F9KDF",
+      "B097DK81GJ",
+      "B0HQXTYK8R",
+      "B0H2SC15R8",
+      "B0DVRMTZNC",
+      "B0FR5JVYD7",
+      "B0DTJFRRSF",
+      "B0FSXL98R8",
+      "B0G15351J1",
+      "B0DTQ7HP1N",
+      "B0923CFCVV",
+      "B0FF3BXD5C",
+      "B08LNCSQJT",
+      "B0DB7SQMN4",
+      "B0DWYJHSLV",
+      "B08P4J53T6",
+      "B0G821NMHK",
+      "B0HCHX2VS8",
+      "B0C9QRCGZN",
+      "B0H8NNJKWV",
+      "B0G1XQW47D",
+      "B0GQNXGYSX",
+      "B091DBPQBC",
+      "B0991WL7FQ",
+      "B098TZKLCJ",
+      "B091J4YS42",
+      "B0FP9YT579",
+      "B0FGXRG6C9",
+      "B0FGXPRJGS",
+      "B01L93HNCY",
+      "B0C19HMH71",
+      "B08WJJF8K5",
+      "B09RVBR937",
+      "B097LK9H6W",
+      "B091CVX9HK",
+      "B0DTGMTQC4",
+      "B07B6TZNWT",
+      "B0CTMSJQ1J",
+      "B0CKZDJMVM",
+      "B08WJLC3VN",
+      "B0GLQDTCS4",
+      "B0HCJ3S2TX",
+      "B0FTXLYHR9",
+      "B08538D6NH",
+      "B0DV5SXMXL",
+      "B08538FHMY",
+      "B0GSCD679V",
+      "B0BNP12RYR",
+      "B0GL95GNZK",
+      "B0GWFGB49D",
+      "B0CF2H7T9W",
+      "B0CY9568YJ",
+      "B0G14S8MFS",
+      "B0FRY54SSC",
+      "B0GNHTDJRB",
+      "B0FF37TVBW",
+      "B0HDZMQH81",
+      "B0CYZXHCYD",
+      "B0H14Y1LBJ",
+      "B0HJWN7R8B",
+      "B0F3V8BDBB",
+      "B0GJPZCDZ1",
+      "B0FMP5D9CQ",
+      "B0D1QNHQMD",
+      "B0HKSG3NK8",
+      "B0FQ611LY4",
+      "B0HBKTB6F9",
+      "B0957MC1WY",
+      "B0FF91MCHB",
+      "B0H2B36HWV",
+      "B0H2TYLXPD",
+      "B091D2DK3T",
+      "B075WW8GGL",
+      "B0H8NWS82D",
+      "B0BL38MSRM",
+      "B0B6WQCBV8",
+      "B0F5DWHZWV",
+      "B0FQC96HWK",
+      "B0CZG586D4",
+      "B091NY2R88",
+      "B09S3WCMSH",
+      "B0F67DNY9J",
+      "B0FXXSH353",
+      "B0G14TJRSQ",
+      "B0H6VJ618H",
+      "B0D2315M76",
+      "B0H96KKT1B",
+      "B09NQVQW5B",
+      "B0DZ4W4D7S",
+      "B09692WD35",
+      "B0GQ82YFHV",
+      "B0H87K9PJR",
+      "B097NPS2HT",
+      "B0CWDR7625",
+      "B0BWFQSVYX",
+      "B0H2J5V3FT",
+      "B0GHSDL29S",
+      "B09B8S5FP2",
+      "B0F4PTBMTZ",
+      "B0F7HXPR5S",
+      "B0D5WPYJL3",
+      "B00MWU18RA",
+      "B0GTZ7PS5Y",
+      "B078JBWQ4N",
+      "B0GVP9K9GB",
+      "B0FMP6CG7P",
+      "B0FMP45DQL",
+      "B07937HBB7",
+      "B0F48WJYFM",
+      "B0FJY24613",
+      "B0FD87S29V",
+      "B0FWZ39S7T",
+      "B098TXZDW4",
+      "B0DQLXVXJG",
+      "B0HRB8ZRBH",
+      "B0DXQB8478",
+      "B098VVTVTT",
+      "B09D3Z8FB1",
+      "B0H5QXMHH3",
+      "B0BN5QTLRB",
+      "B0DH575NS5",
+      "B0FH5LT792",
+      "B0DSV4XQNP",
+      "B0HR9PQ9WP",
+      "B0HG5FJ9HM",
+      "B0HG5LS3Q7",
+      "B0DSWNC4K9",
+      "B09MBZHFRW",
+      "B0H2B2VTW4",
+      "B0FQ3DVNJG",
+      "B0BCK48DXY",
+      "B0HBQ27DL6",
+      "B0DWKT5HQR",
+      "B0HF8MGPR6",
+      "B0GJT42DPT",
+      "B0GPNJYH6S",
+      "B0H8LHB3K7",
+      "B091GPL8W4",
+      "B0CHZ4Z8P7",
+      "B091BV2QLV",
+      "B0923178BV",
+      "B0GWDX8K96",
+      "B0FCMYDZRK",
+      "B0GGZPMW9C",
+      "B097LLXB4R",
+      "B0GXPTRRSX",
+      "B0HG9QG46F",
+      "B0FPKC27XS",
+      "B09J198VL9",
+      "B0CD8342NQ",
+      "B08WJL6D95",
+      "B0GXSBYLNS",
+      "B0FBY1DTZV",
+      "B0HBKK7YYC",
+      "B0C9DN3BVC",
+      "B0HCJY7MXF",
+      "B0GXSQP25F",
+      "B0GYGQ8VMB",
+      "B0HFNSBGM5",
+      "B0DMTH6KD1",
+      "B0GWXND3GF",
+      "B0FMP62DCX",
+      "B0GL943Z8C",
+      "B0GP1GYV8X",
+      "B0DVTF4YN6",
+      "B0CWLC5HNF",
+      "B0H7QCFBLV",
+      "B08X1JPVG9",
+      "B0FFZ59KFX",
+      "B08WJPRTFD",
+      "B091NNLLNR",
+      "B0F27XJ3BQ",
+      "B0GH159G22",
+      "B0DWYWMHS4",
+      "B0GCGMPSTT",
+      "B0752MB9PW",
+      "B0GWFC5KY6",
+      "B0FGXN6SBX",
+      "B091J5F22M",
+      "B0DQDX2QXD",
+      "B0DP3JZW88",
+      "B0D232HNLH",
+      "B077QWM1K7",
+      "B0HHL2F6TH",
+      "B08WJL8KBP",
+      "B0DJBXHBZL",
+      "B07D5SXCTL",
+      "B0H42WTQ3C",
+      "B0HGRF3TNW",
+      "B0G159JDCH",
+      "B0DQDXFVFV",
+      "B071743LPD",
+      "B0G13Y13TC",
+      "B09D3YPBR8",
+      "B0771Q5F26",
+      "B0H7CKRWQH",
+      "B0DQLWDYDB",
+      "B0HFSSZZ1D",
+      "B0H7X5JHFF",
+      "B0GQV3CCJ2",
+      "B0CVXQ35X3",
+      "B0DBHWR4VC",
+      "B08L1YMRG2",
+      "B077PMH82M",
+      "B096MV62GK",
+      "B0FLDZN15W",
+      "B07NDMMHN9",
+      "B0BL7PY3VV",
+      "B097DK41H3",
+      "B09NQF4KG3",
+      "B08X5Z7QWM",
+      "B0HQPHXJN2",
+      "B09TFNSPHK",
+      "B0GH1BS7FY",
+      "B0HNXQ9245",
+      "B07MFD97JP",
+      "B091J5BVWC",
+      "B01N9ZFCIY",
+      "B0H2J1W8GG",
+      "B09FT2QFN8",
+      "B0C28SCBW2"
+    ],
+    "manualSeen": [
+      "B0FGXRS4ZB",
+      "B0FGXRG6C9",
+      "B0FGXPRJGS",
+      "B093G3L8PT",
+      "B0CK8G58BP",
+      "B0CHD1GHHP",
+      "B01L93HDUQ",
+      "B075FC8ZJ3",
+      "B0DJ7KVL4F",
+      "B0FGXP5QHC",
+      "B0GSRYXRHF",
+      "B08J7QDWYN",
+      "B0GSRM9LQN",
+      "B0FX5J7HK6",
+      "B08J868N1S",
+      "B0D6BVC9CQ",
+      "B07MVSTKCV",
+      "B0FGXPS36J",
+      "B08XJRP314",
+      "B01L93HNCY",
+      "B07XCX7CYQ",
+      "B08X6DB7ZS",
+      "B0BSF9Q7Y9",
+      "B0H8JNNBKR",
+      "B0DG6CG7NV",
+      "B0FR6M3Z53",
+      "B0DPGG3H31",
+      "B08J7PCCCX",
+      "B0DXQ9SZBQ",
+      "B0HMRXX465",
+      "B0HK4C5DFB",
+      "B07NDZMRCP",
+      "B0C19HMH71",
+      "B0HRZGY8CX",
+      "B07J1QF3MV",
+      "B0H29YPWGB",
+      "B08PT66VV8",
+      "B08XJSCJYW",
+      "B08WJJF8K5",
+      "B098TZHVNP",
+      "B08Y7P1PNL",
+      "B0FCSSFCWP",
+      "B0FGXNDBXG",
+      "B0HFDJD413",
+      "B0CVW6594X",
+      "B09RVBR937",
+      "B0DDCDYW45",
+      "B0FH4WS3S9",
+      "B091GNKV3L",
+      "B0GJQ3PW32",
+      "B0H83WFJTZ",
+      "B0C6MBKTSZ",
+      "B096L7853M",
+      "B0BG2V3ZQ5",
+      "B096L55Z2S",
+      "B0BMYX99PZ",
+      "B093ZW7MXQ",
+      "B0FSF1WQC8",
+      "B0GLQRX22Q",
+      "B0BRBB2N91",
+      "B097LK9H6W",
+      "B08J7NGZVL",
+      "B005013GXC",
+      "B08LNCSQJT",
+      "B0H2S821FT",
+      "B0DYLB3LND",
+      "B0H4W4KB1D",
+      "B091CVX9HK",
+      "B0DTGMTQC4",
+      "B0DSJRJWRH",
+      "B09SDYVLV1",
+      "B0DNWSFLDX",
+      "B07B6TZNWT",
+      "B0H58MJQ5X",
+      "B0CTMSJQ1J",
+      "B0CKZDJMVM",
+      "B0HKGFFN9J",
+      "B0F7HX2DGR",
+      "B0HKRWCMD1",
+      "B0H29XVPT7",
+      "B08WJLC3VN",
+      "B098VXS2KY",
+      "B0BHST5KJP",
+      "B0FKZZRFKJ",
+      "B0DTQ5YWHJ",
+      "B0GLQDTCS4",
+      "B0728GST91",
+      "B0DWYJHSLV",
+      "B0H5C6HZ9L",
+      "B0CPKG6GKM",
+      "B0DB7SQMN4",
+      "B0GLQPW37V",
+      "B0HCJ3S2TX",
+      "B0GQ68XXRJ",
+      "B0FTXLYHR9",
+      "B0DVRMTZNC",
+      "B07Z3KHFR8",
+      "B0G9XP22LL",
+      "B0G6FNQKC6",
+      "B0DZHYPY41",
+      "B0CBZRCR1S",
+      "B08538D6NH",
+      "B0DV5SXMXL",
+      "B08538FHMY",
+      "B0CL7F9KDF",
+      "B0FR5YG2LK",
+      "B0GSCD679V",
+      "B0D1R1HKHZ",
+      "B0F2262XDY",
+      "B0BNP12RYR",
+      "B0GL95GNZK",
+      "B0GWFGB49D",
+      "B0CY1DJDL9",
+      "B0CF2H7T9W",
+      "B0H1H8M4CN",
+      "B0FCSL7Z6P",
+      "B0HF81YHZ1",
+      "B0CY9568YJ",
+      "B0G14S8MFS",
+      "B0FRY54SSC",
+      "B0GNHTDJRB",
+      "B0FF37TVBW",
+      "B0HDZMQH81",
+      "B0CYZXHCYD",
+      "B0H14Y1LBJ",
+      "B0H1H9B8VT",
+      "B0FM429KKD",
+      "B0HJWN7R8B",
+      "B0F3V8BDBB",
+      "B0GJPZCDZ1",
+      "B0FMP5D9CQ",
+      "B0GQM7KS4S",
+      "B0D1QNHQMD",
+      "B097DK81GJ",
+      "B0H2S85ZD3",
+      "B0FP9YT579",
+      "B0HKSG3NK8",
+      "B0FQ611LY4",
+      "B0HBKTB6F9",
+      "B0957MC1WY",
+      "B0FF91MCHB",
+      "B0H2B36HWV",
+      "B0H2TYLXPD",
+      "B0GQNXGYSX",
+      "B091D2DK3T",
+      "B0FF3BXD5C",
+      "B075WW8GGL",
+      "B0H8NWS82D",
+      "B0BL38MSRM",
+      "B0B6WQCBV8",
+      "B0F5DWHZWV",
+      "B0FQC96HWK",
+      "B091DBPQBC",
+      "B0CZG586D4",
+      "B091NY2R88",
+      "B09S3WCMSH",
+      "B0F67DNY9J",
+      "B0FXXSH353",
+      "B0G14TJRSQ",
+      "B0H6VJ618H",
+      "B0D2315M76",
+      "B0H96KKT1B",
+      "B09NQVQW5B",
+      "B0DZ4W4D7S",
+      "B09692WD35",
+      "B0GQ82YFHV",
+      "B0GYLJ4P7W",
+      "B0H87K9PJR",
+      "B097NPS2HT",
+      "B0CWDR7625",
+      "B0BWFQSVYX",
+      "B0H2J5V3FT",
+      "B0GHSDL29S",
+      "B09B8S5FP2",
+      "B0F4PTBMTZ",
+      "B0F7HXPR5S",
+      "B0D5WPYJL3",
+      "B00MWU18RA",
+      "B0GTZ7PS5Y",
+      "B078JBWQ4N",
+      "B0GVP9K9GB",
+      "B0FMP6CG7P",
+      "B0FMP45DQL",
+      "B07937HBB7",
+      "B0F48WJYFM",
+      "B0FJY24613",
+      "B0FLKJSFY4",
+      "B0FD87S29V",
+      "B0FWZ39S7T",
+      "B0991WL7FQ",
+      "B098TXZDW4",
+      "B0DQLXVXJG",
+      "B0HRB8ZRBH",
+      "B0DXQB8478",
+      "B0D33C9LTL",
+      "B098VVTVTT",
+      "B09D3Z8FB1",
+      "B0H5QXMHH3",
+      "B0BN5QTLRB",
+      "B0DH575NS5",
+      "B0FH5LT792",
+      "B0DSV4XQNP",
+      "B0HR9PQ9WP",
+      "B0HG5FJ9HM",
+      "B0HG5LS3Q7",
+      "B0DSWNC4K9",
+      "B09MBZHFRW",
+      "B0H2B2VTW4",
+      "B0FQ3DVNJG",
+      "B0BCK48DXY",
+      "B0HBQ27DL6",
+      "B0DWKT5HQR",
+      "B0HF8MGPR6",
+      "B0CVW7LHWF",
+      "B0GJT42DPT",
+      "B0GPNJYH6S",
+      "B0H8LHB3K7",
+      "B091GPL8W4",
+      "B0CHZ4Z8P7",
+      "B091BV2QLV",
+      "B0CTMSZYHD",
+      "B0923178BV",
+      "B0GWDX8K96",
+      "B0FCMYDZRK",
+      "B0GGZPMW9C",
+      "B097LLXB4R",
+      "B0GXPTRRSX",
+      "B0HG9QG46F",
+      "B0FPKC27XS",
+      "B09J198VL9",
+      "B0CD8342NQ",
+      "B08WJL6D95",
+      "B0GXSBYLNS",
+      "B0FBY1DTZV",
+      "B0HBKK7YYC",
+      "B0C9DN3BVC",
+      "B0HCJY7MXF",
+      "B0GXSQP25F",
+      "B0GYGQ8VMB",
+      "B0HFNSBGM5",
+      "B0DMTH6KD1",
+      "B0GWXND3GF",
+      "B0FMP62DCX",
+      "B0GL943Z8C",
+      "B0GP1GYV8X",
+      "B0DVTF4YN6",
+      "B0CWLC5HNF",
+      "B07PCMVX2R",
+      "B0H7QCFBLV",
+      "B08X1JPVG9",
+      "B0HNXNSXYJ",
+      "B0FFZ59KFX",
+      "B0F9SSJHDN",
+      "B005013GYQ",
+      "B08CXTZF5H",
+      "B0HK3Q99ZQ",
+      "B0BCK4375T",
+      "B0GXWVQ7XF",
+      "B08WJPRTFD",
+      "B09DQ278PX",
+      "B091NNLLNR",
+      "B0DZHZ7C9B",
+      "B091J4YS42",
+      "B0F27XJ3BQ",
+      "B0GH159G22",
+      "B0DTJFRRSF",
+      "B0BVC2SNHV",
+      "B0G15351J1",
+      "B0DWYWMHS4",
+      "B0GCGMPSTT",
+      "B0752MB9PW",
+      "B0FSXL98R8",
+      "B0FN4PSL1V",
+      "B0GWFC5KY6",
+      "B0DTQ7HP1N",
+      "B0GH1C3WMX",
+      "B0FGXN6SBX",
+      "B091J5F22M",
+      "B0DQDX2QXD",
+      "B0DP3JZW88",
+      "B0D232HNLH",
+      "B077QWM1K7",
+      "B0HHL2F6TH",
+      "B0FXJCCLJV",
+      "B08WJL8KBP",
+      "B0DJBXHBZL",
+      "B07D5SXCTL",
+      "B0FBK93PDY",
+      "B0HJMVJ67H",
+      "B0FR5JVYD7",
+      "B0H42WTQ3C",
+      "B0HKGX35B6",
+      "B0HGRF3TNW",
+      "B0G159JDCH",
+      "B0G1XQW47D",
+      "B0DQDXFVFV",
+      "B0923CFCVV",
+      "B071743LPD",
+      "B0G13Y13TC",
+      "B09D3YPBR8",
+      "B0771Q5F26",
+      "B0H7CKRWQH",
+      "B0DQLWDYDB",
+      "B0HFSSZZ1D",
+      "B0H7X5JHFF",
+      "B0GQV3CCJ2",
+      "B0CVXQ35X3",
+      "B0HHBYN7FG",
+      "B0DBHWR4VC",
+      "B08L1YMRG2",
+      "B077PMH82M",
+      "B096MV62GK",
+      "B0FLDZN15W",
+      "B07NDMMHN9",
+      "B0BL7PY3VV",
+      "B097DK41H3",
+      "B09NQF4KG3",
+      "B08X5Z7QWM",
+      "B0HQPHXJN2",
+      "B091J62D1M",
+      "B09TFNSPHK",
+      "B0GH1BS7FY",
+      "B0HNXQ9245",
+      "B07MFD97JP",
+      "B091J5BVWC",
+      "B01N9ZFCIY",
+      "B0H2J1W8GG",
+      "B09FT2QFN8",
+      "B0C28SCBW2",
+      "B0CVW6ZSLH",
+      "B0FR6FMTTC",
+      "B091D2YL4W",
+      "B08WJMSLJ2"
+    ]
+  },
+  "B08XJSCJYW": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1989
+    }
+  ],
+  "B08Y7P1PNL": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1680
+    }
+  ],
+  "B0H29YPWGB": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 736.5
+    }
+  ],
+  "B0DDCDYW45": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1798
+    },
+    {
+      "t": "2026-11-24T22:12:32.852Z",
+      "p": 1797
+    }
+  ],
+  "B0FH4WS3S9": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1083
+    }
+  ],
+  "B091GNKV3L": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 2230.03
+    }
+  ],
+  "B0C6MBKTSZ": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1560
+    }
+  ],
+  "B0GJQ3PW32": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 674
+    }
+  ],
+  "B0H83WFJTZ": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 875
+    },
+    {
+      "t": "2026-11-23T23:42:53.888Z",
+      "p": 870
+    }
+  ],
+  "B07MVSTKCV": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1315.6
+    },
+    {
+      "t": "2026-11-23T23:42:53.888Z",
+      "p": 1545
+    }
+  ],
+  "B0DXQ9SZBQ": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 2327
+    },
+    {
+      "t": "2026-11-23T10:54:48.235Z",
+      "p": 2395
+    }
+  ],
+  "B07NDZMRCP": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 2378
+    }
+  ],
+  "B093ZW7MXQ": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1795
+    }
+  ],
+  "B0F9SSJHDN": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 358
+    }
+  ],
+  "B0GLQRX22Q": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 412.5
+    }
+  ],
+  "B0HK3Q99ZQ": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1699
+    }
+  ],
+  "B08J7QDWYN": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1418
+    }
+  ],
+  "B0FSF1WQC8": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 3451.9
+    }
+  ],
+  "B0FGXRS4ZB": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 999
+    }
+  ],
+  "B0GSRYXRHF": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 199
+    }
+  ],
+  "B0GSRM9LQN": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 399
+    }
+  ],
+  "B0FGXP5QHC": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 999
+    }
+  ],
+  "B0FGXPS36J": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 999
+    }
+  ],
+  "B0HMRXX465": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 499
+    }
+  ],
+  "B0HK4C5DFB": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1026
+    }
+  ],
+  "B0FR6M3Z53": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1549
+    }
+  ],
+  "B0HFDJD413": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1045
+    }
+  ],
+  "B0FGXNDBXG": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1599
+    }
+  ],
+  "B0H4W4KB1D": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 399
+    }
+  ],
+  "B093G3L8PT": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 209
+    }
+  ],
+  "B0DJ7KVL4F": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 399
+    }
+  ],
+  "B0H8JNNBKR": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 399
+    }
+  ],
+  "B0DPGG3H31": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 220
+    }
+  ],
+  "B0CVW6594X": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 340
+    }
+  ],
+  "B0H2S821FT": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 379
+    }
+  ],
+  "B0DS153CKT": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 2499
+    },
+    {
+      "t": "2026-11-24T22:12:32.853Z",
+      "p": 2514
+    }
+  ],
+  "B0DNWSFLDX": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 449
+    }
+  ],
+  "B0H58MJQ5X": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 298.82
+    }
+  ],
+  "B0DTQ5YWHJ": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 275
+    }
+  ],
+  "B0DZHZ7C9B": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 283.57
+    }
+  ],
+  "B0BRBB2N91": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 208.65
+    },
+    {
+      "t": "2026-11-24T22:12:32.853Z",
+      "p": 202.09
+    }
+  ],
+  "B0DSJRJWRH": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 299
+    }
+  ],
+  "B0GXWVQ7XF": [
+    {
+      "t": "2026-11-23T10:09:09.481Z",
+      "p": 1100
+    }
+  ],
+  "B0DYLB3LND": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1799
+    }
+  ],
+  "B08J7NGZVL": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1437
+    }
+  ],
+  "B093TJV7ZY": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1895
+    }
+  ],
+  "B0BHST5KJP": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 2210
+    }
+  ],
+  "B0H29XVPT7": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1915.83
+    }
+  ],
+  "B0GLQPW37V": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1220
+    },
+    {
+      "t": "2026-11-23T13:43:30.491Z",
+      "p": 1390
+    }
+  ],
+  "B0HNXNSXYJ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 999
+    }
+  ],
+  "B0CKNDK6JQ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1299
+    }
+  ],
+  "B0BCK4375T": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 2316.47
+    },
+    {
+      "t": "2026-11-24T22:12:32.853Z",
+      "p": 2999
+    }
+  ],
+  "B005013GXC": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 2350
+    }
+  ],
+  "B0FLKJSFY4": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 12999.99
+    }
+  ],
+  "B091JPZL6N": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1569
+    },
+    {
+      "t": "2026-11-24T22:12:32.853Z",
+      "p": 1595
+    }
+  ],
+  "B0D33C9LTL": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 2399
+    }
+  ],
+  "B098VXS2KY": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 820
+    }
+  ],
+  "B0H5C6HZ9L": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1350
+    }
+  ],
+  "B0CY1DJDL9": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 6090
+    }
+  ],
+  "B09DQ278PX": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 799
+    },
+    {
+      "t": "2026-11-23T23:42:53.889Z",
+      "p": 788
+    },
+    {
+      "t": "2026-11-24T22:12:32.853Z",
+      "p": 775
+    }
+  ],
+  "B0728GST91": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 4559
+    }
+  ],
+  "B0FR5YG2LK": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1199
+    }
+  ],
+  "B0HF81YHZ1": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 782.02
+    }
+  ],
+  "B0D1R1HKHZ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1143.16
+    }
+  ],
+  "B07Z3KHFR8": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1292
+    }
+  ],
+  "B0CVW6ZSLH": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 656.02
+    }
+  ],
+  "B0FR6FMTTC": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1549
+    }
+  ],
+  "B0H1H9B8VT": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 355
+    }
+  ],
+  "B091D1PD6D": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 245.66
+    }
+  ],
+  "B0DY884PKX": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 499
+    }
+  ],
+  "B0FCSL7Z6P": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 299
+    }
+  ],
+  "B0H1H8M4CN": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 440.58
+    }
+  ],
+  "B0GH1C3WMX": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1209.66
+    }
+  ],
+  "B0BVC2SNHV": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 239
+    }
+  ],
+  "B0CVW7LHWF": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 656.02
+    }
+  ],
+  "B0G9XP22LL": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 560.26
+    }
+  ],
+  "B0GYLJ4P7W": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 699.73
+    }
+  ],
+  "B0FXJCCLJV": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 599
+    }
+  ],
+  "B0HKGFFN9J": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 253
+    }
+  ],
+  "B0CBZRCR1S": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 249
+    }
+  ],
+  "B091D2YL4W": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 599
+    }
+  ],
+  "B0F7HX2DGR": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 319
+    }
+  ],
+  "B0FKZZRFKJ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 229
+    }
+  ],
+  "B0CPKG6GKM": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 299
+    }
+  ],
+  "B0HKRWCMD1": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1259.1
+    }
+  ],
+  "B0GQ68XXRJ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1105.16
+    }
+  ],
+  "B0G6FNQKC6": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1103.5
+    },
+    {
+      "t": "2026-11-24T22:12:32.854Z",
+      "p": 1073.5
+    }
+  ],
+  "B0DZHYPY41": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 291.84
+    }
+  ],
+  "B0FM429KKD": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 2925.12
+    }
+  ],
+  "B0GQM7KS4S": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 940
+    }
+  ],
+  "B0FN4PSL1V": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 326.19
+    }
+  ],
+  "B0F2262XDY": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 360
+    }
+  ],
+  "B08WJMSLJ2": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 249
+    }
+  ],
+  "B0CL7F9KDF": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 249
+    }
+  ],
+  "B097DK81GJ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 248
+    }
+  ],
+  "B0HQXTYK8R": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 555
+    }
+  ],
+  "B0H2SC15R8": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 379
+    }
+  ],
+  "B0DVRMTZNC": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 299
+    }
+  ],
+  "B0FR5JVYD7": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1499
+    }
+  ],
+  "B0DTJFRRSF": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 410
+    }
+  ],
+  "B0FSXL98R8": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 454.17
+    }
+  ],
+  "B0G15351J1": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 221.92
+    }
+  ],
+  "B0DTQ7HP1N": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 310
+    }
+  ],
+  "B0923CFCVV": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 657.67
+    }
+  ],
+  "B0FF3BXD5C": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 749
+    }
+  ],
+  "B08LNCSQJT": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 233.29
+    },
+    {
+      "t": "2026-11-23T11:47:45.347Z",
+      "p": 319
+    },
+    {
+      "t": "2026-11-23T16:51:10.375Z",
+      "p": 233.29
+    },
+    {
+      "t": "2026-11-24T22:12:32.855Z",
+      "p": 268.38
+    }
+  ],
+  "B0DB7SQMN4": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 238.73
+    }
+  ],
+  "B0DWYJHSLV": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 356.25
+    }
+  ],
+  "B08P4J53T6": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 342.65
+    }
+  ],
+  "B0G821NMHK": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 692.48
+    }
+  ],
+  "B0HCHX2VS8": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1083.83
+    }
+  ],
+  "B0C9QRCGZN": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 238.73
+    }
+  ],
+  "B0H8NNJKWV": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 390
+    }
+  ],
+  "B0G1XQW47D": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 470
+    }
+  ],
+  "B0GQNXGYSX": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 1455.39
+    }
+  ],
+  "B091DBPQBC": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 252
+    }
+  ],
+  "B0991WL7FQ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 253
+    }
+  ],
+  "B098TZKLCJ": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 4599
+    }
+  ],
+  "B091J4YS42": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 299
+    }
+  ],
+  "B0FP9YT579": [
+    {
+      "t": "2026-11-23T10:55:42.091Z",
+      "p": 307.17
+    }
+  ],
+  "B0FGXRG6C9": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1599
+    }
+  ],
+  "B0FGXPRJGS": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2425
+    }
+  ],
+  "B01L93HNCY": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 699
+    }
+  ],
+  "B0C19HMH71": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 799
+    },
+    {
+      "t": "2026-11-23T23:42:53.891Z",
+      "p": 770
+    },
+    {
+      "t": "2026-11-24T22:12:32.856Z",
+      "p": 799
+    }
+  ],
+  "B08WJJF8K5": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1539
+    }
+  ],
+  "B09RVBR937": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2200
+    }
+  ],
+  "B097LK9H6W": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 220
+    }
+  ],
+  "B091CVX9HK": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 460
+    },
+    {
+      "t": "2026-11-24T22:12:32.856Z",
+      "p": 515
+    }
+  ],
+  "B0DTGMTQC4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 410
+    }
+  ],
+  "B07B6TZNWT": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1549.95
+    }
+  ],
+  "B0CTMSJQ1J": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 662.5
+    },
+    {
+      "t": "2026-11-23T14:20:46.680Z",
+      "p": 665
+    },
+    {
+      "t": "2026-11-23T23:42:53.891Z",
+      "p": 649
+    }
+  ],
+  "B0CKZDJMVM": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 799.9
+    },
+    {
+      "t": "2026-11-23T23:42:53.891Z",
+      "p": 788.9
+    }
+  ],
+  "B08WJLC3VN": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1879
+    }
+  ],
+  "B0GLQDTCS4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 656
+    }
+  ],
+  "B0HCJ3S2TX": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1021.86
+    }
+  ],
+  "B0FTXLYHR9": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 844.45
+    },
+    {
+      "t": "2026-11-24T22:12:32.856Z",
+      "p": 849.06
+    }
+  ],
+  "B08538D6NH": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1876
+    }
+  ],
+  "B0DV5SXMXL": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 816
+    },
+    {
+      "t": "2026-11-24T22:12:32.856Z",
+      "p": 725
+    }
+  ],
+  "B08538FHMY": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2400
+    }
+  ],
+  "B0GSCD679V": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1460
+    }
+  ],
+  "B0BNP12RYR": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 252.67
+    }
+  ],
+  "B0GL95GNZK": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 653.03
+    }
+  ],
+  "B0GWFGB49D": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 259
+    }
+  ],
+  "B0CF2H7T9W": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 151
+    }
+  ],
+  "B0CY9568YJ": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 290
+    }
+  ],
+  "B0G14S8MFS": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 439.53
+    }
+  ],
+  "B0FRY54SSC": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 212.18
+    }
+  ],
+  "B0GNHTDJRB": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1919.7
+    }
+  ],
+  "B0FF37TVBW": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 774
+    }
+  ],
+  "B0HDZMQH81": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 549
+    }
+  ],
+  "B0CYZXHCYD": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 454.65
+    }
+  ],
+  "B0H14Y1LBJ": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 488
+    }
+  ],
+  "B0HJWN7R8B": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2025
+    }
+  ],
+  "B0F3V8BDBB": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 4999
+    }
+  ],
+  "B0GJPZCDZ1": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2118
+    }
+  ],
+  "B0FMP5D9CQ": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 991.8
+    }
+  ],
+  "B0D1QNHQMD": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1143.16
+    }
+  ],
+  "B0HKSG3NK8": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1550
+    }
+  ],
+  "B0FQ611LY4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 539.1
+    }
+  ],
+  "B0HBKTB6F9": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 699
+    }
+  ],
+  "B0957MC1WY": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1499
+    }
+  ],
+  "B0FF91MCHB": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 529
+    }
+  ],
+  "B0H2B36HWV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2100
+    }
+  ],
+  "B0H2TYLXPD": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 272.3
+    }
+  ],
+  "B091D2DK3T": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 420
+    }
+  ],
+  "B075WW8GGL": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 9000
+    }
+  ],
+  "B0H8NWS82D": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 898.55
+    }
+  ],
+  "B0BL38MSRM": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 739
+    }
+  ],
+  "B0B6WQCBV8": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2015.52
+    }
+  ],
+  "B0F5DWHZWV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 249.68
+    }
+  ],
+  "B0FQC96HWK": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 353.96
+    }
+  ],
+  "B0CZG586D4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 401
+    }
+  ],
+  "B091NY2R88": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1397.82
+    }
+  ],
+  "B09S3WCMSH": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 265
+    },
+    {
+      "t": "2026-11-23T13:07:34.991Z",
+      "p": 324.9
+    }
+  ],
+  "B0F67DNY9J": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 399
+    }
+  ],
+  "B0FXXSH353": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1453.61
+    }
+  ],
+  "B0G14TJRSQ": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 370.2
+    }
+  ],
+  "B0H6VJ618H": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 378
+    }
+  ],
+  "B0D2315M76": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 591.5
+    }
+  ],
+  "B0H96KKT1B": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 565.47
+    }
+  ],
+  "B09NQVQW5B": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1516.77
+    }
+  ],
+  "B0DZ4W4D7S": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 649
+    }
+  ],
+  "B09692WD35": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 316.51
+    }
+  ],
+  "B0GQ82YFHV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 990
+    }
+  ],
+  "B0H87K9PJR": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 530
+    }
+  ],
+  "B097NPS2HT": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 570
+    }
+  ],
+  "B0CWDR7625": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 216.63
+    }
+  ],
+  "B0BWFQSVYX": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 419
+    }
+  ],
+  "B0H2J5V3FT": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 560
+    }
+  ],
+  "B0GHSDL29S": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 400
+    }
+  ],
+  "B09B8S5FP2": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 264
+    }
+  ],
+  "B0F4PTBMTZ": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 449
+    }
+  ],
+  "B0F7HXPR5S": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 299.99
+    }
+  ],
+  "B0D5WPYJL3": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 303.39
+    }
+  ],
+  "B00MWU18RA": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 4289
+    }
+  ],
+  "B0GTZ7PS5Y": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 408.84
+    }
+  ],
+  "B078JBWQ4N": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 4733
+    }
+  ],
+  "B0GVP9K9GB": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 393.79
+    }
+  ],
+  "B0FMP6CG7P": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1666
+    }
+  ],
+  "B0FMP45DQL": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 771.45
+    }
+  ],
+  "B07937HBB7": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 11299
+    }
+  ],
+  "B0F48WJYFM": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 539.1
+    }
+  ],
+  "B0FJY24613": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 401.77
+    }
+  ],
+  "B0FD87S29V": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 960.12
+    }
+  ],
+  "B0FWZ39S7T": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 306.97
+    }
+  ],
+  "B098TXZDW4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 450
+    }
+  ],
+  "B0DQLXVXJG": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 509.15
+    }
+  ],
+  "B0HRB8ZRBH": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 8700
+    }
+  ],
+  "B0DXQB8478": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2400
+    }
+  ],
+  "B098VVTVTT": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 400
+    }
+  ],
+  "B09D3Z8FB1": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 12375
+    }
+  ],
+  "B0H5QXMHH3": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 594
+    }
+  ],
+  "B0BN5QTLRB": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 234
+    }
+  ],
+  "B0DH575NS5": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2660
+    }
+  ],
+  "B0FH5LT792": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 238.73
+    }
+  ],
+  "B0DSV4XQNP": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 770.04
+    }
+  ],
+  "B0HR9PQ9WP": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 999
+    }
+  ],
+  "B0HG5FJ9HM": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2025
+    }
+  ],
+  "B0HG5LS3Q7": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2025
+    }
+  ],
+  "B0DSWNC4K9": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 650
+    }
+  ],
+  "B09MBZHFRW": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1421.6
+    }
+  ],
+  "B0H2B2VTW4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2033
+    }
+  ],
+  "B0FQ3DVNJG": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1206.15
+    }
+  ],
+  "B0BCK48DXY": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 4499
+    }
+  ],
+  "B0HBQ27DL6": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 382.5
+    }
+  ],
+  "B0DWKT5HQR": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 839.94
+    }
+  ],
+  "B0HF8MGPR6": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 450.8
+    }
+  ],
+  "B0GJT42DPT": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1162.5
+    }
+  ],
+  "B0GPNJYH6S": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1565.51
+    }
+  ],
+  "B0H8LHB3K7": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 378
+    }
+  ],
+  "B091GPL8W4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 499
+    }
+  ],
+  "B0CHZ4Z8P7": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1568
+    }
+  ],
+  "B091BV2QLV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 270
+    }
+  ],
+  "B0923178BV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 366
+    }
+  ],
+  "B0GWDX8K96": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1639.86
+    }
+  ],
+  "B0FCMYDZRK": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 620
+    }
+  ],
+  "B0GGZPMW9C": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1129.61
+    }
+  ],
+  "B097LLXB4R": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 239.72
+    }
+  ],
+  "B0GXPTRRSX": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 809.1
+    }
+  ],
+  "B0HG9QG46F": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 999
+    }
+  ],
+  "B0FPKC27XS": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1466.58
+    }
+  ],
+  "B09J198VL9": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 279.1
+    }
+  ],
+  "B0CD8342NQ": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 799
+    }
+  ],
+  "B08WJL6D95": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2449
+    }
+  ],
+  "B0GXSBYLNS": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1466.25
+    }
+  ],
+  "B0FBY1DTZV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2686.9
+    }
+  ],
+  "B0HBKK7YYC": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 599
+    }
+  ],
+  "B0C9DN3BVC": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 840
+    }
+  ],
+  "B0HCJY7MXF": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 925
+    }
+  ],
+  "B0GXSQP25F": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 3940.2
+    }
+  ],
+  "B0GYGQ8VMB": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 849
+    }
+  ],
+  "B0HFNSBGM5": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1500
+    }
+  ],
+  "B0DMTH6KD1": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 649
+    }
+  ],
+  "B0GWXND3GF": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 5950
+    }
+  ],
+  "B0FMP62DCX": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 495
+    }
+  ],
+  "B0GL943Z8C": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1237.5
+    }
+  ],
+  "B0GP1GYV8X": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1156
+    }
+  ],
+  "B0DVTF4YN6": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1233
+    }
+  ],
+  "B0CWLC5HNF": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1801.04
+    }
+  ],
+  "B0H7QCFBLV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 550
+    }
+  ],
+  "B08X1JPVG9": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 350
+    },
+    {
+      "t": "2026-11-23T13:07:34.996Z",
+      "p": 260.14
+    }
+  ],
+  "B0FFZ59KFX": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1599
+    }
+  ],
+  "B08WJPRTFD": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1899
+    },
+    {
+      "t": "2026-11-23T23:42:53.894Z",
+      "p": 1905
+    }
+  ],
+  "B091NNLLNR": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 406
+    }
+  ],
+  "B0F27XJ3BQ": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1266
+    }
+  ],
+  "B0GH159G22": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1188.05
+    }
+  ],
+  "B0DWYWMHS4": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 3100
+    }
+  ],
+  "B0GCGMPSTT": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1104.99
+    },
+    {
+      "t": "2026-11-23T16:03:02.698Z",
+      "p": 1550
+    }
+  ],
+  "B0752MB9PW": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 8000
+    }
+  ],
+  "B0GWFC5KY6": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1529.1
+    }
+  ],
+  "B0FGXN6SBX": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2999
+    },
+    {
+      "t": "2026-11-23T23:42:53.894Z",
+      "p": 2965.94
+    }
+  ],
+  "B091J5F22M": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1199
+    }
+  ],
+  "B0DQDX2QXD": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1052
+    },
+    {
+      "t": "2026-11-23T13:07:34.996Z",
+      "p": 1271
+    }
+  ],
+  "B0DP3JZW88": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 3307.7
+    }
+  ],
+  "B0D232HNLH": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 425.7
+    }
+  ],
+  "B077QWM1K7": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 8075
+    }
+  ],
+  "B0HHL2F6TH": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 741
+    }
+  ],
+  "B08WJL8KBP": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1344.69
+    }
+  ],
+  "B0DJBXHBZL": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2770
+    }
+  ],
+  "B07D5SXCTL": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2999
+    }
+  ],
+  "B0H42WTQ3C": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 271.29
+    }
+  ],
+  "B0HGRF3TNW": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 650
+    }
+  ],
+  "B0G159JDCH": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 385.9
+    }
+  ],
+  "B0DQDXFVFV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 699
+    }
+  ],
+  "B071743LPD": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 4637
+    }
+  ],
+  "B0G13Y13TC": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 281.64
+    }
+  ],
+  "B09D3YPBR8": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 10000
+    }
+  ],
+  "B0771Q5F26": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 11500
+    }
+  ],
+  "B0H7CKRWQH": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1501.67
+    }
+  ],
+  "B0DQLWDYDB": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 253
+    }
+  ],
+  "B0HFSSZZ1D": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 850
+    }
+  ],
+  "B0H7X5JHFF": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1141.57
+    }
+  ],
+  "B0GQV3CCJ2": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 730
+    }
+  ],
+  "B0CVXQ35X3": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2999
+    }
+  ],
+  "B0DBHWR4VC": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 4280
+    }
+  ],
+  "B08L1YMRG2": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 3707
+    }
+  ],
+  "B077PMH82M": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 10518.72
+    }
+  ],
+  "B096MV62GK": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1165.9
+    }
+  ],
+  "B0FLDZN15W": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 364.37
+    }
+  ],
+  "B07NDMMHN9": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 14284
+    }
+  ],
+  "B0BL7PY3VV": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 713.16
+    }
+  ],
+  "B097DK41H3": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 349
+    }
+  ],
+  "B09NQF4KG3": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2990
+    }
+  ],
+  "B08X5Z7QWM": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 427.86
+    }
+  ],
+  "B0HQPHXJN2": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 899
+    }
+  ],
+  "B09TFNSPHK": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1529.1
+    }
+  ],
+  "B0GH1BS7FY": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 1155.32
+    }
+  ],
+  "B0HNXQ9245": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 999
+    }
+  ],
+  "B07MFD97JP": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 2225
+    }
+  ],
+  "B091J5BVWC": [
+    {
+      "t": "2026-11-23T11:47:45.355Z",
+      "p": 739
+    }
+  ],
+  "B01N9ZFCIY": [
+    {
+      "t": "2026-11-23T11:47:45.356Z",
+      "p": 12100
+    }
+  ],
+  "B0H2J1W8GG": [
+    {
+      "t": "2026-11-23T11:47:45.356Z",
+      "p": 871.51
+    }
+  ],
+  "B09FT2QFN8": [
+    {
+      "t": "2026-11-23T11:47:45.356Z",
+      "p": 659.81
+    }
+  ],
+  "B0C28SCBW2": [
+    {
+      "t": "2026-11-23T11:47:45.356Z",
+      "p": 999
+    }
+  ]
 }
