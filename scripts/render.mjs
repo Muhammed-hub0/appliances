@@ -255,15 +255,15 @@ const HUB_CSS = `
 .big-emoji{font-size:44px;line-height:1;display:flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:16px;background:var(--surface-alt)}
 .big-img{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;object-position:center;padding:0;opacity:.5;background:transparent}
 .big-group > b,.big-group > .meta,.big-group > .go,.big-emoji,.group-hero-text{position:relative;z-index:1}
-.big-group b{font-size:20px;font-weight:800;color:var(--text)}
-.big-group .meta{font-size:13px;color:var(--muted)}
-.big-group .go{font-size:13px;color:var(--win);font-weight:800}
+.big-group b{font-size:17px;font-weight:800;color:var(--text)}
+.big-group .meta{font-size:11px;color:var(--muted)}
+.big-group .go{font-size:11px;color:var(--win);font-weight:800}
 .group-hero-wrap{position:relative;display:flex;align-items:flex-end;min-height:220px;padding:18px;overflow:hidden;border:1px solid var(--line);border-radius:16px;background:var(--surface);margin:0 0 16px}
 .group-hero{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;object-position:center;padding:0;opacity:.5;background:transparent}
-.group-hero-text h1{margin:0}
-.group-hero-text .lead{margin:4px 0 0}
+.group-hero-text h1{font-size:19px;margin:0}
+.group-hero-text .lead{font-size:12px;margin:4px 0 0}
 .breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
-@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:190px;padding:14px}.big-emoji{width:54px;height:54px;font-size:32px}.big-img{opacity:.45}.big-group b{font-size:17px}.group-hero-wrap{min-height:190px;padding:14px}.group-hero{opacity:.45}}
+@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:190px;padding:14px}.big-emoji{width:54px;height:54px;font-size:32px}.big-img{opacity:.45}.big-group b{font-size:15px}.big-group .meta,.big-group .go{font-size:10px}.group-hero-wrap{min-height:190px;padding:14px}.group-hero{opacity:.45}.group-hero-text h1{font-size:17px}.group-hero-text .lead{font-size:11px}}
 .searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
 .searchbox input{flex:1;min-width:0}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
