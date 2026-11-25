@@ -45,14 +45,22 @@ h1{font-size:23px;margin:18px 0 8px}
 }
 
 .big-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}
-.big-group{display:flex;flex-direction:column;align-items:flex-start;gap:10px;min-height:230px;padding:22px;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
+.big-group{position:relative;display:flex;flex-direction:column;justify-content:flex-end;gap:4px;min-height:230px;padding:16px 18px;overflow:hidden;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
 .big-group:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
+.big-group::before,.group-hero-wrap::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(255,255,255,0) 0%,rgba(255,255,255,.55) 42%,#fff 78%);pointer-events:none}
+:root[data-theme="dark"] .big-group::before,:root[data-theme="dark"] .group-hero-wrap::before{background:linear-gradient(180deg,rgba(11,26,43,0) 0%,rgba(17,39,63,.72) 42%,#11273f 78%)}
 .big-emoji{font-size:44px;line-height:1;display:flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:16px;background:var(--surface-alt)}
-.big-group b{font-size:20px;font-weight:800;color:var(--text)}
-.big-group .meta{font-size:13px;color:var(--muted)}
-.big-group .go{font-size:13px;color:var(--win);font-weight:800;margin-top:auto}
+.big-img{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;object-position:center;padding:0;opacity:.5;background:transparent}
+.big-group > b,.big-group > .meta,.big-group > .go,.big-emoji,.group-hero-text{position:relative;z-index:1}
+.big-group b{font-size:17px;font-weight:800;color:var(--text)}
+.big-group .meta{font-size:11px;color:var(--muted)}
+.big-group .go{font-size:11px;color:var(--win);font-weight:800}
+.group-hero-wrap{position:relative;display:flex;align-items:flex-end;min-height:220px;padding:18px;overflow:hidden;border:1px solid var(--line);border-radius:16px;background:var(--surface);margin:0 0 16px}
+.group-hero{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;object-position:center;padding:0;opacity:.5;background:transparent}
+.group-hero-text h1{font-size:19px;margin:0}
+.group-hero-text .lead{font-size:12px;margin:4px 0 0}
 .breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
-@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:150px;padding:16px}.big-emoji{width:54px;height:54px;font-size:32px}.big-group b{font-size:17px}}
+@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:190px;padding:14px}.big-emoji{width:54px;height:54px;font-size:32px}.big-img{opacity:.45}.big-group b{font-size:15px}.big-group .meta,.big-group .go{font-size:10px}.group-hero-wrap{min-height:190px;padding:14px}.group-hero{opacity:.45}.group-hero-text h1{font-size:17px}.group-hero-text .lead{font-size:11px}}
 .searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
 .searchbox input{flex:1;min-width:0}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
@@ -83,18 +91,18 @@ h1{font-size:23px;margin:18px 0 8px}
 <main class="wrap">
 <div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← <a href="../../groups/small/index.html">أجهزة منزلية صغيرة</a> ← ماكينات القهوة</div>
 <h1>☕ ماكينات القهوة</h1>
-<p class="lead">161 منتج متوفر — اختر النوع عشان تشوف مقارنة الأسعار الكاملة.</p>
+<p class="lead">158 منتج متوفر — اختر النوع عشان تشوف مقارنة الأسعار الكاملة.</p>
 <div class="grid">
 <a class="cat" href="all.html">
     <span class="emoji">☕</span>
     <b>كل ماكينات القهوة</b>
-    <span class="meta">161 منتج متوفر</span>
+    <span class="meta">158 منتج متوفر</span>
     <span class="go">اعرض المنتجات ←</span>
   </a>
 <a class="cat" href="t/espresso.html">
     <span class="emoji">☕</span>
     <b>ماكينة اسبريسو</b>
-    <span class="meta">81 منتج متوفر</span>
+    <span class="meta">79 منتج متوفر</span>
     <span class="go">اعرض المنتجات ←</span>
   </a>
 <a class="cat" href="t/capsule.html">
@@ -112,19 +120,19 @@ h1{font-size:23px;margin:18px 0 8px}
 <a class="cat" href="t/press.html">
     <span class="emoji">☕</span>
     <b>فرنش برس / كباسة</b>
-    <span class="meta">2 منتج متوفر</span>
+    <span class="meta">3 منتج متوفر</span>
     <span class="go">اعرض المنتجات ←</span>
   </a>
 <a class="cat" href="t/drip.html">
     <span class="emoji">☕</span>
     <b>ماكينة فلتر / تقطير</b>
-    <span class="meta">35 منتج متوفر</span>
+    <span class="meta">33 منتج متوفر</span>
     <span class="go">اعرض المنتجات ←</span>
   </a>
 </div>
 <div class="ft">
   <div class="notice">تنويه: يجب مراجعة السعر والمواصفات الفنية من صفحة المنتج على أمازون قبل الشراء.</div>
-  <div>آخر فحص تلقائي: ٢٥ نوفمبر ٢٠٢٦ في ٩:٣٠ ص · 161 منتج معروض</div>
+  <div>آخر فحص تلقائي: ٢٥ نوفمبر ٢٠٢٦ في ١١:٢٢ م · 158 منتج معروض</div>
   <div>كأفلييت أمازون: قد نحصل على عمولة من عمليات الشراء اللي بتحصل عن طريق روابط الصفحة، من غير أي تكلفة إضافية عليك. الأسعار بتتحدث تلقائيًا وقد تختلف لحظة الشراء.</div>
 </div>
 </main>

@@ -18,9 +18,9 @@
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/all.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/mini.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/other.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/single-door.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/top-mount.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/other.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/bottom-mount.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/french-door.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/fridges/t/side-by-side.html</loc></url>
@@ -62,9 +62,9 @@
   <url><loc>https://muhammed-hub0.github.io/appliances/c/coffee-machines/t/capsule.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/blenders/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/blenders/all.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/blenders/t/personal.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/blenders/t/jug.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/blenders/t/hand.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/blenders/t/personal.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/blenders/t/professional.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/food-processors/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/food-processors/all.html</loc></url>
@@ -72,11 +72,11 @@
   <url><loc>https://muhammed-hub0.github.io/appliances/c/food-processors/t/full.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/all.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/t/handheld.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/t/cordless.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/t/wet-dry.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/t/canister.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/t/robot.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/t/canister.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/vacuum-cleaners/t/handheld.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/irons/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/irons/all.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/irons/t/garment.html</loc></url>
@@ -85,8 +85,8 @@
   <url><loc>https://muhammed-hub0.github.io/appliances/c/irons/t/other.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/hair-dryers/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/hair-dryers/all.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/hair-dryers/t/high-power.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/hair-dryers/t/professional.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/hair-dryers/t/high-power.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/hair-dryers/t/standard.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/hair-dryers/t/travel.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/kettles/index.html</loc></url>
@@ -107,17 +107,16 @@
   <url><loc>https://muhammed-hub0.github.io/appliances/c/mixers/t/stand.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/all.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/gas.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/camping.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/gas.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/electric.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/other.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/built-in.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/induction.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/other.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/cookers/t/freestanding.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/water-heaters/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/water-heaters/all.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/water-heaters/t/electric.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/water-heaters/t/immersion.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/water-heaters/t/instant.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/water-heaters/t/gas.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/air-conditioners/index.html</loc></url>
@@ -142,8 +141,8 @@
   <url><loc>https://muhammed-hub0.github.io/appliances/c/rice-cookers/t/large.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/pressure-cookers/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/pressure-cookers/all.html</loc></url>
-  <url><loc>https://muhammed-hub0.github.io/appliances/c/pressure-cookers/t/stovetop.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/pressure-cookers/t/electric.html</loc></url>
+  <url><loc>https://muhammed-hub0.github.io/appliances/c/pressure-cookers/t/stovetop.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/juicers/index.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/juicers/all.html</loc></url>
   <url><loc>https://muhammed-hub0.github.io/appliances/c/juicers/t/manual.html</loc></url>

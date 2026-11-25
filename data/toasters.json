@@ -65,8 +65,10 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-25",
+    "lastSeenOut": "2026-11-25"
   },
   {
     "asin": "B0DJJXSRKS",
@@ -101,7 +103,7 @@
     "title": "Kenwood Metal Wrap Stylish Premium Design 2 Slice Toaster TCM01.AOBK",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2370,
+    "price": 2499,
     "img": "https://m.media-amazon.com/images/I/41vFdtvinsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07XBTK7T5?tag=fineartslab-21",
     "active": true,
@@ -285,7 +287,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-25"
@@ -532,7 +534,7 @@
     "title": "Kenwood Sandwich Maker 3 In 1 Sandwich, Grill/Griddle, Waffle, Dual Plate Press For Toasties, Easy To Use & Clean, Non-Stick Plates, Compact Size Bread Toaster Black/Metal Smm01.Aobk",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1949,
+    "price": 1948,
     "img": "https://m.media-amazon.com/images/I/41QiRv-QP4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0838HMHB1?tag=fineartslab-21",
     "active": true,
@@ -1083,7 +1085,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-25"
@@ -1258,7 +1260,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-25"
@@ -1486,7 +1488,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-25"

@@ -103,7 +103,7 @@
     "title": "Nutricook Smart Pot 2 Plus 1500 Watts - 9 Appliances in 1, Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté Pot, Yogurt Maker, Soup Maker, Cake Maker, Food Warmer, 9.5L, Brushed SS/Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 9499,
+    "price": 9498,
     "img": "https://m.media-amazon.com/images/I/41ms+QwU1UL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BXDFKVVX?tag=fineartslab-21",
     "active": true,
@@ -147,7 +147,7 @@
     "title": "Black & Decker Rc2850-B5 2.8 Liter Non-Stick Rice Cooker, White, Stainless Steel Material International warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2686.9,
+    "price": 2685,
     "img": "https://m.media-amazon.com/images/I/41uaXjeMakL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0119L51A2?tag=fineartslab-21",
     "active": true,
@@ -323,7 +323,7 @@
     "title": "Philips img Digital Rice Cooker 5000 Series 1.5L - HD4539/62, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7648,
+    "price": 7550,
     "img": "https://m.media-amazon.com/images/I/41wbxWoVXTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BPS4RNWW?tag=fineartslab-21",
     "active": true,
@@ -353,7 +353,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-25"
@@ -599,8 +599,10 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-25",
+    "lastSeenOut": "2026-11-25"
   },
   {
     "asin": "B0HRFVVK85",
@@ -748,7 +750,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "filtered",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-25"
@@ -770,7 +772,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "filtered",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-25"
@@ -812,7 +814,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "filtered",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-25"
@@ -922,7 +924,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-25"
@@ -968,7 +970,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-25"
@@ -1126,7 +1128,7 @@
     "title": "Silicone Rice Spoon, Non-Stick, Heat Resistant, Rice Paddle, Kitchen Utensil, Rice Shovel, Cooking Utensils, Rice Cooker, Spoon for Rice, Salads",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 385,
+    "price": 300,
     "img": "https://m.media-amazon.com/images/I/41myGM-BOuL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DY7GHQ36?tag=fineartslab-21",
     "active": false,
@@ -1237,7 +1239,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-25"
