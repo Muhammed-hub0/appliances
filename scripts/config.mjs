@@ -418,15 +418,15 @@ export const CATEGORY_BY_ID = new Map(CATEGORIES.map((c) => [c.id, c]));
 // تقسيم الصفحة الرئيسية لمجموعات كبيرة، بكل مجموعة شبكة كروت مستقلة
 export const GROUPS = [
   {
-    id: 'large', title: 'أجهزة منزلية كبيرة', emoji: '🏠',
+    id: 'large', title: 'أجهزة منزلية كبيرة', emoji: '🏠', image: 'assets/group-large.jpg',
     ids: ['fridges', 'freezers', 'washing-machines', 'dishwashers', 'ovens', 'cookers', 'air-conditioners', 'water-heaters'],
   },
   {
-    id: 'small', title: 'أجهزة منزلية صغيرة', emoji: '🍳',
+    id: 'small', title: 'أجهزة منزلية صغيرة', emoji: '🍳', image: 'assets/group-small.jpg',
     ids: ['airfryers', 'microwaves', 'coffee-machines', 'blenders', 'food-processors', 'vacuum-cleaners', 'irons', 'kettles', 'toasters', 'mixers', 'fans', 'rice-cookers', 'pressure-cookers', 'juicers'],
   },
   {
-    id: 'personal', title: 'العناية الشخصية', emoji: '🪒',
+    id: 'personal', title: 'العناية الشخصية', emoji: '🪒', image: 'assets/group-personal.jpg',
     ids: ['shavers', 'hair-dryers'],
   },
 ];

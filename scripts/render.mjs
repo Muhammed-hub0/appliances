@@ -251,11 +251,12 @@ const HUB_CSS = `
 .big-group{display:flex;flex-direction:column;align-items:flex-start;gap:10px;min-height:230px;padding:22px;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
 .big-group:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
 .big-emoji{font-size:44px;line-height:1;display:flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:16px;background:var(--surface-alt)}
+.big-img{display:block;width:100%;height:120px;object-fit:cover;border-radius:14px;background:var(--surface-alt)}
 .big-group b{font-size:20px;font-weight:800;color:var(--text)}
 .big-group .meta{font-size:13px;color:var(--muted)}
 .big-group .go{font-size:13px;color:var(--win);font-weight:800;margin-top:auto}
 .breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
-@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:150px;padding:16px}.big-emoji{width:54px;height:54px;font-size:32px}.big-group b{font-size:17px}}
+@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:150px;padding:16px}.big-emoji{width:54px;height:54px;font-size:32px}.big-img{height:110px}.big-group b{font-size:17px}}
 .searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
 .searchbox input{flex:1;min-width:0}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
@@ -278,6 +279,7 @@ const HUB_CSS = `
 const TABLE_CSS = `
 .breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
 .banner{display:block;width:100%;height:auto;border-radius:16px;border:1px solid var(--line);margin:0 0 14px}
+.group-hero{display:block;width:100%;max-height:220px;object-fit:cover;border-radius:16px;border:1px solid var(--line);margin:0 0 16px}
 .bar{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;padding:12px 14px;margin-bottom:14px}
 .fld{display:flex;flex-direction:column;gap:4px}
 .fld label{font-size:12px;color:var(--muted);font-weight:600}
@@ -366,8 +368,11 @@ export function renderHub(stats, meta) {
   const cards = GROUPS.map((group) => {
     const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
     const total = cats.reduce((sum, c) => sum + (stats[c.id] || 0), 0);
+    const visual = group.image
+      ? `<img class="big-img" src="${esc(group.image)}" loading="lazy" alt="${esc(group.title)}">`
+      : `<span class="big-emoji">${group.emoji}</span>`;
     return `<a class="big-group" href="groups/${group.id}/index.html">
-  <span class="big-emoji">${group.emoji}</span>
+  ${visual}
   <b>${esc(group.title)}</b>
   <span class="meta">${cats.length} أقسام · ${total} منتج</span>
   <span class="go">اعرض الأقسام ←</span>
@@ -423,6 +428,7 @@ ${siteHeader('../../')}
 <div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${esc(group.title)}</div>
 <h1>${group.emoji} ${esc(group.title)}</h1>
 <p class="lead">${cats.length} قسم · ${total} منتج متوفر — اختر نوع الجهاز عشان تشوف المقارنة الكاملة.</p>
+${group.image ? `<img class="group-hero" src="../../${esc(group.image)}" alt="${esc(group.title)}">` : ''}
 <div class="grid">
 ${cards}
 </div>
