@@ -1110,29 +1110,6 @@
     "reason": null
   },
   {
-    "asin": "B0FVTRXTDJ",
-    "brand": "غير محدد",
-    "name": "خلاط 400وات 5سرعة",
-    "specs": {
-      "watt": "400",
-      "speed": "5"
-    },
-    "model": "",
-    "title": "Electric Blender 400W - 1.5L Jug + 2 Spice Mills Stainless Steel Blades 5 Speeds Heat Resistant",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 850,
-    "img": "https://m.media-amazon.com/images/I/51xYUzpiQQL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0FVTRXTDJ?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0GGJ3GL12",
     "brand": "Tank",
     "name": "Tank خلاط 600وات",
@@ -1200,7 +1177,7 @@
   },
   {
     "asin": "B0DYF1T45K",
-    "brand": "غير محدد",
+    "brand": "City",
     "name": "خلاط 7سرعة",
     "specs": {
       "speed": "7"
@@ -1243,26 +1220,6 @@
     "reason": null
   },
   {
-    "asin": "B0716QXS2X",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "Blender with 2 Grinders - White",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 705,
-    "img": "https://m.media-amazon.com/images/I/21xaYDIGpJL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0716QXS2X?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0FPK6YZF7",
     "brand": "هوم جولد",
     "name": "خلاط",
@@ -1284,7 +1241,7 @@
   },
   {
     "asin": "B0F9ZN86WC",
-    "brand": "غير محدد",
+    "brand": "سيلفر كريست",
     "name": "خلاط",
     "specs": {},
     "model": "",
@@ -1294,26 +1251,6 @@
     "price": 999,
     "img": "https://m.media-amazon.com/images/I/51gG9MoSQTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F9ZN86WC?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0GPNX7TGV",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "Multifunctional Hotel Blender, 7500 Watts, with Grinder, Shatterproof, SC-1589, Red and Black",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 1399,
-    "img": "https://m.media-amazon.com/images/I/318LUupb+nL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0GPNX7TGV?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
@@ -2142,32 +2079,6 @@
     "reason": null
   },
   {
-    "asin": "B0HFFL9JPR",
-    "brand": "غير محدد",
-    "name": "خلاط 2000وات يدوي 2سرعة",
-    "specs": {
-      "watt": "2000",
-      "speed": "2",
-      "type": "يدوي"
-    },
-    "model": "",
-    "title": "Hand Blender 2000W, 7712 Pure Copper Motor, 4 Stainless Steel Blades, 2 Speed Settings, Immersion Blender for Soups, Sauces, Smoothies, Juices and Everyday Kitchen Mixing (Blue or Black)(هاند بلندر)",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 1150,
-    "img": "https://m.media-amazon.com/images/I/51Ed6mX1doL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0HFFL9JPR?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-24",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
-    "outOfStockSince": "2026-11-25",
-    "lastSeenOut": "2026-11-25"
-  },
-  {
     "asin": "B0GJQ1N57D",
     "brand": "PLUTO",
     "name": "PLUTO خلاط 600وات يدوي",
@@ -2401,28 +2312,6 @@
     "reason": null
   },
   {
-    "asin": "B0GS3LC92G",
-    "brand": "غير محدد",
-    "name": "خلاط 400وات",
-    "specs": {
-      "watt": "400"
-    },
-    "model": "",
-    "title": "خلاط كهربائي دورق 1.5 لتر مزود ب2 مطحنة التوابل موتورقوى سلك نحاس 400 وات شفرات ستانليلس حادة دورق مقاوم للهونة مزود ب5 سرعات",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 849,
-    "img": "https://m.media-amazon.com/images/I/31uKN1Q+XnL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0GS3LC92G?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0FLYDFHBV",
     "brand": "Zada",
     "name": "Zada خلاط 700وات",
@@ -2445,30 +2334,8 @@
     "reason": null
   },
   {
-    "asin": "B0HKZB2WM7",
-    "brand": "غير محدد",
-    "name": "خلاط 2سرعة",
-    "specs": {
-      "speed": "2"
-    },
-    "model": "",
-    "title": "Blender 2 in 1, 3,000W, 1.6L, 2 Speed Pulse Control, Stainless Steel 4 Leaf Blades, 200ml Grinder Cup, Ice Crushing Function, LED Colorful Lights, Safety Switch, Silver(خلاط كهربائي 3000وات)",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 1475,
-    "img": "https://m.media-amazon.com/images/I/41ZpTWHgZ0L._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0HKZB2WM7?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0FLYDZ338",
-    "brand": "غير محدد",
+    "brand": "Zada",
     "name": "خلاط 1800وات",
     "specs": {
       "watt": "1800"
@@ -2512,7 +2379,7 @@
   },
   {
     "asin": "B0FJ2RK5F9",
-    "brand": "غير محدد",
+    "brand": "RAF",
     "name": "خلاط 1800وات",
     "specs": {
       "watt": "1800"
@@ -2555,28 +2422,6 @@
     "reason": null
   },
   {
-    "asin": "B0DHDF9YTW",
-    "brand": "غير محدد",
-    "name": "خلاط 4سرعة",
-    "specs": {
-      "speed": "4"
-    },
-    "model": "",
-    "title": "Vault Electric Blender 4 Speeds",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 765,
-    "img": "https://m.media-amazon.com/images/I/31j5lLbGM1L._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0DHDF9YTW?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B09232FSRL",
     "brand": "Al-Arousa",
     "name": "Al-Arousa خلاط",
@@ -2597,26 +2442,6 @@
     "reason": null
   },
   {
-    "asin": "B09HZ5C3ZZ",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "Hotel Blender 2 Liter Full Heart",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 650,
-    "img": "https://m.media-amazon.com/images/I/41zQEqpPjSL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B09HZ5C3ZZ?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0HHYH57KX",
     "brand": "اوشين",
     "name": "خلاط",
@@ -2628,26 +2453,6 @@
     "price": 747.12,
     "img": "https://m.media-amazon.com/images/I/515-L2qm67L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HHYH57KX?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "search",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0H8TJRQ98",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "Electric Blender 4500W Super Power Multifunction Smart Blender 2L Super Fast Blender Stainless Steel Blades Break Resistant BPA Proof Bowl",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 1350,
-    "img": "https://m.media-amazon.com/images/I/41yD698+vBL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0H8TJRQ98?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
@@ -2912,28 +2717,6 @@
     "reason": null
   },
   {
-    "asin": "B0HJ6QKMYS",
-    "brand": "غير محدد",
-    "name": "خلاط 1200وات",
-    "specs": {
-      "watt": "1200"
-    },
-    "model": "",
-    "title": "1200W Commercial Commercial Blender Professional Silent Ice Crusher | Silent Smoothie Mixer for Restaurant and Cafes, Ice Cream Smoothies Digital Touch Panel with Ice Cream Program Smoothies and",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 7500,
-    "img": "https://m.media-amazon.com/images/I/51a+pv8rz-L._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0HJ6QKMYS?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B092322KZL",
     "brand": "فريش",
     "name": "فريش خلاط 800وات يدوي",
@@ -3020,7 +2803,7 @@
   },
   {
     "asin": "B0GJQ3VQJC",
-    "brand": "غير محدد",
+    "brand": "Pluto",
     "name": "خلاط 1200وات",
     "specs": {
       "watt": "1200"
@@ -3310,7 +3093,7 @@
   },
   {
     "asin": "B0HJ73FBL6",
-    "brand": "غير محدد",
+    "brand": "نايفيو",
     "name": "خلاط 500وات يدوي 2سرعة",
     "specs": {
       "watt": "500",
@@ -3324,28 +3107,6 @@
     "price": 799,
     "img": "https://m.media-amazon.com/images/I/21umNZFPrjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJ73FBL6?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B09BHYDK36",
-    "brand": "غير محدد",
-    "name": "خلاط 1سرعة",
-    "specs": {
-      "speed": "1"
-    },
-    "model": "",
-    "title": "Blender 3 Piece 1 Speed ​​Model NO-242",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 749,
-    "img": "https://m.media-amazon.com/images/I/31imGDcThWL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B09BHYDK36?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
@@ -3369,26 +3130,6 @@
     "price": 4690,
     "img": "https://m.media-amazon.com/images/I/31Z4sQFQq1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DSSBVX8H?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0H6T7LRXB",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "2.5L Professional High Speed Electric Blender for Juice, Smoothie, Ice Crusher, Fruit",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 1250,
-    "img": "https://m.media-amazon.com/images/I/31ycVX6no2L._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0H6T7LRXB?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
@@ -3714,28 +3455,6 @@
     "reason": null
   },
   {
-    "asin": "B0HK1NB7CD",
-    "brand": "غير محدد",
-    "name": "خلاط 9سرعة",
-    "specs": {
-      "speed": "9"
-    },
-    "model": "",
-    "title": "Electric Smoothie Blender 2 in 1 Ice Crusher Blender Mixer Mute Hex Blades | Commercial Mixer 28000 Cycles 2.0L Capacity, 9 Speeds Digital Display, Quiet Noise Isolating Cover Overheat Protection",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 6210,
-    "img": "https://m.media-amazon.com/images/I/41x2+-dZ82L._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0HK1NB7CD?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0H7K7QMHY",
     "brand": "فريش",
     "name": "فريش خلاط",
@@ -3769,26 +3488,6 @@
     "price": 1028,
     "img": "https://m.media-amazon.com/images/I/31LuDxEBLvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B098TY1XSD?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0CD39DYGX",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "ميني بليندر كوب عصير المنزلية المحمولة خلاط لاسلكي المصاقة الكهربائية عصير كوب سعة كبيرة بطارية لاسلكي المحمولة",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 700,
-    "img": "https://m.media-amazon.com/images/I/41IQqyMcaUL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0CD39DYGX?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
@@ -4144,7 +3843,7 @@
   },
   {
     "asin": "B0DS174113",
-    "brand": "غير محدد",
+    "brand": "City",
     "name": "خلاط 1500وات يدوي",
     "specs": {
       "watt": "1500",
@@ -4167,7 +3866,7 @@
   },
   {
     "asin": "B0DQ89734W",
-    "brand": "غير محدد",
+    "brand": "دي اس بي",
     "name": "خلاط 1200وات",
     "specs": {
       "watt": "1200"
@@ -4244,28 +3943,6 @@
     "price": 8210.22,
     "img": "https://m.media-amazon.com/images/I/31UmieoeqEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BYMQT52T?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0HL3Y3SRW",
-    "brand": "غير محدد",
-    "name": "خلاط 500وات",
-    "specs": {
-      "watt": "500"
-    },
-    "model": "BLACK",
-    "title": "Blender 500W, 32000 RPM Countertop Smoothie Maker with 2.5 L Jar, Stepless Speed Control, Stainless Steel Blades, Ice Crushing and Overcurrent Protection, Red, SC-1589 (Black)",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 1995,
-    "img": "https://m.media-amazon.com/images/I/510SKDio76L._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0HL3Y3SRW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
@@ -4513,29 +4190,6 @@
     "reason": "filtered"
   },
   {
-    "asin": "B0F2H8GYVL",
-    "brand": "غير محدد",
-    "name": "خلاط 1800وات 15سرعة",
-    "specs": {
-      "watt": "1800",
-      "speed": "15"
-    },
-    "model": "",
-    "title": "Electric Blender 3 in 1 Multi Use 1800W 3L Grinder 600ml Meat Grinder 1000ml 15 Speed",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 2784,
-    "img": "https://m.media-amazon.com/images/I/41lF5zkbLPL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0F2H8GYVL?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B09V2CX2FJ",
     "brand": "Spaceshoop",
     "name": "Spaceshoop خلاط يدوي 7سرعة",
@@ -4681,26 +4335,6 @@
     "price": 231.75,
     "img": "https://m.media-amazon.com/images/I/31e7FOp2EpL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CFHP59CS?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0H8MRGN1H",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "خلاط كهربائي احترافي 800 واط مع ضمان 12 شهر، سعة 2 لتر، سرعة 25000 دورة/دقيقة، شفرات ستانلس ستيل 304 عدد 6، غطاء عازل للصوت، شاشة لمس، وظيفة تنظيف ذاتي، مناسب للعصائر والسموذي وسحق الثلج",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 5759.04,
-    "img": "https://m.media-amazon.com/images/I/51Q8Le3QEmL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0H8MRGN1H?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
@@ -4884,30 +4518,6 @@
     "reason": null
   },
   {
-    "asin": "B0GDW7KMWR",
-    "brand": "غير محدد",
-    "name": "خلاط 300وات يدوي 2سرعة",
-    "specs": {
-      "watt": "300",
-      "speed": "2",
-      "type": "يدوي"
-    },
-    "model": "",
-    "title": "Electric Hand Blender (Hand Blender) 300W with 2 Speeds Detachable Stainless Steel Shaft and Blender, Puree and Mixing for Soup, Juice, Milkshakes, Food, Touch with Pulse, Easy to Clean, 220-240V",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 378.45,
-    "img": "https://m.media-amazon.com/images/I/21aa9nY4CFL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0GDW7KMWR?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0FF3BFMNS",
     "brand": "جاماكي",
     "name": "خلاط 3000وات يدوي",
@@ -5019,26 +4629,6 @@
     "reason": null
   },
   {
-    "asin": "B0D67442RD",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "BLUE",
-    "title": "Mini Blender, Portable Travel Blender, 380ml Fruit Blender, Mini Blender and Juice Maker with USB Rechargeable, for Making Smoothies, Milkshakes, Smoothies (Blue)",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 160.83,
-    "img": "https://m.media-amazon.com/images/I/31tsaASYZFL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0D67442RD?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B07YK48157",
     "brand": "NutriBullet",
     "name": "NutriBullet خلاط 1000وات",
@@ -5084,7 +4674,7 @@
   },
   {
     "asin": "B0GWG9KSXN",
-    "brand": "غير محدد",
+    "brand": "وايت لايف",
     "name": "خلاط",
     "specs": {},
     "model": "",
@@ -5114,46 +4704,6 @@
     "price": 507.17,
     "img": "https://m.media-amazon.com/images/I/313vuT5k+jL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FGV5K4T2?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0B3SGXHHK",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "Personal Size Blender, Portable Blender, Battery Powered USB Blender (Multi Color)",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 290.2,
-    "img": "https://m.media-amazon.com/images/I/41u93YzjTbL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0B3SGXHHK?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B0HKG78BD4",
-    "brand": "غير محدد",
-    "name": "خلاط",
-    "specs": {},
-    "model": "",
-    "title": "Hotel Blender Grinder – Electric Blender Grinder Bowl with Lid – Blender | 800 ml Capacity, Stainless Steel Blades",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 350,
-    "img": "https://m.media-amazon.com/images/I/31dlgYGMDfL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0HKG78BD4?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",

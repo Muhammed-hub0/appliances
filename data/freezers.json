@@ -1613,7 +1613,7 @@
   },
   {
     "asin": "B0FM8VQ2JG",
-    "brand": "غير محدد",
+    "brand": "هامبورج",
     "name": "فريزر 220لتر عمودي",
     "specs": {
       "cap": "220",
@@ -1663,7 +1663,7 @@
   },
   {
     "asin": "B0FM9B29XW",
-    "brand": "غير محدد",
+    "brand": "هامبورج",
     "name": "فريزر 260لتر عمودي",
     "specs": {
       "cap": "260",
@@ -1923,7 +1923,7 @@
   },
   {
     "asin": "B0H7SSRFZZ",
-    "brand": "غير محدد",
+    "brand": "هامبورج",
     "name": "فريزر 220لتر",
     "specs": {
       "cap": "220"
@@ -1992,7 +1992,7 @@
   },
   {
     "asin": "B0GYTFF9BR",
-    "brand": "غير محدد",
+    "brand": "Trust",
     "name": "فريزر 350لتر",
     "specs": {
       "cap": "350"
@@ -2874,7 +2874,7 @@
   },
   {
     "asin": "B0CTKYT2VT",
-    "brand": "غير محدد",
+    "brand": "Rich Home",
     "name": "فريزر 170لتر أفقي",
     "specs": {
       "cap": "170",
@@ -3210,7 +3210,7 @@
   },
   {
     "asin": "B09HHGFBM1",
-    "brand": "غير محدد",
+    "brand": "اوشين",
     "name": "فريزر 307لتر عمودي",
     "specs": {
       "cap": "307",
@@ -3284,7 +3284,7 @@
   },
   {
     "asin": "B0D341Q3NF",
-    "brand": "غير محدد",
+    "brand": "يونيون",
     "name": "فريزر 185لتر",
     "specs": {
       "cap": "185"
@@ -3329,7 +3329,7 @@
   },
   {
     "asin": "B0F3KV4DYC",
-    "brand": "غير محدد",
+    "brand": "يونيون",
     "name": "فريزر 185لتر",
     "specs": {
       "cap": "185"
@@ -3352,7 +3352,7 @@
   },
   {
     "asin": "B0F48GYPSS",
-    "brand": "غير محدد",
+    "brand": "W.Alaska",
     "name": "فريزر 310لتر",
     "specs": {
       "cap": "310"
@@ -3561,7 +3561,7 @@
   },
   {
     "asin": "B0GYTHPNJW",
-    "brand": "غير محدد",
+    "brand": "Trust",
     "name": "فريزر 500لتر",
     "specs": {
       "cap": "500"
@@ -4048,50 +4048,6 @@
     "oosCount": 0,
     "reason": null,
     "type": "chest"
-  },
-  {
-    "asin": "B09SJ1P3P3",
-    "brand": "غير محدد",
-    "name": "فريزر 273لتر",
-    "specs": {
-      "cap": "273"
-    },
-    "model": "",
-    "title": "White Whale WCF-345 XB Horizontal 2 Shelf Deep Freezer (Black, 273L)",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 17766,
-    "img": "https://m.media-amazon.com/images/I/21Ga3qqknFL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B09SJ1P3P3?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null,
-    "type": "chest"
-  },
-  {
-    "asin": "B0HNGMDTDM",
-    "brand": "غير محدد",
-    "name": "فريزر",
-    "specs": {},
-    "model": "",
-    "title": "Freezer 4U-M - فريزر 4U-M",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 5950,
-    "img": "https://m.media-amazon.com/images/I/4196mxMP00L._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0HNGMDTDM?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null,
-    "type": "upright"
   },
   {
     "asin": "B0D9284TSB",
