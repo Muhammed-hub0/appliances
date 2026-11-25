@@ -248,15 +248,22 @@ h1{font-size:23px;margin:18px 0 8px}
 
 const HUB_CSS = `
 .big-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}
-.big-group{display:flex;flex-direction:column;align-items:flex-start;gap:10px;min-height:230px;padding:22px;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
+.big-group{position:relative;display:flex;flex-direction:column;justify-content:flex-end;gap:4px;min-height:230px;padding:16px 18px;overflow:hidden;background:var(--surface);border:1px solid var(--line);border-radius:18px;transition:transform .15s ease,border-color .15s ease}
 .big-group:hover{transform:translateY(-3px);border-color:var(--b);text-decoration:none}
+.big-group::before,.group-hero-wrap::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(255,255,255,0) 0%,rgba(255,255,255,.55) 42%,#fff 78%);pointer-events:none}
+:root[data-theme="dark"] .big-group::before,:root[data-theme="dark"] .group-hero-wrap::before{background:linear-gradient(180deg,rgba(11,26,43,0) 0%,rgba(17,39,63,.72) 42%,#11273f 78%)}
 .big-emoji{font-size:44px;line-height:1;display:flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:16px;background:var(--surface-alt)}
-.big-img{display:block;width:100%;height:120px;object-fit:cover;border-radius:14px;background:var(--surface-alt)}
+.big-img{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:contain;object-position:center top;padding:12px 12px 64px;opacity:.42;background:transparent}
+.big-group > b,.big-group > .meta,.big-group > .go,.big-emoji,.group-hero-text{position:relative;z-index:1}
 .big-group b{font-size:20px;font-weight:800;color:var(--text)}
 .big-group .meta{font-size:13px;color:var(--muted)}
-.big-group .go{font-size:13px;color:var(--win);font-weight:800;margin-top:auto}
+.big-group .go{font-size:13px;color:var(--win);font-weight:800}
+.group-hero-wrap{position:relative;display:flex;align-items:flex-end;min-height:220px;padding:18px;overflow:hidden;border:1px solid var(--line);border-radius:16px;background:var(--surface);margin:0 0 16px}
+.group-hero{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:contain;object-position:center top;padding:10px 10px 76px;opacity:.42;background:transparent}
+.group-hero-text h1{margin:0}
+.group-hero-text .lead{margin:4px 0 0}
 .breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
-@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:150px;padding:16px}.big-emoji{width:54px;height:54px;font-size:32px}.big-img{height:110px}.big-group b{font-size:17px}}
+@media(max-width:700px){.big-groups{grid-template-columns:1fr}.big-group{min-height:190px;padding:14px}.big-emoji{width:54px;height:54px;font-size:32px}.big-img{padding:10px 10px 58px;opacity:.38}.big-group b{font-size:17px}.group-hero-wrap{min-height:190px;padding:14px}.group-hero{padding:8px 8px 66px;opacity:.38}}
 .searchbox{display:flex;gap:10px;align-items:center;margin:14px 0 18px}
 .searchbox input{flex:1;min-width:0}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:8px}
@@ -279,7 +286,6 @@ const HUB_CSS = `
 const TABLE_CSS = `
 .breadcrumb{font-size:13px;color:var(--muted);margin-bottom:6px}
 .banner{display:block;width:100%;height:auto;border-radius:16px;border:1px solid var(--line);margin:0 0 14px}
-.group-hero{display:block;width:100%;max-height:220px;object-fit:cover;border-radius:16px;border:1px solid var(--line);margin:0 0 16px}
 .bar{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;padding:12px 14px;margin-bottom:14px}
 .fld{display:flex;flex-direction:column;gap:4px}
 .fld label{font-size:12px;color:var(--muted);font-weight:600}
@@ -369,7 +375,7 @@ export function renderHub(stats, meta) {
     const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
     const total = cats.reduce((sum, c) => sum + (stats[c.id] || 0), 0);
     const visual = group.image
-      ? `<img class="big-img" src="${esc(group.image)}" loading="lazy" alt="${esc(group.title)}">`
+      ? `<img class="big-img" src="${esc(group.image)}" loading="lazy" alt="">`
       : `<span class="big-emoji">${group.emoji}</span>`;
     return `<a class="big-group" href="groups/${group.id}/index.html">
   ${visual}
@@ -410,6 +416,11 @@ export function renderGroup(group, stats, covers, meta) {
   const cats = group.ids.map((id) => CATEGORY_BY_ID.get(id)).filter(Boolean);
   const cards = cats.map((cat) => renderHubCard(cat, stats, covers, '../../')).join('\n');
   const total = cats.reduce((sum, c) => sum + (stats[c.id] || 0), 0);
+  const heading = `<h1>${group.emoji} ${esc(group.title)}</h1>
+<p class="lead">${cats.length} قسم · ${total} منتج متوفر — اختر نوع الجهاز عشان تشوف المقارنة الكاملة.</p>`;
+  const hero = group.image
+    ? `<div class="group-hero-wrap"><img class="group-hero" src="../../${esc(group.image)}" alt=""><div class="group-hero-text">${heading}</div></div>`
+    : heading;
 
   return `<!doctype html>
 <html lang="ar" dir="rtl"><head><meta charset="utf-8">
@@ -426,9 +437,7 @@ ${tracker()}
 ${siteHeader('../../')}
 <main class="wrap">
 <div class="breadcrumb"><a href="../../index.html">كل الأجهزة</a> ← ${esc(group.title)}</div>
-<h1>${group.emoji} ${esc(group.title)}</h1>
-<p class="lead">${cats.length} قسم · ${total} منتج متوفر — اختر نوع الجهاز عشان تشوف المقارنة الكاملة.</p>
-${group.image ? `<img class="group-hero" src="../../${esc(group.image)}" alt="${esc(group.title)}">` : ''}
+${hero}
 <div class="grid">
 ${cards}
 </div>
