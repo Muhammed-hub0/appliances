@@ -11,7 +11,7 @@
     "title": "Bosch Series 8 Freestanding Gas Range Cooker, 5 Burners, 90 cm, Digital Display, Full Safety System - HJY5G7V61S",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 31161,
+    "price": 31159,
     "img": "https://m.media-amazon.com/images/I/41sc0OI9F6L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01J5KSPM0?tag=fineartslab-21",
     "active": true,
@@ -77,10 +77,10 @@
       "type": "غاز"
     },
     "model": "",
-    "title": "Fresh Gas Cooker Rock, Auto Ignition, 4 Burners, Stainless Steel, 60 x 60 CMs - 500016094",
+    "title": "Fresh Gas Cooker Rock, Auto Ignition, 4 Burners, Stainless Steel, 60 x 60 CM - 500016076",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7581,
+    "price": 7700,
     "img": "https://m.media-amazon.com/images/I/41eya8Avr6L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CGM871S9?tag=fineartslab-21",
     "active": true,
@@ -103,7 +103,7 @@
     "title": "Midea Gas Cooker, Stainless Steel, MFO-MG24TE(SS)-VT, 60*60, 4 burners, Blue Smile Design Line, Xpress Flame Vortex, Convection Fan, Mechanical controls, Easy-Clean Design, Full Safety, Self Ignition",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10884,
+    "price": 10889,
     "img": "https://m.media-amazon.com/images/I/31UQsUHOY8L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H956WGCM?tag=fineartslab-21",
     "active": true,
@@ -202,9 +202,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "lastSeenOut": "2026-11-25"
+    "lastSeenOut": "2026-11-26",
+    "outOfStockSince": "2026-11-26"
   },
   {
     "asin": "B0DMWL6S6Q",
@@ -225,7 +226,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -322,7 +323,7 @@
   {
     "asin": "B0FD8L33BB",
     "brand": "زانوسي",
-    "name": "بوتاجاز غاز",
+    "name": "زانوسي بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -330,17 +331,16 @@
     "title": "Gas cooker 60cm CoolMax (New Edition), 4-burner, Freestanding with gas oven hob, full safety, silver ZCG64396XB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12689,
+    "price": 12890,
     "img": "https://m.media-amazon.com/images/I/413VZQLkG7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FD8L33BB?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-25",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -428,8 +428,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0G4XJGW77",
@@ -461,7 +463,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 13999,
-    "img": "https://m.media-amazon.com/images/I/51QbBsGIk-L._AC_SX342_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31raWLmol2L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BBRRHSVK?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -514,7 +516,7 @@
   {
     "asin": "B0HKMXVCZH",
     "brand": "Chef Cook",
-    "name": "Chef بوتاجاز 4بوات غاز",
+    "name": "Chef Cook بوتاجاز 4بوات",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -554,7 +556,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -585,7 +587,7 @@
   {
     "asin": "B0HMM28D5L",
     "brand": "تكنو شيف",
-    "name": "TECHNO بوتاجاز 4بوات غاز",
+    "name": "بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -608,7 +610,7 @@
   {
     "asin": "B0GHPMMZW1",
     "brand": "Ronak Pro",
-    "name": "Gas بوتاجاز 4بوات غاز",
+    "name": "بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -631,7 +633,7 @@
   {
     "asin": "B0HD7KG4Z7",
     "brand": "Prifix",
-    "name": "Prefix بوتاجاز 4بوات غاز",
+    "name": "بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -700,7 +702,7 @@
   {
     "asin": "B0H5MC43JR",
     "brand": "غير محدد",
-    "name": "Cookers بوتاجاز 2بوات غاز",
+    "name": "بوتاجاز 2بوات غاز",
     "specs": {
       "burners": "2",
       "type": "غاز"
@@ -717,7 +719,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -771,7 +773,7 @@
   {
     "asin": "B0BKWFM4Y7",
     "brand": "World",
-    "name": "4Burner بوتاجاز 4بوات غاز",
+    "name": "World بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -794,7 +796,7 @@
   {
     "asin": "B0GN4LGP3Z",
     "brand": "Chef Cook",
-    "name": "Chef بوتاجاز 5بوات",
+    "name": "بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -816,7 +818,7 @@
   {
     "asin": "B0B3DVZDMP",
     "brand": "Al Ahram Gas",
-    "name": "Al بوتاجاز غاز",
+    "name": "Al Ahram Gas بوتاجاز",
     "specs": {
       "type": "غاز"
     },
@@ -876,7 +878,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -884,7 +886,7 @@
   {
     "asin": "B09B8R93Y3",
     "brand": "King Home",
-    "name": "King بوتاجاز غاز",
+    "name": "King Home بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -928,7 +930,7 @@
   {
     "asin": "B0D94LF77J",
     "brand": "Top Home Solutions",
-    "name": "Top بوتاجاز غاز",
+    "name": "Top Home Solutions بوتاجاز",
     "specs": {
       "type": "غاز"
     },
@@ -950,7 +952,7 @@
   {
     "asin": "B07VZBGPNY",
     "brand": "CLUEMART",
-    "name": "SPORTLIMIT بوتاجاز غاز",
+    "name": "CLUEMART بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -994,7 +996,7 @@
   {
     "asin": "B005PBW6X8",
     "brand": "Campingaz",
-    "name": "CAMPINGAZ بوتاجاز غاز",
+    "name": "Campingaz بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1016,7 +1018,7 @@
   {
     "asin": "B0963X9K2P",
     "brand": "SD Enriching Beauty",
-    "name": "Sd بوتاجاز غاز",
+    "name": "SD Enriching Beauty بوتاجاز",
     "specs": {
       "type": "غاز"
     },
@@ -1038,7 +1040,7 @@
   {
     "asin": "B0F4ZC4ZWW",
     "brand": "Natural Sky",
-    "name": "Natural بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1060,7 +1062,7 @@
   {
     "asin": "B096L7NTCM",
     "brand": "Natural Sky",
-    "name": "Natural بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1082,7 +1084,7 @@
   {
     "asin": "B0H6FG9GD8",
     "brand": "Homagator",
-    "name": "Winning بوتاجاز غاز",
+    "name": "Homagator بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1104,7 +1106,7 @@
   {
     "asin": "B07HBBZVZG",
     "brand": "Maxsun",
-    "name": "maxsun بوتاجاز غاز",
+    "name": "Maxsun بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1192,7 +1194,7 @@
   {
     "asin": "B0CH564DYQ",
     "brand": "THE VENTI",
-    "name": "THE بوتاجاز غاز",
+    "name": "THE VENTI بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1236,7 +1238,7 @@
   {
     "asin": "B0B7747CLQ",
     "brand": "Kerplunk",
-    "name": "Shivam بوتاجاز غاز",
+    "name": "Kerplunk بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1258,7 +1260,7 @@
   {
     "asin": "B0HNGZ8D1W",
     "brand": "غير محدد",
-    "name": "Stove بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1324,7 +1326,7 @@
   {
     "asin": "B0HNNRTPJ6",
     "brand": "غير محدد",
-    "name": "Cooker بوتاجاز 4بوات",
+    "name": "بوتاجاز 4بوات",
     "specs": {
       "burners": "4"
     },
@@ -1346,7 +1348,7 @@
   {
     "asin": "B0D9P3KWQT",
     "brand": "first cook",
-    "name": "First بوتاجاز 5بوات",
+    "name": "first cook بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -1404,7 +1406,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -1515,7 +1517,7 @@
   {
     "asin": "B0CNSCRPL7",
     "brand": "Grand Electronic",
-    "name": "Grand بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "NORMAL",
     "title": "Grand Electronic Consumption Saving 3 Eye Self-Ignition Flat Cooker (NORMAL)",
@@ -1544,7 +1546,7 @@
     "title": "Fresh Modena Stainless Steel Gas Cooker, 5 Burners with 2 Oven Fan, 60 x 90 cm",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 23599,
+    "price": 23699,
     "img": "https://m.media-amazon.com/images/I/41BgFephfCL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091NY1NHJ?tag=fineartslab-21",
     "active": true,
@@ -1591,7 +1593,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 13999,
-    "img": "https://m.media-amazon.com/images/I/51s9Vona8WL._AC_SY445_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31LsQV4cjEL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJPYF9M?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1657,7 +1659,7 @@
     "title": "Beko Freestanding Cooker (Fan-assisted, Cooling Fan, Gas, 90 cm) BGGR11225GB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 18495,
+    "price": 18398,
     "img": "https://m.media-amazon.com/images/I/41F2BGxwXDL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DST71HJX?tag=fineartslab-21",
     "active": true,
@@ -1715,7 +1717,7 @@
   {
     "asin": "B0FD8SGHNP",
     "brand": "زانوسي",
-    "name": "بوتاجاز غاز",
+    "name": "زانوسي بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -1723,17 +1725,16 @@
     "title": "Gas cooker 90cm Cool Cast (New Edition), 5-burner, with gas oven hob, full safety, silver ZCG91236XB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 16899,
+    "price": 16666,
     "img": "https://m.media-amazon.com/images/I/31vdLOoK71L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FD8SGHNP?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-25",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -1793,7 +1794,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 3354,
-    "img": "https://m.media-amazon.com/images/I/5122m38+hfL._AC_SY355_.jpg",
+    "img": "https://m.media-amazon.com/images/I/316ySaGUPpL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GLR2JNLR?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1820,7 +1821,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -1943,7 +1944,7 @@
     "title": "Tecnogas Cooker 5 Burner Techno Jazz Full Stainless With Fan For Oven Size 60/90",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12600,
+    "price": 12626,
     "img": "https://m.media-amazon.com/images/I/41tMoiPBJwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CYF5YV3H?tag=fineartslab-21",
     "active": true,
@@ -1957,7 +1958,7 @@
   {
     "asin": "B0GBMYZQCP",
     "brand": "Royal Master",
-    "name": "Royal بوتاجاز 5بوات غاز",
+    "name": "بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -1992,14 +1993,13 @@
     "price": 10680,
     "img": "https://m.media-amazon.com/images/I/31mHY-rFefL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DP3N8GPL?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-24",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -2045,8 +2045,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B09TP6Y4Q4",
@@ -2073,7 +2075,7 @@
   {
     "asin": "B0DS2T9KGW",
     "brand": "غير محدد",
-    "name": "Gas بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2103,7 +2105,7 @@
     "title": "MG Professional Steel 5-Burner Gas Range Full Safety, 90x60cm, Freestanding Cooker with Oven and Grill, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 18524,
+    "price": 23155,
     "img": "https://m.media-amazon.com/images/I/31g24zI4avL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLXTRMBD?tag=fineartslab-21",
     "active": true,
@@ -2133,7 +2135,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -2141,7 +2143,7 @@
   {
     "asin": "B0FLRKXK83",
     "brand": "Natural Sky",
-    "name": "Natural بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2163,7 +2165,7 @@
   {
     "asin": "B0G5BHJFHN",
     "brand": "Al Ahram",
-    "name": "Al بوتاجاز 5بوات",
+    "name": "بوتاجاز 5بوات",
     "specs": {
       "burners": "5"
     },
@@ -2179,13 +2181,15 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0HK15M4MN",
     "brand": "Carnival",
-    "name": "Carnival بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2207,7 +2211,7 @@
   {
     "asin": "B096L5QJJG",
     "brand": "Natural Sky",
-    "name": "Natural بوتاجاز غاز",
+    "name": "Natural Sky بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2303,7 +2307,7 @@
     "title": "MG Professional Option 5-Burner Gas Range, 90x60cm, Freestanding Cooker with Oven and Grill, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12927.2,
+    "price": 16159,
     "img": "https://m.media-amazon.com/images/I/31iNbNephSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLXZXPJN?tag=fineartslab-21",
     "active": true,
@@ -2317,7 +2321,7 @@
   {
     "asin": "B0C866WV27",
     "brand": "Royal Gas",
-    "name": "Royal بوتاجاز غاز",
+    "name": "Royal Gas بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2369,7 +2373,7 @@
     "title": "KPS Stainless Steel Outdoor Portable Windproof Camping Stove Picnic Stove,Travel Stove,Travel Gas Stove For Cooking",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 582.85,
+    "price": 540,
     "img": "https://m.media-amazon.com/images/I/51spcPUZHbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B085W7W9QW?tag=fineartslab-21",
     "active": true,
@@ -2383,7 +2387,7 @@
   {
     "asin": "B0B5LP478G",
     "brand": "UDEE",
-    "name": "UDee بوتاجاز غاز",
+    "name": "UDEE بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2405,7 +2409,7 @@
   {
     "asin": "B0HMRHPV3K",
     "brand": "غير محدد",
-    "name": "Stove بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2427,7 +2431,7 @@
   {
     "asin": "B0DTV3ZMD5",
     "brand": "Black Fire",
-    "name": "Camping بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2449,7 +2453,7 @@
   {
     "asin": "B0CQK1QJ71",
     "brand": "clhjinruoliu",
-    "name": "Camping بوتاجاز غاز",
+    "name": "clhjinruoliu بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2471,7 +2475,7 @@
   {
     "asin": "B091D2WYDW",
     "brand": "ARTC",
-    "name": "Mini بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2493,7 +2497,7 @@
   {
     "asin": "B0HC7M6H56",
     "brand": "غير محدد",
-    "name": "Square بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2515,7 +2519,7 @@
   {
     "asin": "B0963VWXBK",
     "brand": "KOSTECH",
-    "name": "Kostech بوتاجاز غاز",
+    "name": "KOSTECH بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2537,7 +2541,7 @@
   {
     "asin": "B0DY547F6S",
     "brand": "Spaceshoop",
-    "name": "بوتاجاز غاز",
+    "name": "Spaceshoop بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2581,7 +2585,7 @@
   {
     "asin": "B0CPVYDZX6",
     "brand": "Maky Store",
-    "name": "maky بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2647,7 +2651,7 @@
   {
     "asin": "B0DLWR5JCY",
     "brand": "غير محدد",
-    "name": "Gas بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -2757,7 +2761,7 @@
   {
     "asin": "B0CK1GFDS2",
     "brand": "Global",
-    "name": "بوتاجاز",
+    "name": "Global بوتاجاز",
     "specs": {},
     "model": "",
     "title": "بوتاجاز Global 4 شله 55 * 55 سطح استانلس جناب فضى",
@@ -2797,7 +2801,7 @@
   {
     "asin": "B0994NX9TC",
     "brand": "slonegli",
-    "name": "Slonegli بوتاجاز",
+    "name": "slonegli بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Slonegli Backpacking Stove, Portable Camping Stoves, Hiking Stove, Pocket Stove, Mini Camp Stove, Compact Wind Resistant Camping Stove for Backpacking, Hiking, Camping",
@@ -2839,7 +2843,7 @@
   {
     "asin": "B0HGBLT2PZ",
     "brand": "Chef Cook",
-    "name": "Chef بوتاجاز 4بوات غاز",
+    "name": "Chef Cook بوتاجاز 4بوات",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -2879,7 +2883,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -2887,7 +2891,7 @@
   {
     "asin": "B0HNHDG2C9",
     "brand": "BluePoint",
-    "name": "بوتاجاز",
+    "name": "BluePoint بوتاجاز",
     "specs": {},
     "model": "",
     "title": "New Smart Cooker, 80 cm, Stainless Steel, BLUEPOINT",
@@ -2901,7 +2905,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -2917,7 +2921,7 @@
     "title": "MG Black Knight Family Chef 5-Burner Gas Range, 90x60cm, Freestanding Cooker with Oven and Grill, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 16280,
+    "price": 20350,
     "img": "https://m.media-amazon.com/images/I/419fPB7Lu-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLY14SFC?tag=fineartslab-21",
     "active": true,
@@ -2963,7 +2967,7 @@
     "title": "Beko Gas Cooker - 90 cm - 5 Burners - Cast Iron Holders - Cooling and Cooking Fans - Full Safety - Stainless Steel - BGGR 11125 GB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 17798,
+    "price": 17790,
     "img": "https://m.media-amazon.com/images/I/41KF5E3SjlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FJ5VNSSX?tag=fineartslab-21",
     "active": true,
@@ -2977,7 +2981,7 @@
   {
     "asin": "B0H83CML8V",
     "brand": "BluePoint",
-    "name": "Blue بوتاجاز مدمج",
+    "name": "BluePoint بوتاجاز مدمج",
     "specs": {
       "type": "مدمج"
     },
@@ -2993,7 +2997,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -3031,7 +3035,7 @@
     "title": "MG Panorama Family Chef 5-Burner Gas Range Full Safety, 90x60cm, Freestanding Cooker with Oven and Grill, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 25560,
+    "price": 31950,
     "img": "https://m.media-amazon.com/images/I/41wZ4qLICUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLXVP7V6?tag=fineartslab-21",
     "active": true,
@@ -3062,7 +3066,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -3070,7 +3074,7 @@
   {
     "asin": "B08SPY7ZS2",
     "brand": "Eyerayo",
-    "name": "Gas بوتاجاز غاز",
+    "name": "Eyerayo بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3101,7 +3105,7 @@
     "title": "Bosch HGV1F8Y50S Freestanding Gas Cooker, 90 cm, 5 Burners, XXL 147L Oven, Rotisserie Function, Stainless Steel – Series 2",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 17350,
+    "price": 17237,
     "img": "https://m.media-amazon.com/images/I/41sGtqUEOGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FFN8RKKG?tag=fineartslab-21",
     "active": true,
@@ -3123,7 +3127,7 @@
     "title": "Toshiba Gas cooker RLA2-90MG5GE(MG)-EM,90 cm, Full Safety, Triple-Ring Burner, Infrared Technology, Convection Fan, Morandi Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 19710,
+    "price": 19499,
     "img": "https://m.media-amazon.com/images/I/31jKD+5fdiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HHFH5LP5?tag=fineartslab-21",
     "active": true,
@@ -3145,7 +3149,7 @@
     "title": "Fresh italiano 80x55 gas cooker-stainless",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 11216,
+    "price": 10900,
     "img": "https://m.media-amazon.com/images/I/41HO+kxV+yL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KXFEWSM?tag=fineartslab-21",
     "active": true,
@@ -3234,7 +3238,7 @@
     "title": "Fresh italiano 55 * 80 Gas Cooker-Stainless fan",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 11490,
+    "price": 11290,
     "img": "https://m.media-amazon.com/images/I/31qKWiV+QhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KZODK34?tag=fineartslab-21",
     "active": true,
@@ -3248,7 +3252,7 @@
   {
     "asin": "B01KXFL4N8",
     "brand": "فريش",
-    "name": "بوتاجاز غاز",
+    "name": "فريش بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3256,7 +3260,7 @@
     "title": "Fresh Hummer 90x60 Gas Cooker -Silver-Full Safty-Digital Stainless",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 19600,
+    "price": 19999,
     "img": "https://m.media-amazon.com/images/I/31bYthoyJmL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KXFL4N8?tag=fineartslab-21",
     "active": true,
@@ -3301,7 +3305,7 @@
     "title": "BOSCH Gas cooker Series 2, 90 * 60 cm, 5 Burners, Stainless Steel, 125 l Oven, Silver- HGV1F0U50S",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 17788,
+    "price": 17700,
     "img": "https://m.media-amazon.com/images/I/41FXriCrm9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CXJBLJPB?tag=fineartslab-21",
     "active": true,
@@ -3370,7 +3374,7 @@
     "title": "Unionaire iCook Pro Gas Cooker 5 Burners, 60x90 cm, Silver/Black - C69SS-GC-447-IFD1S-A-ICOOK PRO Gas",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 15499,
+    "price": 14950,
     "img": "https://m.media-amazon.com/images/I/31yRt2F-QNL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HR3N526Q?tag=fineartslab-21",
     "active": true,
@@ -3384,7 +3388,7 @@
   {
     "asin": "B0F5SV7W1M",
     "brand": "Carnival",
-    "name": "Carnival بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3451,7 +3455,7 @@
   {
     "asin": "B0GWD9RCS7",
     "brand": "Carnival",
-    "name": "INGHOME بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3608,7 +3612,7 @@
   {
     "asin": "B09BDMWZY3",
     "brand": "smarticular",
-    "name": "بوتاجاز غاز",
+    "name": "smarticular بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3721,7 +3725,7 @@
   {
     "asin": "B0CM16KR1L",
     "brand": "Tecnogas",
-    "name": "Tecnogas بوتاجاز 4بوات غاز",
+    "name": "بوتاجاز 4بوات غاز",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -3744,7 +3748,7 @@
   {
     "asin": "B0HBN1ZQFL",
     "brand": "غير محدد",
-    "name": "Royal بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3760,7 +3764,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 11,
+    "oosCount": 12,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26",
     "reason": "out-of-stock"
@@ -3768,7 +3772,7 @@
   {
     "asin": "B0D586MZN4",
     "brand": "Kitchen Line",
-    "name": "بوتاجاز 4بوات غاز",
+    "name": "Kitchen Line بوتاجاز 4بوات",
     "specs": {
       "burners": "4",
       "type": "غاز"
@@ -3785,13 +3789,15 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0H1K8Z5Z3",
     "brand": "غير محدد",
-    "name": "Galaxy- بوتاجاز 4بوات",
+    "name": "بوتاجاز 4بوات",
     "specs": {
       "burners": "4"
     },
@@ -3807,7 +3813,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -3846,7 +3852,7 @@
     "title": "ELBA Cooker - Stainless Steel Built-in 5 Gas Burners Hob, 90 cm, Silver - ELIO 95-545 L",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 25399,
+    "price": 25950,
     "img": "https://m.media-amazon.com/images/I/41l8+YO4EvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07Y8VFFF2?tag=fineartslab-21",
     "active": true,
@@ -3883,7 +3889,7 @@
   {
     "asin": "B0C866N3TL",
     "brand": "Royal Gas",
-    "name": "Royal بوتاجاز",
+    "name": "Royal Gas بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Royal Caesar Cooker 90 Cast Digital Fan",
@@ -3927,7 +3933,7 @@
   {
     "asin": "B0GLDX75FK",
     "brand": "Grand Electronic",
-    "name": "Grand بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "NORMAL",
     "title": "Grand Electronic Consumption Saving 3 Eye Self-Ignition Flat Cooker (NORMAL)",
@@ -3947,7 +3953,7 @@
   {
     "asin": "B0FHF8B3W1",
     "brand": "Carnival",
-    "name": "Carnival بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -3969,7 +3975,7 @@
   {
     "asin": "B0FD7QYLSY",
     "brand": "Royal Gas",
-    "name": "Royal بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4021,7 +4027,7 @@
     "title": "White Point WPGC9060XCFSDAM Stainless Steel Oven Cooker Full Safety 60*90 cm 5 Burners With Fan, Grill And Mirror Oven Door - Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14790,
+    "price": 14549,
     "img": "https://m.media-amazon.com/images/I/318Ure4aSqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BH4RDCTT?tag=fineartslab-21",
     "active": true,
@@ -4047,13 +4053,13 @@
     "price": 16679,
     "img": "https://m.media-amazon.com/images/I/31+btuxzSyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GYPM1J2P?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
@@ -4083,7 +4089,7 @@
   {
     "asin": "B0CS3GLQYC",
     "brand": "Tecnogas",
-    "name": "Cooker بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4122,7 +4128,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -4130,7 +4136,7 @@
   {
     "asin": "B0FHL4CZP5",
     "brand": "Carnival",
-    "name": "Carnival بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4152,7 +4158,7 @@
   {
     "asin": "B01KZODQRY",
     "brand": "فريش",
-    "name": "بوتاجاز 5بوات غاز",
+    "name": "فريش بوتاجاز 5بوات غاز",
     "specs": {
       "burners": "5",
       "type": "غاز"
@@ -4307,7 +4313,7 @@
   {
     "asin": "B0FMMS1BW1",
     "brand": "غير محدد",
-    "name": "Italian بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Italian Made Cooker Hose, Red, Rubber, 2 Meter, 20 Bar",
@@ -4349,7 +4355,7 @@
   {
     "asin": "B0FJ2S9RY7",
     "brand": "Natural Sky",
-    "name": "Natural بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4371,7 +4377,7 @@
   {
     "asin": "B0GW8YQ548",
     "brand": "غير محدد",
-    "name": "Old بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Old Universal Cooker Key Cap, Thermoplastic, Black",
@@ -4391,7 +4397,7 @@
   {
     "asin": "B0H7RKCCPS",
     "brand": "Next store",
-    "name": "Next بوتاجاز كهربائي",
+    "name": "Next store بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -4413,7 +4419,7 @@
   {
     "asin": "B0HQJC5MBM",
     "brand": "غير محدد",
-    "name": "Gas بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4435,7 +4441,7 @@
   {
     "asin": "B0GXT5W4QY",
     "brand": "غير محدد",
-    "name": "Old بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Old Universal Cooker Key Cap, Thermoplastic, Black (Black, ٦ اكرة)",
@@ -4455,7 +4461,7 @@
   {
     "asin": "B0HNGY6K9R",
     "brand": "غير محدد",
-    "name": "Stove بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4477,7 +4483,7 @@
   {
     "asin": "B0722DXDZJ",
     "brand": "EEZYCHOIC",
-    "name": "Non-Stick بوتاجاز غاز",
+    "name": "EEZYCHOIC بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4499,7 +4505,7 @@
   {
     "asin": "B0DLWRLSP8",
     "brand": "غير محدد",
-    "name": "Non بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4521,7 +4527,7 @@
   {
     "asin": "B0D2RZJTD6",
     "brand": "غير محدد",
-    "name": "Keep بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4543,7 +4549,7 @@
   {
     "asin": "B0D485FMDY",
     "brand": "غير محدد",
-    "name": "Easy بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4565,7 +4571,7 @@
   {
     "asin": "B0GCWFN9YB",
     "brand": "غير محدد",
-    "name": "Stove بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4587,7 +4593,7 @@
   {
     "asin": "B0GHZYW139",
     "brand": "غير محدد",
-    "name": "Stove بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4609,7 +4615,7 @@
   {
     "asin": "B0D54NS2QY",
     "brand": "غير محدد",
-    "name": "Reusable بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4653,7 +4659,7 @@
   {
     "asin": "B0F322N9N5",
     "brand": "fashion mania",
-    "name": "بوتاجاز",
+    "name": "fashion mania بوتاجاز",
     "specs": {},
     "model": "",
     "title": "4 Pcs Universal Stove Knobs, 12 Pcs ABS Material Sturdy Practical Highly Compatible Multi-function Tool",
@@ -4695,7 +4701,7 @@
   {
     "asin": "B0DR9DRX6H",
     "brand": "غير محدد",
-    "name": "Cooking بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4717,7 +4723,7 @@
   {
     "asin": "B0C6QBBB6N",
     "brand": "Helweet",
-    "name": "Gas بوتاجاز غاز",
+    "name": "Helweet بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4762,7 +4768,7 @@
   {
     "asin": "B0D54QQX68",
     "brand": "غير محدد",
-    "name": "Effortless بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4804,7 +4810,7 @@
   {
     "asin": "B0DR9DKSH7",
     "brand": "غير محدد",
-    "name": "Gas بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4870,7 +4876,7 @@
   {
     "asin": "B0D54FJCD7",
     "brand": "غير محدد",
-    "name": "Aluminum بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4914,7 +4920,7 @@
   {
     "asin": "B0D54NX6V6",
     "brand": "غير محدد",
-    "name": "Aluminum بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4936,7 +4942,7 @@
   {
     "asin": "B0D5BMSGTH",
     "brand": "CELAR",
-    "name": "Celar بوتاجاز غاز",
+    "name": "CELAR بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -4980,7 +4986,7 @@
   {
     "asin": "B0HQXCLWYH",
     "brand": "غير محدد",
-    "name": "Stove بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "Stove Top Lock and Open Switches (Chrome Cooker Switches (5 Piece Set))",
@@ -5044,7 +5050,7 @@
   {
     "asin": "B0FDHKWQHJ",
     "brand": "غير محدد",
-    "name": "Wood بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5088,7 +5094,7 @@
   {
     "asin": "B0DB282BRH",
     "brand": "BAREPEPE",
-    "name": "Rechargeable بوتاجاز غاز",
+    "name": "BAREPEPE بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5118,7 +5124,7 @@
     "title": "GiPP Egg Pan Omelette Pan, 4-Cup Nonstick Granite Omelette Skillet - Pancake Pan Suitable for Gas Stove & Induction Cookware, Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 328.5,
+    "price": 324.75,
     "img": "https://m.media-amazon.com/images/I/5192q9LpeFL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DJVS7K9Z?tag=fineartslab-21",
     "active": true,
@@ -5199,7 +5205,7 @@
   {
     "asin": "B0CQRG86KJ",
     "brand": "Tidita",
-    "name": "TIDITA بوتاجاز غاز",
+    "name": "Tidita بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5221,7 +5227,7 @@
   {
     "asin": "B0H7F7RMZB",
     "brand": "غير محدد",
-    "name": "2-Piece بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5288,7 +5294,7 @@
   {
     "asin": "B0CMX6CJHN",
     "brand": "جاماكي",
-    "name": "JMK بوتاجاز كهربائي",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5332,7 +5338,7 @@
   {
     "asin": "B0DVTC6XGM",
     "brand": "Winning Star",
-    "name": "بوتاجاز كهربائي",
+    "name": "Winning Star بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5443,7 +5449,7 @@
   {
     "asin": "B0HF6K2SCS",
     "brand": "جاماكي",
-    "name": "JMK بوتاجاز كهربائي",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5507,7 +5513,7 @@
   {
     "asin": "B0DPPC9N95",
     "brand": "وانغ شيف",
-    "name": "WANGCHEF بوتاجاز كهربائي",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5573,7 +5579,7 @@
   {
     "asin": "0241636299",
     "brand": "DK",
-    "name": "The بوتاجاز",
+    "name": "DK بوتاجاز",
     "specs": {},
     "model": "",
     "title": "The Slow Cook Book: 200 Oven & Slow Cooker Recipes",
@@ -5607,7 +5613,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 11,
+    "oosCount": 12,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26",
     "reason": "out-of-stock"
@@ -5615,7 +5621,7 @@
   {
     "asin": "B0HC7DSQ3D",
     "brand": "جاماكي",
-    "name": "Jamaky بوتاجاز كهربائي",
+    "name": "بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5637,7 +5643,7 @@
   {
     "asin": "B0GCZH67WN",
     "brand": "غير محدد",
-    "name": "منظم بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "منظم انبوبة بوتاجاز نحاس",
@@ -5679,7 +5685,7 @@
   {
     "asin": "B0DF88935Z",
     "brand": "غير محدد",
-    "name": "منظم بوتاجاز",
+    "name": "بوتاجاز",
     "specs": {},
     "model": "",
     "title": "منظم بوبة بوتاجاز +فرشة تنظيف بوتاجاز + إبرة تسليك الفونيا + خرطوم بوبة 2 متر اسود",
@@ -5743,7 +5749,7 @@
   {
     "asin": "B0BVKGZ4RC",
     "brand": "HOT PLATE",
-    "name": "HOT بوتاجاز كهربائي",
+    "name": "HOT PLATE بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5765,7 +5771,7 @@
   {
     "asin": "B0CD5YG5BF",
     "brand": "AquaFalcon",
-    "name": "بوتاجاز كهربائي",
+    "name": "AquaFalcon بوتاجاز كهربائي",
     "specs": {
       "type": "كهربائي"
     },
@@ -5871,7 +5877,7 @@
   {
     "asin": "B0G6B18NZ1",
     "brand": "غير محدد",
-    "name": "خرطوم بوتاجاز غاز",
+    "name": "بوتاجاز غاز",
     "specs": {
       "type": "غاز"
     },
@@ -5913,12 +5919,12 @@
   {
     "asin": "B0H591HD7X",
     "brand": "Tecno & Tecnogas",
-    "name": "Tecnogas بوتاجاز غاز",
+    "name": "Tecno & Tecnogas بوتاجاز",
     "specs": {
       "type": "غاز"
     },
     "model": "",
-    "title": "Tecnogas Gas Cooker 90cm",
+    "title": "Tecnogas Gas Cooker 90x60cm Freestanding Stainless Steel Range Cooker with Oven Light, Digital Timer, Oven Fan, Grill, Electric Ignition & Cast Iron Supports for Home Kitchens",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 12700,

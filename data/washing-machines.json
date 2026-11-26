@@ -88,7 +88,7 @@
     "title": "Haier 10 KG Front Load Washing Machine with Steam, Inverter Motor & 1400 RPM – Dark Silver, HW100-BP14337S8",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 18800,
+    "price": 18650,
     "img": "https://m.media-amazon.com/images/I/41sC9KGcvWL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJ6DHTW7?tag=fineartslab-21",
     "active": true,
@@ -168,7 +168,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -201,7 +201,7 @@
   {
     "asin": "B0GJPYRBC8",
     "brand": "فريش",
-    "name": "غسالة 5كجم علوي",
+    "name": "فريش غسالة 5كجم علوي",
     "specs": {
       "cap": "5",
       "type": "تحميل علوي"
@@ -272,7 +272,7 @@
   {
     "asin": "B0HKFRBK73",
     "brand": "فريش",
-    "name": "غسالة 7كجم أمامي",
+    "name": "فريش غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -429,15 +429,14 @@
     "price": 19199,
     "img": "https://m.media-amazon.com/images/I/31-eNZ-QIQL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CTKN93LY?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 6,
-    "reason": "out-of-stock",
+    "oosCount": 0,
+    "reason": null,
     "type": "front-load",
-    "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -452,7 +451,7 @@
     "title": "Haier 9 KG Front Loading Washing Machine, 525 mm Super Drum, BLDC Inverter Motor, Laser Welding, Steam, Silver, HW90-BP14929AS6",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 17999,
+    "price": 17799,
     "img": "https://m.media-amazon.com/images/I/416GueIGIZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F62YX1PV?tag=fineartslab-21",
     "active": true,
@@ -477,7 +476,7 @@
     "title": "Toshiba Tw-Bk100Gf4Eg(Mk) Washing Machine,Ultra Fine Bubbles,Inverter, Steam, Smart, Control (Wifi) 9Kg Morandi Grey, Automatic",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 21195,
+    "price": 21120,
     "img": "https://m.media-amazon.com/images/I/41o2bF4b6sL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CDV8VC24?tag=fineartslab-21",
     "active": true,
@@ -501,7 +500,7 @@
     "title": "Haier Front Load 10KG Washing Machine, 1400 PRM Automatic, with Full Color Touch Control, AI Wash&Steam Wash, Dual Spray, Drum light and Wifi Control (HW100-B14367S8U1)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 26217.5,
+    "price": 26212.5,
     "img": "https://m.media-amazon.com/images/I/31fisKBxITL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4H413LQ?tag=fineartslab-21",
     "active": true,
@@ -525,7 +524,7 @@
     "title": "White Point Washing Machine Topload 15 Kg Touch Screen Black WPTL15DGRGBMA",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 16739,
+    "price": 16999,
     "img": "https://m.media-amazon.com/images/I/216eWlwAI+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HBXFM7W6?tag=fineartslab-21",
     "active": true,
@@ -565,7 +564,7 @@
   {
     "asin": "B0HC3F3F3Y",
     "brand": "فريش",
-    "name": "غسالة 8كجم علوي",
+    "name": "فريش غسالة 8كجم علوي",
     "specs": {
       "cap": "8",
       "type": "تحميل علوي"
@@ -574,7 +573,7 @@
     "title": "Fresh FTM-8S Fully Automatic Top Load Washing Machine 8kg, Digital Display, Stainless Steel Drum, Drain Pump, Hot & Cold Water Inlets, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 9499,
+    "price": 9199,
     "img": "https://m.media-amazon.com/images/I/31HwAkgXqKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HC3F3F3Y?tag=fineartslab-21",
     "active": true,
@@ -647,7 +646,7 @@
     "title": "Toshiba Front Loading Washing Machine TWD-BM115GF4EG(MK) Origin Inverter Ultra Fine Bubbles, the great waves, Steam, WI-FI 10.5 KG Washer + 7 KG dryer Morandi Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 29609.9,
+    "price": 29499,
     "img": "https://m.media-amazon.com/images/I/31ysSkkHBiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DR78TWXH?tag=fineartslab-21",
     "active": true,
@@ -680,9 +679,11 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "type": "top-load"
+    "type": "top-load",
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0BJLG3V3N",
@@ -719,24 +720,23 @@
     "title": "Fresh Jumbo Top Load Half Automatic Washing Machine With Twin Tub, 10 kg | Air Drying, 2 Motors, Filter for Lint Removal",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 8100,
+    "price": 7945,
     "img": "https://m.media-amazon.com/images/I/31VOGHF5p5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H67TYK3B?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
-    "reason": "out-of-stock",
+    "oosCount": 0,
+    "reason": null,
     "type": "top-load",
-    "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0FPFSK7P5",
     "brand": "زانوسي",
-    "name": "غسالة 8كجم أمامي",
+    "name": "زانوسي غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -753,10 +753,11 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
     "type": "front-load",
-    "lastSeenOut": "2026-11-25"
+    "lastSeenOut": "2026-11-26",
+    "outOfStockSince": "2026-11-26"
   },
   {
     "asin": "B0DH4VJJX4",
@@ -879,7 +880,7 @@
   {
     "asin": "B0CJ813YHF",
     "brand": "فريش",
-    "name": "غسالة 7كجم أوتوماتيك",
+    "name": "فريش غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
       "type": "تحميل علوي"
@@ -993,7 +994,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "type": "top-load",
     "outOfStockSince": "2026-11-23",
@@ -1002,7 +1003,7 @@
   {
     "asin": "B0H1D61L5C",
     "brand": "فريش",
-    "name": "غسالة علوي",
+    "name": "فريش غسالة علوي",
     "specs": {
       "type": "تحميل علوي"
     },
@@ -1041,7 +1042,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "type": "top-load",
     "outOfStockSince": "2026-11-23",
@@ -1135,9 +1136,11 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "type": "front-load"
+    "type": "front-load",
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B09L1GGMDY",
@@ -1153,7 +1156,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 22500,
-    "img": "https://m.media-amazon.com/images/I/71A+o-DQ7bL._AC_SY445_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41Gz6uvBVwL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09L1GGMDY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1178,7 +1181,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 18999,
-    "img": "https://m.media-amazon.com/images/I/611ZOw+TP5L._AC_SX342_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41dQfAH6BPL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BBRPVB9Y?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1253,7 +1256,7 @@
     "title": "BOSCH Series 4 Front Load Washing Machine – 9 kg – 1400 RPM – EcoSilence Drive – Iron Steam Assist – AntiStain – SpeedPerfect – Reload Function – Cast Iron Grey – WGA244Z1EG",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 24699,
+    "price": 24650,
     "img": "https://m.media-amazon.com/images/I/41yDRFY9hlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H6X6SSMB?tag=fineartslab-21",
     "active": true,
@@ -1334,7 +1337,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "type": "front-load",
     "outOfStockSince": "2026-11-24",
@@ -1491,7 +1494,7 @@
   {
     "asin": "B0FLJXG6QC",
     "brand": "زانوسي",
-    "name": "غسالة 7كجم أمامي",
+    "name": "زانوسي غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -1500,7 +1503,7 @@
     "title": "Automatic Washing Machine(Steam MAX), Inverter, Front Load, DIGITAL MULTI PROGRAM, 2 steam system, 7kg, Silver with black door - ZWF7241SS7",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 21758.43,
+    "price": 19799,
     "img": "https://m.media-amazon.com/images/I/418LvQzWdBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FLJXG6QC?tag=fineartslab-21",
     "active": true,
@@ -1611,7 +1614,7 @@
   {
     "asin": "B0CV843LTV",
     "brand": "فريش",
-    "name": "غسالة 9كجم 1400rpm",
+    "name": "فريش غسالة 9كجم 1400rpm",
     "specs": {
       "cap": "9",
       "spin": "1400",
@@ -1694,7 +1697,7 @@
     "title": "White Point 7kg 1200rpm Black Digital Inverter Steam Washing Machine with Black Chrome Door WPW71215DSWVB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 15799,
+    "price": 15790,
     "img": "https://m.media-amazon.com/images/I/41Vdkbsu8VL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJ9GMZP3?tag=fineartslab-21",
     "active": true,
@@ -1757,7 +1760,7 @@
   {
     "asin": "B09N6YP9F3",
     "brand": "شارب",
-    "name": "غسالة 9كجم أوتوماتيك",
+    "name": "شارب غسالة 9كجم أوتوماتيك",
     "specs": {
       "cap": "9",
       "type": "أوتوماتيك"
@@ -1837,7 +1840,7 @@
     "title": "Tornado Full Automatic Washing Machine, 7 Kg, Silver - TWV-FN78SLOA",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 16190,
+    "price": 15980,
     "img": "https://m.media-amazon.com/images/I/31YNHwikf1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJJMKM5?tag=fineartslab-21",
     "active": true,
@@ -1924,7 +1927,7 @@
   {
     "asin": "B089G8YGV2",
     "brand": "شارب",
-    "name": "غسالة 7كجم أوتوماتيك",
+    "name": "شارب غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
       "type": "أوتوماتيك"
@@ -1995,7 +1998,7 @@
   {
     "asin": "B0CQPKQRGB",
     "brand": "فريش",
-    "name": "غسالة 1200rpm",
+    "name": "فريش غسالة 1200rpm",
     "specs": {
       "spin": "1200"
     },
@@ -2051,7 +2054,7 @@
     "title": "Ocean Front Load Full Automatic Washing Machine, 11 kg, Silver - WNOI 12114 FTS-1200 RPm, Made in Italy",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 27679,
+    "price": 25660,
     "img": "https://m.media-amazon.com/images/I/516p0+t0qHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D8ZXHZ68?tag=fineartslab-21",
     "active": true,
@@ -2065,7 +2068,7 @@
   {
     "asin": "B0GZ1243W2",
     "brand": "هامبورج",
-    "name": "HAMBURG غسالة 10كجم نصفأوتوماتيك",
+    "name": "غسالة 10كجم نصفأوتوماتيك",
     "specs": {
       "cap": "10",
       "type": "نصف أوتوماتيك"
@@ -2113,7 +2116,7 @@
   {
     "asin": "B0GYZKHJK4",
     "brand": "هامبورج",
-    "name": "HAMBORG غسالة 12كجم نصفأوتوماتيك",
+    "name": "غسالة 12كجم نصفأوتوماتيك",
     "specs": {
       "cap": "12",
       "type": "نصف أوتوماتيك"
@@ -2137,7 +2140,7 @@
   {
     "asin": "B091HYGLDL",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2145,7 +2148,7 @@
     "title": "Automatic Washing Machine Leather Cover - (Red)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 404.26,
+    "price": 404.05,
     "img": "https://m.media-amazon.com/images/I/31t55hJd8NL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091HYGLDL?tag=fineartslab-21",
     "active": false,
@@ -2159,7 +2162,7 @@
   {
     "asin": "B0FHBVN2HM",
     "brand": "غير محدد",
-    "name": "خرطوم غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2204,7 +2207,7 @@
   {
     "asin": "B0FLPZM42K",
     "brand": "ngfhf",
-    "name": "Shoe غسالة",
+    "name": "ngfhf غسالة",
     "specs": {},
     "model": "",
     "title": "Shoe Washing Machine Bag Laundry Shoe Bag for Washer and Dryer Reusable 2pc Shoe Cleaning Bags for Sneakers 360° Deep Cleaning Machine for All Shoes Types With Self-locking Zipper",
@@ -2299,7 +2302,7 @@
   {
     "asin": "B0GNN5C3VT",
     "brand": "توشيبا",
-    "name": "غسالة 8.5كجم أمامي",
+    "name": "توشيبا غسالة 8.5كجم أمامي",
     "specs": {
       "cap": "8.5",
       "type": "تحميل أمامي"
@@ -2333,7 +2336,7 @@
     "title": "LG Front Load Washing Machine 7kg, 1200 RPM, Platinum Silver, Model F4Y2QYG6P",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 19399,
+    "price": 19199,
     "img": "https://m.media-amazon.com/images/I/31HqByNCDKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FTMHZYTN?tag=fineartslab-21",
     "active": true,
@@ -2385,15 +2388,14 @@
     "price": 9666,
     "img": "https://m.media-amazon.com/images/I/31ZccyjV5oL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F6VBCRC4?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-24",
+    "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
-    "reason": "out-of-stock",
+    "oosCount": 0,
+    "reason": null,
     "type": "top-load",
-    "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -2440,10 +2442,11 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "lastSeenOut": "2026-11-24",
-    "type": "top-load"
+    "lastSeenOut": "2026-11-26",
+    "type": "top-load",
+    "outOfStockSince": "2026-11-26"
   },
   {
     "asin": "B091NY1NWM",
@@ -2487,7 +2490,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 10,
+    "oosCount": 11,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -2509,7 +2512,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 11,
+    "oosCount": 12,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26",
     "reason": "out-of-stock"
@@ -2531,7 +2534,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 10,
+    "oosCount": 11,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -2670,7 +2673,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 13999,
-    "img": "https://m.media-amazon.com/images/I/41I4PAaXazL._AC_SX342_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31qosALMGlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DHVML2VZ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -2733,7 +2736,7 @@
   {
     "asin": "B0DSR5ZJT7",
     "brand": "فريش",
-    "name": "غسالة 8كجم أمامي",
+    "name": "فريش غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -2904,7 +2907,7 @@
   {
     "asin": "B0FLJXW8P1",
     "brand": "زانوسي",
-    "name": "غسالة 7كجم أمامي",
+    "name": "زانوسي غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -2921,7 +2924,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "type": "front-load",
     "outOfStockSince": "2026-11-24",
@@ -2955,7 +2958,7 @@
   {
     "asin": "B0FLK8ST8K",
     "brand": "زانوسي",
-    "name": "Automatic غسالة 8كجم أمامي",
+    "name": "زانوسي غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -3003,7 +3006,7 @@
   {
     "asin": "B0FLK472JQ",
     "brand": "زانوسي",
-    "name": "غسالة 8كجم أمامي",
+    "name": "زانوسي غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -3074,7 +3077,7 @@
   {
     "asin": "B0D28257HF",
     "brand": "فريش",
-    "name": "غسالة 14كجم علوي",
+    "name": "فريش غسالة 14كجم علوي",
     "specs": {
       "cap": "14",
       "type": "تحميل علوي"
@@ -3083,7 +3086,7 @@
     "title": "Fresh 14kg Top Load Automatic Washing Machine, Silver, Code 500017070",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 16735,
+    "price": 16732,
     "img": "https://m.media-amazon.com/images/I/21447-v3MdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D28257HF?tag=fineartslab-21",
     "active": true,
@@ -3194,7 +3197,7 @@
   {
     "asin": "B091D4LD8X",
     "brand": "غير محدد",
-    "name": "Key غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3260,7 +3263,7 @@
   {
     "asin": "B0H3LJWSP4",
     "brand": "غير محدد",
-    "name": "Chiba غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3305,7 +3308,7 @@
   {
     "asin": "B0FW6D3GF6",
     "brand": "غير محدد",
-    "name": "Aviya غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3327,7 +3330,7 @@
   {
     "asin": "B0DGXR4K5Z",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3349,7 +3352,7 @@
   {
     "asin": "B0FJZMKT18",
     "brand": "غير محدد",
-    "name": "3M غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3371,7 +3374,7 @@
   {
     "asin": "B0GYG3FZD8",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3387,7 +3390,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "filtered",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -3404,18 +3407,18 @@
     "price": 10970,
     "img": "https://m.media-amazon.com/images/I/41bDzgfacUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091C2PRCH?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": "pressure-washer-not-laundry"
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FS4GPH8Y",
     "brand": "غير محدد",
-    "name": "Heavy غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3431,7 +3434,7 @@
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "filtered",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -3439,7 +3442,7 @@
   {
     "asin": "B0GK79YNSP",
     "brand": "غير محدد",
-    "name": "Floating غسالة نصفأوتوماتيك",
+    "name": "غسالة نصفأوتوماتيك",
     "specs": {
       "type": "نصف أوتوماتيك"
     },
@@ -3461,7 +3464,7 @@
   {
     "asin": "B0FFYS93SF",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3483,7 +3486,7 @@
   {
     "asin": "B0FHBYJB24",
     "brand": "غير محدد",
-    "name": "17m غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3505,7 +3508,7 @@
   {
     "asin": "B0FJZHL7JZ",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3527,7 +3530,7 @@
   {
     "asin": "B0FHBYK1WY",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3549,7 +3552,7 @@
   {
     "asin": "B091CBSC51",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3594,7 +3597,7 @@
   {
     "asin": "B0GKVWGWHR",
     "brand": "Next store",
-    "name": "Next غسالة",
+    "name": "Next store غسالة",
     "specs": {},
     "model": "",
     "title": "Next Store Washing Machine Shoe Washing Bag Mesh Shoe Cleaning Protection Net Padded Laundry Bag with Foam Loops Durable Zipper Keep Shoes Noise Prevention",
@@ -3634,7 +3637,7 @@
   {
     "asin": "B0D361HQTC",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3656,7 +3659,7 @@
   {
     "asin": "B0FXYFGH82",
     "brand": "غير محدد",
-    "name": "Water غسالة نصفأوتوماتيك",
+    "name": "غسالة نصفأوتوماتيك",
     "specs": {
       "type": "نصف أوتوماتيك"
     },
@@ -3678,7 +3681,7 @@
   {
     "asin": "B091CV82G9",
     "brand": "غير محدد",
-    "name": "Top غسالة 12كجم علوي",
+    "name": "غسالة 12كجم علوي",
     "specs": {
       "cap": "12",
       "type": "تحميل علوي"
@@ -3702,7 +3705,7 @@
   {
     "asin": "B0FJZHGGHM",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3746,7 +3749,7 @@
   {
     "asin": "B091J5QPXR",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3784,7 +3787,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": null,
     "blocked": true,
     "outOfStockSince": "2026-11-24",
@@ -3793,7 +3796,7 @@
   {
     "asin": "B0FXJB2K9X",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3815,7 +3818,7 @@
   {
     "asin": "B0FXT2965L",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3837,7 +3840,7 @@
   {
     "asin": "B0DLDRG2CJ",
     "brand": "غير محدد",
-    "name": "Tarpaulin غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3859,7 +3862,7 @@
   {
     "asin": "B0HN83S4R7",
     "brand": "غير محدد",
-    "name": "Water غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3903,7 +3906,7 @@
   {
     "asin": "B0GCPM4CLL",
     "brand": "غير محدد",
-    "name": "Automatic غسالة أوتوماتيك",
+    "name": "غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },

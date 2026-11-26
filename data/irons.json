@@ -34,7 +34,7 @@
     "title": "Tefal Steam Iron Express Steam Plus 2500 W, 45g/min, Auto-off, Blue Salt - FV2868E2",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1899,
+    "price": 1874,
     "img": "https://m.media-amazon.com/images/I/414t2pyI6UL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BS44VSKD?tag=fineartslab-21",
     "active": true,
@@ -88,8 +88,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0G45XJS21",
@@ -198,14 +200,13 @@
     "price": 2299,
     "img": "https://m.media-amazon.com/images/I/41-68ZA5MSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BYP9F59M?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 13,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-23",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -335,7 +336,7 @@
     "title": "Kenwood Steam Iron 2600 Watts, Steam Shot Up to 140g, Steam emission 45g/min, Anti drip and Anti calc, STP75.000WB – International Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2046,
+    "price": 1920,
     "img": "https://m.media-amazon.com/images/I/41gkWsyPRTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WRX5DDM?tag=fineartslab-21",
     "active": true,
@@ -404,7 +405,7 @@
     "title": "Kenwood 30 Reviews 2600W 350 ml Steam Iron, Ceramic Sole Panel, Environmental Function, 45/140g Steam Power, Anti-Distillation, Stp70.000W White/Green - (International Warranty)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2210,
+    "price": 2079,
     "img": "https://m.media-amazon.com/images/I/41xStQFCqyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08J7Z4WRD?tag=fineartslab-21",
     "active": true,
@@ -473,7 +474,7 @@
     "title": "TEFAL FV2C40 Virtuo 27g Continuous Steam and 120g Shock Steam 2000 Watt Steam Iron",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1890,
+    "price": 1850,
     "img": "https://m.media-amazon.com/images/I/31ReG1M7ysL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G3PP7HZV?tag=fineartslab-21",
     "active": true,
@@ -504,7 +505,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 7,
+    "oosCount": 8,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -636,17 +637,16 @@
     "title": "Philips Steam Iron Azur 8000 Series, 3000W, SteamGlide Elite soleplate, No Burns, Auto Shut-off - DST8021/36",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7175.95,
+    "price": 7621.95,
     "img": "https://m.media-amazon.com/images/I/41++aM3nvqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BKGL6K7L?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -661,7 +661,7 @@
     "title": "Kenwood Steam Iron 2200 Watts, 300ml Large Capacity, Ceramic Sole Plate – International Warranty – STP60.000WB",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1929,
+    "price": 1915,
     "img": "https://m.media-amazon.com/images/I/51nMDMN-+wL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08J7ZZVWN?tag=fineartslab-21",
     "active": true,
@@ -837,7 +837,7 @@
   {
     "asin": "B0DSCCQKV1",
     "brand": "براون",
-    "name": "كينوود مكواة بخار 2000وات",
+    "name": "براون مكواة بخار 2000وات",
     "specs": {
       "watt": "2000",
       "type": "بخار"
@@ -869,7 +869,7 @@
     "title": "Panasonic Steam Iron, Pink, 1550 watts, ‎NI-M250TPTH",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1295.5,
+    "price": 1294,
     "img": "https://m.media-amazon.com/images/I/41MxyglCt1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07PQ2X2NP?tag=fineartslab-21",
     "active": true,
@@ -1240,7 +1240,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -1248,7 +1248,7 @@
   {
     "asin": "B0DZV4YQZK",
     "brand": "SIVOLT",
-    "name": "Iron مكواة بخار 2200وات",
+    "name": "SIVOLT مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -1271,7 +1271,7 @@
   {
     "asin": "B0H7C3BRPS",
     "brand": "Next store",
-    "name": "Next مكواة بخار 2200وات",
+    "name": "Next store مكواة بخار",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -1340,7 +1340,7 @@
   {
     "asin": "B08YY2GPKT",
     "brand": "Touch Elzenouki",
-    "name": "Touch مكواة جاف 1000وات",
+    "name": "Touch Elzenouki مكواة جاف",
     "specs": {
       "watt": "1000",
       "type": "جاف"
@@ -1386,7 +1386,7 @@
   {
     "asin": "B08GL9B9ZC",
     "brand": "Touch Elzenouki",
-    "name": "Touch مكواة جاف 1600وات",
+    "name": "Touch Elzenouki مكواة جاف",
     "specs": {
       "watt": "1600",
       "type": "جاف"
@@ -1403,7 +1403,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -1434,7 +1434,7 @@
   {
     "asin": "B09DQ1622L",
     "brand": "SONAI",
-    "name": "Sonai مكواة بخار",
+    "name": "SONAI مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -1442,7 +1442,7 @@
     "title": "Sonai ‎MA-8110 Hand Steam Iron Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1970,
+    "price": 1949,
     "img": "https://m.media-amazon.com/images/I/31hhRVF-1+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09DQ1622L?tag=fineartslab-21",
     "active": true,
@@ -1456,7 +1456,7 @@
   {
     "asin": "B0CLVM6GJ8",
     "brand": "Amsaro",
-    "name": "AMSARO مكواة بخار",
+    "name": "Amsaro مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -1532,7 +1532,7 @@
     "title": "Philips Steam Iron 2000 Series - 2000W, 25 G/Min Continous Steam, 100G Steam Boost, Non-Stick Soleplate, Drip-Stop, 4 Steam Settings, Light Weight, Blue - Dst2010/26",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2330.8,
+    "price": 2322.8,
     "img": "https://m.media-amazon.com/images/I/41SRDK9ZVjL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DQ59BW76?tag=fineartslab-21",
     "active": true,
@@ -1831,7 +1831,7 @@
     "title": "Tefal Easygliss Plus Steam Iron, 2700 Watt, Blue - FV5751E0- Made in France",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2770,
+    "price": 2691,
     "img": "https://m.media-amazon.com/images/I/41QW1jZ1slL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F8HRXCL9?tag=fineartslab-21",
     "active": true,
@@ -2001,7 +2001,7 @@
   {
     "asin": "B0HMX31B2T",
     "brand": "PLUTO",
-    "name": "Pluto مكواة بخار 2400وات",
+    "name": "PLUTO مكواة بخار 2400وات",
     "specs": {
       "watt": "2400",
       "type": "بخار"
@@ -2024,7 +2024,7 @@
   {
     "asin": "B091CZZ81C",
     "brand": "Otherworlds Inc",
-    "name": "مكواة بخار 700وات",
+    "name": "Otherworlds Inc مكواة بخار",
     "specs": {
       "watt": "700",
       "type": "بخار"
@@ -2070,7 +2070,7 @@
   {
     "asin": "B08GL8Y6BW",
     "brand": "Touch Elzenouki",
-    "name": "Touch مكواة بخار 2200وات",
+    "name": "Touch Elzenouki مكواة بخار",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -2139,7 +2139,7 @@
   {
     "asin": "B09YVMHFSZ",
     "brand": "TZS First Austria",
-    "name": "مكواة بخار 2200وات",
+    "name": "TZS First Austria مكواة",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -2156,8 +2156,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0D821QC5W",
@@ -2207,7 +2209,7 @@
   {
     "asin": "B0H8JP9W1J",
     "brand": "Next store",
-    "name": "Next مكواة بخار",
+    "name": "Next store مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2251,7 +2253,7 @@
   {
     "asin": "B0D7ZZLW7G",
     "brand": "GreenVillage enterprise",
-    "name": "GreenVillage مكواة بخار",
+    "name": "GreenVillage enterprise مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -2273,7 +2275,7 @@
   {
     "asin": "B0BV6WN4F9",
     "brand": "لينجي",
-    "name": "LinJie مكواة بخار",
+    "name": "Generic Value Products مكواة",
     "specs": {
       "type": "بخار"
     },
@@ -2347,7 +2349,7 @@
     "title": "SOOBA Portable Mini Steam Iron Handheld Lightweight Garment Steamer Household Fast Heat Electric Ironing Machine",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 446.97,
+    "price": 471.18,
     "img": "https://m.media-amazon.com/images/I/31SIV0KUysL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09HMZF2VP?tag=fineartslab-21",
     "active": true,
@@ -2383,7 +2385,7 @@
   {
     "asin": "B0HR5VZ2WF",
     "brand": "غير محدد",
-    "name": "Freesia مكواة",
+    "name": "مكواة",
     "specs": {},
     "model": "6PCS",
     "title": "Freesia Scented Candle - Luxurious smokeless soy wax blend infused with dried floral accents, encased in a stylish travel tin and decorative iron box, offering 5-6 hours of calming fragrance. (6pcs)",
@@ -2403,7 +2405,7 @@
   {
     "asin": "B0HQVBSNPN",
     "brand": "غير محدد",
-    "name": "Heat مكواة",
+    "name": "مكواة",
     "specs": {},
     "model": "",
     "title": "Heat Protector Pad - High quality Teflon coated protector for the sole of the electric iron, non-stick ensures a smooth ironing experience and prevents unwanted shine on clothes",
@@ -2423,7 +2425,7 @@
   {
     "asin": "B07G99NX1P",
     "brand": "PH PandaHall",
-    "name": "PandaHall مكواة",
+    "name": "PH PandaHall مكواة",
     "specs": {},
     "model": "",
     "title": "PandaHall Elite 49.6 inch(1.26m) Metal Bag Strap Chain, Unwelded Iron Box Chains with Alloy Clasps, Light Gold",
@@ -2443,7 +2445,7 @@
   {
     "asin": "B091D3Y8R8",
     "brand": "غير محدد",
-    "name": "Iron مكواة",
+    "name": "مكواة",
     "specs": {},
     "model": "",
     "title": "Iron Box Wooden Jigsaw Puzzle Kit Tangram Wooden Puzzle Toys",
@@ -2483,7 +2485,7 @@
   {
     "asin": "B0DP4YXSM5",
     "brand": "Winning Star",
-    "name": "Winning مكواة",
+    "name": "Winning Star مكواة",
     "specs": {
       "type": "بخار"
     },
@@ -2587,13 +2589,13 @@
     "price": 1173,
     "img": "https://m.media-amazon.com/images/I/41e9e+B3C7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CNNSN87H?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
@@ -2691,7 +2693,7 @@
   {
     "asin": "B0DVZ9V4H8",
     "brand": "Winning Star",
-    "name": "Winning مكواة بخار 2000وات",
+    "name": "Winning Star مكواة بخار",
     "specs": {
       "watt": "2000",
       "type": "بخار"
@@ -2700,7 +2702,7 @@
     "title": "Winning Star ST-5314 2000W Dry Steam Iron with Water Tank",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 872,
+    "price": 735,
     "img": "https://m.media-amazon.com/images/I/51l3AnqWEnL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DVZ9V4H8?tag=fineartslab-21",
     "active": true,
@@ -2726,13 +2728,13 @@
     "price": 1099,
     "img": "https://m.media-amazon.com/images/I/41v2znkJuIL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DGVQ6PH9?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
@@ -2825,7 +2827,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -2887,7 +2889,7 @@
     "title": "Hosaki Steam Iron 3000 Watt - Speedy",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1093.59,
+    "price": 1139,
     "img": "https://m.media-amazon.com/images/I/419usx6f68L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G1BJF81M?tag=fineartslab-21",
     "active": true,
@@ -2924,7 +2926,7 @@
   {
     "asin": "B0GH14HCZT",
     "brand": "Home Store",
-    "name": "مكواة بخار 2200وات",
+    "name": "Home Store مكواة بخار",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -3009,8 +3011,10 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B07L1CCFF2",
@@ -3060,7 +3064,7 @@
   {
     "asin": "B0B2DHVD81",
     "brand": "SHEETLA ENTERPRISES",
-    "name": "SHEETLA مكواة بخار",
+    "name": "SHEETLA ENTERPRISES مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3068,7 +3072,7 @@
     "title": "SHEETLA ENTERPRISES Professional Micro Steam Iron, Portable Mini Travel Iron for Clothes, Mini Handheld Steam Iron for Dry & Wet Ironing.",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 214,
+    "price": 257.92,
     "img": "https://m.media-amazon.com/images/I/416-54s7TNL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B2DHVD81?tag=fineartslab-21",
     "active": true,
@@ -3219,7 +3223,7 @@
   {
     "asin": "B0DPVQDGZM",
     "brand": "Wonka",
-    "name": "Travel مكواة بخار",
+    "name": "Wonka مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3287,7 +3291,7 @@
   {
     "asin": "B0GN478CYQ",
     "brand": "Junior Imagine The Best",
-    "name": "Junior مكواة بخار 1800وات",
+    "name": "Junior Imagine The Best مكواة",
     "specs": {
       "watt": "1800",
       "type": "بخار"
@@ -3400,7 +3404,7 @@
   {
     "asin": "B0BNDRTTRT",
     "brand": "Generic Value Products",
-    "name": "Mini مكواة بخار",
+    "name": "Generic Value Products مكواة",
     "specs": {
       "type": "بخار"
     },
@@ -3491,7 +3495,7 @@
   {
     "asin": "B0DVZ9CFWT",
     "brand": "Winning Star",
-    "name": "Winning مكواة بخار",
+    "name": "Winning Star مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3535,7 +3539,7 @@
   {
     "asin": "B0GH1HDTHW",
     "brand": "Home Store",
-    "name": "مكواة بخار 2200وات",
+    "name": "Home Store مكواة بخار",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -3558,7 +3562,7 @@
   {
     "asin": "B0CQYD5BCQ",
     "brand": "Epic Gear",
-    "name": "Epicgear مكواة بخار",
+    "name": "Epic Gear مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -3649,7 +3653,7 @@
   {
     "asin": "B0H3L68RXQ",
     "brand": "Homagator",
-    "name": "Luma مكواة بخار 2700وات",
+    "name": "Homagator مكواة بخار 2700وات",
     "specs": {
       "watt": "2700",
       "type": "بخار"
@@ -3718,7 +3722,7 @@
   {
     "asin": "B0H3LFJ7D1",
     "brand": "Homagator",
-    "name": "Luma مكواة بخار 2700وات",
+    "name": "Homagator مكواة بخار 2700وات",
     "specs": {
       "watt": "2700",
       "type": "بخار"
@@ -3796,7 +3800,7 @@
     "title": "Sokany SK-3080 Portable Steam Iron: 1200 Watts Powerful Power Ironing Fast",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1327.99,
+    "price": 1346.1,
     "img": "https://m.media-amazon.com/images/I/41mb-MhCkXL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BTVMHHSZ?tag=fineartslab-21",
     "active": true,
@@ -3810,7 +3814,7 @@
   {
     "asin": "B0HQDLXNZ9",
     "brand": "جاماكي",
-    "name": "Jmaki مكواة بخار 2800وات",
+    "name": "مكواة بخار 2800وات",
     "specs": {
       "watt": "2800",
       "type": "بخار"
@@ -3855,7 +3859,7 @@
   {
     "asin": "B0G3YXB4XB",
     "brand": "Loma",
-    "name": "Loma مكواة بخار 1500وات",
+    "name": "مكواة بخار 1500وات",
     "specs": {
       "watt": "1500",
       "type": "بخار"
@@ -3901,7 +3905,7 @@
   {
     "asin": "B0HR65L79Z",
     "brand": "غير محدد",
-    "name": "Travel مكواة",
+    "name": "مكواة",
     "specs": {},
     "model": "4PCS",
     "title": "Travel Soy Wax Candle - Portable freesia-scented candle with dried flowers, smokeless formula, and a chic iron box for protection and style, ideal for short trips with 5-6 hour burn duration. (4pcs)",
@@ -3921,7 +3925,7 @@
   {
     "asin": "B0HR5VWL7H",
     "brand": "غير محدد",
-    "name": "Freesia مكواة",
+    "name": "مكواة",
     "specs": {},
     "model": "4PCS",
     "title": "Freesia Scented Candle - Luxurious smokeless soy wax blend infused with dried floral accents, encased in a stylish travel tin and decorative iron box, offering 5-6 hours of calming fragrance. (4pcs)",
@@ -4010,7 +4014,7 @@
   {
     "asin": "B0HN4KS9QY",
     "brand": "NUJAIN",
-    "name": "Handheld مكواة بخار",
+    "name": "NUJAIN مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4049,7 +4053,7 @@
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -4138,7 +4142,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -4146,7 +4150,7 @@
   {
     "asin": "B0GNHS6FPP",
     "brand": "Next store",
-    "name": "Next مكواة بخار",
+    "name": "Next store مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4213,7 +4217,7 @@
   {
     "asin": "B0DGY6W36W",
     "brand": "جاك",
-    "name": "Jack مكواة بخار 1500وات",
+    "name": "مكواة بخار 1500وات",
     "specs": {
       "watt": "1500",
       "type": "بخار"
@@ -4280,7 +4284,7 @@
   {
     "asin": "B0GNHC75K3",
     "brand": "Next store",
-    "name": "Next مكواة بخار",
+    "name": "Next store مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4596,7 +4600,7 @@
   {
     "asin": "B0H3L7YWRT",
     "brand": "Homagator",
-    "name": "Luma مكواة بخار 2200وات",
+    "name": "Homagator مكواة بخار 2200وات",
     "specs": {
       "watt": "2200",
       "type": "بخار"
@@ -4608,20 +4612,19 @@
     "price": 1441.53,
     "img": "https://m.media-amazon.com/images/I/41+S-AC9V5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H3L7YWRT?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-24",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0HMX8DNC4",
     "brand": "PLUTO",
-    "name": "Pluto مكواة بخار 2300وات",
+    "name": "PLUTO مكواة بخار 2300وات",
     "specs": {
       "watt": "2300",
       "type": "بخار"
@@ -4789,7 +4792,7 @@
     "title": "Sokany Portable Steam Iron AJ-2205 1200 Watt GR-D",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1510,
+    "price": 1541,
     "img": "https://m.media-amazon.com/images/I/31fVmqg2DbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BTMP2PSS?tag=fineartslab-21",
     "active": true,
@@ -4857,7 +4860,7 @@
     "title": "Beko SPA 9130 B 3000W Steam Iron with 350 ml Water Tank, Blue",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4401.67,
+    "price": 4399,
     "img": "https://m.media-amazon.com/images/I/31DY3yG0GoL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CMVBB46K?tag=fineartslab-21",
     "active": true,
@@ -4894,7 +4897,7 @@
   {
     "asin": "B0F144PS31",
     "brand": "Wonka",
-    "name": "Mini مكواة بخار",
+    "name": "Wonka مكواة بخار",
     "specs": {
       "type": "بخار"
     },
@@ -4916,7 +4919,7 @@
   {
     "asin": "B0DPVPTDCS",
     "brand": "Wonka",
-    "name": "Travel مكواة بخار",
+    "name": "Wonka مكواة بخار",
     "specs": {
       "type": "بخار"
     },

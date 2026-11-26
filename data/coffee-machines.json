@@ -19,7 +19,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -58,7 +58,7 @@
     "title": "Black & Decker DCM750S Coffee Maker with Glass Carafe, Black - 750 Watt - International warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1954,
+    "price": 1999,
     "img": "https://m.media-amazon.com/images/I/41780HL8z0L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08B8LHLLS?tag=fineartslab-21",
     "active": true,
@@ -83,13 +83,13 @@
     "price": 6095,
     "img": "https://m.media-amazon.com/images/I/311NZIes8-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GY5S915F?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
@@ -126,7 +126,7 @@
     "title": "Delonghi Dedica Style EC 685.R Pump Espresso Machine - Red",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 8370,
+    "price": 8290,
     "img": "https://m.media-amazon.com/images/I/31Vr9BBjsYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B06WD7Z8GD?tag=fineartslab-21",
     "active": true,
@@ -162,7 +162,7 @@
   {
     "asin": "B0DSJS79Q2",
     "brand": "أرزوم",
-    "name": "Okka قهوة إسبريسو",
+    "name": "أرزوم قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -170,7 +170,7 @@
     "title": "Okka Espresso Solo M Semi-Automatic Espresso Machine OK0032-04 Black-Copper",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12699,
+    "price": 12675,
     "img": "https://m.media-amazon.com/images/I/31ddOOaK73L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DSJS79Q2?tag=fineartslab-21",
     "active": true,
@@ -338,7 +338,7 @@
   {
     "asin": "B0B8DTVKPV",
     "brand": "DeLonghi",
-    "name": "DeLonghi قهوة إسبريسو 1350وات",
+    "name": "ديلونجي قهوة إسبريسو 1350وات",
     "specs": {
       "type": "إسبريسو",
       "watt": "1350"
@@ -347,7 +347,7 @@
     "title": "De’Longhi EC885.GY Traditional-Barista-Espresso-LatteArt 1350W 15 Bar",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10570,
+    "price": 10591.57,
     "img": "https://m.media-amazon.com/images/I/41Wz2Uq-O8L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B8DTVKPV?tag=fineartslab-21",
     "active": true,
@@ -384,7 +384,7 @@
   {
     "asin": "B0DSJR2TXW",
     "brand": "أرزوم",
-    "name": "Okka قهوة إسبريسو",
+    "name": "أرزوم قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -392,7 +392,7 @@
     "title": "Okka Espresso Solo M Semi-Automatic Espresso Machine OK0032-05 Black-Chrome",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13390,
+    "price": 13340,
     "img": "https://m.media-amazon.com/images/I/41l6g5xSF4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DSJR2TXW?tag=fineartslab-21",
     "active": true,
@@ -554,7 +554,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -570,7 +570,7 @@
     "title": "Mienta CM31216A Fresh Brew Coffee Maker, 1000 Watt - Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1952,
+    "price": 1925,
     "img": "https://m.media-amazon.com/images/I/41ljVwidC0L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07D21F98L?tag=fineartslab-21",
     "active": true,
@@ -592,7 +592,7 @@
     "title": "DeLonghi ECP31.21 Traditional Barista Pump Espresso Machine, Coffee and Cappuccino Maker - Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7299,
+    "price": 7745.33,
     "img": "https://m.media-amazon.com/images/I/31acpPyELYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B013GDEAI0?tag=fineartslab-21",
     "active": true,
@@ -606,7 +606,7 @@
   {
     "asin": "B07VTMQLY1",
     "brand": "نسكافيه",
-    "name": "ديلونجي قهوة كبسولات",
+    "name": "نسكافيه قهوة كبسولات",
     "specs": {
       "type": "كبسولات"
     },
@@ -636,7 +636,7 @@
     "title": "Arzum OKKA Barista Solo M Capsule & Semi-Automatic Espresso Machine - OK0060-05 - Black&Chrome",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10675.59,
+    "price": 10676.14,
     "img": "https://m.media-amazon.com/images/I/31gUXuGg48L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLPXCJYL?tag=fineartslab-21",
     "active": true,
@@ -720,7 +720,7 @@
     "title": "Mienta - american coffee maker - barista - cm31316a - 4-6 cups",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1582.7,
+    "price": 1560,
     "img": "https://m.media-amazon.com/images/I/41AfdaBTNTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B082VXBZYX?tag=fineartslab-21",
     "active": true,
@@ -814,7 +814,7 @@
   {
     "asin": "B0HL6WFK6C",
     "brand": "غير محدد",
-    "name": "Espresso قهوة إسبريسو 1350وات",
+    "name": "قهوة إسبريسو 1350وات",
     "specs": {
       "type": "إسبريسو",
       "watt": "1350"
@@ -831,7 +831,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -856,7 +856,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "filtered",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -864,7 +864,7 @@
   {
     "asin": "B0GSRSX1MX",
     "brand": "PRIME TECH",
-    "name": "PRIME قهوة 600وات",
+    "name": "PRIME TECH قهوة 600وات",
     "specs": {
       "watt": "600"
     },
@@ -872,7 +872,7 @@
     "title": "PRIME TECH Electric Turkish Coffee Maker 600W, 600ml Capacity Coffee Pot, Turkish Coffee Machine, Fast Heating Coffee Maker with Heat Resistant Handle for Turkish & Arabic Coffee Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 179,
+    "price": 176,
     "img": "https://m.media-amazon.com/images/I/41ZNOcz7j9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GSRSX1MX?tag=fineartslab-21",
     "active": true,
@@ -894,7 +894,7 @@
     "title": "Zulay Kitchen Classic Stovetop Espresso Maker for Strong Espresso with Great Flavor, Classic Italian Style Moka Pot, Delicious Coffee, Easy to Operate and Quick Clean (Silver)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 291.84,
+    "price": 291.27,
     "img": "https://m.media-amazon.com/images/I/41pms4UZCML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08PL2V27C?tag=fineartslab-21",
     "active": true,
@@ -974,7 +974,7 @@
   {
     "asin": "B091D5QTML",
     "brand": "Spaceshoop",
-    "name": "Espresso قهوة إسبريسو",
+    "name": "Spaceshoop قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -982,7 +982,7 @@
     "title": "Espresso Mini Portable Hand Made Coffee Maker, Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 599,
+    "price": 603.5,
     "img": "https://m.media-amazon.com/images/I/31Lp7orplJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091D5QTML?tag=fineartslab-21",
     "active": true,
@@ -1040,7 +1040,7 @@
   {
     "asin": "B0HMFG37V2",
     "brand": "غير محدد",
-    "name": "Turkish قهوة 600وات",
+    "name": "قهوة 600وات",
     "specs": {
       "watt": "600"
     },
@@ -1063,7 +1063,7 @@
   {
     "asin": "B0FQ5XYKMC",
     "brand": "Prime Tech",
-    "name": "Prime قهوة",
+    "name": "Prime Tech قهوة",
     "specs": {},
     "model": "BLACK",
     "title": "Prime Tech Electric Turkish Coffee Pot - 350W, 0.5L Capacity (5 Cups), Fast Heating with Dual Protection System, Practical Design for Kitchen, Office, Trip (Black)",
@@ -1103,7 +1103,7 @@
   {
     "asin": "B0GYM3XSZW",
     "brand": "EL MAYAN HOME",
-    "name": "Turkish قهوة",
+    "name": "ELMA قهوة",
     "specs": {},
     "model": "A13015",
     "title": "Turkish Coffee Maker - Compact Design & Fast Performance - Ideal for Home & Office A13015 BY EL MAYAN® HOME",
@@ -1123,7 +1123,7 @@
   {
     "asin": "B0HNDHHGD4",
     "brand": "Yina",
-    "name": "Yina قهوة",
+    "name": "قهوة",
     "specs": {},
     "model": "",
     "title": "Yina YN-1007 Smart Turkish Coffee Machine For Drinks | Turkish Coffee Milk, Fashion Elegant Design, Stainless Steel Bowl, Easy to Use, Multi Drinks",
@@ -1195,7 +1195,7 @@
     "title": "Versuni Philips EP5447/90 Fully Automatic Espresso Machine, LatteGo Milk System, AquaClean Filter, Stainless Steel, 1500 W, Chrome",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 47999,
+    "price": 47998,
     "img": "https://m.media-amazon.com/images/I/41LFZ0lbEUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08CBJ8W9W?tag=fineartslab-21",
     "active": true,
@@ -1232,7 +1232,7 @@
   {
     "asin": "B0FF4VX32L",
     "brand": "سوكاني",
-    "name": "SK-04032 قهوة إسبريسو 1800وات",
+    "name": "سوكاني قهوة إسبريسو 1800وات",
     "specs": {
       "type": "إسبريسو",
       "watt": "1800"
@@ -1264,7 +1264,7 @@
     "title": "Sokany Professional 4-in-1 Espresso Coffee Machine, 2.6L 2800W 20-Bar, SK-04046",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 23900,
+    "price": 23790,
     "img": "https://m.media-amazon.com/images/I/414UxiQN2dL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GLQQMZW1?tag=fineartslab-21",
     "active": true,
@@ -1477,7 +1477,7 @@
   {
     "asin": "B0DPDDNB6F",
     "brand": "أرزوم",
-    "name": "Espresso قهوة إسبريسو",
+    "name": "أرزوم قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -1499,7 +1499,7 @@
   {
     "asin": "B0DPDF2KDL",
     "brand": "أرزوم",
-    "name": "Espresso قهوة إسبريسو",
+    "name": "أرزوم قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -1507,7 +1507,7 @@
     "title": "Espresso Pro M Fully Automatic Machine OK0028-05 Black-Chrome",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 27999,
+    "price": 27499,
     "img": "https://m.media-amazon.com/images/I/41OyXOme4yL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DPDF2KDL?tag=fineartslab-21",
     "active": true,
@@ -1587,7 +1587,7 @@
   {
     "asin": "B0DSJS4K5M",
     "brand": "أرزوم",
-    "name": "Okka قهوة إسبريسو",
+    "name": "أرزوم قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -1595,7 +1595,7 @@
     "title": "Okka Espresso Solo Semi-Automatic Espresso Machine OK0034-05 Black-Chrome",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 11740,
+    "price": 11730,
     "img": "https://m.media-amazon.com/images/I/41P-+DX2-6L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DSJS4K5M?tag=fineartslab-21",
     "active": true,
@@ -1669,7 +1669,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -1721,7 +1721,7 @@
   {
     "asin": "B0DPDDY64M",
     "brand": "أرزوم",
-    "name": "Espresso قهوة إسبريسو",
+    "name": "أرزوم قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -1729,7 +1729,7 @@
     "title": "Espresso Pro M Fully Automatic Machine OK0028-04 Black-Copper",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 27499,
+    "price": 27349,
     "img": "https://m.media-amazon.com/images/I/41+1ZwhOKcL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DPDDY64M?tag=fineartslab-21",
     "active": true,
@@ -1894,7 +1894,7 @@
   {
     "asin": "B0GVGRLNFR",
     "brand": "غير محدد",
-    "name": "one قهوة فورية 1000وات",
+    "name": "قهوة فورية 1000وات",
     "specs": {
       "type": "فورية",
       "watt": "1000"
@@ -1911,7 +1911,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -1958,7 +1958,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 12,
+    "oosCount": 13,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26",
     "reason": "out-of-stock"
@@ -1974,7 +1974,7 @@
     "title": "De'Longhi EC 850.M Pump Espresso and Cappuccino Coffee Machine - Silver (international warranty )",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 16799,
+    "price": 16599,
     "img": "https://m.media-amazon.com/images/I/41VjjbcnOFL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B004J18S46?tag=fineartslab-21",
     "active": true,
@@ -1988,7 +1988,7 @@
   {
     "asin": "B0HKB673F7",
     "brand": "غير محدد",
-    "name": "Turkish قهوة 1000وات",
+    "name": "قهوة 1000وات",
     "specs": {
       "watt": "1000"
     },
@@ -2077,7 +2077,7 @@
   {
     "asin": "B0HDTNRJBQ",
     "brand": "Thrift",
-    "name": "قهوة كبسولات",
+    "name": "Thrift قهوة كبسولات",
     "specs": {
       "type": "كبسولات"
     },
@@ -2165,7 +2165,7 @@
   {
     "asin": "B0FH2JM75N",
     "brand": "W.M.A.E",
-    "name": "wmae قهوة 1500وات",
+    "name": "قهوة 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -2187,7 +2187,7 @@
   {
     "asin": "B0D5WKDP3B",
     "brand": "SONAI",
-    "name": "Sonai قهوة 535وات",
+    "name": "SONAI قهوة 535وات",
     "specs": {
       "watt": "535"
     },
@@ -2209,7 +2209,7 @@
   {
     "asin": "B08WJMPN7Q",
     "brand": "SONAI",
-    "name": "Sonai قهوة 700وات",
+    "name": "SONAI قهوة 700وات",
     "specs": {
       "watt": "700"
     },
@@ -2231,7 +2231,7 @@
   {
     "asin": "B0FN86L36C",
     "brand": "Next store",
-    "name": "قهوة إسبريسو",
+    "name": "Next store قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -2275,7 +2275,7 @@
   {
     "asin": "B0H4GT45T2",
     "brand": "Grand Electronic",
-    "name": "Grand قهوة",
+    "name": "Grand Electronic قهوة",
     "specs": {},
     "model": "",
     "title": "Grand Electronic Electric Turkish Coffee Pot, Capacity 3 Cups, Multi-Colour, For Making Turkish Coffee And Hot Drinks",
@@ -2595,7 +2595,7 @@
   {
     "asin": "B0839PBRNL",
     "brand": "نسكافيه",
-    "name": "نسكافيه قهوة كبسولات",
+    "name": "ديلونجي قهوة كبسولات",
     "specs": {
       "type": "كبسولات"
     },
@@ -2759,8 +2759,10 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B076DR3SW8",
@@ -2837,7 +2839,7 @@
     "title": "Kenwood Turkish Coffee Maker – CTP10.000BR",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2999,
+    "price": 2990,
     "img": "https://m.media-amazon.com/images/I/413QBQaXB7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DSDBLNPN?tag=fineartslab-21",
     "active": true,
@@ -2873,13 +2875,13 @@
   {
     "asin": "B0CKLKNBPY",
     "brand": "DeLonghi",
-    "name": "DeLonghi قهوة",
+    "name": "ديلونجي قهوة",
     "specs": {},
     "model": "",
     "title": "De’Longhi Dinamica Plus ECAM 380.95.TB coffee maker Fully-auto Combi coffee maker 1.8 L",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 51093,
+    "price": 49950,
     "img": "https://m.media-amazon.com/images/I/41FORkyLGvL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CKLKNBPY?tag=fineartslab-21",
     "active": true,
@@ -2913,7 +2915,7 @@
   {
     "asin": "B08LW15YMQ",
     "brand": "نسكافيه",
-    "name": "نسكافيه قهوة كبسولات",
+    "name": "ديلونجي قهوة كبسولات",
     "specs": {
       "type": "كبسولات"
     },
@@ -3009,7 +3011,7 @@
     "title": "Castell Espresso Coffee Machine, 5 Functions, Touch Control, Black Silver - CMT1350",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7250,
+    "price": 6999,
     "img": "https://m.media-amazon.com/images/I/31J-6t-TuGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DHW141CR?tag=fineartslab-21",
     "active": true,
@@ -3043,7 +3045,7 @@
   {
     "asin": "B0HK28ZCH9",
     "brand": "اي كافيلاس",
-    "name": "iCafilas قهوة كبسولات",
+    "name": "قهوة كبسولات",
     "specs": {
       "type": "كبسولات"
     },
@@ -3087,7 +3089,7 @@
   {
     "asin": "B07MGC8C5J",
     "brand": "Spaceshoop",
-    "name": "قهوة إسبريسو",
+    "name": "Spaceshoop قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -3152,7 +3154,7 @@
   {
     "asin": "B0H3QBJ1MP",
     "brand": "KRUPS",
-    "name": "Krups قهوة",
+    "name": "KRUPS قهوة",
     "specs": {},
     "model": "EA879NE0",
     "title": "Krups Intuition Experience, Automatic Coffee Machine, 36 Hot & Cold Beverages, Cold Brew Aroma Technology, Made in France - EA879NE0",
@@ -3172,7 +3174,7 @@
   {
     "asin": "B07MWX4LSQ",
     "brand": "Spaceshoop",
-    "name": "Turkesh قهوة",
+    "name": "Spaceshoop قهوة",
     "specs": {},
     "model": "SD001",
     "title": "Turkesh Coffee Machine - White, SD001",
@@ -3192,7 +3194,7 @@
   {
     "asin": "B0H5QZ49SV",
     "brand": "ديلونجي",
-    "name": "ديلونجي قهوة إسبريسو",
+    "name": "قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -3370,7 +3372,7 @@
     "title": "DSP Coffee Maker – 800W – 1.25L | Model KA3126",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1435,
+    "price": 1434.5,
     "img": "https://m.media-amazon.com/images/I/4106vKNPqrL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GV15PR1L?tag=fineartslab-21",
     "active": true,
@@ -3432,7 +3434,7 @@
     "title": "ARZUM OKKA COFFEE MACHINE ARZUM OKKA ELIT - Sliver OK0040-23",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 15235,
+    "price": 16999,
     "img": "https://m.media-amazon.com/images/I/41xOzYe3WiL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FV8M959N?tag=fineartslab-21",
     "active": true,
@@ -3514,7 +3516,7 @@
   {
     "asin": "B085T449JS",
     "brand": "Spaceshoop",
-    "name": "Manual قهوة إسبريسو",
+    "name": "Spaceshoop قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -3536,7 +3538,7 @@
   {
     "asin": "B0FGK2ZWS4",
     "brand": "Wonka",
-    "name": "Turkish قهوة 600وات",
+    "name": "Wonka قهوة 600وات",
     "specs": {
       "watt": "600"
     },
@@ -3620,7 +3622,7 @@
   {
     "asin": "B0DRLLKYX4",
     "brand": "بيكو",
-    "name": "Coffee قهوة 670وات",
+    "name": "بيكو قهوة 670وات",
     "specs": {
       "watt": "670"
     },
@@ -3682,7 +3684,7 @@
   {
     "asin": "B07YG5TG2F",
     "brand": "Solac",
-    "name": "SOLAC قهوة إسبريسو",
+    "name": "Solac قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -3704,7 +3706,7 @@
   {
     "asin": "B0BYMSXD2L",
     "brand": "Smeg",
-    "name": "SMEG قهوة إسبريسو",
+    "name": "Smeg قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -3813,7 +3815,7 @@
   {
     "asin": "B07YBCG74L",
     "brand": "Spaceshoop",
-    "name": "قهوة إسبريسو",
+    "name": "Spaceshoop قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -3956,7 +3958,7 @@
     "title": "Beko Manual Espresso Machine (15 Bar) - Touch Screen - Milk Frother - 1628 Watt - CEP 5302 B",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10260,
+    "price": 10199,
     "img": "https://m.media-amazon.com/images/I/31kesKM2IAL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DSJKNG3G?tag=fineartslab-21",
     "active": false,
@@ -4008,7 +4010,7 @@
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -4060,7 +4062,7 @@
   {
     "asin": "B0894QZKM1",
     "brand": "Spaceshoop",
-    "name": "Innlife قهوة إسبريسو",
+    "name": "Spaceshoop قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4082,7 +4084,7 @@
   {
     "asin": "B097DCNLL6",
     "brand": "WACACO",
-    "name": "Wacaco قهوة",
+    "name": "WACACO قهوة",
     "specs": {},
     "model": "",
     "title": "Wacaco Picopresso Portable Coffee Maker + Hard Case",
@@ -4102,7 +4104,7 @@
   {
     "asin": "B0CD5SFMSG",
     "brand": "UC UCKAYA",
-    "name": "UC قهوة إسبريسو",
+    "name": "UC UCKAYA قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4146,7 +4148,7 @@
   {
     "asin": "B0GDRD6KL7",
     "brand": "Next store",
-    "name": "Next قهوة إسبريسو",
+    "name": "Next store قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4168,7 +4170,7 @@
   {
     "asin": "B0GYZGR7S2",
     "brand": "Next store",
-    "name": "Next قهوة إسبريسو",
+    "name": "Next store قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4254,7 +4256,7 @@
   {
     "asin": "B0DVZLW22V",
     "brand": "Winning Star",
-    "name": "Winning قهوة إسبريسو",
+    "name": "Winning Star قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4366,7 +4368,7 @@
   {
     "asin": "B07MMHJCZS",
     "brand": "WACACO",
-    "name": "Wacaco قهوة إسبريسو",
+    "name": "WACACO قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4410,7 +4412,7 @@
   {
     "asin": "B07MWQKKM3",
     "brand": "Spaceshoop",
-    "name": "Minipresso قهوة إسبريسو",
+    "name": "Spaceshoop قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4432,7 +4434,7 @@
   {
     "asin": "B0H1HHHQRZ",
     "brand": "Winning Star",
-    "name": "Winning قهوة إسبريسو",
+    "name": "Winning Star قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4499,7 +4501,7 @@
   {
     "asin": "B0D2JL3VTH",
     "brand": "UC UCKAYA",
-    "name": "قهوة إسبريسو",
+    "name": "UC UCKAYA قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4521,7 +4523,7 @@
   {
     "asin": "B0GJT2G9HN",
     "brand": "Winning Star",
-    "name": "Winning قهوة كبسولات 1400وات",
+    "name": "Winning Star قهوة كبسولات",
     "specs": {
       "type": "كبسولات",
       "watt": "1400"
@@ -4544,7 +4546,7 @@
   {
     "asin": "B0GW485YX2",
     "brand": "Happy Home",
-    "name": "HAPPY قهوة إسبريسو",
+    "name": "قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4582,8 +4584,10 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0DN88L841",
@@ -4624,8 +4628,10 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B07MMJBKY7",
@@ -4653,7 +4659,7 @@
   {
     "asin": "B0DSFX3DRY",
     "brand": "HahaGo",
-    "name": "قهوة إسبريسو",
+    "name": "HahaGo قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4697,7 +4703,7 @@
   {
     "asin": "B0GNH6LXCH",
     "brand": "غير محدد",
-    "name": "محطة قهوة فلتر",
+    "name": "قهوة فلتر",
     "specs": {
       "type": "فلتر"
     },
@@ -4719,7 +4725,7 @@
   {
     "asin": "B0HLDWJN4C",
     "brand": "غير محدد",
-    "name": "Stainless قهوة إسبريسو",
+    "name": "قهوة إسبريسو",
     "specs": {
       "type": "إسبريسو"
     },
@@ -4763,7 +4769,7 @@
   {
     "asin": "B0D846FXSQ",
     "brand": "هانسو",
-    "name": "hanso قهوة",
+    "name": "قهوة",
     "specs": {},
     "model": "",
     "title": "hanso French Press Coffee & Tea Maker for Home, Office, or On-the-Go - Heat-Resistant & Compact Design (Black, 350 ML)",

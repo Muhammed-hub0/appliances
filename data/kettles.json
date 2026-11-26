@@ -65,7 +65,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -159,8 +159,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B08PT66VV8",
@@ -264,7 +266,7 @@
     "title": "Fresh electric kettle fresh - glass - 1.7 l - assorted color",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 783,
+    "price": 802,
     "img": "https://m.media-amazon.com/images/I/31XlABqelUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08XJRP314?tag=fineartslab-21",
     "active": true,
@@ -286,7 +288,7 @@
     "title": "Mienta - Kettle - EK201937B - 2200W",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 828,
+    "price": 812.5,
     "img": "https://m.media-amazon.com/images/I/31gV8nuiXlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FX5J7HK6?tag=fineartslab-21",
     "active": true,
@@ -300,7 +302,7 @@
   {
     "asin": "B08X6DB7ZS",
     "brand": "فريش",
-    "name": "غلاية 1.7لتر",
+    "name": "فريش غلاية 1.7لتر",
     "specs": {
       "cap": "1.7"
     },
@@ -354,7 +356,7 @@
     "title": "Mienta EK201020A Electric Kettle 1.7 Liter, 2150W - Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1989,
+    "price": 1990,
     "img": "https://m.media-amazon.com/images/I/31eoHH-SBpL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08XJSCJYW?tag=fineartslab-21",
     "active": true,
@@ -446,7 +448,7 @@
     "title": "Sokany Electric Glass Kettle, 1.8L, 1800W, LED Light, Stainless Steel Filter",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1083,
+    "price": 1082,
     "img": "https://m.media-amazon.com/images/I/31ydhchAU6L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FH4WS3S9?tag=fineartslab-21",
     "active": true,
@@ -523,7 +525,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -598,7 +600,7 @@
   {
     "asin": "B07NDZMRCP",
     "brand": "بوش",
-    "name": "فيليبس غلاية 1.7لتر",
+    "name": "بوش غلاية 1.7لتر",
     "specs": {
       "cap": "1.7"
     },
@@ -606,7 +608,7 @@
     "title": "PHILIPS Daily Collection Stainless Steel Kettle with Spring Lid, Light Indicator, 1.7L - HD9350",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2378,
+    "price": 2111.04,
     "img": "https://m.media-amazon.com/images/I/31arjApjiSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07NDZMRCP?tag=fineartslab-21",
     "active": true,
@@ -702,7 +704,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -730,7 +732,7 @@
   {
     "asin": "B0FSF1WQC8",
     "brand": "نيوتريكوك",
-    "name": "NC غلاية",
+    "name": "نيوتريكوك غلاية",
     "specs": {},
     "model": "USK600",
     "title": "NC EVERYTHING KETTLE WITH DIGITAL DISPLAYNC-USK600",
@@ -773,7 +775,7 @@
   {
     "asin": "B0GSRM9LQN",
     "brand": "PRIME TECH",
-    "name": "PRIME غلاية 2.2لتر 1500وات",
+    "name": "PRIME TECH غلاية 2.2لتر",
     "specs": {
       "cap": "2.2",
       "watt": "1500"
@@ -842,7 +844,7 @@
   {
     "asin": "B0HMRXX465",
     "brand": "PRIME TECH",
-    "name": "Prime غلاية 1.7لتر 1500وات",
+    "name": "PRIME TECH غلاية 1.7لتر",
     "specs": {
       "cap": "1.7",
       "watt": "1500"
@@ -865,7 +867,7 @@
   {
     "asin": "B0HK4C5DFB",
     "brand": "PRIME TECH",
-    "name": "PRIME غلاية 1.8لتر 1500وات",
+    "name": "PRIME TECH غلاية 1.8لتر",
     "specs": {
       "cap": "1.8",
       "watt": "1500"
@@ -888,7 +890,7 @@
   {
     "asin": "B0FR6M3Z53",
     "brand": "One Life",
-    "name": "One غلاية 1.7لتر 2200وات",
+    "name": "One Life غلاية 1.7لتر",
     "specs": {
       "cap": "1.7",
       "watt": "2200"
@@ -934,7 +936,7 @@
   {
     "asin": "B0H4W4KB1D",
     "brand": "PRIME TECH",
-    "name": "PRIME غلاية 2لتر 1500وات",
+    "name": "PRIME TECH غلاية 2لتر",
     "specs": {
       "cap": "2",
       "watt": "1500"
@@ -1001,7 +1003,7 @@
   {
     "asin": "B0H8JNNBKR",
     "brand": "FLAMNGO",
-    "name": "Flamingo غلاية 2.2لتر",
+    "name": "FLAMNGO غلاية 2.2لتر",
     "specs": {
       "cap": "2.2"
     },
@@ -1045,7 +1047,7 @@
   {
     "asin": "B0H2S821FT",
     "brand": "PRIME TECH",
-    "name": "PRIME غلاية 2.5لتر",
+    "name": "PRIME TECH غلاية 2.5لتر",
     "specs": {
       "cap": "2.5"
     },
@@ -1111,7 +1113,7 @@
   {
     "asin": "B0DTQ5YWHJ",
     "brand": "Spaceshoop",
-    "name": "غلاية 2لتر",
+    "name": "Spaceshoop غلاية 2لتر",
     "specs": {
       "cap": "2"
     },
@@ -1133,7 +1135,7 @@
   {
     "asin": "B0DZHZ7C9B",
     "brand": "FLAMNGO",
-    "name": "Granite غلاية 1.5لتر",
+    "name": "FLAMNGO غلاية 1.5لتر",
     "specs": {
       "cap": "1.5"
     },
@@ -1155,7 +1157,7 @@
   {
     "asin": "B0BRBB2N91",
     "brand": "Spaceshoop",
-    "name": "Travel غلاية",
+    "name": "Spaceshoop غلاية",
     "specs": {},
     "model": "WHITE",
     "title": "Travel Kettle Electric Small Foldable Portable Kettle,Silicone Collapsible Heating Water Boiler Tea Pot for Camping,Easy for Storage with Separable Power Cord (White)",
@@ -1277,7 +1279,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 1915.83,
-    "img": "https://m.media-amazon.com/images/I/6192Joz7wkL._AC_SY355_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31EGGezvEbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H29XVPT7?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1299,7 +1301,7 @@
     "title": "Sokany SK09090 Electric Kettle, 2200 W, 1.7 Liter Capacity | Sukani Water Kettle",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1390,
+    "price": 1290,
     "img": "https://m.media-amazon.com/images/I/41mGm5XKwmL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GLQPW37V?tag=fineartslab-21",
     "active": true,
@@ -1353,7 +1355,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -1393,7 +1395,7 @@
     "title": "Braun WK300 Multiquick 3 Kettle 1.7 Liters, White – International Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3180,
+    "price": 2999,
     "img": "https://m.media-amazon.com/images/I/41y5hkTrVgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B005013GXC?tag=fineartslab-21",
     "active": true,
@@ -1423,8 +1425,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B091JPZL6N",
@@ -1471,7 +1475,7 @@
   {
     "asin": "B098VXS2KY",
     "brand": "فريش",
-    "name": "Glass غلاية",
+    "name": "فريش غلاية",
     "specs": {},
     "model": "",
     "title": "Glass Electric Kettle HA 932 item 5239,Multicolor",
@@ -1497,7 +1501,7 @@
     "title": "RAF Multifunction Health Pot, Glass Electric Kettle, Beige, with Warming Base",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 683,
+    "price": 1200,
     "img": "https://m.media-amazon.com/images/I/51pwmgYoWuL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H5C6HZ9L?tag=fineartslab-21",
     "active": true,
@@ -1531,7 +1535,7 @@
   {
     "asin": "B09DQ278PX",
     "brand": "SONAI",
-    "name": "Sonai غلاية 1.7لتر 2200وات",
+    "name": "SONAI غلاية 1.7لتر 2200وات",
     "specs": {
       "cap": "1.7",
       "watt": "2200"
@@ -1577,7 +1581,7 @@
   {
     "asin": "B0FR5YG2LK",
     "brand": "One Life",
-    "name": "One غلاية 1.7لتر 2200وات",
+    "name": "One Life غلاية 1.7لتر",
     "specs": {
       "cap": "1.7",
       "watt": "2200"
@@ -1586,7 +1590,7 @@
     "title": "One Life Kettle, Double Wall Design, 1.7L, 2200W-EKM80BK -Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1199,
+    "price": 1247,
     "img": "https://m.media-amazon.com/images/I/31iaPfFs00L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FR5YG2LK?tag=fineartslab-21",
     "active": true,
@@ -1655,7 +1659,7 @@
     "title": "City HMA-1036 1200W Plastic Electric Water Kettle, 0.6 Liter Capacity, White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 355,
+    "price": 285.16,
     "img": "https://m.media-amazon.com/images/I/41PIZePD1eL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H1H9B8VT?tag=fineartslab-21",
     "active": true,
@@ -1669,7 +1673,7 @@
   {
     "asin": "B091D1PD6D",
     "brand": "Spaceshoop",
-    "name": "Stainless غلاية 1.5لتر 1500وات",
+    "name": "Spaceshoop غلاية 1.5لتر 1500وات",
     "specs": {
       "cap": "1.5",
       "watt": "1500"
@@ -1738,7 +1742,7 @@
   {
     "asin": "B0BVC2SNHV",
     "brand": "FLAMNGO",
-    "name": "Kettle غلاية 1.8لتر 1500وات",
+    "name": "FLAMNGO غلاية 1.8لتر 1500وات",
     "specs": {
       "cap": "1.8",
       "watt": "1500"
@@ -1761,7 +1765,7 @@
   {
     "asin": "B0G9XP22LL",
     "brand": "Next store",
-    "name": "Pyrex غلاية 2لتر 1500وات",
+    "name": "Next store غلاية 2لتر",
     "specs": {
       "cap": "2",
       "watt": "1500"
@@ -1784,7 +1788,7 @@
   {
     "asin": "B0GYLJ4P7W",
     "brand": "HOMA",
-    "name": "غلاية 1.8لتر 1500وات",
+    "name": "HOMA غلاية 1.8لتر 1500وات",
     "specs": {
       "cap": "1.8",
       "watt": "1500"
@@ -1829,7 +1833,7 @@
   {
     "asin": "B0CPKG6GKM",
     "brand": "OVA",
-    "name": "Portal غلاية 0.5لتر",
+    "name": "OVA غلاية 0.5لتر",
     "specs": {
       "cap": "0.5"
     },
@@ -1837,7 +1841,7 @@
     "title": "Portal 0.5L Stainless Steel Mini Electric Kettle, Portable Travel Water Kettle",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 349,
+    "price": 299,
     "img": "https://m.media-amazon.com/images/I/31c6vRxe9xL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CPKG6GKM?tag=fineartslab-21",
     "active": true,
@@ -1859,7 +1863,7 @@
     "title": "TECHZONE Premium Glass Electric Kettle with Digital Temperature Display – 1.5 L Fast Boil Water Kettle for Tea & Coffee, Precise Temperature Control, Safe & Stylish Kitchen Essential",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 969,
+    "price": 964.75,
     "img": "https://m.media-amazon.com/images/I/41DNyHuHZtL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G6FNQKC6?tag=fineartslab-21",
     "active": true,
@@ -1873,7 +1877,7 @@
   {
     "asin": "B0DZHYPY41",
     "brand": "FLAMNGO",
-    "name": "Granite غلاية 1.5لتر",
+    "name": "FLAMNGO غلاية 1.5لتر",
     "specs": {
       "cap": "1.5"
     },
@@ -1895,7 +1899,7 @@
   {
     "asin": "B0FM429KKD",
     "brand": "MediaTech",
-    "name": "Media غلاية 1.7لتر",
+    "name": "MediaTech غلاية 1.7لتر",
     "specs": {
       "cap": "1.7"
     },
@@ -1917,7 +1921,7 @@
   {
     "asin": "B0FN4PSL1V",
     "brand": "Next store",
-    "name": "Next غلاية 1.5لتر",
+    "name": "Next store غلاية 1.5لتر",
     "specs": {
       "cap": "1.5"
     },
@@ -1939,7 +1943,7 @@
   {
     "asin": "B0F2262XDY",
     "brand": "FLAMNGO",
-    "name": "Flamingo غلاية 2لتر",
+    "name": "FLAMNGO غلاية 2لتر",
     "specs": {
       "cap": "2"
     },
@@ -1983,7 +1987,7 @@
   {
     "asin": "B097DK81GJ",
     "brand": "Spaceshoop",
-    "name": "Stainless غلاية 1.5لتر",
+    "name": "Spaceshoop غلاية 1.5لتر",
     "specs": {
       "cap": "1.5"
     },
@@ -2005,7 +2009,7 @@
   {
     "asin": "B0HQXTYK8R",
     "brand": "جاماكي",
-    "name": "Jamaky غلاية 0.5لتر",
+    "name": "غلاية 0.5لتر",
     "specs": {
       "cap": "0.5"
     },
@@ -2027,7 +2031,7 @@
   {
     "asin": "B0H2SC15R8",
     "brand": "PRIME TECH",
-    "name": "PRIME غلاية 2.5لتر",
+    "name": "PRIME TECH غلاية 2.5لتر",
     "specs": {
       "cap": "2.5"
     },
@@ -2049,7 +2053,7 @@
   {
     "asin": "B0FR5JVYD7",
     "brand": "One Life",
-    "name": "One غلاية 1.7لتر",
+    "name": "One Life غلاية 1.7لتر",
     "specs": {
       "cap": "1.7"
     },
@@ -2071,7 +2075,7 @@
   {
     "asin": "B0DTJFRRSF",
     "brand": "FLAMNGO",
-    "name": "CATEL غلاية 2.2لتر",
+    "name": "FLAMNGO غلاية 2.2لتر",
     "specs": {
       "cap": "2.2"
     },
@@ -2093,7 +2097,7 @@
   {
     "asin": "B0FSXL98R8",
     "brand": "Next store",
-    "name": "Next غلاية 0.5لتر",
+    "name": "Next store غلاية 0.5لتر",
     "specs": {
       "cap": "0.5"
     },
@@ -2115,7 +2119,7 @@
   {
     "asin": "B0G15351J1",
     "brand": "Black & Power",
-    "name": "غلاية 1.5لتر",
+    "name": "Black & Power غلاية",
     "specs": {
       "cap": "1.5"
     },
@@ -2137,13 +2141,13 @@
   {
     "asin": "B08LNCSQJT",
     "brand": "Kotak Sales",
-    "name": "Kotak غلاية",
+    "name": "Kotak Sales غلاية",
     "specs": {},
     "model": "MULTICOLOR",
     "title": "Kotak Sales Travel Electric Portable Foldable 600ML Kettle Collapsible Silicon 220V 50Hz for Tea Coffee Hot Water (MultiColor)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 268.38,
+    "price": 261.69,
     "img": "https://m.media-amazon.com/images/I/31u6gyfYx6L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08LNCSQJT?tag=fineartslab-21",
     "active": true,
@@ -2163,7 +2167,7 @@
     "title": "BLUESEABUY Foldable 600ml Silicone Mini Kettle for Travel, Camping, Kitchen, Blue",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 238.73,
+    "price": 230,
     "img": "https://m.media-amazon.com/images/I/31OB5RvVVdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DB7SQMN4?tag=fineartslab-21",
     "active": true,
@@ -2177,7 +2181,7 @@
   {
     "asin": "B0DWYJHSLV",
     "brand": "عام",
-    "name": "Turkish غلاية",
+    "name": "عام غلاية",
     "specs": {},
     "model": "",
     "title": "Turkish Coffee Kettle Greek Stainless Steel Electric Portable Stainless Steel 500ml Capacity",
@@ -2197,7 +2201,7 @@
   {
     "asin": "B08P4J53T6",
     "brand": "LC",
-    "name": "Stainless غلاية",
+    "name": "LC غلاية",
     "specs": {},
     "model": "",
     "title": "Stainless Steel Electric Portable Greek Turkish Coffee Machine Kettle,500Ml",
@@ -2217,13 +2221,13 @@
   {
     "asin": "B0G821NMHK",
     "brand": "Next store",
-    "name": "Next غلاية",
+    "name": "Next store غلاية",
     "specs": {},
     "model": "",
     "title": "Next Store Multifunctional Electric Coffee Pot and Water Kettle - Fast Kettle, Turkish Coffee, Tea, Herbs - Portable Mini Coffee Maker for Home, Office, Travel",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 881.91,
+    "price": 1256.6,
     "img": "https://m.media-amazon.com/images/I/41DNyHuHZtL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G821NMHK?tag=fineartslab-21",
     "active": true,
@@ -2257,7 +2261,7 @@
   {
     "asin": "B0C9QRCGZN",
     "brand": "resgitiati",
-    "name": "Foldable غلاية",
+    "name": "resgitiati غلاية",
     "specs": {},
     "model": "",
     "title": "Foldable Electric Travel Kettle - Portable and Convenient Silicone Collapsible Water Boiler and Tea Pot for Camping - Easy Storage with Detachable Power Cord （White）",
@@ -2297,7 +2301,7 @@
   {
     "asin": "B0G1XQW47D",
     "brand": "عام",
-    "name": "كاتيل غلاية",
+    "name": "عام غلاية",
     "specs": {},
     "model": "",
     "title": "كاتيل غلاية كهربائية بايريكس – زجاج بلوري شفاف مقاوم للحرارة، تصميم عصري متعدد الألوان، غليان سريع وآمن للمطبخ",
@@ -2317,7 +2321,7 @@
   {
     "asin": "B0991WL7FQ",
     "brand": "YYQTGG",
-    "name": "Travel غلاية",
+    "name": "YYQTGG غلاية",
     "specs": {},
     "model": "",
     "title": "Travel Folding Electric Kettle, Folding Electric Knife, Food Rating Silicone Small Electric Kettle by Boiling Water",
@@ -2337,7 +2341,7 @@
   {
     "asin": "B098TZKLCJ",
     "brand": "Nova",
-    "name": "NOVA غلاية",
+    "name": "Nova غلاية",
     "specs": {},
     "model": "",
     "title": "NOVA Electric Kettle - 20 liters",
@@ -2371,8 +2375,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0FGXRG6C9",
@@ -2430,7 +2436,7 @@
     "title": "Fresh Kettle Glass 1.7 Liters - Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 770,
+    "price": 799,
     "img": "https://m.media-amazon.com/images/I/31H-SlIGoBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C19HMH71?tag=fineartslab-21",
     "active": true,
@@ -2456,13 +2462,13 @@
     "price": 1539,
     "img": "https://m.media-amazon.com/images/I/41Et0TbZqbL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJJF8K5?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
@@ -2514,7 +2520,7 @@
   {
     "asin": "B091CVX9HK",
     "brand": "FLAMNGO",
-    "name": "Flamngo غلاية 2.2لتر",
+    "name": "FLAMNGO غلاية 2.2لتر",
     "specs": {
       "cap": "2.2"
     },
@@ -2536,7 +2542,7 @@
   {
     "asin": "B0DTGMTQC4",
     "brand": "FLAMNGO",
-    "name": "CATEL غلاية 2.2لتر",
+    "name": "FLAMNGO غلاية 2.2لتر",
     "specs": {
       "cap": "2.2"
     },
@@ -2580,7 +2586,7 @@
   {
     "asin": "B0CTMSJQ1J",
     "brand": "SONAI",
-    "name": "Sonai غلاية 1.7لتر 2200وات",
+    "name": "SONAI غلاية 1.7لتر 2200وات",
     "specs": {
       "cap": "1.7",
       "watt": "2200"
@@ -2659,7 +2665,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 656,
-    "img": "https://m.media-amazon.com/images/I/5141kfMxVaL._AC_SY355_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41sMjpgFlXL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GLQDTCS4?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -2672,7 +2678,7 @@
   {
     "asin": "B0HCJ3S2TX",
     "brand": "Next store",
-    "name": "Next غلاية",
+    "name": "Next store غلاية",
     "specs": {},
     "model": "",
     "title": "Next store Digital Touch Screen Smart Glass Electric Kettle - Thick Glass Kettle, Precise Temperature Control for Tea and Coffee",
@@ -2805,13 +2811,13 @@
   {
     "asin": "B0BNP12RYR",
     "brand": "resgitiati",
-    "name": "Travel غلاية",
+    "name": "resgitiati غلاية",
     "specs": {},
     "model": "PINK",
     "title": "Travel Kettle Electric Small Foldable Portable Kettle,Silicone Collapsible Heating Water Boiler Tea Pot for Camping,Easy for Storage with Separable Power Cord (Pink)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 252.67,
+    "price": 245,
     "img": "https://m.media-amazon.com/images/I/31h66r40HlL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BNP12RYR?tag=fineartslab-21",
     "active": true,
@@ -2848,13 +2854,13 @@
   {
     "asin": "B0CF2H7T9W",
     "brand": "Spaceshoop",
-    "name": "Turkish غلاية",
+    "name": "Spaceshoop غلاية",
     "specs": {},
     "model": "",
     "title": "Turkish Coffee Maker, Electric Pot Water Kettle Portable, 0.4L Capacity - Random Color - 1 Pcs",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 176,
+    "price": 173,
     "img": "https://m.media-amazon.com/images/I/510EQ6N63DL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CF2H7T9W?tag=fineartslab-21",
     "active": true,
@@ -2913,7 +2919,7 @@
   {
     "asin": "B0CYZXHCYD",
     "brand": "CITY",
-    "name": "City غلاية 1.8لتر 1500وات",
+    "name": "CITY غلاية 1.8لتر 1500وات",
     "specs": {
       "cap": "1.8",
       "watt": "1500"
@@ -2922,7 +2928,7 @@
     "title": "City electric kettle, Water Boiler, Efficient 1500W Electric Kettle, Stainless Steel, 1.8L, Luxury Design, Fast Boiling, Automatic Power Off, Heat Insulated Handle & Dry Boil Protection, 1020 (White)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 425.18,
+    "price": 472.82,
     "img": "https://m.media-amazon.com/images/I/41mj+yU5j9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CYZXHCYD?tag=fineartslab-21",
     "active": true,
@@ -2959,7 +2965,7 @@
   {
     "asin": "B0FMP5D9CQ",
     "brand": "SPIDA",
-    "name": "Spida غلاية 4لتر 2300وات",
+    "name": "SPIDA غلاية 4لتر 2300وات",
     "specs": {
       "cap": "4",
       "watt": "2300"
@@ -2976,7 +2982,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -3075,7 +3081,7 @@
   {
     "asin": "B091D2DK3T",
     "brand": "FLAMNGO",
-    "name": "Flamingo غلاية 2.2لتر 1500وات",
+    "name": "FLAMNGO غلاية 2.2لتر 1500وات",
     "specs": {
       "cap": "2.2",
       "watt": "1500"
@@ -3107,7 +3113,7 @@
     "title": "Smeg KLF03CREU - Electric Kettle - 1.7L - 2400 W - Cream",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7525,
+    "price": 7500,
     "img": "https://m.media-amazon.com/images/I/31VMz+6pjsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B075WW8GGL?tag=fineartslab-21",
     "active": true,
@@ -3121,7 +3127,7 @@
   {
     "asin": "B0H8NWS82D",
     "brand": "sonfir",
-    "name": "Sonifer غلاية 0.5لتر 1000وات",
+    "name": "sonfir غلاية 0.5لتر 1000وات",
     "specs": {
       "cap": "0.5",
       "watt": "1000"
@@ -3144,7 +3150,7 @@
   {
     "asin": "B0BL38MSRM",
     "brand": "Touch Elzenouki",
-    "name": "Touch غلاية 1.8لتر 1800وات",
+    "name": "Touch Elzenouki غلاية 1.8لتر",
     "specs": {
       "cap": "1.8",
       "watt": "1800"
@@ -3167,7 +3173,7 @@
   {
     "asin": "B0B6WQCBV8",
     "brand": "Profi Cook",
-    "name": "ProfiCook غلاية 1لتر 1600وات",
+    "name": "Profi Cook غلاية 1لتر",
     "specs": {
       "cap": "1",
       "watt": "1600"
@@ -3190,7 +3196,7 @@
   {
     "asin": "B0F5DWHZWV",
     "brand": "elyassin",
-    "name": "Marov غلاية 1.5لتر 1500وات",
+    "name": "elyassin غلاية 1.5لتر 1500وات",
     "specs": {
       "cap": "1.5",
       "watt": "1500"
@@ -3258,7 +3264,7 @@
   {
     "asin": "B0F67DNY9J",
     "brand": "FLAMNGO",
-    "name": "Cattel غلاية 2لتر 1500وات",
+    "name": "FLAMNGO غلاية 2لتر 1500وات",
     "specs": {
       "cap": "2",
       "watt": "1500"
@@ -3392,7 +3398,7 @@
   {
     "asin": "B09B8S5FP2",
     "brand": "CITY",
-    "name": "غلاية",
+    "name": "CITY غلاية",
     "specs": {},
     "model": "",
     "title": "electric kettle,from City",
@@ -3449,7 +3455,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -3499,7 +3505,7 @@
   {
     "asin": "B0FMP6CG7P",
     "brand": "SPIDA",
-    "name": "Spida غلاية 5لتر 2300وات",
+    "name": "SPIDA غلاية 5لتر 2300وات",
     "specs": {
       "cap": "5",
       "watt": "2300"
@@ -3522,7 +3528,7 @@
   {
     "asin": "B0FMP45DQL",
     "brand": "SPIDA",
-    "name": "Spida غلاية 2لتر 1800وات",
+    "name": "SPIDA غلاية 2لتر 1800وات",
     "specs": {
       "cap": "2",
       "watt": "1800"
@@ -3539,7 +3545,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -3567,7 +3573,7 @@
   {
     "asin": "B0FJY24613",
     "brand": "Next store",
-    "name": "Next غلاية 600وات",
+    "name": "Next store غلاية 600وات",
     "specs": {
       "watt": "600"
     },
@@ -3589,7 +3595,7 @@
   {
     "asin": "B098TXZDW4",
     "brand": "Elegance",
-    "name": "elegance غلاية",
+    "name": "Elegance غلاية",
     "specs": {},
     "model": "",
     "title": "elegance Electric Kettle",
@@ -3629,7 +3635,7 @@
   {
     "asin": "B0DXQB8478",
     "brand": "نيوتريكوك",
-    "name": "NC غلاية",
+    "name": "نيوتريكوك غلاية",
     "specs": {},
     "model": "USK501",
     "title": "NC EVERYDAY KETTLENC-USK501",
@@ -3649,7 +3655,7 @@
   {
     "asin": "B098VVTVTT",
     "brand": "FLAMNGO",
-    "name": "Pyrex غلاية",
+    "name": "FLAMNGO غلاية",
     "specs": {},
     "model": "",
     "title": "Pyrex Kettle 1.8 Litre From Life,clear",
@@ -3669,7 +3675,7 @@
   {
     "asin": "B09D3Z8FB1",
     "brand": "Smeg",
-    "name": "SMEG غلاية",
+    "name": "Smeg غلاية",
     "specs": {},
     "model": "",
     "title": "SMEG 50's Retro Style 3 Cup Electric Mini Kettle White",
@@ -3709,7 +3715,7 @@
   {
     "asin": "B0DH575NS5",
     "brand": "Green Lion",
-    "name": "LePresso غلاية",
+    "name": "Green Lion غلاية",
     "specs": {},
     "model": "",
     "title": "LePresso Portable Kettle 96W, 300ml Capacity, Stainless Steel Material, Temperature Control, Boil Dry Protection, Car Adapter, Lightweight & Easy to Use - White",
@@ -3729,7 +3735,7 @@
   {
     "asin": "B0FH5LT792",
     "brand": "resgitiati",
-    "name": "Travel غلاية",
+    "name": "resgitiati غلاية",
     "specs": {},
     "model": "WHITE",
     "title": "Travel Kettle Electric Small Foldable Portable Kettle,Silicone Collapsible Heating Water Boiler Tea Pot for Camping,Easy for Storage with Separable Power Cord (White)",
@@ -3749,7 +3755,7 @@
   {
     "asin": "B0DSV4XQNP",
     "brand": "FLAMNGO",
-    "name": "Flamingo غلاية 2لتر 1500وات",
+    "name": "FLAMNGO غلاية 2لتر 1500وات",
     "specs": {
       "cap": "2",
       "watt": "1500"
@@ -3772,7 +3778,7 @@
   {
     "asin": "B0HR9PQ9WP",
     "brand": "غير محدد",
-    "name": "4L غلاية 4لتر 1500وات",
+    "name": "غلاية 4لتر 1500وات",
     "specs": {
       "cap": "4",
       "watt": "1500"
@@ -3789,13 +3795,15 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "filtered"
+    "oosCount": 1,
+    "reason": "filtered",
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0DSWNC4K9",
     "brand": "FLAMNGO",
-    "name": "Flamingo غلاية 2لتر 1500وات",
+    "name": "FLAMNGO غلاية 2لتر 1500وات",
     "specs": {
       "cap": "2",
       "watt": "1500"
@@ -3848,7 +3856,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 2033,
-    "img": "https://m.media-amazon.com/images/I/61ZwQyJuL6L._AC_SY355_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41BN0-IHPqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H2B2VTW4?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -3906,7 +3914,7 @@
   {
     "asin": "B0GPNJYH6S",
     "brand": "FLAMINGO",
-    "name": "Flamingo غلاية 2.2لتر",
+    "name": "غلاية 2.2لتر",
     "specs": {
       "cap": "2.2"
     },
@@ -3960,7 +3968,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 1568,
-    "img": "https://m.media-amazon.com/images/I/517RFNBotzL._AC_SY355_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41dbiu24fxL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CHZ4Z8P7?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -3982,7 +3990,7 @@
     "title": "Electric Kettle 1L Stainless Steel, 1200W Fast Boiling Water Boiler with Auto Power‑Off, 360° Swivel Base & Indicator Lamp, SK‑0808 – Sokany (White)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 862,
+    "price": 861,
     "img": "https://m.media-amazon.com/images/I/31YUqPkfswL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FCMYDZRK?tag=fineartslab-21",
     "active": true,
@@ -4149,7 +4157,7 @@
   {
     "asin": "B0DMTH6KD1",
     "brand": "FLAMINGO",
-    "name": "Flamingo غلاية 1.5لتر 1500وات",
+    "name": "غلاية 1.5لتر 1500وات",
     "specs": {
       "cap": "1.5",
       "watt": "1500"
@@ -4172,7 +4180,7 @@
   {
     "asin": "B0FMP62DCX",
     "brand": "SPIDA",
-    "name": "Spida غلاية 2لتر 2000وات",
+    "name": "SPIDA غلاية 2لتر 2000وات",
     "specs": {
       "cap": "2",
       "watt": "2000"
@@ -4218,7 +4226,7 @@
   {
     "asin": "B0GP1GYV8X",
     "brand": "Spaceshoop",
-    "name": "Murfell غلاية 2لتر",
+    "name": "Spaceshoop غلاية 2لتر",
     "specs": {
       "cap": "2"
     },
@@ -4240,7 +4248,7 @@
   {
     "asin": "B0DVTF4YN6",
     "brand": "Winning Star",
-    "name": "Winning غلاية",
+    "name": "Winning Star غلاية",
     "specs": {},
     "model": "",
     "title": "Winning Star Electric Kettle St-6021",
@@ -4260,7 +4268,7 @@
   {
     "asin": "B0CWLC5HNF",
     "brand": "Heinrichs",
-    "name": "HeinrichS غلاية 1.7لتر 2200وات",
+    "name": "Heinrichs غلاية 1.7لتر 2200وات",
     "specs": {
       "cap": "1.7",
       "watt": "2200"
@@ -4283,7 +4291,7 @@
   {
     "asin": "B0H7QCFBLV",
     "brand": "الثريا",
-    "name": "Hosaki غلاية 2.2لتر",
+    "name": "الثريا غلاية 2.2لتر",
     "specs": {
       "cap": "2.2"
     },
@@ -4305,7 +4313,7 @@
   {
     "asin": "B08X1JPVG9",
     "brand": "AUNMAS",
-    "name": "Foldable غلاية",
+    "name": "AUNMAS غلاية",
     "specs": {},
     "model": "",
     "title": "Foldable Portable Electric Kettle Food Grade Silicone Travel Kettle with Separable Power Cord Water Kettle for Home Camping Travel",
@@ -4356,7 +4364,7 @@
     "title": "Mienta Ek20920A - Stainless Steel Kettle, 1.7 Liters, Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1890,
+    "price": 1979,
     "img": "https://m.media-amazon.com/images/I/31jVCz1COZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJPRTFD?tag=fineartslab-21",
     "active": true,
@@ -4370,7 +4378,7 @@
   {
     "asin": "B091NNLLNR",
     "brand": "Touch Elzenouki",
-    "name": "Touch غلاية 1.5لتر",
+    "name": "Touch Elzenouki غلاية 1.5لتر",
     "specs": {
       "cap": "1.5"
     },
@@ -4378,7 +4386,7 @@
     "title": "Touch Elzenoky el-zenouki 40323 stainless steel kettles, 1.5 liter",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 406,
+    "price": 419,
     "img": "https://m.media-amazon.com/images/I/41slaQSeNaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091NNLLNR?tag=fineartslab-21",
     "active": true,
@@ -4445,7 +4453,7 @@
     "title": "Smeg Klf03CrUK, 50'S Retro Style Kettle, 1.7 L Capacity With Water Level Indicator, 360 Swivel Base, Anti-Slip Feet, Soft Opening Lid, Stainless Steel, Cream, 1 Year Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7600,
+    "price": 7500,
     "img": "https://m.media-amazon.com/images/I/21YPnJZy-CL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0752MB9PW?tag=fineartslab-21",
     "active": true,
@@ -4459,7 +4467,7 @@
   {
     "asin": "B0GWFC5KY6",
     "brand": "بلاك أند ديكر",
-    "name": "غلاية 1.7لتر 2200وات",
+    "name": "بلاك غلاية 1.7لتر 2200وات",
     "specs": {
       "cap": "1.7",
       "watt": "2200"
@@ -4535,7 +4543,7 @@
     "title": "Sokany SK-1098 Glass Kettle 2L",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1271,
+    "price": 1270.43,
     "img": "https://m.media-amazon.com/images/I/31GAjiMesaL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DQDX2QXD?tag=fineartslab-21",
     "active": true,
@@ -4588,7 +4596,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -4724,7 +4732,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -4754,7 +4762,7 @@
   {
     "asin": "B09D3YPBR8",
     "brand": "Smeg",
-    "name": "SMEG غلاية",
+    "name": "Smeg غلاية",
     "specs": {},
     "model": "",
     "title": "SMEG 50's Retro Style 3 Cup Electric Kettle with Double Wall Anti Slip Base and Water Level Indicator (Pastel Blue)",
@@ -4797,7 +4805,7 @@
   {
     "asin": "B0H7CKRWQH",
     "brand": "Next store",
-    "name": "Next غلاية 2لتر 1500وات",
+    "name": "Next store غلاية 2لتر",
     "specs": {
       "cap": "2",
       "watt": "1500"
@@ -4820,7 +4828,7 @@
   {
     "asin": "B0H7X5JHFF",
     "brand": "Next store",
-    "name": "Next غلاية 1.5لتر",
+    "name": "Next store غلاية 1.5لتر",
     "specs": {
       "cap": "1.5"
     },
@@ -4907,7 +4915,7 @@
   {
     "asin": "B077PMH82M",
     "brand": "Smeg",
-    "name": "SMEG غلاية",
+    "name": "Smeg غلاية",
     "specs": {},
     "model": "KLF03",
     "title": "SMEG KLF03 Retro Style Electric Kettle Variable Temperature Green",
@@ -4927,7 +4935,7 @@
   {
     "asin": "B0FLDZN15W",
     "brand": "Next store",
-    "name": "Next غلاية",
+    "name": "Next store غلاية",
     "specs": {},
     "model": "PINK",
     "title": "Next store Collapsible Silicone Water Kettle – 600ml – Portable Leak Proof Electric Kettle – Ideal for Travel, Camping and Home Use (Pink)",
@@ -5036,7 +5044,7 @@
   {
     "asin": "B08X5Z7QWM",
     "brand": "El Dahan",
-    "name": "El غلاية",
+    "name": "El Dahan غلاية",
     "specs": {},
     "model": "",
     "title": "El Dahan stainless steel kettle with handle & heat insulator - 16 cm",
@@ -5056,7 +5064,7 @@
   {
     "asin": "B0HQPHXJN2",
     "brand": "جاماكي",
-    "name": "JAMAKY غلاية 5لتر 2800وات",
+    "name": "غلاية 5لتر 2800وات",
     "specs": {
       "cap": "5",
       "watt": "2800"
@@ -5065,7 +5073,7 @@
     "title": "JAMAKY Stainless Steel Electric Kettle 5L 2800W JMK9515 | Folding Hand,Safety Lock Cover,Fast And Quiet Heating,Wide Spout, Thick Body",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 899,
+    "price": 849,
     "img": "https://m.media-amazon.com/images/I/31PWrKF68WL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HQPHXJN2?tag=fineartslab-21",
     "active": true,
@@ -5124,7 +5132,7 @@
   {
     "asin": "B07MFD97JP",
     "brand": "Ikea",
-    "name": "IKEA غلاية",
+    "name": "Ikea غلاية",
     "specs": {},
     "model": "",
     "title": "IKEA 202.395.95 Vattentät Kettle, Stainless Steel, Black",
@@ -5144,7 +5152,7 @@
   {
     "asin": "B091J5BVWC",
     "brand": "SONAI",
-    "name": "Sonai غلاية 1.7لتر 2200وات",
+    "name": "SONAI غلاية 1.7لتر 2200وات",
     "specs": {
       "cap": "1.7",
       "watt": "2200"
@@ -5187,7 +5195,7 @@
   {
     "asin": "B0H2J1W8GG",
     "brand": "Next store",
-    "name": "Next غلاية",
+    "name": "Next store غلاية",
     "specs": {},
     "model": "",
     "title": "Next Store 3 Litre Whistling Tea Kettle - Ribbed Cooker Kettle with Gradient Effect (White & Black) and Heat Insulated Wood Handle",

@@ -19,9 +19,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "lastSeenOut": "2026-11-25"
+    "lastSeenOut": "2026-11-26",
+    "outOfStockSince": "2026-11-26"
   },
   {
     "asin": "B08V11HCW8",
@@ -58,7 +59,7 @@
     "title": "Moulinex FP8230EG Food Processor, 1000W, 3L Bowl, Multiple Functions, White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5080,
+    "price": 5060,
     "img": "https://m.media-amazon.com/images/I/41yzQTBbrOL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HGGGRS4L?tag=fineartslab-21",
     "active": true,
@@ -80,7 +81,7 @@
     "title": "Mienta Food processor 1000W- 28 Functions- FP141535A",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3099,
+    "price": 3098.43,
     "img": "https://m.media-amazon.com/images/I/41VH+AYoJ4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FHQPN7XY?tag=fineartslab-21",
     "active": true,
@@ -168,7 +169,7 @@
     "title": "Fresh Food Processor FP402 7 In 1 1000W,Assorted Colors",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3760,
+    "price": 3725,
     "img": "https://m.media-amazon.com/images/I/41JigJwagFL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08X63H6FW?tag=fineartslab-21",
     "active": true,
@@ -263,7 +264,7 @@
     "lastGood": "2026-11-24",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -283,14 +284,13 @@
     "price": 1499,
     "img": "https://m.media-amazon.com/images/I/41PNHKwzuBL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HF1G7BBQ?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-24",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-25",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -405,7 +405,7 @@
   {
     "asin": "B0H68BZDGQ",
     "brand": "غير محدد",
-    "name": "محضر محضرة 2لتر 1000وات",
+    "name": "محضرة 2لتر 1000وات",
     "specs": {
       "watt": "1000",
       "cap": "2"
@@ -422,7 +422,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 12,
+    "oosCount": 13,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -849,7 +849,7 @@
   {
     "asin": "B0F2GJB134",
     "brand": "SXSWNSDLX",
-    "name": "Manual محضرة",
+    "name": "SXSWNSDLX محضرة",
     "specs": {},
     "model": "",
     "title": "Manual Food Processor Vegetable Chopper, Portable Hand Pull String Garlic Mincer Onion Cutter for Veggies, Suitable for Vegetables, Ginger, Garlic, Fruits, Onion, Potato, Salad (Blue 500 ml)",
@@ -863,13 +863,15 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0H7C5D7DY",
     "brand": "Next store",
-    "name": "Next محضرة",
+    "name": "Next store محضرة",
     "specs": {},
     "model": "",
     "title": "Next Store Stainless Steel Electric Meat Grinder Vegetable Onion Chopper Large Capacity Stainless Steel Food Processor Powerful Fast Food Processor for Your Modern Kitchen",
@@ -909,7 +911,7 @@
   {
     "asin": "B0GWND4GX1",
     "brand": "غير محدد",
-    "name": "Mini محضرة",
+    "name": "محضرة",
     "specs": {},
     "model": "",
     "title": "Mini Chopper 250ml, USB Rechargeable Food Processor with 3 Stainless Steel Blades and BPA-Free Bowl for Garlic, Onion, Vegetables and Meal Prep",
@@ -929,7 +931,7 @@
   {
     "asin": "B0B9H5G3W1",
     "brand": "Spaceshoop",
-    "name": "محضرة",
+    "name": "Spaceshoop محضرة",
     "specs": {},
     "model": "",
     "title": "4 in 1 Portable Electric Vegetable Cutter Set,Wireless Food Processor for Garlic Pepper Chili Onion Celery Ginger Meat",
@@ -949,7 +951,7 @@
   {
     "asin": "B0GYLZZCZK",
     "brand": "ELMA",
-    "name": "All-in-one محضرة",
+    "name": "ELMA محضرة",
     "specs": {},
     "model": "A13018",
     "title": "All-in-one manual food processor - 12 in 1 - with drain basket and multiple blades - for quick salad and meal preparation A13018 BY EL MAYAN® HOME",
@@ -977,7 +979,7 @@
     "title": "ALSAIF 800W Electric Vegetable Chopper with Stainless Steel Bowl and 4 Blades, Food Processor for Meat, Fruits, and Vegetables. easy cleaning, 4-liter, silver E02431 2 Years warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2699,
+    "price": 2706,
     "img": "https://m.media-amazon.com/images/I/31Q-XRJfoUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CV7L83S6?tag=fineartslab-21",
     "active": true,
@@ -1114,7 +1116,7 @@
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-26"
@@ -1162,7 +1164,7 @@
   {
     "asin": "B0GL7T5FPL",
     "brand": "Next store",
-    "name": "Next محضرة",
+    "name": "Next store محضرة",
     "specs": {},
     "model": "",
     "title": "Next Store Multifunctional Vegetable Slicer & Grater (9 in 1) with Washing Basket & Strainer, Manual Food Processor for Cutting Cubes and Slices Interchangeable Blades",
@@ -1182,7 +1184,7 @@
   {
     "asin": "B0GYLW8DY3",
     "brand": "ELMA",
-    "name": "Versatile محضرة",
+    "name": "ELMA محضرة",
     "specs": {},
     "model": "A1309",
     "title": "Versatile manual food processor - equipped with 3 interchangeable blades - for easy and quick chopping and grating of vegetables A1309 BY EL MAYAN® HOME",
@@ -1202,7 +1204,7 @@
   {
     "asin": "B0BGC852XG",
     "brand": "KitchenAid",
-    "name": "Kitchenaid محضرة 2.1لتر",
+    "name": "KitchenAid محضرة 2.1لتر",
     "specs": {
       "cap": "2.1"
     },
@@ -1238,7 +1240,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 11,
+    "oosCount": 12,
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26",
     "reason": "out-of-stock"
@@ -1266,7 +1268,7 @@
   {
     "asin": "B0B7HYJJG7",
     "brand": "Spaceshoop",
-    "name": "محضرة",
+    "name": "Spaceshoop محضرة",
     "specs": {},
     "model": "",
     "title": "4 in 1 Handheld Electric Vegetable Cutter Set Portable Wireless Garlic Mud Masher Garlic Press and Slicer Set Multifunctional Electric Mini Food Processor with Brush for Ginger Peppers Onions Garlic",
@@ -1308,7 +1310,7 @@
   {
     "asin": "B0DVBWPBY9",
     "brand": "Fashion Home",
-    "name": "FASHIONHOME محضرة",
+    "name": "محضرة",
     "specs": {},
     "model": "",
     "title": "FASHION.HOME Multifunctional Manual Food Processor 500ml - Quick Tension Vegetable Onion Chopper with Removable Stainless Steel Blades, Non-Slip Base - Essential Product",
@@ -1371,7 +1373,7 @@
   {
     "asin": "B0B93VVPWD",
     "brand": "DUOLAM",
-    "name": "محضرة",
+    "name": "DUOLAM محضرة",
     "specs": {},
     "model": "",
     "title": "4 in 1 Handheld Electric Vegetable Cutter Set, Portable Mini Wireless Food Processor with Brush, Gatling Vegetable Cutter Electric Garlic Chopper for Garlic Pepper Chili Onion Celery Ginger Meat",
@@ -1475,7 +1477,7 @@
   {
     "asin": "B0H1H1C238",
     "brand": "Winning Star",
-    "name": "Winning محضرة",
+    "name": "Winning Star محضرة",
     "specs": {},
     "model": "",
     "title": "Winning Star ST-5583 Multifunctional Electric Food Processor, 1.8 Liter Capacity",
@@ -1495,7 +1497,7 @@
   {
     "asin": "B0H854HT6T",
     "brand": "EBASKT",
-    "name": "Ebaskt محضرة",
+    "name": "EBASKT محضرة",
     "specs": {},
     "model": "",
     "title": "Ebaskt Stainless Steel Electric Food Processor and Meat Grinder, 3 Liter Capacity",
@@ -1515,7 +1517,7 @@
   {
     "asin": "B0B93ZY5WY",
     "brand": "Yours Bath",
-    "name": "Yours محضرة",
+    "name": "Yours Bath محضرة",
     "specs": {},
     "model": "",
     "title": "Your's Bath Electric Mini Chopper Food Processor 4 in 1 Handheld USB Rechargeable Wireless Garlic Crusher Green",
@@ -1575,7 +1577,7 @@
   {
     "asin": "B0BPXLJC94",
     "brand": "Spaceshoop",
-    "name": "محضرة",
+    "name": "Spaceshoop محضرة",
     "specs": {},
     "model": "",
     "title": "4 in 1 Handheld Electric Cordless Vegetable Chopper - Mini Wireless Chopper Slicer Dicer Portable Garlic Masher Hand Held Food Processor for Kitchen - Garlic, Pepper, Onion",

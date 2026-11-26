@@ -60,13 +60,13 @@
     "price": 5190,
     "img": "https://m.media-amazon.com/images/I/31kY0b4BIUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0C9XJ471P?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
@@ -156,7 +156,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -172,7 +172,7 @@
     "title": "Fresh Electric Water Heater Relax, 40 Liters",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 2929,
+    "price": 3053,
     "img": "https://m.media-amazon.com/images/I/21YVMG0E5+L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B12N14DZ?tag=fineartslab-21",
     "active": true,
@@ -260,7 +260,7 @@
     "title": "TORNADO Electric Water Heater 80 L Enamel LED lamp Silver TEEE-80MS",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 8190,
+    "price": 8150,
     "img": "https://m.media-amazon.com/images/I/216EV-ovDyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B9NTFHBL?tag=fineartslab-21",
     "active": true,
@@ -290,7 +290,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 9,
+    "oosCount": 10,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -354,14 +354,13 @@
     "price": 5499,
     "img": "https://m.media-amazon.com/images/I/31IUt1rbS4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CJ8BFNTF?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 7,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-23",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -383,7 +382,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -561,13 +560,15 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0GWJM3WGM",
     "brand": "فريش",
-    "name": "سخان 6لتر",
+    "name": "فريش سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -589,7 +590,7 @@
   {
     "asin": "B09HLN9R6P",
     "brand": "فريش",
-    "name": "سخان 10لتر",
+    "name": "فريش سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -659,17 +660,16 @@
     "title": "Tornado EWH-S45CSE-S Electric Water Heater with Digital Screen",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13849,
+    "price": 13599,
     "img": "https://m.media-amazon.com/images/I/31B0t5TrtQL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091NYHRZ6?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-24",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -722,7 +722,7 @@
     "title": "Fresh Electric Water Heater Venus ,white,30 Litre,FR-HV30",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3126,
+    "price": 3099,
     "img": "https://m.media-amazon.com/images/I/31OqZP6hW9L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KVAXBI6?tag=fineartslab-21",
     "active": true,
@@ -762,17 +762,16 @@
     "title": "Olympic Electric Water Heater/Hero / 30 Lt Enamel - Hero Digital Display",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4799,
+    "price": 4012,
     "img": "https://m.media-amazon.com/images/I/31RDHr9s+xL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BBRQR4TK?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 11,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-23",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
@@ -821,7 +820,7 @@
   {
     "asin": "B0CNZK65L6",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic سخان 30لتر 1200وات",
+    "name": "Atlantic Shopping سخان 30لتر",
     "specs": {
       "cap": "30",
       "watt": "1200"
@@ -844,7 +843,7 @@
   {
     "asin": "B0CN5T356K",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic سخان 50لتر 1500وات",
+    "name": "Atlantic Shopping سخان 50لتر",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -867,7 +866,7 @@
   {
     "asin": "B0H4DP9ZHZ",
     "brand": "Atlantic Shopping",
-    "name": "سخان 80لتر 1500وات",
+    "name": "Atlantic Shopping سخان 80لتر",
     "specs": {
       "cap": "80",
       "watt": "1500"
@@ -876,23 +875,22 @@
     "title": "Electric Water Heater, 1500 watt, horizental O’pro pro - (80 Liter)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7999,
+    "price": 7998,
     "img": "https://m.media-amazon.com/images/I/21mtVHnvPyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4DP9ZHZ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-25",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0C3DZTDH1",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic سخان 1500وات",
+    "name": "Atlantic Shopping سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -930,7 +928,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -938,7 +936,7 @@
   {
     "asin": "B09691DXQ7",
     "brand": "Super Star",
-    "name": "Super سخان 30لتر",
+    "name": "Super Star سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -982,7 +980,7 @@
   {
     "asin": "B09BDP8R65",
     "brand": "NOVASERVIS",
-    "name": "Nova سخان 50لتر",
+    "name": "NOVASERVIS سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -990,8 +988,8 @@
     "title": "Nova Electric Tank Water Heater 50 liters - NEWH50L , 2725171221433",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3500,
-    "img": "https://m.media-amazon.com/images/I/511zIEHLrAL._AC_SY355_.jpg",
+    "price": 3450,
+    "img": "https://m.media-amazon.com/images/I/31PR76EYY2L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09BDP8R65?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1012,23 +1010,22 @@
     "title": "GMC instant water heater 50 liters white",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3687.5,
+    "price": 3949,
     "img": "https://m.media-amazon.com/images/I/31P91QTUV-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GHNPX4Z9?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-24",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0HQ54N4DS",
     "brand": "غير محدد",
-    "name": "3000W سخان 3000وات",
+    "name": "سخان 3000وات",
     "specs": {
       "watt": "3000"
     },
@@ -1044,7 +1041,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -1052,7 +1049,7 @@
   {
     "asin": "B0HNJ4SH4C",
     "brand": "Longlife",
-    "name": "Long سخان 10لتر",
+    "name": "سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1060,7 +1057,7 @@
     "title": "Long Life Gas Water Heater 10 Liter, Works on Natural Gas Only | Pure Copper Serpentine, Low Water Pressure, Dual Safety System, Free Charger Adapter, 5 Year Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5500,
+    "price": 5499,
     "img": "https://m.media-amazon.com/images/I/31UIZWStFfL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HNJ4SH4C?tag=fineartslab-21",
     "active": true,
@@ -1074,7 +1071,7 @@
   {
     "asin": "B0HN94Y21J",
     "brand": "عام",
-    "name": "سخان 1500وات",
+    "name": "عام سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -1122,7 +1119,7 @@
     "title": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group Warranty-black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10890,
+    "price": 9877.42,
     "img": "https://m.media-amazon.com/images/I/21LlvN6HBsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FBK9PMHB?tag=fineartslab-21",
     "active": true,
@@ -1136,7 +1133,7 @@
   {
     "asin": "B0GFY54V1Z",
     "brand": "غير محدد",
-    "name": "Instant سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Instant Electric Water Heater for Faucet with Digital Display",
@@ -1156,7 +1153,7 @@
   {
     "asin": "B0DNMTTMRG",
     "brand": "adbeni",
-    "name": "Adbeni سخان",
+    "name": "adbeni سخان",
     "specs": {},
     "model": "",
     "title": "Adbeni Imported Electric Water Heater | Tankless Instant Hot Water Faucet | Digital Display, Fast Heating Tap for Kitchen & Bathroom | Electric Water Geyser for Efficient Hot Water Supply",
@@ -1176,13 +1173,13 @@
   {
     "asin": "B0F5J98RP6",
     "brand": "BOMAN",
-    "name": "سخان",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "WZL13",
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى black بضمان برايم جروب",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14999,
+    "price": 13448.11,
     "img": "https://m.media-amazon.com/images/I/21lIPfzoOsL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F5J98RP6?tag=fineartslab-21",
     "active": true,
@@ -1216,7 +1213,7 @@
   {
     "asin": "B07CSSY8H1",
     "brand": "Aura",
-    "name": "AURA سخان",
+    "name": "Aura سخان",
     "specs": {},
     "model": "",
     "title": "AURA Ihlas microcontrol electric water heater 5 safe",
@@ -1225,26 +1222,25 @@
     "price": 4669,
     "img": "https://m.media-amazon.com/images/I/31VKw+zNZYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07CSSY8H1?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-23",
+    "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-24",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0FBKD5LKK",
     "brand": "BOMAN",
-    "name": "سخان",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "WZL13",
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى white gold بضمان برايم جروب",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14199,
+    "price": 13049.08,
     "img": "https://m.media-amazon.com/images/I/21lqrmQcFzL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FBKD5LKK?tag=fineartslab-21",
     "active": true,
@@ -1264,7 +1260,7 @@
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى Silver بضمان برايم جروب",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14999,
+    "price": 13448.11,
     "img": "https://m.media-amazon.com/images/I/21-Fosrk-7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FBKCDRZY?tag=fineartslab-21",
     "active": true,
@@ -1294,8 +1290,10 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0101SMY2M",
@@ -1330,7 +1328,7 @@
     "title": "Ariston Water Heater 6 Liter Natural Gas With adaptor Speed EVO 6 NG ADPT White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 6190,
+    "price": 6189,
     "img": "https://m.media-amazon.com/images/I/41NQRwHHGGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0GS79LBDF?tag=fineartslab-21",
     "active": true,
@@ -1375,7 +1373,7 @@
     "title": "TORNADO Gas Water Heater 6 L Petroleum Gas White GHE-C06CTE-W",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5712.29,
+    "price": 5674.36,
     "img": "https://m.media-amazon.com/images/I/21p8RsHlsJL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0101S5CAS?tag=fineartslab-21",
     "active": true,
@@ -1435,7 +1433,7 @@
     "title": "Beko Natural Gas Water Heater - 6 Litres - With Chimney - Digital Screen - USB Adaptor - Full Safety (White)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4249,
+    "price": 4499,
     "img": "https://m.media-amazon.com/images/I/21YZgwY9TPL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D9ZVGW7L?tag=fineartslab-21",
     "active": true,
@@ -1469,7 +1467,7 @@
   {
     "asin": "B0GRVV6MP1",
     "brand": "Atlantic",
-    "name": "Atlantic سخان 50لتر 1500وات",
+    "name": "سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -1492,7 +1490,7 @@
   {
     "asin": "B098TZPS39",
     "brand": "AFI",
-    "name": "Atlantic سخان 50لتر 1500وات",
+    "name": "AFI سخان 50لتر 1500وات",
     "specs": {
       "cap": "50",
       "watt": "1500"
@@ -1524,7 +1522,7 @@
     "title": "Electric Water Heater, Horizontal, 80 liter, Power 1500 watt, Fast Heating 3X Model O’pro pro 8530940",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7999,
+    "price": 7998,
     "img": "https://m.media-amazon.com/images/I/21ixQkKjsHL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DHSX7BQJ?tag=fineartslab-21",
     "active": true,
@@ -1538,7 +1536,7 @@
   {
     "asin": "B0HJ14X7BR",
     "brand": "Purity101",
-    "name": "Purity سخان 5لتر",
+    "name": "Purity101 سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -1560,7 +1558,7 @@
   {
     "asin": "B0HJ16C8NW",
     "brand": "Purity101",
-    "name": "Purity سخان 5لتر",
+    "name": "Purity101 سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -1568,7 +1566,7 @@
     "title": "Purity P101 7kW Digital Instant Water Heater with Remote - Black | ECO Mode, Memory Function, Freeze Protection, 30°C–55°C Range, 5 L/min Flow Rate",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7800,
+    "price": 7750,
     "img": "https://m.media-amazon.com/images/I/21iKNNtiL-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJ16C8NW?tag=fineartslab-21",
     "active": true,
@@ -1582,7 +1580,7 @@
   {
     "asin": "B0H1HB5KQ3",
     "brand": "City Greens",
-    "name": "City سخان 500وات",
+    "name": "City Greens سخان 500وات",
     "specs": {
       "watt": "500"
     },
@@ -1604,7 +1602,7 @@
   {
     "asin": "B0CV2C3BFL",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic سخان 25لتر",
+    "name": "Atlantic Shopping سخان 25لتر",
     "specs": {
       "cap": "25"
     },
@@ -1626,7 +1624,7 @@
   {
     "asin": "B0FVY6LH71",
     "brand": "Rich Home",
-    "name": "Rich سخان 50لتر",
+    "name": "Rich Home سخان 50لتر",
     "specs": {
       "cap": "50"
     },
@@ -1642,7 +1640,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -1650,7 +1648,7 @@
   {
     "asin": "B0HNJ5SSDL",
     "brand": "Longlife",
-    "name": "Long سخان 10لتر",
+    "name": "سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1658,7 +1656,7 @@
     "title": "Long Life S8 Gas Water Heater 10L Low Water Pressure Copper Serpentine Full | Get instant and continuous hot water at the highest safety temperatures with the Long Life S8 Gas Water Heater",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5100,
+    "price": 4990,
     "img": "https://m.media-amazon.com/images/I/31Hgx96lYDL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HNJ5SSDL?tag=fineartslab-21",
     "active": true,
@@ -1694,7 +1692,7 @@
   {
     "asin": "B0923S4SSW",
     "brand": "AFI",
-    "name": "Atlantic سخان 30لتر",
+    "name": "AFI سخان 30لتر",
     "specs": {
       "cap": "30"
     },
@@ -1716,7 +1714,7 @@
   {
     "asin": "B0HNJ6YFFB",
     "brand": "Longlife",
-    "name": "Longlife سخان 10لتر",
+    "name": "سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1724,7 +1722,7 @@
     "title": "Longlife Chemet Decor Military Factory Gas Water Heater, 10 Liter | . Digital Temperature Display, Battery & Adaptor Powered, 48x28x7cm Dimension , Oxygen Free Copper Serpentine",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 6000,
+    "price": 5999,
     "img": "https://m.media-amazon.com/images/I/41V0V3A1i8L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HNJ6YFFB?tag=fineartslab-21",
     "active": true,
@@ -1738,7 +1736,7 @@
   {
     "asin": "B0CN9LZPSX",
     "brand": "Long Life",
-    "name": "Long سخان 10لتر",
+    "name": "Long Life سخان 10لتر",
     "specs": {
       "cap": "10"
     },
@@ -1754,7 +1752,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -1784,7 +1782,7 @@
   {
     "asin": "B0D428NVZW",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- S 10/12 Plus |Gold|220 V|Accurate temperature selection from 20 °C to 60 °C|3I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -1798,7 +1796,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -1812,7 +1810,7 @@
     "title": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group-White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10599,
+    "price": 9501.3,
     "img": "https://m.media-amazon.com/images/I/21aGa5J-nDL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F5MWDBKS?tag=fineartslab-21",
     "active": true,
@@ -1826,7 +1824,7 @@
   {
     "asin": "B0D9FRYZMW",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron |Instant Water Heater |DCE- C 10/12 trend|Sea|220V |Outlet temperature fixed at 55 °C, Energy-Saving| 2i Technology |15-Year Lifespan |2 years Warranty| Energy Class A| Made in Germany",
@@ -1866,7 +1864,7 @@
   {
     "asin": "B0GRR1N37B",
     "brand": "غير محدد",
-    "name": "Copper سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Copper Water Heater with Thermostat, Electric Heater for Heaters, High Quality Copper Connector",
@@ -1886,7 +1884,7 @@
   {
     "asin": "B0D9FQFK3M",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Sand|220 V|Temperature adjustment 0.5 °C,Digital Display|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -1906,7 +1904,7 @@
   {
     "asin": "B0D42823HW",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Gold|220 V|Temperature adjustment 0.5 °C,Digital Display|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -1940,14 +1938,15 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "lastSeenOut": "2026-11-25"
+    "lastSeenOut": "2026-11-26",
+    "outOfStockSince": "2026-11-26"
   },
   {
     "asin": "B0CSZ1BJXJ",
     "brand": "NARDI",
-    "name": "Nardi-Instant سخان",
+    "name": "NARDI سخان",
     "specs": {},
     "model": "",
     "title": "Nardi-Instant Electric Water Heater-7 kw",
@@ -1967,7 +1966,7 @@
   {
     "asin": "B0DLL38R92",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron |Instant Water Heater |DCE- C 10/12 trend|Pearl|220V |Outlet temperature fixed at 55 °C, Energy-Saving| 2i Technology |15Year Lifespan |2 years Warranty| Energy Class A| Made in Germany",
@@ -1987,7 +1986,7 @@
   {
     "asin": "B0CMGR7BKM",
     "brand": "veito",
-    "name": "Veito سخان",
+    "name": "veito سخان",
     "specs": {},
     "model": "",
     "title": "Veito Electric Instant Tankless Water Heater flow 12 White",
@@ -2147,13 +2146,13 @@
   {
     "asin": "B0FBKD33P9",
     "brand": "BOMAN",
-    "name": "سخان",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "WZL13",
     "title": "سخان مياه كهربائي فوري WZL13 بقدرة 12 كيلو وات من بومان، زجاجى White بضمان برايم جروب",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14499,
+    "price": 13042.23,
     "img": "https://m.media-amazon.com/images/I/217KUZT-mdL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FBKD33P9?tag=fineartslab-21",
     "active": true,
@@ -2227,7 +2226,7 @@
   {
     "asin": "B08HX4GQDG",
     "brand": "RUDRAKSHA",
-    "name": "Rudraksha سخان",
+    "name": "RUDRAKSHA سخان",
     "specs": {},
     "model": "",
     "title": "Rudraksha® Geyser Connection Installation Kit 1 Set of Connection Pipe 24inch, 1 PTFE Tape, 1 Fastener Kit",
@@ -2327,7 +2326,7 @@
   {
     "asin": "B0D2BJ3692",
     "brand": "Sas Electric",
-    "name": "SAS سخان",
+    "name": "Sas Electric سخان",
     "specs": {},
     "model": "",
     "title": "SAS Electric NUV Water Heater Switch with Indicator Light White – 80-503",
@@ -2427,7 +2426,7 @@
   {
     "asin": "B0DZTRWYHG",
     "brand": "INSTA",
-    "name": "INSTA سخان",
+    "name": "Insta-Hot سخان",
     "specs": {},
     "model": "",
     "title": "INSTA IH-12 Electric Water Heater, 12 KW, 220-240V, 41.8x24x7 cm, Temperature Range 30-55°C",
@@ -2447,7 +2446,7 @@
   {
     "asin": "B07SK1SLDP",
     "brand": "TAVALAX",
-    "name": "Tavalax سخان",
+    "name": "TAVALAX سخان",
     "specs": {},
     "model": "",
     "title": "Tavalax Fast Electric Water Heater & Small Instantaneous Water Heater & Boiler & Electric Tankless Water Heater & Electric Tap (Limited Edition)",
@@ -2467,13 +2466,13 @@
   {
     "asin": "B0HL3YFH4N",
     "brand": "BOMAN",
-    "name": "Bowman سخان",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "",
     "title": "Bowman DSK-85EL-Black Instant Electric Water Heater 8.5KW Black Prime Group Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 8699,
+    "price": 7868.84,
     "img": "https://m.media-amazon.com/images/I/21W5Swl2knL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HL3YFH4N?tag=fineartslab-21",
     "active": true,
@@ -2487,7 +2486,7 @@
   {
     "asin": "B099SDCWG3",
     "brand": "MCGRAWHILL",
-    "name": "Closed سخان",
+    "name": "MCGRAWHILL سخان",
     "specs": {},
     "model": "",
     "title": "Closed Feedwater Heaters for Power Generation: A Working Guide ,Ed. :1",
@@ -2521,7 +2520,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -2537,7 +2536,7 @@
     "title": "Fresh Electric Water Heater Relax 50 Liters",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 3175,
+    "price": 3050,
     "img": "https://m.media-amazon.com/images/I/313LtFKwc3L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B01KVAXKAU?tag=fineartslab-21",
     "active": true,
@@ -2581,7 +2580,7 @@
     "title": "TORNADO Electric Water Heater 30 L Enamel LED lamp Silver TEEE-30MS",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5319,
+    "price": 5390,
     "img": "https://m.media-amazon.com/images/I/41r9uVliz5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0101S995W?tag=fineartslab-21",
     "active": true,
@@ -2611,8 +2610,10 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B07Y28SBBM",
@@ -2639,7 +2640,7 @@
   {
     "asin": "B091JFLP2N",
     "brand": "BOMAN",
-    "name": "Bowman سخان",
+    "name": "BOMAN سخان",
     "specs": {},
     "model": "",
     "title": "Bowman DSK-85EL Instant Electric Water Heater 8.5KW Prime Group Warranty",
@@ -2659,7 +2660,7 @@
   {
     "asin": "B0HN92S9T6",
     "brand": "عام",
-    "name": "سخان 1500وات",
+    "name": "عام سخان 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -2687,7 +2688,7 @@
     "title": "BOMAN GL7 Instant Electric Water Heater 11KW Prime Group Warranty-Grey",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 10799,
+    "price": 9877.42,
     "img": "https://m.media-amazon.com/images/I/21Gej0rNaAL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FBK93PDY?tag=fineartslab-21",
     "active": true,
@@ -2707,7 +2708,7 @@
     "title": "Thermoflow ELEX12 Instant Electric Water Heater 12KW Prime Group Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 13999,
+    "price": 12525.33,
     "img": "https://m.media-amazon.com/images/I/21aNlE7gplL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F5X5GMWH?tag=fineartslab-21",
     "active": true,
@@ -2721,7 +2722,7 @@
   {
     "asin": "B0GV8Y9TNK",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHB-E 27 |Gold|380 V|Temperature selection 30-60 °C,Output control|3I Technology|15-Yr Lifespan|2 Yr Warranty|Energy Class A| Made in Germany",
@@ -2770,7 +2771,7 @@
     "title": "80 liter Electric Water Heater, Horizontal, 1500 watt, 3X Fast Heating, O’pro pro 8530940 White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7999,
+    "price": 7998,
     "img": "https://m.media-amazon.com/images/I/310RfWeGreL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DJL4LL32?tag=fineartslab-21",
     "active": true,
@@ -2800,8 +2801,10 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0G3PX48SF",
@@ -2826,7 +2829,7 @@
   {
     "asin": "B0D9FRGZHY",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- X 10/12 Premium |Sea|220 V|Temperature adjustment 0.5 °C,Digital Display|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -2840,7 +2843,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-26"
@@ -2848,13 +2851,13 @@
   {
     "asin": "B0HCJQDNBG",
     "brand": "Thermoflow",
-    "name": "ThermoFlow سخان",
+    "name": "Thermoflow سخان",
     "specs": {},
     "model": "ELEX12",
     "title": "ThermoFlow ELEX12 Instant Electric Water Heater 12KW Black by Prime Group Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 14299,
+    "price": 13036.48,
     "img": "https://m.media-amazon.com/images/I/21EcW2VAp8L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HCJQDNBG?tag=fineartslab-21",
     "active": true,
@@ -2939,7 +2942,7 @@
     "title": "Thermoflow Instant Electric Water Heater 3IN1 (24-21-18) KW Prime Group Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 22601.43,
+    "price": 19783.73,
     "img": "https://m.media-amazon.com/images/I/21YSdA63mYL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F5X1PBX1?tag=fineartslab-21",
     "active": true,
@@ -2953,7 +2956,7 @@
   {
     "asin": "B0GV95SL1W",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | PHB 18 | White | 380 V | Two Adjustable Stages | Hydraulically Controlled | 15-Yr Lifespan | 2 Yr Warranty | Energy Class A | Made in Germany",
@@ -2973,7 +2976,7 @@
   {
     "asin": "B0CN3VL6T2",
     "brand": "Atlantic Shopping",
-    "name": "سخان 80لتر 2000وات",
+    "name": "Atlantic Shopping سخان 80لتر",
     "specs": {
       "cap": "80",
       "watt": "2000"
@@ -2996,7 +2999,7 @@
   {
     "asin": "B0D426YH42",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Dark Gray|380 V|Temperature adjustment 0.5 °C,Digital Display,I-Menu,2 Memory|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -3066,7 +3069,7 @@
     "title": "Cointra 6L Natural Gas Water Heater, Spanish Made, White, Model TERNI-6N,Made in Spain",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5997,
+    "price": 5473.71,
     "img": "https://m.media-amazon.com/images/I/21co-tFmYKL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09QQLPZTD?tag=fineartslab-21",
     "active": true,
@@ -3080,13 +3083,13 @@
   {
     "asin": "B0HCNZFMWG",
     "brand": "Thermoflow",
-    "name": "ThermoFlow سخان",
+    "name": "Thermoflow سخان",
     "specs": {},
     "model": "ELEX10",
     "title": "ThermoFlow ELEX10 10KW Instant Electric Water Heater, White with Prime Group Warranty",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 12299,
+    "price": 11242.17,
     "img": "https://m.media-amazon.com/images/I/21aNlE7gplL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HCNZFMWG?tag=fineartslab-21",
     "active": true,
@@ -3100,7 +3103,7 @@
   {
     "asin": "B09HL2KZSN",
     "brand": "فريش",
-    "name": "سخان 6لتر",
+    "name": "فريش سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -3108,7 +3111,7 @@
     "title": "Fresh natural Gas Water Heater 6 liter - Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4576,
+    "price": 4549,
     "img": "https://m.media-amazon.com/images/I/31wZu1GrSCL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09HL2KZSN?tag=fineartslab-21",
     "active": true,
@@ -3145,7 +3148,7 @@
   {
     "asin": "B0CQXBTVLC",
     "brand": "LIFEJXWEN",
-    "name": "Instant سخان 3000وات",
+    "name": "LIFEJXWEN سخان 3000وات",
     "specs": {
       "watt": "3000"
     },
@@ -3167,7 +3170,7 @@
   {
     "asin": "B0D425B2TD",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHE 27 KW |Rose Gold|380 V|Temperature adjustment 0.5 °C,Digital Display,I-Menu,2 Memory|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -3233,7 +3236,7 @@
     "title": "Cemsan Instant Water Heater 21 KW",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 20285,
+    "price": 20275,
     "img": "https://m.media-amazon.com/images/I/21nf4kEnnTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CJYDQPN4?tag=fineartslab-21",
     "active": true,
@@ -3247,7 +3250,7 @@
   {
     "asin": "B0GRR63KLD",
     "brand": "غير محدد",
-    "name": "Water سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Water Heater Thermostat, Copper Rod, Heater Temperature Control",
@@ -3287,7 +3290,7 @@
   {
     "asin": "B0GKQLPYKZ",
     "brand": "غير محدد",
-    "name": "HEATER سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "HEATER Electric Water Heater Copper Element Gold Head 2 Heating Elements",
@@ -3347,7 +3350,7 @@
   {
     "asin": "B091BQCJ3X",
     "brand": "غير محدد",
-    "name": "Instant سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Instant Electric Water Heater Heating Faucet",
@@ -3367,7 +3370,7 @@
   {
     "asin": "B0D427ZTQP",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DHE 18/21/24 |Dark Gray |380 V|Temperature adjustment 0.5 °C,Digital Display,I-Menu,2 Memory|4I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -3469,7 +3472,7 @@
   {
     "asin": "B0GWFF3BDD",
     "brand": "غير محدد",
-    "name": "Premium سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Premium Design Smart Electric Water Kettle with Direct Pour Out – Instant Water Heater with Touch Screen & Precise Temperature Control – Fast & Elegant Tea & Coffee Brewing with Easy & Professional",
@@ -3503,7 +3506,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -3511,7 +3514,7 @@
   {
     "asin": "B0969C4G76",
     "brand": "veito",
-    "name": "VEITO سخان",
+    "name": "veito سخان",
     "specs": {},
     "model": "",
     "title": "VEITO ELECTRICAL INSTANT WATER HEATER 24 KW DIGITAL BLUE S",
@@ -3537,7 +3540,7 @@
     "title": "Purity101 Cemsan Electric Instant Water Heater, 24kW Tankless High-Performance System, Digital Temperature Control – B24, White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 21988,
+    "price": 21768.12,
     "img": "https://m.media-amazon.com/images/I/31eDkaKkxGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H4NS2QVP?tag=fineartslab-21",
     "active": true,
@@ -3587,13 +3590,15 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "filtered"
+    "oosCount": 1,
+    "reason": "filtered",
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0H5K83WWL",
     "brand": "غير محدد",
-    "name": "SS35HD سخان",
+    "name": "سخان",
     "specs": {},
     "model": "SS35HD",
     "title": "SS35HD 3.5L Electric Water Boiler Large Capacity Home Use Practical Hot Drink Kettle",
@@ -3653,7 +3658,7 @@
   {
     "asin": "B0HG9S4V7R",
     "brand": "غير محدد",
-    "name": "Car سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Car Boiler, Hot Water Boiler Electric Kettle Travel Water Heating Kettle for Cars Trucks (24V, 1L) by Moka Store",
@@ -3769,7 +3774,7 @@
     "title": "Fresh natural Gas Water Heater 10 liter Crystal - Black/with Adapter",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7500,
+    "price": 8000,
     "img": "https://m.media-amazon.com/images/I/31HCjSMzy-L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09HKZBCVD?tag=fineartslab-21",
     "active": true,
@@ -3797,8 +3802,10 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-26",
+    "lastSeenOut": "2026-11-26"
   },
   {
     "asin": "B0C4361ZZV",
@@ -3868,7 +3875,7 @@
   {
     "asin": "B0HJ15VX9M",
     "brand": "Purity101",
-    "name": "Purity سخان 5لتر",
+    "name": "Purity101 سخان 5لتر",
     "specs": {
       "cap": "5"
     },
@@ -3890,7 +3897,7 @@
   {
     "asin": "B0DK711YKZ",
     "brand": "STRATG",
-    "name": "StraTG سخان",
+    "name": "STRATG سخان",
     "specs": {},
     "model": "",
     "title": "StraTG AC/DC Power Supply Adapter 3V 2A | Universal Adapter for CCTV Cameras & Gas Water Heater Ignition | Output Overvoltage, Short Circuit, and Surge Protection",
@@ -3910,7 +3917,7 @@
   {
     "asin": "B0H6VDD25Z",
     "brand": "INSTA",
-    "name": "INSTA سخان",
+    "name": "سخان",
     "specs": {},
     "model": "WHITE",
     "title": "INSTA COMFORT+ Instant Water Heater – 12 KW (White) | Heater",
@@ -3930,7 +3937,7 @@
   {
     "asin": "B0CV2QHB3T",
     "brand": "Atlantic Shopping",
-    "name": "Atlantic سخان 40لتر",
+    "name": "Atlantic Shopping سخان 40لتر",
     "specs": {
       "cap": "40"
     },
@@ -3974,7 +3981,7 @@
   {
     "asin": "B0DM2CSWNK",
     "brand": "غير محدد",
-    "name": "Aquarium سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Aquarium Submersible Heater with Temperature Adjustment, Glass, for Fish Tank Water Heater 50w",
@@ -4084,7 +4091,7 @@
     "title": "Purity101 Digital Instant Water Heater - Pink Color, German Technology, Full Digital Display with Remote Control & Complete Safety System - (7 kW)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 8010,
+    "price": 7471.98,
     "img": "https://m.media-amazon.com/images/I/319c9hRoqgL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HFX4MSVD?tag=fineartslab-21",
     "active": true,
@@ -4118,7 +4125,7 @@
   {
     "asin": "B0H6V3CB64",
     "brand": "INSTA",
-    "name": "INSTA سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "INSTA ESSENTIAL Instant Water Heater – 9 KW",
@@ -4138,7 +4145,7 @@
   {
     "asin": "B0DLL6Y6TS",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | PHB 13 | White | 380 V | Two Adjustable Stages | Hydraulically Controlled | 15-Yr Lifespan | 2 Yr Warranty | Energy Class A | Made in Germany",
@@ -4220,7 +4227,7 @@
   {
     "asin": "B0H3QP1R3H",
     "brand": "غير محدد",
-    "name": "Brass سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Brass Water Heater Hose 60cm EPDM -1/2 x 1/2 NPT- 3 Pieces",
@@ -4260,7 +4267,7 @@
   {
     "asin": "B0CNVLX9Z4",
     "brand": "فريش",
-    "name": "سخان 6لتر",
+    "name": "فريش سخان 6لتر",
     "specs": {
       "cap": "6"
     },
@@ -4304,7 +4311,7 @@
   {
     "asin": "B0D9FQ72NX",
     "brand": "Stiebel Eltron",
-    "name": "Stiebel سخان",
+    "name": "Stiebel Eltron سخان",
     "specs": {},
     "model": "",
     "title": "Stiebel Eltron | Instant Water Heater | DCE- S 10/12 Plus |Sand|220 V|Accurate temperature selection from 20 °C to 60 °C|3I Tech|15-Yr Lifespan|2 Yr Warranty|Energy Class A|Made in Germany",
@@ -4318,7 +4325,7 @@
     "lastGood": "2026-11-23",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-26"
@@ -4348,7 +4355,7 @@
   {
     "asin": "B08YP2F4LF",
     "brand": "غير محدد",
-    "name": "Instant سخان",
+    "name": "سخان",
     "specs": {},
     "model": "",
     "title": "Instant Electric Water Heater Heating Faucet",
