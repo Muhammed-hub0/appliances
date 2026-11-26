@@ -200,7 +200,7 @@
   {
     "asin": "B0GJPYRBC8",
     "brand": "فريش",
-    "name": "فريش غسالة 5كجم علوي",
+    "name": "غسالة 5كجم علوي",
     "specs": {
       "cap": "5",
       "type": "تحميل علوي"
@@ -271,7 +271,7 @@
   {
     "asin": "B0HKFRBK73",
     "brand": "فريش",
-    "name": "فريش غسالة 7كجم أمامي",
+    "name": "غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -561,7 +561,7 @@
   {
     "asin": "B0HC3F3F3Y",
     "brand": "فريش",
-    "name": "فريش غسالة 8كجم علوي",
+    "name": "غسالة 8كجم علوي",
     "specs": {
       "cap": "8",
       "type": "تحميل علوي"
@@ -731,7 +731,7 @@
   {
     "asin": "B0FPFSK7P5",
     "brand": "زانوسي",
-    "name": "زانوسي غسالة 8كجم أمامي",
+    "name": "غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -873,7 +873,7 @@
   {
     "asin": "B0CJ813YHF",
     "brand": "فريش",
-    "name": "فريش غسالة 7كجم أوتوماتيك",
+    "name": "غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
       "type": "أوتوماتيك"
@@ -994,7 +994,7 @@
   {
     "asin": "B0H1D61L5C",
     "brand": "فريش",
-    "name": "فريش غسالة علوي",
+    "name": "غسالة علوي",
     "specs": {
       "type": "تحميل علوي"
     },
@@ -1144,7 +1144,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 22500,
-    "img": "https://m.media-amazon.com/images/I/41Gz6uvBVwL._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/71A+o-DQ7bL._AC_SY445_.jpg",
     "url": "https://www.amazon.eg/dp/B09L1GGMDY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1169,7 +1169,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 18999,
-    "img": "https://m.media-amazon.com/images/I/41dQfAH6BPL._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/611ZOw+TP5L._AC_SX342_.jpg",
     "url": "https://www.amazon.eg/dp/B0BBRPVB9Y?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1478,7 +1478,7 @@
   {
     "asin": "B0FLJXG6QC",
     "brand": "زانوسي",
-    "name": "زانوسي غسالة 7كجم أمامي",
+    "name": "غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -1598,7 +1598,7 @@
   {
     "asin": "B0CV843LTV",
     "brand": "فريش",
-    "name": "فريش غسالة 9كجم 1400rpm",
+    "name": "غسالة 9كجم 1400rpm",
     "specs": {
       "cap": "9",
       "spin": "1400"
@@ -1739,7 +1739,7 @@
   {
     "asin": "B09N6YP9F3",
     "brand": "شارب",
-    "name": "شارب غسالة 9كجم أوتوماتيك",
+    "name": "غسالة 9كجم أوتوماتيك",
     "specs": {
       "cap": "9",
       "type": "أوتوماتيك"
@@ -1906,7 +1906,7 @@
   {
     "asin": "B089G8YGV2",
     "brand": "شارب",
-    "name": "شارب غسالة 7كجم أوتوماتيك",
+    "name": "غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
       "type": "أوتوماتيك"
@@ -1976,7 +1976,7 @@
   {
     "asin": "B0CQPKQRGB",
     "brand": "فريش",
-    "name": "فريش غسالة 1200rpm",
+    "name": "غسالة 1200rpm",
     "specs": {
       "spin": "1200"
     },
@@ -2046,7 +2046,7 @@
   {
     "asin": "B0GZ1243W2",
     "brand": "هامبورج",
-    "name": "غسالة 10كجم نصفأوتوماتيك",
+    "name": "HAMBURG غسالة 10كجم نصفأوتوماتيك",
     "specs": {
       "cap": "10",
       "type": "نصف أوتوماتيك"
@@ -2094,7 +2094,7 @@
   {
     "asin": "B0GYZKHJK4",
     "brand": "هامبورج",
-    "name": "غسالة 12كجم نصفأوتوماتيك",
+    "name": "HAMBORG غسالة 12كجم نصفأوتوماتيك",
     "specs": {
       "cap": "12",
       "type": "نصف أوتوماتيك"
@@ -2118,7 +2118,7 @@
   {
     "asin": "B091HYGLDL",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2140,7 +2140,7 @@
   {
     "asin": "B0FHBVN2HM",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "خرطوم غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -2185,7 +2185,7 @@
   {
     "asin": "B0FLPZM42K",
     "brand": "ngfhf",
-    "name": "ngfhf غسالة",
+    "name": "Shoe غسالة",
     "specs": {},
     "model": "",
     "title": "Shoe Washing Machine Bag Laundry Shoe Bag for Washer and Dryer Reusable 2pc Shoe Cleaning Bags for Sneakers 360° Deep Cleaning Machine for All Shoes Types With Self-locking Zipper",
@@ -2278,7 +2278,7 @@
   {
     "asin": "B0GNN5C3VT",
     "brand": "توشيبا",
-    "name": "توشيبا غسالة 8.5كجم أمامي",
+    "name": "غسالة 8.5كجم أمامي",
     "specs": {
       "cap": "8.5",
       "type": "تحميل أمامي"
@@ -2647,7 +2647,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 13999,
-    "img": "https://m.media-amazon.com/images/I/31qosALMGlL._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41I4PAaXazL._AC_SX342_.jpg",
     "url": "https://www.amazon.eg/dp/B0DHVML2VZ?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -2710,7 +2710,7 @@
   {
     "asin": "B0DSR5ZJT7",
     "brand": "فريش",
-    "name": "فريش غسالة 8كجم أمامي",
+    "name": "غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -2878,7 +2878,7 @@
   {
     "asin": "B0FLJXW8P1",
     "brand": "زانوسي",
-    "name": "زانوسي غسالة 7كجم أمامي",
+    "name": "غسالة 7كجم أمامي",
     "specs": {
       "cap": "7",
       "type": "تحميل أمامي"
@@ -2928,7 +2928,7 @@
   {
     "asin": "B0FLK8ST8K",
     "brand": "زانوسي",
-    "name": "زانوسي غسالة 8كجم أمامي",
+    "name": "Automatic غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -2975,7 +2975,7 @@
   {
     "asin": "B0FLK472JQ",
     "brand": "زانوسي",
-    "name": "زانوسي غسالة 8كجم أمامي",
+    "name": "غسالة 8كجم أمامي",
     "specs": {
       "cap": "8",
       "type": "تحميل أمامي"
@@ -3046,7 +3046,7 @@
   {
     "asin": "B0D28257HF",
     "brand": "فريش",
-    "name": "فريش غسالة 14كجم علوي",
+    "name": "غسالة 14كجم علوي",
     "specs": {
       "cap": "14",
       "type": "تحميل علوي"
@@ -3166,7 +3166,7 @@
   {
     "asin": "B091D4LD8X",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Key غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3232,7 +3232,7 @@
   {
     "asin": "B0H3LJWSP4",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Chiba غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3277,7 +3277,7 @@
   {
     "asin": "B0FW6D3GF6",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Aviya غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3299,7 +3299,7 @@
   {
     "asin": "B0DGXR4K5Z",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3321,7 +3321,7 @@
   {
     "asin": "B0FJZMKT18",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "3M غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3343,7 +3343,7 @@
   {
     "asin": "B0GYG3FZD8",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3387,7 +3387,7 @@
   {
     "asin": "B0FS4GPH8Y",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Heavy غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3411,7 +3411,7 @@
   {
     "asin": "B0GK79YNSP",
     "brand": "غير محدد",
-    "name": "غسالة نصفأوتوماتيك",
+    "name": "Floating غسالة نصفأوتوماتيك",
     "specs": {
       "type": "نصف أوتوماتيك"
     },
@@ -3433,7 +3433,7 @@
   {
     "asin": "B0FFYS93SF",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Water غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3455,7 +3455,7 @@
   {
     "asin": "B0FHBYJB24",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "17m غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3477,7 +3477,7 @@
   {
     "asin": "B0FJZHL7JZ",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3499,7 +3499,7 @@
   {
     "asin": "B0FHBYK1WY",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Water غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3521,7 +3521,7 @@
   {
     "asin": "B091CBSC51",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3566,7 +3566,7 @@
   {
     "asin": "B0GKVWGWHR",
     "brand": "Next store",
-    "name": "Next store غسالة",
+    "name": "Next غسالة",
     "specs": {},
     "model": "",
     "title": "Next Store Washing Machine Shoe Washing Bag Mesh Shoe Cleaning Protection Net Padded Laundry Bag with Foam Loops Durable Zipper Keep Shoes Noise Prevention",
@@ -3606,7 +3606,7 @@
   {
     "asin": "B0D361HQTC",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3628,7 +3628,7 @@
   {
     "asin": "B0FXYFGH82",
     "brand": "غير محدد",
-    "name": "غسالة نصفأوتوماتيك",
+    "name": "Water غسالة نصفأوتوماتيك",
     "specs": {
       "type": "نصف أوتوماتيك"
     },
@@ -3650,7 +3650,7 @@
   {
     "asin": "B091CV82G9",
     "brand": "غير محدد",
-    "name": "غسالة 12كجم علوي",
+    "name": "Top غسالة 12كجم علوي",
     "specs": {
       "cap": "12",
       "type": "تحميل علوي"
@@ -3674,7 +3674,7 @@
   {
     "asin": "B0FJZHGGHM",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3718,7 +3718,7 @@
   {
     "asin": "B091J5QPXR",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Water غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3765,7 +3765,7 @@
   {
     "asin": "B0FXJB2K9X",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3787,7 +3787,7 @@
   {
     "asin": "B0FXT2965L",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3809,7 +3809,7 @@
   {
     "asin": "B0DLDRG2CJ",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Tarpaulin غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3831,7 +3831,7 @@
   {
     "asin": "B0HN83S4R7",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Water غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },
@@ -3875,7 +3875,7 @@
   {
     "asin": "B0GCPM4CLL",
     "brand": "غير محدد",
-    "name": "غسالة أوتوماتيك",
+    "name": "Automatic غسالة أوتوماتيك",
     "specs": {
       "type": "أوتوماتيك"
     },

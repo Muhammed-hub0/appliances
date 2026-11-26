@@ -182,7 +182,7 @@
   {
     "asin": "B0DJN6C9L7",
     "brand": "سوكاني",
-    "name": "سوكاني سيشوار 2600وات",
+    "name": "SK-8808 سيشوار 2600وات",
     "specs": {
       "watt": "2600"
     },
@@ -639,7 +639,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 2668.59,
-    "img": "https://m.media-amazon.com/images/I/31mPG9EDGUL._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/51561iHIb4L._AC_SY355_.jpg",
     "url": "https://www.amazon.eg/dp/B098XSQC9H?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -675,7 +675,7 @@
   {
     "asin": "B0979HCZJ4",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 2100وات 2سرعة",
+    "name": "Babyliss سيشوار 2100وات 2سرعة",
     "specs": {
       "watt": "2100",
       "speed": "2"
@@ -765,7 +765,7 @@
   {
     "asin": "B0DJ7HGP8J",
     "brand": "Rush Brush",
-    "name": "Rush Brush سيشوار 2500وات",
+    "name": "Rush سيشوار 2500وات",
     "specs": {
       "watt": "2500"
     },
@@ -787,7 +787,7 @@
   {
     "asin": "B091J45TB9",
     "brand": "MAX",
-    "name": "MAX سيشوار 3000وات",
+    "name": "Max سيشوار 3000وات",
     "specs": {
       "watt": "3000"
     },
@@ -831,7 +831,7 @@
   {
     "asin": "B0BT51CTPG",
     "brand": "ENZO PROFESSIONAL",
-    "name": "ENZO PROFESSIONAL سيشوار 1500وات",
+    "name": "Enzo سيشوار 1500وات",
     "specs": {
       "watt": "1500"
     },
@@ -853,7 +853,7 @@
   {
     "asin": "B07YMPM4T6",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 2100وات",
+    "name": "Babyliss سيشوار 2100وات",
     "specs": {
       "watt": "2100"
     },
@@ -943,7 +943,7 @@
   {
     "asin": "B09H64Q28X",
     "brand": "politun",
-    "name": "POLITUN سيشوار",
+    "name": "politun سيشوار",
     "specs": {},
     "model": "PT-V5",
     "title": "politun Professional 4-IN-1 Hair Dryer (PT-V5)",
@@ -963,7 +963,7 @@
   {
     "asin": "B0HG7T2WL1",
     "brand": "عام",
-    "name": "عام سيشوار",
+    "name": "Mo-hair سيشوار",
     "specs": {},
     "model": "",
     "title": "Mo-hair Professional MO-7165 Hair Dryer - Superior Drying Performance with Multiple Settings, Ionic Care and Overheat Protection",
@@ -983,7 +983,7 @@
   {
     "asin": "B0HG7WH8GQ",
     "brand": "عام",
-    "name": "عام سيشوار",
+    "name": "Mo-ehair سيشوار",
     "specs": {},
     "model": "",
     "title": "Mo-ehair MO-7192 is a hair dryer model designed for fast drying and comfortable styling of hair with its strong airflow and professional design. Suitable for both daily use and salon - 9600 Watt power",
@@ -1023,7 +1023,7 @@
   {
     "asin": "B0H15XY9N1",
     "brand": "غير محدد",
-    "name": "سيشوار",
+    "name": "MO-7170 سيشوار",
     "specs": {},
     "model": "",
     "title": "MO-7170 Professional Hair Dryer, Ionic Technology, Quick Drying, Hot and Cold Air Settings, Detachable Nozzle, Overheat Protection, Suitable for Home and Salon Use",
@@ -1044,7 +1044,7 @@
   {
     "asin": "B0HG7PG96T",
     "brand": "عام",
-    "name": "عام سيشوار",
+    "name": "MOHAIR سيشوار",
     "specs": {},
     "model": "",
     "title": "MOHAIR MO-7184 Hair Dryer - Superior drying performance and fast styling with reduced frizz and flyaways, multiple settings, ionic care, and overheat protection - 5000W",
@@ -1110,7 +1110,7 @@
   {
     "asin": "B0FY363JXB",
     "brand": "سوكاني",
-    "name": "سوكاني سيشوار 2400وات 2سرعة",
+    "name": "Hair سيشوار 2400وات 2سرعة",
     "specs": {
       "watt": "2400",
       "speed": "2"
@@ -1133,7 +1133,7 @@
   {
     "asin": "B0GCSXH3TH",
     "brand": "سوكاني",
-    "name": "سوكاني سيشوار 2000وات 2سرعة",
+    "name": "Hair سيشوار 2000وات 2سرعة",
     "specs": {
       "watt": "2000",
       "speed": "2"
@@ -1288,7 +1288,7 @@
   {
     "asin": "B097C6H8HY",
     "brand": "شاومي",
-    "name": "شاومي سيشوار",
+    "name": "Mi سيشوار",
     "specs": {},
     "model": "H300",
     "title": "Mi Ionic Hair Dryer H300 EU",
@@ -1328,7 +1328,7 @@
   {
     "asin": "B0BWFR1SDN",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 2000وات 2سرعة",
+    "name": "Babyliss سيشوار 2000وات 2سرعة",
     "specs": {
       "watt": "2000",
       "speed": "2"
@@ -1396,7 +1396,7 @@
   {
     "asin": "B08F4Y4L36",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 1000وات",
+    "name": "BabyLiss سيشوار 1000وات",
     "specs": {
       "watt": "1000"
     },
@@ -1418,7 +1418,7 @@
   {
     "asin": "B0HG7Q6G7Y",
     "brand": "عام",
-    "name": "عام سيشوار 2سرعة",
+    "name": "Mo-Hair سيشوار 2سرعة",
     "specs": {
       "speed": "2"
     },
@@ -1461,7 +1461,7 @@
   {
     "asin": "B0D98PWHXN",
     "brand": "REVLON",
-    "name": "REVLON سيشوار",
+    "name": "Revlon سيشوار",
     "specs": {},
     "model": "RVDR5222AMZ",
     "title": "Revlon Salon One-step Volumizing Hair Dryer - RVDR5222AMZ | IONIC and CERAMIC technology, long and medium length hair, including cutting comb",
@@ -1481,7 +1481,7 @@
   {
     "asin": "B0DNN9XRJP",
     "brand": "غير محدد",
-    "name": "سيشوار",
+    "name": "hair سيشوار",
     "specs": {},
     "model": "",
     "title": "hair diffuser, Universal attachment fits almost all hair dryers, for curly or wavy hair styling, dry and gain maximum volume without frizz",
@@ -1501,7 +1501,7 @@
   {
     "asin": "B096FMHSHL",
     "brand": "MAX",
-    "name": "MAX سيشوار",
+    "name": "Max سيشوار",
     "specs": {},
     "model": "",
     "title": "Max Hair Dryer 803-4000W",
@@ -1563,7 +1563,7 @@
   {
     "asin": "B09LQRMPSG",
     "brand": "MIKLIFE",
-    "name": "MIKLIFE سيشوار",
+    "name": "Miklife سيشوار",
     "specs": {},
     "model": "",
     "title": "Miklife Hair Dryer Brush, One Step Hair Dryer Brush for Styling and Control Frizz, Hot Air Negative Ionic Brush Volumizer, Gold Ceramic",
@@ -1583,7 +1583,7 @@
   {
     "asin": "B0FQPDK8S1",
     "brand": "غير محدد",
-    "name": "سيشوار",
+    "name": "HG-700 سيشوار",
     "specs": {},
     "model": "",
     "title": "HG-700 Professional Wall Mounted Electric Hair Dryer",
@@ -1605,7 +1605,7 @@
   {
     "asin": "B07YBH4166",
     "brand": "PROFI CARE",
-    "name": "PROFI CARE سيشوار",
+    "name": "Profi-Care سيشوار",
     "specs": {},
     "model": "",
     "title": "Profi-Care PC-HT 3044 Hair Dryer White",
@@ -1898,7 +1898,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 3330,
-    "img": "https://m.media-amazon.com/images/I/319gOepOhjL._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/61ziyr3bJfL._AC_SX355_.jpg",
     "url": "https://www.amazon.eg/dp/B084QZFQMW?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -1953,7 +1953,7 @@
   {
     "asin": "B0HQJK3YMT",
     "brand": "USHOP",
-    "name": "USHOP سيشوار 1200وات",
+    "name": "Ushop سيشوار 1200وات",
     "specs": {
       "watt": "1200"
     },
@@ -2214,7 +2214,7 @@
   {
     "asin": "B09H634XYJ",
     "brand": "POLITUN",
-    "name": "POLITUN سيشوار 2سرعة",
+    "name": "POLLITUN سيشوار 2سرعة",
     "specs": {
       "speed": "2"
     },
@@ -2236,7 +2236,7 @@
   {
     "asin": "B0CQXZ3SM2",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 2000وات 2سرعة",
+    "name": "Babyliss سيشوار 2000وات 2سرعة",
     "specs": {
       "watt": "2000",
       "speed": "2"
@@ -2323,7 +2323,7 @@
   {
     "asin": "B013HJEA4C",
     "brand": "REVLON",
-    "name": "REVLON سيشوار",
+    "name": "Revlon سيشوار",
     "specs": {},
     "model": "RVDR5212E2",
     "title": "Revlon RVDR5212E2 One Step Hair Dryer & Styling Brush",
@@ -2387,7 +2387,7 @@
   {
     "asin": "B0CGK1RQZF",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 2000وات 2سرعة",
+    "name": "Babyliss سيشوار 2000وات 2سرعة",
     "specs": {
       "watt": "2000",
       "speed": "2"
@@ -2476,7 +2476,7 @@
   {
     "asin": "B0FYGJ6N3K",
     "brand": "سوكاني",
-    "name": "سوكاني سيشوار 2000وات 2سرعة",
+    "name": "Hair سيشوار 2000وات 2سرعة",
     "specs": {
       "watt": "2000",
       "speed": "2"
@@ -2521,7 +2521,7 @@
   {
     "asin": "B07HKK4Q4K",
     "brand": "PROFI CARE",
-    "name": "PROFI CARE سيشوار",
+    "name": "Profi-Care سيشوار",
     "specs": {},
     "model": "",
     "title": "Profi-Care Professional Hair dryer black PC-HT 3017",
@@ -2648,7 +2648,7 @@
   {
     "asin": "B07P9V2MW2",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 2000وات 2سرعة",
+    "name": "Babyliss سيشوار 2000وات 2سرعة",
     "specs": {
       "watt": "2000",
       "speed": "2"
@@ -2715,7 +2715,7 @@
   {
     "asin": "B0GXBP1HTL",
     "brand": "Cronier Professional",
-    "name": "Cronier Professional سيشوار 2600وات",
+    "name": "Professional سيشوار 2600وات",
     "specs": {
       "watt": "2600"
     },
@@ -2841,7 +2841,7 @@
   {
     "asin": "B0H18PTLVY",
     "brand": "Homagator",
-    "name": "Homagator سيشوار 4سرعة",
+    "name": "Winning سيشوار 4سرعة",
     "specs": {
       "speed": "4"
     },
@@ -2903,7 +2903,7 @@
   {
     "asin": "B083T2WW67",
     "brand": "BaByliss",
-    "name": "BaByliss سيشوار 2000وات 2سرعة",
+    "name": "Babyliss سيشوار 2000وات 2سرعة",
     "specs": {
       "watt": "2000",
       "speed": "2"
@@ -2926,7 +2926,7 @@
   {
     "asin": "B0F28748HC",
     "brand": "SN MAX BRA",
-    "name": "SN MAX BRA سيشوار",
+    "name": "SNMAX سيشوار",
     "specs": {},
     "model": "NO709",
     "title": "SNMAX BRA NO709 Hair Dryer 5000 Watt",
@@ -3012,7 +3012,7 @@
   {
     "asin": "B09H63GCLX",
     "brand": "MAX",
-    "name": "MAX سيشوار",
+    "name": "Max سيشوار",
     "specs": {},
     "model": "",
     "title": "Max Hair Dryer 5000W",
@@ -3032,7 +3032,7 @@
   {
     "asin": "B097LZPTJN",
     "brand": "RBrown",
-    "name": "RBrown سيشوار 3000وات",
+    "name": "A سيشوار 3000وات",
     "specs": {
       "watt": "3000"
     },
@@ -3054,7 +3054,7 @@
   {
     "asin": "B0D8JHF7H2",
     "brand": "Rush Brush",
-    "name": "Rush Brush سيشوار 2400وات",
+    "name": "Rush سيشوار 2400وات",
     "specs": {
       "watt": "2400"
     },
@@ -3076,7 +3076,7 @@
   {
     "asin": "B09JGSW6T2",
     "brand": "BRAOUAS",
-    "name": "BRAOUAS سيشوار",
+    "name": "Braouas سيشوار",
     "specs": {},
     "model": "",
     "title": "Braouas Hair Dryer",
@@ -3180,7 +3180,7 @@
   {
     "asin": "B0DSWHNQ8K",
     "brand": "Home Gold",
-    "name": "Home Gold سيشوار",
+    "name": "سيشوار",
     "specs": {},
     "model": "",
     "title": "Home Gold Hair Dryer 4000W - HG-801",
@@ -3223,7 +3223,7 @@
   {
     "asin": "B0DR7PPKLW",
     "brand": "Home Gold",
-    "name": "Home Gold سيشوار",
+    "name": "سيشوار",
     "specs": {},
     "model": "",
     "title": "Home Gold Hair Dryer 4000W - Superior Drying Performance With 5 Attachments HG-681",
@@ -3243,7 +3243,7 @@
   {
     "asin": "B0FY6KNT6W",
     "brand": "سوكاني",
-    "name": "سوكاني سيشوار 2600وات 2سرعة",
+    "name": "Hair سيشوار 2600وات 2سرعة",
     "specs": {
       "watt": "2600",
       "speed": "2"
@@ -3266,7 +3266,7 @@
   {
     "asin": "B0CPYKYD8C",
     "brand": "Home Gold",
-    "name": "Home Gold سيشوار",
+    "name": "سيشوار",
     "specs": {},
     "model": "",
     "title": "Home Gold Hair Dryer 3800",
@@ -3346,7 +3346,7 @@
   {
     "asin": "B09H64KGZS",
     "brand": "POLITUN",
-    "name": "POLITUN سيشوار",
+    "name": "Politun سيشوار",
     "specs": {},
     "model": "V12-4IN1",
     "title": "Politun salon pt-v12-4in1 hair dryer - 5000",
@@ -3386,7 +3386,7 @@
   {
     "asin": "B0HHNLZBM7",
     "brand": "عام",
-    "name": "عام سيشوار 2سرعة",
+    "name": "Hair سيشوار 2سرعة",
     "specs": {
       "speed": "2"
     },
@@ -3428,7 +3428,7 @@
   {
     "asin": "B0DS9WMP9D",
     "brand": "Home Gold",
-    "name": "Home Gold سيشوار",
+    "name": "سيشوار",
     "specs": {},
     "model": "",
     "title": "Home Gold Hair Dryer 4000W - HG-803",
@@ -3470,7 +3470,7 @@
   {
     "asin": "B0D5HWW9QQ",
     "brand": "TElborak",
-    "name": "TElborak سيشوار",
+    "name": "T-EB سيشوار",
     "specs": {},
     "model": "",
     "title": "T-EB Spark Hot Dryer - Professional Hair Dryer & Styling",

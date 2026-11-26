@@ -1179,7 +1179,7 @@
   {
     "asin": "B0DYF1T45K",
     "brand": "City",
-    "name": "خلاط 7سرعة",
+    "name": "City خلاط 7سرعة",
     "specs": {
       "speed": "7"
     },
@@ -1201,7 +1201,7 @@
   {
     "asin": "B0H8FN2QPF",
     "brand": "Next store",
-    "name": "Next store خلاط 15سرعة",
+    "name": "Title خلاط 15سرعة",
     "specs": {
       "speed": "15"
     },
@@ -1867,7 +1867,7 @@
   {
     "asin": "B0C31TQ4DF",
     "brand": "أورايمو",
-    "name": "أورايمو خلاط 2سرعة",
+    "name": "خلاط 2سرعة",
     "specs": {
       "speed": "2"
     },
@@ -2081,7 +2081,7 @@
   {
     "asin": "B0GJQ1N57D",
     "brand": "PLUTO",
-    "name": "PLUTO خلاط 600وات يدوي",
+    "name": "Pluto خلاط 600وات يدوي",
     "specs": {
       "watt": "600",
       "speed": "2",
@@ -2105,7 +2105,7 @@
   {
     "asin": "B0DJ77VXFP",
     "brand": "One Life",
-    "name": "One Life خلاط 1500وات",
+    "name": "One خلاط 1500وات يدوي",
     "specs": {
       "watt": "1500",
       "speed": "5",
@@ -2157,7 +2157,7 @@
   {
     "asin": "B0H46BYXK6",
     "brand": "Homagator",
-    "name": "Homagator خلاط 1500وات يدوي",
+    "name": "Luma خلاط 1500وات يدوي",
     "specs": {
       "watt": "1500",
       "type": "يدوي"
@@ -2205,7 +2205,7 @@
   {
     "asin": "B09VHBCMQ3",
     "brand": "SONAI",
-    "name": "SONAI خلاط 400وات 3سرعة",
+    "name": "Sonai خلاط 400وات 3سرعة",
     "specs": {
       "watt": "400",
       "speed": "3"
@@ -2272,7 +2272,7 @@
   {
     "asin": "B0B6RSF8B2",
     "brand": "SOUTH AREA",
-    "name": "SOUTH AREA خلاط يدوي",
+    "name": "South خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -2446,7 +2446,7 @@
   {
     "asin": "B0HHYH57KX",
     "brand": "اوشين",
-    "name": "خلاط",
+    "name": "Ocean خلاط",
     "specs": {},
     "model": "",
     "title": "Ocean Power Multifunction Blender with Variable Speed Control | High-Speed Blending, Large Capacity Jar",
@@ -2506,7 +2506,7 @@
   {
     "asin": "B0FRG1L6JH",
     "brand": "Next store",
-    "name": "Next store خلاط",
+    "name": "Next خلاط",
     "specs": {},
     "model": "",
     "title": "Next Store Powerful Electric Blender with Extra Grinder, Easily Crushes Ice, Modern Design with High Efficiency Motor for Fast Preparation of Juices and Foods, Premium Quality",
@@ -2526,7 +2526,7 @@
   {
     "asin": "B0H46FWGZ3",
     "brand": "Homagator",
-    "name": "Homagator خلاط",
+    "name": "Luma خلاط",
     "specs": {},
     "model": "",
     "title": "Luma Bella - Multi-Purpose Blender 5500W, 2L - A1-30",
@@ -2610,7 +2610,7 @@
   {
     "asin": "B0C8GCCQF6",
     "brand": "SIVOLT",
-    "name": "SIVOLT خلاط يدوي",
+    "name": "volt خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -2632,7 +2632,7 @@
   {
     "asin": "B0GFBV5ZPH",
     "brand": "SIVOLT",
-    "name": "SIVOLT خلاط 900وات يدوي",
+    "name": "Hand خلاط 900وات يدوي",
     "specs": {
       "watt": "900",
       "type": "يدوي"
@@ -2723,7 +2723,7 @@
   {
     "asin": "B092322KZL",
     "brand": "فريش",
-    "name": "فريش خلاط 800وات يدوي",
+    "name": "خلاط 800وات يدوي",
     "specs": {
       "watt": "800",
       "type": "يدوي"
@@ -2766,7 +2766,7 @@
   {
     "asin": "B0DVTB4R18",
     "brand": "Winning Star",
-    "name": "Winning Star خلاط يدوي",
+    "name": "Winning خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -2830,7 +2830,7 @@
   {
     "asin": "B0GJQ4T9XW",
     "brand": "PLUTO",
-    "name": "PLUTO خلاط 500وات 2سرعة",
+    "name": "Pluto خلاط 500وات 2سرعة",
     "specs": {
       "watt": "500",
       "speed": "2"
@@ -3098,7 +3098,7 @@
   {
     "asin": "B0HJ73FBL6",
     "brand": "نايفيو",
-    "name": "خلاط 500وات يدوي 2سرعة",
+    "name": "Naifeo خلاط 500وات يدوي",
     "specs": {
       "watt": "500",
       "speed": "2",
@@ -3347,7 +3347,7 @@
   {
     "asin": "B0H3L43X5L",
     "brand": "Homagator",
-    "name": "Homagator خلاط 1500وات يدوي",
+    "name": "Luma خلاط 1500وات يدوي",
     "specs": {
       "watt": "1500",
       "type": "يدوي"
@@ -3609,7 +3609,7 @@
   {
     "asin": "B0CHL9Q7QD",
     "brand": "Smeg",
-    "name": "Smeg خلاط 600وات 3سرعة",
+    "name": "SMEG خلاط 600وات 3سرعة",
     "specs": {
       "watt": "600",
       "speed": "3"
@@ -3802,7 +3802,7 @@
   {
     "asin": "B0H3LGHG6R",
     "brand": "Homagator",
-    "name": "Homagator خلاط 180وات يدوي",
+    "name": "LumaBella خلاط 180وات يدوي",
     "specs": {
       "watt": "180",
       "speed": "7",
@@ -3925,7 +3925,7 @@
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 1656,
-    "img": "https://m.media-amazon.com/images/I/41VI043B5EL._SL500_.jpg",
+    "img": "https://m.media-amazon.com/images/I/61-xQTyRvWL._AC_SX355_.jpg",
     "url": "https://www.amazon.eg/dp/B0D5YNCJF3?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
@@ -3938,7 +3938,7 @@
   {
     "asin": "B0BYMQT52T",
     "brand": "Smeg",
-    "name": "Smeg خلاط",
+    "name": "SMEG خلاط",
     "specs": {},
     "model": "BLF03PBEU",
     "title": "SMEG BLF03PBEU Blender, Plastic, Pastel Blue",
@@ -4148,29 +4148,6 @@
     "reason": "filtered"
   },
   {
-    "asin": "B07GDR7VZ3",
-    "brand": "فيليبس",
-    "name": "فيليبس خلاط 300وات يدوي",
-    "specs": {
-      "watt": "300",
-      "type": "يدوي"
-    },
-    "model": "HR3705/10",
-    "title": "Philips HR3705/10 – Hand Blender 300 W, Black",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 2133.03,
-    "img": "https://m.media-amazon.com/images/I/41EKgLrxsXL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B07GDR7VZ3?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-26",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0BKKXVHT8",
     "brand": "ANYOUI",
     "name": "ANYOUI خلاط يدوي 3سرعة",
@@ -4196,7 +4173,7 @@
   {
     "asin": "B09V2CX2FJ",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop خلاط يدوي 7سرعة",
+    "name": "KBZONE خلاط يدوي 7سرعة",
     "specs": {
       "speed": "7",
       "type": "يدوي"
@@ -4208,28 +4185,6 @@
     "price": 204,
     "img": "https://m.media-amazon.com/images/I/41OSShjA-CL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09V2CX2FJ?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-26",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
-    "asin": "B088PXPDJ9",
-    "brand": "MI",
-    "name": "MI خلاط يدوي",
-    "specs": {
-      "type": "يدوي"
-    },
-    "model": "",
-    "title": "MI Electric Hand Blender Mixer Hand-held Egg Beater Mixer, White",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 245,
-    "img": "https://m.media-amazon.com/images/I/31HszX-jQvL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B088PXPDJ9?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-26",
@@ -4261,28 +4216,6 @@
     "reason": null
   },
   {
-    "asin": "B0BKYFJGG4",
-    "brand": "سوكاني",
-    "name": "سوكاني خلاط يدوي",
-    "specs": {
-      "type": "يدوي"
-    },
-    "model": "",
-    "title": "SOKANY Electric Food Mixer Table Stand Cake Dough Mixer Handheld Egg Beater Blender Baking Cream Machine automatic egg beater",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 879.5,
-    "img": "https://m.media-amazon.com/images/I/31Hu3Xxs+qL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B0BKYFJGG4?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-26",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0FJ2TLN85",
     "brand": "شارب",
     "name": "شارب خلاط",
@@ -4303,32 +4236,9 @@
     "reason": null
   },
   {
-    "asin": "B08R7Q9FYQ",
-    "brand": "سوكاني",
-    "name": "سوكاني خلاط يدوي 5سرعة",
-    "specs": {
-      "speed": "5",
-      "type": "يدوي"
-    },
-    "model": "",
-    "title": "SOKANY 800-Watt Hand Mixer Beater Blender Electric Cream Maker for Cakes with Base 5 Speed Control | 2 Stainless Steel Beaters| 2 Dough Hooks",
-    "warranty": "15 يوم إرجاع مجاني من أمازون",
-    "ship": "مجاني",
-    "price": 1171.24,
-    "img": "https://m.media-amazon.com/images/I/31jj5cq74DL._SL500_.jpg",
-    "url": "https://www.amazon.eg/dp/B08R7Q9FYQ?tag=fineartslab-21",
-    "active": true,
-    "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-26",
-    "source": "manual",
-    "missCount": 0,
-    "oosCount": 0,
-    "reason": null
-  },
-  {
     "asin": "B0CFHP59CS",
     "brand": "Spaceshoop",
-    "name": "Spaceshoop خلاط يدوي",
+    "name": "خلاط يدوي",
     "specs": {
       "type": "يدوي"
     },
@@ -4415,7 +4325,7 @@
   {
     "asin": "B09BD7TSG4",
     "brand": "Beslike",
-    "name": "Beslike خلاط يدوي 3سرعة",
+    "name": "Milk خلاط يدوي 3سرعة",
     "specs": {
       "speed": "3",
       "type": "يدوي"
@@ -4524,7 +4434,7 @@
   {
     "asin": "B0FF3BFMNS",
     "brand": "جاماكي",
-    "name": "خلاط 3000وات يدوي",
+    "name": "JAMAKY خلاط 3000وات يدوي",
     "specs": {
       "watt": "3000",
       "type": "يدوي"
@@ -4718,7 +4628,7 @@
   {
     "asin": "B0DSVCFGWC",
     "brand": "One Life",
-    "name": "One Life خلاط 700وات",
+    "name": "One خلاط 700وات",
     "specs": {
       "watt": "700"
     },
@@ -4736,5 +4646,95 @@
     "missCount": 0,
     "oosCount": 0,
     "reason": null
+  },
+  {
+    "asin": "B096L4GHHQ",
+    "brand": "Touch Elzenouki",
+    "name": "Touch خلاط 1000وات",
+    "specs": {
+      "watt": "1000"
+    },
+    "model": "",
+    "title": "Touch Elzenouki Blender 1000W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2799,
+    "img": "https://m.media-amazon.com/images/I/315A+yuR3KL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B096L4GHHQ?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-26",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null,
+    "type": "jug"
+  },
+  {
+    "asin": "B0BWTRZBH9",
+    "brand": "سوكاني",
+    "name": "سوكاني خلاط",
+    "specs": {
+      "cap": "2"
+    },
+    "model": "",
+    "title": "SOKANY Personal Blender 2L",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1410,
+    "img": "https://m.media-amazon.com/images/I/41hfD8uycaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BWTRZBH9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-26",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null,
+    "type": "personal"
+  },
+  {
+    "asin": "B0BL1HKY82",
+    "brand": "سوكاني",
+    "name": "سوكاني خلاط",
+    "specs": {
+      "cap": "2"
+    },
+    "model": "",
+    "title": "SOKANY Personal Blender 2L Red",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1400,
+    "img": "https://m.media-amazon.com/images/I/41jyIRLQf6L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0BL1HKY82?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-26",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null,
+    "type": "personal"
+  },
+  {
+    "asin": "B0B1DTB3RL",
+    "brand": "Somerway",
+    "name": "Somerway خلاط",
+    "specs": {},
+    "model": "",
+    "title": "Somerway Personal Blender 350ml",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 288.89,
+    "img": "https://m.media-amazon.com/images/I/41NrX3BPoeL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0B1DTB3RL?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-23",
+    "lastGood": "2026-11-26",
+    "source": "manual",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null,
+    "type": "personal"
   }
 ]
