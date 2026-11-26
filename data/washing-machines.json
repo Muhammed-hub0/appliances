@@ -31,7 +31,7 @@
     "specs": {
       "cap": "8",
       "spin": "1200",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "FV812SLOB",
     "title": "Tornado Full Automatic Washing Machine 8 KG, 1200 RPM Inverter Motor, Steam Function, Sensitive Care, Extra Rinse, Allergy Safe Technology, Silver TWV-FV812SLOB",
@@ -46,7 +46,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GGJ1T6WK",
@@ -369,7 +370,7 @@
     "specs": {
       "cap": "7",
       "spin": "1400",
-      "type": "أوتوماتيك"
+      "type": "غسالة ومجفف"
     },
     "model": "",
     "title": "HOOVER Washing Machine Fully Automatic 7Kg With 5 Kg Dryer Inverter-1400 RPM- Steam Function- WIFI- KG Mode- Active Wash- Rapid Wash- Drum Clean- ItalianTechnology- Silver H3DPS4756TMBRELA",
@@ -385,7 +386,8 @@
     "missCount": 0,
     "oosCount": 0,
     "reason": null,
-    "lastSeenOut": "2026-11-25"
+    "lastSeenOut": "2026-11-25",
+    "type": "washer-dryer"
   },
   {
     "asin": "B0HM4HJR5T",
@@ -541,7 +543,8 @@
     "name": "سامسونج غسالة 8كجم 1400rpm",
     "specs": {
       "cap": "8",
-      "spin": "1400"
+      "spin": "1400",
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "SAMSUNG WASHING MACHINE 8KG 1400RPM DIGITAL INVERTER ECO BUBBLE WI-FI STEAM INOX WW80T534DAN1AS- (local warranty)",
@@ -556,7 +559,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HC3F3F3Y",
@@ -588,7 +592,7 @@
     "name": "تورنيدو غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "FV710SLOB",
     "title": "Tornado Washing Machine Fully Automatic 7 KG Inverter Motor, 15 Programs, Steam Function, Sensitive Care, Extra Rinse, Allergy Safe Technology, Silver (Made IN Turkey) TWV-FV710SLOB",
@@ -603,7 +607,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B01J5KQIA6",
@@ -830,7 +835,7 @@
     "name": "توشيبا غسالة 12كجم أوتوماتيك",
     "specs": {
       "cap": "12",
-      "type": "أوتوماتيك"
+      "type": "غسالة ومجفف"
     },
     "model": "BM130GF4EG",
     "title": "Toshiba Washing Machine Automatic TWD-BM130GF4EG(MK) Ultra Fine Bubbles, the great waves, Steam, WI-FI 12KG Washer + 8 KG dryer, Origin Inverter, Morandi Grey",
@@ -845,7 +850,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "washer-dryer"
   },
   {
     "asin": "B0H17ZFJBW",
@@ -876,7 +882,7 @@
     "name": "غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
-      "type": "أوتوماتيك"
+      "type": "تحميل علوي"
     },
     "model": "",
     "title": "Fresh Top Automatic Washing Machine, 7Kg, Silver - Ftm-09F12S",
@@ -891,7 +897,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0CDY19CQF",
@@ -923,7 +930,7 @@
     "name": "فريش غسالة 9كجم أوتوماتيك",
     "specs": {
       "cap": "9",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "Fresh Automatic Washing Machine 9 KG Inverter Direct Drive – Dark Gray",
@@ -938,7 +945,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0DT15V3WP",
@@ -1113,7 +1121,7 @@
     "specs": {
       "cap": "9",
       "spin": "1400",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "HITACHI Washing Machine Fully Automatic 9 Kg Inverter, 1400 RPM, Drum Clean, Steam And Hygiene Function, Aqua Wave System, Xpress Program, Add Garment Feature, Pump, XL Door Grey BD-90YFVEM",
@@ -1128,7 +1136,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B09L1GGMDY",
@@ -1162,7 +1171,7 @@
     "specs": {
       "cap": "7",
       "spin": "1200",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "ZWF7240SB5",
     "title": "Zanussi Automatic Washing Machine, Digital Multi Program, TC4, 7 KG, 1200 RPM, Silver, Motor Universal, Black Door - ZWF7240SB5",
@@ -1178,7 +1187,8 @@
     "missCount": 0,
     "oosCount": 0,
     "reason": null,
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-23",
+    "type": "front-load"
   },
   {
     "asin": "B0FTMJ3145",
@@ -1285,7 +1295,7 @@
     "specs": {
       "cap": "11",
       "spin": "1400",
-      "type": "أوتوماتيك"
+      "type": "غسالة ومجفف"
     },
     "model": "DP114KLE-G",
     "title": "SHARP K-PRO Washing Machine Fully Automatic 11 Kg-7 Kg Dryer J-Tech Inverter, 1400 RPM, Plasma Cluster, Add Laundry Steam, Hygiene, Japanese Technology Dark Grey ES-DP114KLE-G",
@@ -1300,7 +1310,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "washer-dryer"
   },
   {
     "asin": "B0FZ4Z7MR3",
@@ -1385,7 +1396,7 @@
     "specs": {
       "cap": "8",
       "spin": "1400",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "PANASONIC WASHING MACHINE FULL AUTOMATIC 8 KG 1400 RPM SILVER NA-148VB7 - Warranty 2 Years call 19125 Filkhedma",
@@ -1400,7 +1411,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0DDJKJ7PT",
@@ -1409,7 +1421,7 @@
     "specs": {
       "cap": "14",
       "spin": "1400",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "RO14146DCBT-",
     "title": "CANDY Smart Washing Machine Fully Automatic Capacity 14 Kg Inverter 1400 RPM, Wifi, Drain Pump, Steam, Hygiene, Easy Iron, Quick Wash, Italian Technology (El Araby Warranty) Black RO14146DCBT-EGY",
@@ -1424,7 +1436,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B00OLI6FFG",
@@ -1601,7 +1614,8 @@
     "name": "غسالة 9كجم 1400rpm",
     "specs": {
       "cap": "9",
-      "spin": "1400"
+      "spin": "1400",
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "Fresh PC Washing Machine, 9kg, Silver, 1400 RPM, Direct Drive Inverter Motor",
@@ -1616,7 +1630,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B08WJJ92JC",
@@ -1624,7 +1639,7 @@
     "name": "شارب غسالة 7كجم أوتوماتيك",
     "specs": {
       "cap": "7",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "FP710CXE-B",
     "title": "SHARP Washing Machine Fully Automatic 7 Kg, Digital Touch Display, Easy Iron, Quick Wash, Allergy Care, Japaness Technology Black ES-FP710CXE-B",
@@ -1639,7 +1654,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0H4GS6B4H",
@@ -1671,7 +1687,8 @@
     "name": "وايت غسالة 7كجم 1200rpm",
     "specs": {
       "cap": "7",
-      "spin": "1200"
+      "spin": "1200",
+      "type": "تحميل أمامي"
     },
     "model": "WPW71215DSWVB",
     "title": "White Point 7kg 1200rpm Black Digital Inverter Steam Washing Machine with Black Chrome Door WPW71215DSWVB",
@@ -1686,7 +1703,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0DWLLRG59",
@@ -1956,7 +1974,7 @@
     "brand": "فريش",
     "name": "فريش غسالة أوتوماتيك",
     "specs": {
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "Fresh Automatic Washing Machine 7K",
@@ -1971,7 +1989,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0CQPKQRGB",
@@ -2234,7 +2253,7 @@
     "specs": {
       "cap": "10",
       "spin": "1400",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "FV1014SLOB",
     "title": "Tornado Full Automatic Washing Machine 10 KG, 1400 RPM Inverter Motor, Steam Function, Sensitive Care, Extra Rinse, Allergy Safe Technology, Silver TWV-FV1014SLOB",
@@ -2249,7 +2268,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0HLLKXM6S",
@@ -2258,7 +2278,7 @@
     "specs": {
       "cap": "12",
       "spin": "1400",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "FV1214SLOB",
     "title": "Tornado Full Automatic Washing Machine 12 KG, 1400 RPM Inverter Motor, Steam Function, Sensitive Care, Extra Rinse, Allergy Safe Technology, Silver TWV-FV1214SLOB",
@@ -2273,7 +2293,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GNN5C3VT",
@@ -2593,7 +2614,8 @@
     "brand": "وايت بوينت",
     "name": "وايت غسالة 9كجم",
     "specs": {
-      "cap": "9"
+      "cap": "9",
+      "type": "تحميل علوي"
     },
     "model": "",
     "title": "White Point Washing Machine (9kg)",
@@ -2608,7 +2630,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-load"
   },
   {
     "asin": "B0HNPQXDFV",
@@ -2785,7 +2808,7 @@
     "specs": {
       "cap": "8",
       "spin": "1200",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "HOOVER Washing Machine Fully Automatic Capcity 8Kg Inverter 1200 RPM Power Care System, Steam, KGMode, Rapid Washو Drum Clean, Anti Bacterial Gasket, Italian Technology Dark Silver H3WPS284TAMBRELA",
@@ -2800,7 +2823,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GLTHP68J",
@@ -2834,7 +2858,7 @@
     "specs": {
       "cap": "7",
       "spin": "1200",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "HOOVER Washing Machine FullyAutomatic Capcity 7Kg Inverter Motor, 1200 RPM, Steam Function, KG Mode, Rapid Program, WIFI, Drum Clean, Anti Bacterial Gasket, Italian Technology, Black H3WPS274TMBB6ELA",
@@ -2849,7 +2873,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0GLR4DB9N",
@@ -2858,7 +2883,7 @@
     "specs": {
       "cap": "7",
       "spin": "1200",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "HOOVER Washing Machine FullyAutomatic Capcity 7Kg Inverter, 1200 RPM, Steam Function, KG Mode, Rapid Program, WIFI, Drum Clean, Anti Bacterial Gasket, Italian Technology, Dark Silver H3WPS274TMBR6ELA",
@@ -2873,7 +2898,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FLJXW8P1",
@@ -2908,7 +2934,7 @@
     "specs": {
       "cap": "8",
       "spin": "1200",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "",
     "title": "Fresh 8 KG Automatic Washing Machine – Inverter Direct Drive, Steam Wash, 1200 RPM, Black",
@@ -2923,7 +2949,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FLK8ST8K",
@@ -2955,7 +2982,7 @@
     "name": "توشيبا غسالة 8كجم أوتوماتيك",
     "specs": {
       "cap": "8",
-      "type": "أوتوماتيك"
+      "type": "تحميل أمامي"
     },
     "model": "WIFI",
     "title": "Toshiba Washing Machine, Tw-Bl90A4Eg(Ss), Ultra Fine Bubbles,UFB,Great Waves,Steam,Smart Control (Wifi) 8 Kg Silver, Automatic",
@@ -2970,7 +2997,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "front-load"
   },
   {
     "asin": "B0FLK472JQ",
@@ -3376,13 +3404,13 @@
     "price": 10970,
     "img": "https://m.media-amazon.com/images/I/41bDzgfacUL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B091C2PRCH?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": "pressure-washer-not-laundry"
   },
   {
     "asin": "B0FS4GPH8Y",

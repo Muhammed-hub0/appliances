@@ -278,7 +278,8 @@
     "brand": "فريش",
     "name": "فريش مروحة 16بوصة",
     "specs": {
-      "size": "16"
+      "size": "16",
+      "type": "طاولة"
     },
     "model": "",
     "title": "Fresh Fan Desk Smart 16 Inch",
@@ -293,7 +294,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "table"
   },
   {
     "asin": "B0BXSNR5M5",
@@ -1638,7 +1640,7 @@
     "brand": "Cosell",
     "name": "FAN-X05 مروحة طاولة",
     "specs": {
-      "type": "طاولة"
+      "type": "شخصية"
     },
     "model": "WHITE",
     "title": "FAN-X05 High Speed Cooling Fan, Clear Shell Design, Digital Display, Portable (White)",
@@ -1653,7 +1655,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "personal"
   },
   {
     "asin": "B0H6N4KJNR",
@@ -1858,7 +1861,8 @@
     "brand": "PRIME TECH",
     "name": "Prime مروحة 30بوصة",
     "specs": {
-      "size": "30"
+      "size": "30",
+      "type": "أرضية"
     },
     "model": "",
     "title": "Prime Tech Metal Fan 30 Inch Vertical Electric Multifunctional Soft Wind Experience",
@@ -1873,7 +1877,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "stand"
   },
   {
     "asin": "B08YY2WF91",
@@ -2210,7 +2215,8 @@
     "brand": "PRIME TECH",
     "name": "Prime مروحة 26بوصة",
     "specs": {
-      "size": "26"
+      "size": "26",
+      "type": "أرضية"
     },
     "model": "",
     "title": "Prime Tech Metal Fan 26 Inch Vertical Electric Multifunctional Soft Wind Experience",
@@ -2225,7 +2231,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "stand"
   },
   {
     "asin": "B0F7R8LQTK",
@@ -2307,13 +2314,13 @@
     "price": 194.4,
     "img": "https://m.media-amazon.com/images/I/419xj-qvmXL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0H689958X?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": "phone-cooler-accessory"
   },
   {
     "asin": "B0HP2B3H85",
@@ -2417,13 +2424,13 @@
     "price": 585,
     "img": "https://m.media-amazon.com/images/I/41tFo5wfP4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DDKTW42B?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": "ps5-cooler-accessory"
   },
   {
     "asin": "B098TYY4V3",
@@ -2449,7 +2456,9 @@
     "asin": "B0D6Y93DNF",
     "brand": "TYMDXKJ",
     "name": "High-Wind مروحة",
-    "specs": {},
+    "specs": {
+      "type": "طاولة"
+    },
     "model": "",
     "title": "High-Wind Cooling Electric Fan, Three-Hole Spray Charging Fan Desktop Double-Head Powerful Air Cooler 3 Wind Speeds for Indooor Outdoor Office Bedroom,White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -2463,7 +2472,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "table"
   },
   {
     "asin": "B0CLLT7BHW",
@@ -5011,7 +5021,9 @@
     "asin": "B0CFLMPWMH",
     "brand": "Ingco",
     "name": "Ingco مروحة",
-    "specs": {},
+    "specs": {
+      "type": "أرضية"
+    },
     "model": "",
     "title": "Ingco CFALI2001 Lithium-ion Fan",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -5025,7 +5037,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "stand"
   },
   {
     "asin": "B0HDJHL8VJ",
@@ -5686,7 +5699,9 @@
     "asin": "B08867Y2LB",
     "brand": "جيباس",
     "name": "جيباس مروحة",
-    "specs": {},
+    "specs": {
+      "type": "شخصية"
+    },
     "model": "",
     "title": "Geepas 2 in 1 Rechargeable Clip Fan With light 36 Pcs LED",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -5700,7 +5715,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "personal"
   },
   {
     "asin": "B0FC7JXZ3S",
@@ -5769,7 +5785,7 @@
     "brand": "جري",
     "name": "جري مروحة طاولة",
     "specs": {
-      "type": "طاولة"
+      "type": "شخصية"
     },
     "model": "",
     "title": "Generic FiveJoy 360 Degree Rotatable Car Fan - 12V DC Electric 2 Speed Dual Head Fans, Quiet Strong Dashboard Cooling Air Circulator Fan for Sedan SUV RV Boat Auto Vehicles Golf or Home",
@@ -5784,7 +5800,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "personal"
   },
   {
     "asin": "B08Y6SXZ4Y",
@@ -6468,13 +6485,13 @@
     "price": 4410,
     "img": "https://m.media-amazon.com/images/I/5174SCc1e7L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B4DKHMMX?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": "fly-fan-pest-control"
   },
   {
     "asin": "B0CJ813KDZ",
@@ -6656,7 +6673,7 @@
     "brand": "USHOP",
     "name": "مروحة طاولة",
     "specs": {
-      "type": "طاولة"
+      "type": "شخصية"
     },
     "model": "",
     "title": "2 x All Direction Rotating Fans - 2 Wind Speed Powered by Car Lighter Portable Cooling Fan for Car by YOSHOP",
@@ -6671,7 +6688,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "personal"
   },
   {
     "asin": "B0DK2WVYFB",

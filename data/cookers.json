@@ -1473,7 +1473,9 @@
     "asin": "B09B8VX138",
     "brand": "Tecnogas",
     "name": "بوتاجاز",
-    "specs": {},
+    "specs": {
+      "type": "غاز"
+    },
     "model": "",
     "title": "Tecno-Gaz Stove 55X55 , 4 Flame - Black Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -1487,7 +1489,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "gas"
   },
   {
     "asin": "B0CJYFLTHP",
@@ -1866,7 +1869,9 @@
     "asin": "B0CGVV43MC",
     "brand": "يونيون إير",
     "name": "يونيون بوتاجاز",
-    "specs": {},
+    "specs": {
+      "type": "كهربائي"
+    },
     "model": "C68SS-DC-",
     "title": "Unionaire Cooker 60x80 Gusto Stainless Fan C68SS-DC-443-F-2W-GUAL",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -1880,7 +1885,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "electric"
   },
   {
     "asin": "B0CJCRG21K",
@@ -3892,7 +3898,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "freestanding"
   },
   {
     "asin": "B0CKW689HK",

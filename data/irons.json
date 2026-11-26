@@ -1157,7 +1157,8 @@
     "brand": "أورايمو",
     "name": "أورايمو مكواة 1740وات",
     "specs": {
-      "watt": "1740"
+      "watt": "1740",
+      "type": "بخار"
     },
     "model": "",
     "title": "Oraimo SmartIron, 1740W Portable Electric Iron, Black with Green Accents",
@@ -1172,7 +1173,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "steam"
   },
   {
     "asin": "B09C8G8SBR",
@@ -2482,7 +2484,9 @@
     "asin": "B0DP4YXSM5",
     "brand": "Winning Star",
     "name": "Winning مكواة",
-    "specs": {},
+    "specs": {
+      "type": "بخار"
+    },
     "model": "",
     "title": "Winning Star Electric Iron St-218",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -2496,7 +2500,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "steam"
   },
   {
     "asin": "B0D1CM3SMP",

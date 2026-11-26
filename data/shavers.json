@@ -4,7 +4,8 @@
     "brand": "فيليبس",
     "name": "فيليبس حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "S1151/00",
     "title": "Philips Shaver 1000 Series Wet & Dry Electric Shaver S1151/00, 2 Years Warranty",
@@ -19,7 +20,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0C2J8DQC1",
@@ -284,7 +286,8 @@
     "brand": "فيليبس",
     "name": "فيليبس حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "S3144/00",
     "title": "Philips Electric Shaver Series 3100, Wet & Dry with 5D Flex Heads, S3144/00",
@@ -299,7 +302,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0D4VB3LL9",
@@ -1371,7 +1375,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "women"
   },
   {
     "asin": "B08L9RRNY5",
@@ -1416,7 +1421,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "women"
   },
   {
     "asin": "B0DFYN8174",
@@ -1468,7 +1474,9 @@
     "asin": "B07RGWCGLM",
     "brand": "كيمي",
     "name": "كيمي حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "KEMEI Electric razor, Orange",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -1482,13 +1490,16 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B01KH1DDG4",
     "brand": "فيليبس",
     "name": "فيليبس حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "PQ206",
     "title": "Philips PQ206 Electric Shaver Battery Powered - Convenient To Carry",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -1502,7 +1513,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0DQWLLMBS",
@@ -3050,7 +3062,8 @@
     "brand": "فيليبس",
     "name": "فيليبس حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "S5887/10",
     "title": "Philips S5887/10 Series 5000 Wet & Dry Razor",
@@ -3067,14 +3080,16 @@
     "oosCount": 1,
     "reason": null,
     "outOfStockSince": "2026-11-26",
-    "lastSeenOut": "2026-11-26"
+    "lastSeenOut": "2026-11-26",
+    "type": "men"
   },
   {
     "asin": "B0047UE91U",
     "brand": "وول",
     "name": "وول حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Wahl Travel Shaver, Unisex, Wet and Dry, Cordless, Model 03615-1027, 45-Minute Battery Life",
@@ -3089,7 +3104,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B002TQ4AO0",
@@ -3133,7 +3149,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B0BZDPFH45",
@@ -3334,14 +3351,16 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0CPCWGXFW",
     "brand": "فيليبس",
     "name": "فيليبس حلاقة دواري",
     "specs": {
-      "type": "دواري"
+      "type": "دواري",
+      "gender": "رجالي"
     },
     "model": "S3244/12",
     "title": "Philips S3244/12 rotary shaver Black",
@@ -3356,14 +3375,16 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0863ZTZF5",
     "brand": "فيليبس",
     "name": "فيليبس حلاقة",
     "specs": {
-      "battery": "40"
+      "battery": "40",
+      "gender": "رجالي"
     },
     "model": "S1121",
     "title": "Philips Shaver Series 1000 Wet or Dry Electric Shaver, ComfortCut blades, 3-Directional Flex Heads, One-touch open, 40 Minutes of Cordless Shaving from an 8-Hour Charge – S1121",
@@ -3379,7 +3400,8 @@
     "missCount": 0,
     "oosCount": 0,
     "reason": null,
-    "lastSeenOut": "2026-11-24"
+    "lastSeenOut": "2026-11-24",
+    "type": "men"
   },
   {
     "asin": "B0DY55WMNJ",
@@ -3509,13 +3531,16 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B07PPJRXCZ",
     "brand": "كيمي",
     "name": "كيمي حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "Kemei Shaver KM-2024 Electric Shaver | Original",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -3529,13 +3554,16 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B01N4C13HH",
     "brand": "براون",
     "name": "براون حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "Braun Series 3 Electric Shaver with Protection Cap – 300s Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -3549,7 +3577,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0G2CFNPNP",
@@ -3569,7 +3598,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B00HDJ8LA2",
@@ -4822,7 +4852,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B0GXL7DGW2",
@@ -5005,14 +5036,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0GZ51QXDL",
     "brand": "VGR",
     "name": "VGR حلاقة شبكي",
     "specs": {
-      "type": "شبكي"
+      "type": "شبكي",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "VGR V-640S Professional Foil Shaver with Double Titanium Foils, 9000 RPM, USB Charging, 1200 mAh Battery",
@@ -5027,7 +5060,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B09H527LWF",
@@ -5047,7 +5081,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0BHBSJ2WR",
@@ -5258,7 +5293,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0CFHPNTQ2",
@@ -5349,14 +5385,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0DCSSGSJG",
     "brand": "VGR",
     "name": "VGR حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "VGR V-357 Professional Rechargeable Wet and Dry Foil Shaver",
@@ -5371,7 +5409,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B07S1FWC6F",
@@ -5391,7 +5430,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B08WHTQYQ8",
@@ -5543,7 +5583,8 @@
     "brand": "VGR",
     "name": "VGR حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "GREEN",
     "title": "VGR V-390 Professional Electric Ultra Thin Shaver Wet/Dry (Green)",
@@ -5558,7 +5599,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B08YY2F2C4",
@@ -5612,7 +5654,8 @@
     "brand": "شاومي",
     "name": "شاومي حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "S200",
     "title": "Xiaomi Electric Shaver S200, 2 Rotary Blades, 8000 RPM Motor, Skin-Touch Auto Start, IPX7 Waterproof, Type-C Fast Charge, 60-Min Runtime (Moon Rock Grey)",
@@ -5627,13 +5670,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B006Q87I0U",
     "brand": "براون",
     "name": "براون حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "Braun Series 1 130s-1 Electric Shaver- Mains Only Shaver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -5647,7 +5693,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0DPS5W4YD",
@@ -5723,7 +5770,8 @@
     "brand": "Skull Shaver",
     "name": "Skull حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Skull Shaver Pitbull Gold Pro GX5 | Head and Face Razor, Cordless, Wet and Dry Use, Water Resistant, Travel Size, Strong Pro Blade",
@@ -5738,7 +5786,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0F9X7H8W6",
@@ -5838,7 +5887,9 @@
     "asin": "B0033CSGLW",
     "brand": "براون",
     "name": "براون حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "Braun MobileShave M-90 Shaver with Twist Cap, Battery Operated - Dark Blue/Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -5852,7 +5903,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0GYLGPTCP",
@@ -5904,7 +5956,9 @@
     "asin": "B09HQ8Q7P5",
     "brand": "VGR",
     "name": "VGR حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "V-228",
     "title": "VGR Charging Electric Shaver (V-228)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -5918,7 +5972,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0G2ZYSK3H",
@@ -5971,7 +6026,8 @@
     "brand": "VGR",
     "name": "Vgr حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Vgr Waterproof Rechargeable Cordless Electric Shaver V-336",
@@ -5986,7 +6042,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B07VC37124",
@@ -6086,7 +6143,8 @@
     "brand": "براون",
     "name": "براون حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Braun Series 5 MBS5 Wet & Dry Electric Shaver, SensoFlex, AutoSense, Travel Kit, Black - Braun Max 100 Years Limited Edition",
@@ -6101,14 +6159,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B08WJJG7PQ",
     "brand": "كيمي",
     "name": "كيمي حلاقة دواري",
     "specs": {
-      "type": "دواري"
+      "type": "دواري",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Kemei km-5880 220v rotary electric razor rechargeable shaver",
@@ -6123,7 +6183,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B09H53MTFW",
@@ -6143,7 +6204,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0BZR82M42",
@@ -6173,7 +6235,8 @@
     "brand": "فيليبس",
     "name": "فيليبس حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "AT750/90",
     "title": "Philips Wet and dry Electric Shaver Wet Shave With Shaving Gel or Foam, Super Lift&Cut, Flexing heads – International Warranty – AT750/90",
@@ -6188,7 +6251,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0FPMGB84Q",
@@ -6263,7 +6327,8 @@
     "brand": "براون",
     "name": "براون حلاقة شبكي",
     "specs": {
-      "type": "شبكي"
+      "type": "شبكي",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Braun Series 3 300s Rechargeable Electric Foil Shaver With 3 Flexible Blades, Protection Cap – Red",
@@ -6278,7 +6343,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0FXZWN3MV",
@@ -6308,7 +6374,9 @@
     "asin": "B0CVVSWRW4",
     "brand": "فيليبس",
     "name": "فيليبس حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "S5885/25",
     "title": "Philips Shaver Series 5000 S5885/25 Rasoir électrique 100% étanche",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -6322,7 +6390,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0CN5Q1C1W",
@@ -6375,7 +6444,8 @@
     "brand": "براون",
     "name": "براون حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "B1000S",
     "title": "Braun 60-B1000s,Braun Shaver Series 6 Sensoflex - 60-B1000S Wet & Dry Shaver, With Travel Case, Blue",
@@ -6390,7 +6460,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B07FNWM8QB",
@@ -6451,7 +6522,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0BJLZGSTQ",
@@ -6527,7 +6599,9 @@
     "asin": "B07MX8KTBN",
     "brand": "براون",
     "name": "براون حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "Braun MobileShave M-90 Shaver with Twist Cap, Battery Operated - Dark Blue / Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -6541,7 +6615,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B08K8ZYH8P",
@@ -6585,7 +6660,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B00CZIUWZS",
@@ -6863,7 +6939,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B0FJRH47DF",
@@ -6894,7 +6971,8 @@
     "brand": "براون",
     "name": "براون حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "",
     "title": "Braun Series 7 MBS7 Wet & Dry Shaver, Design Edition, Black - Max 100 Years Limited Edition",
@@ -6909,7 +6987,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B079Y9MQNW",
@@ -7212,7 +7291,9 @@
     "asin": "B0DNXZZRB6",
     "brand": "شارب",
     "name": "شارب حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "KM-6558 Professional Electric Razor with Precision Edge and Sharp Blades – Easy to Use for a Comfortable and Effortless Shave",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -7226,7 +7307,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0DF69X3J8",
@@ -7246,13 +7328,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B087VB3QQP",
     "brand": "Flawless",
     "name": "Finishing حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "نسائي"
+    },
     "model": "",
     "title": "Finishing Touch Flawless Nu Razor Portable Cordless Rechargeable Electric Razor",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -7266,7 +7351,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "women"
   },
   {
     "asin": "B0D7YKX6L2",
@@ -7286,7 +7372,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B0D15QVJ1R",
@@ -8032,7 +8119,8 @@
     "brand": "فيليبس",
     "name": "فيليبس حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "X5004/00",
     "title": "Philips Shaver 5000X Series, Wet and Dry Electric Shaver, SkinProtect Technology, 360 Flexing Head, 1 h Charging/5 min. Quick Charge, P-Cap Silver, Model X5004/00",
@@ -8047,7 +8135,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0C1JYZ832",
@@ -8293,7 +8382,8 @@
     "brand": "براون",
     "name": "براون حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "B1000S",
     "title": "Braun Series 6 60-B1000s Wet & Dry Shaver with Travel Case, Blue",
@@ -8308,7 +8398,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0G9TWF4XW",
@@ -10941,7 +11032,8 @@
     "brand": "فيليبس",
     "name": "فيليبس حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "X3063/00",
     "title": "Philips Shaver 3000X Series Wet & Dry Electric Shaver X3063/00, 2 Years Warranty",
@@ -10956,7 +11048,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0BR85X1WV",
@@ -11818,7 +11911,9 @@
     "asin": "B0B3JBYXG8",
     "brand": "براون",
     "name": "براون حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "B1000S",
     "title": "BRAUN SHAVER 51-B1000s BLU EURO",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -11832,14 +11927,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0BBH21XGR",
     "brand": "براون",
     "name": "براون حلاقة مقاومللماء",
     "specs": {
-      "type": "مقاوم للماء"
+      "type": "مقاوم للماء",
+      "gender": "رجالي"
     },
     "model": "S1000S",
     "title": "Braun Series 7 71-S1000s Wet & Dry Shaver With Travel Case - Silver",
@@ -11854,7 +11951,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0C7J82XS7",
@@ -11997,7 +12095,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0D7FJJXYL",
@@ -13904,7 +14003,9 @@
     "asin": "B0B8ZZH5XF",
     "brand": "ريمينجتون",
     "name": "حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "Electric Shaver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -13918,7 +14019,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0FLYP9BRX",
@@ -14210,7 +14312,8 @@
     "name": "فيليبس حلاقة مقاومللماء",
     "specs": {
       "type": "مقاوم للماء",
-      "battery": "60"
+      "battery": "60",
+      "gender": "رجالي"
     },
     "model": "I9000",
     "title": "Philips i9000 Prestige Ultra Shaver XP9404/31 | Wet & dry | Ultimate close, comfortable shave | 5 modes | Quick clean system | Light-up charging stand | 60 min cordless | Travel case",
@@ -14225,7 +14328,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0FH2BX1RR",
@@ -15561,7 +15665,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "women"
   },
   {
     "asin": "B005515PPY",
@@ -16663,7 +16768,9 @@
     "asin": "B09XGGT31T",
     "brand": "كيمي",
     "name": "كيمي حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "SILVER",
     "title": "Kemei KM-2028 Professional Electric Shaver (Silver)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -16677,7 +16784,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B08C5MGZWN",
@@ -16838,7 +16946,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "body"
   },
   {
     "asin": "B0CRB5WYCF",
@@ -17397,7 +17506,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "clipper"
   },
   {
     "asin": "B0F4X1GX5R",
@@ -17498,7 +17608,9 @@
     "asin": "B09H53XXSD",
     "brand": "كيمي",
     "name": "كيمي حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "رجالي"
+    },
     "model": "",
     "title": "Kemei electric shaver 6672",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -17512,7 +17624,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "men"
   },
   {
     "asin": "B0DCFYXPR1",
@@ -18703,7 +18816,9 @@
     "asin": "B0BJL93K4Z",
     "brand": "براون",
     "name": "براون حلاقة",
-    "specs": {},
+    "specs": {
+      "gender": "نسائي"
+    },
     "model": "PL3121",
     "title": "Braun Silk-expert Pro 3 PL3121 IPL With 3 extras Precision Head, Venus Razor, Zip Pouch, 300,000 flashes – PL3121",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -18717,7 +18832,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "women"
   },
   {
     "asin": "B0FPQS2LSZ",

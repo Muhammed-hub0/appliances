@@ -3312,7 +3312,8 @@
     "brand": "Heinrichs",
     "name": "Heinrichs فريزر 33لتر",
     "specs": {
-      "cap": "33"
+      "cap": "33",
+      "type": "عمودي"
     },
     "model": "BLACK",
     "title": "Heinrichs Mini Freezer 33 Litres Small Compact Quiet 40 dB -Interchangeable Door Hassle up to -18°C Freezer Perfect for Office, Kitchens (BLACK)",
@@ -3327,7 +3328,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "upright"
   },
   {
     "asin": "B0F3KV4DYC",

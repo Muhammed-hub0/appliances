@@ -705,7 +705,8 @@
     "name": "كريازي ثلاجة 370لتر نوفروست",
     "specs": {
       "cap": "370",
-      "type": "نوفروست"
+      "type": "نوفروست",
+      "door": "بابين"
     },
     "model": "KH370LN/1",
     "title": "Kiriazi Solitaire Elegant Refrigerator 370 Liters, No Frost, Black - KH370LN/1",
@@ -720,7 +721,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0CLVFTFLP",
@@ -843,7 +845,8 @@
     "brand": "يونيون إير",
     "name": "يونيون ثلاجة 350لتر",
     "specs": {
-      "cap": "350"
+      "cap": "350",
+      "door": "بابين"
     },
     "model": "",
     "title": "Unionaire RD350VVDHGHUSTO Digital Refrigerator, 350L, Silver, D-Frost, 167.8 cm Height",
@@ -858,7 +861,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0GMC9R64L",
@@ -957,7 +961,8 @@
     "brand": "ميديا",
     "name": "ميديا ثلاجة 411لتر",
     "specs": {
-      "cap": "411"
+      "cap": "411",
+      "door": "بابين"
     },
     "model": "MDRT580MTN46",
     "title": "Midea Refrigerator MDRT580MTN46, Tropical Compressor, Active C Fresh Filter,411 L, Bru Steel",
@@ -972,7 +977,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0D5HMWX5K",
@@ -1002,7 +1008,8 @@
     "brand": "فريش",
     "name": "فريش ثلاجة 329لتر",
     "specs": {
-      "cap": "329"
+      "cap": "329",
+      "door": "بابين"
     },
     "model": "BR370",
     "title": "Fresh refrigerator mechanics/FNT-BR370 BB - 329 Liters 11 ft",
@@ -1017,7 +1024,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B0C7LPJRDR",
@@ -1153,7 +1161,9 @@
     "asin": "B0G2X41VMS",
     "brand": "فريش",
     "name": "فريش ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "بابين"
+    },
     "model": "M470YT",
     "title": "Fresh Refrigerator Digital Stainless FNT-M470YT - FLD 4O",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -1167,7 +1177,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B0FHYJLLJ4",
@@ -1408,7 +1419,8 @@
     "brand": "وايت ويل",
     "name": "ثلاجة 430لتر",
     "specs": {
-      "cap": "430"
+      "cap": "430",
+      "door": "باب واحد"
     },
     "model": "",
     "title": "White Whale Refrigerator 430L Silver WR-4385HSS",
@@ -1423,7 +1435,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B08Z5ZTMX6",
@@ -1561,7 +1574,9 @@
     "asin": "B0CWLX4NL2",
     "brand": "فريش",
     "name": "ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "باب واحد"
+    },
     "model": "B315BS",
     "title": "Refrigerator 12 Feet Fresh Silver FDD-B315BS",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -1575,7 +1590,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B08WJN35RB",
@@ -1854,7 +1870,8 @@
     "name": "ميديا ثلاجة 338لتر إنفرتر",
     "specs": {
       "cap": "338",
-      "type": "إنفرتر"
+      "type": "إنفرتر",
+      "door": "فريزر سفلي"
     },
     "model": "MDRT489MTN46D",
     "title": "Midea Refrigerator MDRT489MTN46D,Inverter, Cooling Zone, Tropical Compressor, Active C Fresh Fresh,338 L, Bru Steel",
@@ -1869,7 +1886,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "bottom-mount"
   },
   {
     "asin": "B0H6C15SRG",
@@ -2047,7 +2065,8 @@
     "name": "هيتاشي ثلاجة 477لتر نوفروست",
     "specs": {
       "cap": "477",
-      "type": "نوفروست"
+      "type": "نوفروست",
+      "door": "بابين"
     },
     "model": "V506EY2R",
     "title": "HITACHI Fridge Inverter Digital No Frost 477 Liter, Water Dispenser, Dual Cooling, Quick Freeze, VitC Care, Max Fresh Technology, Vacation Mode, Reversible Door, (ELaraby Warranty) Inox R-V506EY2R",
@@ -2062,7 +2081,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0D9H46FRY",
@@ -2312,7 +2332,8 @@
     "name": "توشيبا ثلاجة 696لتر إنفرتر",
     "specs": {
       "cap": "696",
-      "type": "إنفرتر"
+      "type": "إنفرتر",
+      "door": "فرنش"
     },
     "model": "RF895WIA-",
     "title": "Toshiba Refrigerator 4-Door GR-RF895WIA-PGN(22), Pair turbo, Origin Inverter, Super Cooling& Super Freezen, Surrounding Cooling, Multi Air Flow, Quick Ice-making, 696Liters, Black",
@@ -2327,7 +2348,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "french-door"
   },
   {
     "asin": "B092329NB9",
@@ -2518,7 +2540,8 @@
     "brand": "سامسونج",
     "name": "سامسونج ثلاجة 641لتر",
     "specs": {
-      "cap": "641"
+      "cap": "641",
+      "door": "بابين"
     },
     "model": "",
     "title": "Samsung Side-by-Side Refrigerator, 641L, 912mm x 726mm x 1784mm, Silver, AI Hybrid Cooling with Twin Cooling Plus, Wi-Fi Enabled",
@@ -2533,7 +2556,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B091NZ6LJP",
@@ -2609,7 +2633,8 @@
     "brand": "فريش",
     "name": "فريش ثلاجة 470لتر",
     "specs": {
-      "cap": "470"
+      "cap": "470",
+      "door": "بابين"
     },
     "model": "BS470BT",
     "title": "Fresh Refrigerator 470 Liter Mechanical Stainless FNT-BS470BT",
@@ -2624,7 +2649,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B09QT3FMNX",
@@ -2653,7 +2679,9 @@
     "asin": "B0DJMCYH3B",
     "brand": "بوش",
     "name": "بوش ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "بابين"
+    },
     "model": "",
     "title": "Bosch, Series 2, free-standing fridge-freezer with freezer at top, 178 x 70 cm, Stainless steel look",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -2667,7 +2695,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B093G3MNLW",
@@ -2757,7 +2786,9 @@
     "asin": "B0GSZCNN9N",
     "brand": "فريش",
     "name": "فريش ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "بابين"
+    },
     "model": "B470BBC",
     "title": "Fresh Refrigerator Mechanical Black FNT-B470BBC - FLD 4O",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -2771,7 +2802,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B0BS1G9W4B",
@@ -2924,7 +2956,8 @@
     "name": "Passap ثلاجة 451لتر نوفروست",
     "specs": {
       "cap": "451",
-      "type": "نوفروست"
+      "type": "نوفروست",
+      "door": "بابين"
     },
     "model": "",
     "title": "Passap Turkish Nofrost Refrigerator - 451 L - 20 Ft - Black - FGV-500 DIGITAL",
@@ -2939,7 +2972,8 @@
     "source": "search",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0GJTHJXXZ",
@@ -3310,7 +3344,8 @@
     "name": "توشيبا ثلاجة 683لتر إنفرتر",
     "specs": {
       "cap": "683",
-      "type": "إنفرتر"
+      "type": "إنفرتر",
+      "door": "فرنش"
     },
     "model": "RM921WI-PGN",
     "title": "TOSHIBA Refrigerator 6 Door,GR-RM921WI-PGN(B1), I-Touch Human sensor,TSmart life, Transparent Window, Origin Inverter, PureAir,Fresh room drawer-Freezer room, Multifunction drawer,683L,Black Glass",
@@ -3325,7 +3360,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "french-door"
   },
   {
     "asin": "B091NYPXJ4",
@@ -3668,7 +3704,9 @@
     "asin": "B091DBS4MF",
     "brand": "W.Alaska",
     "name": "ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "باب واحد"
+    },
     "model": "",
     "title": "W.ALASKA KA Refrigerator - 4.5 Feet - Silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -3682,14 +3720,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B097DXZ5B8",
     "brand": "Gorenje",
     "name": "Gorenje ثلاجة 611لتر",
     "specs": {
-      "cap": "611"
+      "cap": "611",
+      "door": "فرنش"
     },
     "model": "NRM9181SB",
     "title": "Gorenje Freestanding 4 Doors Refrigerator, 611 Liters, Black,Nrm9181Sb.\"Min 1 year manufacturer warranty\"",
@@ -3704,7 +3744,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "french-door"
   },
   {
     "asin": "B0DM91CVXJ",
@@ -3735,7 +3776,8 @@
     "brand": "Heinrichs",
     "name": "Heinrichs ثلاجة 322لتر",
     "specs": {
-      "cap": "322"
+      "cap": "322",
+      "door": "فريزر سفلي"
     },
     "model": "",
     "title": "Heinrich´s Fridge Freezer Combination with 322 L with Freezer Volume96 L, Total No-FROST, LED Lighting, Door Hinge, Changeable, Quiet 35 dB, Large Freezer Boxes, (six) black (Stainless Steel, 322)",
@@ -3750,7 +3792,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "bottom-mount"
   },
   {
     "asin": "B091NYWPM5",
@@ -3781,7 +3824,8 @@
     "name": "بوش ثلاجة 346لتر إنفرتر",
     "specs": {
       "cap": "346",
-      "type": "إنفرتر"
+      "type": "إنفرتر",
+      "door": "باب واحد"
     },
     "model": "KSV36VL30U",
     "title": "Bosch Free Sanding Fridge 346 liter, Intelligent Inverter Technology - Series 4 - KSV36VL30U",
@@ -3796,14 +3840,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B0CH12LR2T",
     "brand": "فريش",
     "name": "فريش ثلاجة 369لتر",
     "specs": {
-      "cap": "369"
+      "cap": "369",
+      "door": "بابين"
     },
     "model": "B400",
     "title": "Fresh Refrigerator 369 Liters - Black/FNT-B400 BB 14 ft",
@@ -3818,14 +3864,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B01JLIG5MI",
     "brand": "فريش",
     "name": "ثلاجة 397لتر",
     "specs": {
-      "cap": "397"
+      "cap": "397",
+      "door": "باب واحد"
     },
     "model": "M470YT",
     "title": "Fresh FNT-M470YT 4K Digital Refrigerator, 397 Liters - Silver 15 ft",
@@ -3840,13 +3888,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B0BHKSR3VC",
     "brand": "فريش",
     "name": "فريش ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "باب واحد"
+    },
     "model": "B470KB",
     "title": "Fresh 14oz Refrigerator FNT-B470KB Black",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -3860,7 +3911,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B0DPRBBRQL",
@@ -3917,7 +3969,8 @@
     "brand": "يونيون إير",
     "name": "يونيون ثلاجة 545لتر",
     "specs": {
-      "cap": "545"
+      "cap": "545",
+      "door": "فرنش"
     },
     "model": "",
     "title": "unionaire Signature AI No-Frost Digital Refrigerator, 545L, Black Glass, Smart Touch Display, UV Technology - URN-800CEPBLG1A-DXHIRBXXLN",
@@ -3932,7 +3985,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "french-door"
   },
   {
     "asin": "B0D547P8FK",
@@ -3962,7 +4016,8 @@
     "brand": "يونيون إير",
     "name": "يونيون ثلاجة 420لتر",
     "specs": {
-      "cap": "420"
+      "cap": "420",
+      "door": "فريزر سفلي"
     },
     "model": "",
     "title": "unionaire 420L Bottom-Freezer Refrigerator No-Frost Black - URN-600CLBLBA-DTXSRILM",
@@ -3977,7 +4032,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "bottom-mount"
   },
   {
     "asin": "B091MXFPYT",
@@ -4116,7 +4172,8 @@
     "brand": "Heinrichs",
     "name": "Heinrichs ثلاجة 322لتر",
     "specs": {
-      "cap": "322"
+      "cap": "322",
+      "door": "فريزر سفلي"
     },
     "model": "",
     "title": "Heinrich´s Fridge Freezer Combination with 322 L with Freezer Volume96 L, Total No-FROST, LED Lighting, Door Hinge, Changeable, Quiet 35 dB, Large Freezer Boxes, (six) black (Black, 322)",
@@ -4131,7 +4188,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "bottom-mount"
   },
   {
     "asin": "B0HRXFHM9M",
@@ -4284,7 +4342,8 @@
     "brand": "نيكاي",
     "name": "نيكاي ثلاجة 800لتر",
     "specs": {
-      "cap": "800"
+      "cap": "800",
+      "door": "بابين"
     },
     "model": "R600A",
     "title": "Nikai 800L Gross, 502L Refrigerator with frost-free side mesh, stainless steel/VCM finish, R600a refrigerant, internal capacitor, quiet operation, tropical compressor",
@@ -4299,7 +4358,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B0D47VBMMR",
@@ -4457,7 +4517,9 @@
     "asin": "B0DX278JRS",
     "brand": "فريش",
     "name": "فريش ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "بابين"
+    },
     "model": "B470KB",
     "title": "Fresh Refrigerator Mechanical Black FNT-B470KB (4O)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -4471,14 +4533,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B0F4KKXLFQ",
     "brand": "WAlaska",
     "name": "Refrigerator ثلاجة نوفروست",
     "specs": {
-      "type": "نوفروست"
+      "type": "نوفروست",
+      "door": "بابين"
     },
     "model": "STAINLESS",
     "title": "Refrigerator 14.5 Feet No Frost - Alaska - KG46NF (Stainless)",
@@ -4493,7 +4557,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B091NZJZ6F",
@@ -4523,7 +4588,8 @@
     "brand": "فريش",
     "name": "ثلاجة 369لتر",
     "specs": {
-      "cap": "369"
+      "cap": "369",
+      "door": "باب واحد"
     },
     "model": "B400KT",
     "title": "Fresh FNT-B400KT 4K Refrigerator, 369 Liters - Silver 14 ft",
@@ -4538,7 +4604,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B0DSJJXFLX",
@@ -4749,7 +4816,9 @@
     "asin": "B0C6H9GVBS",
     "brand": "كريازي",
     "name": "Year ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "بابين"
+    },
     "model": "KR350/2",
     "title": "Year Krizzi Classic KR350/2 Refrigerator",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -4763,7 +4832,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "side-by-side"
   },
   {
     "asin": "B0CRBBYRWY",
@@ -4794,7 +4864,8 @@
     "brand": "فريش",
     "name": "فريش ثلاجة 426لتر",
     "specs": {
-      "cap": "426"
+      "cap": "426",
+      "door": "بابين"
     },
     "model": "DR540YGB",
     "title": "Fresh No-Frost Refrigerator, 426 Liters, Black - FNT-DR540YGB 16 ft",
@@ -4809,7 +4880,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0CH5NGM3H",
@@ -4903,7 +4975,8 @@
     "brand": "Bomann",
     "name": "Bomann ثلاجة 236لتر",
     "specs": {
-      "cap": "236"
+      "cap": "236",
+      "door": "باب واحد"
     },
     "model": "",
     "title": "Bomann Refrigerator with glass door, energy class C, 143 cm, beverage refrigerator 2-12°C, MultiAirflow, 5 grid shelves, door stop changeable, 236 litres, bottle refrigerator, KSG 7292, black",
@@ -4918,14 +4991,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B0DQ8YNLPD",
     "brand": "Exquisit",
     "name": "Exquisit ثلاجة 119لتر",
     "specs": {
-      "cap": "119"
+      "cap": "119",
+      "door": "باب واحد"
     },
     "model": "EKS131-4-FE-",
     "title": "Exquisit Built-in Fridge EKS131-4-FE-090E | Net Capacity: 119 L | 4-Star Freezing | Fixed Door Assembly | Built-in Device [Energy Class E]",
@@ -4940,7 +5015,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B0D9H6JBSW",
@@ -5042,7 +5118,8 @@
     "brand": "Gorenje",
     "name": "Gorenje ثلاجة 565لتر",
     "specs": {
-      "cap": "565"
+      "cap": "565",
+      "door": "فرنش"
     },
     "model": "NRM9181SBI",
     "title": "Gorenje Freestanding 4 Doors Refrigerator With Water And Ice Dispencer, 565 Liters, 10 Years Compressor Warranty, Black, Nrm9181Sbi",
@@ -5057,7 +5134,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "french-door"
   },
   {
     "asin": "B0F5J5H4PP",
@@ -5085,7 +5163,8 @@
     "brand": "فريش",
     "name": "فريش ثلاجة 404لتر",
     "specs": {
-      "cap": "404"
+      "cap": "404",
+      "door": "باب واحد"
     },
     "model": "M540YB",
     "title": "Fresh FNT-M540YB Digital Refrigerator, 404 Liters - Black 15 ft",
@@ -5100,7 +5179,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "single-door"
   },
   {
     "asin": "B0CH5MQ99S",
@@ -5153,7 +5233,9 @@
     "asin": "B0C4B757LY",
     "brand": "فريش",
     "name": "فريش ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "فرنش"
+    },
     "model": "MR580YIGMOD",
     "title": "Fresh Refrigerator Digital Modena Glass/FNT-MR580YIGMod INV",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -5167,7 +5249,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "french-door"
   },
   {
     "asin": "B0BD9B5V6W",
@@ -5193,7 +5276,9 @@
     "asin": "B09GW3MDBF",
     "brand": "Liebherr",
     "name": "ثلاجة",
-    "specs": {},
+    "specs": {
+      "door": "بابين"
+    },
     "model": "",
     "title": "7212 Steel Refrigerator Freezer Kit",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
@@ -5207,7 +5292,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0CKWJTY8L",
@@ -5285,7 +5371,8 @@
     "brand": "فريش",
     "name": "فريش ثلاجة 426لتر",
     "specs": {
-      "cap": "426"
+      "cap": "426",
+      "door": "بابين"
     },
     "model": "D540",
     "title": "Fresh Refrigerator 426 Liters - Stainless Steel/FNT-D540 YT 16 ft",
@@ -5300,14 +5387,16 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0BSFVXB4V",
     "brand": "فريش",
     "name": "فريش ثلاجة 397لتر",
     "specs": {
-      "cap": "397"
+      "cap": "397",
+      "door": "بابين"
     },
     "model": "BR470",
     "title": "Fresh Refrigerator 397 Liters - Stainless Steel/FNT-BR470 KT 15 ft",
@@ -5322,7 +5411,8 @@
     "source": "manual",
     "missCount": 0,
     "oosCount": 0,
-    "reason": null
+    "reason": null,
+    "type": "top-mount"
   },
   {
     "asin": "B0CHQBLLYL",
