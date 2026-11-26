@@ -530,9 +530,41 @@ ${themeScript()}
 </body></html>`;
 }
 
-function renderTypeCard(type, count, href) {
+// صور الأقسام: بنفضّل LG / Samsung / Toshiba، وبعدين الموديلات الحديثة اللي شكلها مودرن.
+const HERO_TITLE_START = /^(?:LG|SAMSUNG|TOSHIBA|إل\s*جي|سامسونج|توشيبا)\b/i;
+const MODERN_HINTS = /(inverter|smart|\bAI\b|digital|touch|wi-?fi|sensor|origin|neo|bespoke|crystal|dual|auto|202[3-9]|series\s*[3-9])/i;
+
+// بنعتمد على بداية العنوان، عشان ما نختارش منتج فيه "LG compressor" مثلًا.
+const isHeroBrand = (o) => HERO_TITLE_START.test(String(o.title || '').trim());
+const modernScore = (o) => (String(o.title || '').match(new RegExp(MODERN_HINTS.source, 'gi')) || []).length;
+const rankImages = (a, b) =>
+  modernScore(b) - modernScore(a)
+  || String(a.title || a.name || '').length - String(b.title || b.name || '').length;
+
+function imageCandidates(list) {
+  return (list || []).filter((o) => typeof o.img === 'string' && /^https:\/\//.test(o.img));
+}
+
+// صورة حقيقية من نفس النوع: براند مشهور لو موجود، وإلا أوضح صورة متاحة.
+function pickTypeImage(list) {
+  const candidates = imageCandidates(list);
+  if (!candidates.length) return '';
+  const branded = candidates.filter(isHeroBrand);
+  return (branded.length ? branded : candidates).sort(rankImages)[0].img;
+}
+
+// صورة القسم العام: بنستخدم براند مشهور لو القسم فيه منتج واحد على الأقل منهم.
+function pickBrandedImage(list) {
+  const branded = imageCandidates(list).filter(isHeroBrand);
+  return branded.length ? branded.sort(rankImages)[0].img : '';
+}
+
+function renderTypeCard(type, count, href, image = '') {
+  const visual = image
+    ? `<img class="cat-img" src="${esc(image)}" loading="lazy" alt="${esc(type.title)}">`
+    : `<span class="emoji">${type.emoji}</span>`;
   return `<a class="cat${count === 0 ? ' empty' : ''}" href="${href}">
-    <span class="emoji">${type.emoji}</span>
+    ${visual}
     <b>${esc(type.title)}</b>
     <span class="meta">${count} منتج متوفر</span>
     <span class="go">اعرض المنتجات ←</span>
@@ -540,7 +572,7 @@ function renderTypeCard(type, count, href) {
 }
 
 // صفحة القسم بقت بتفتح كروت الأنواع (زي الصفحة الرئيسية)، وكل نوع بيفتح جدوله
-export function renderCategoryHub(category, offers, meta, group = null) {
+export function renderCategoryHub(category, offers, meta, group = null, byType = {}, cover = '') {
   const rows = visibleOffers(offers, category);
   const counts = {};
   for (const o of rows) {
@@ -548,10 +580,10 @@ export function renderCategoryHub(category, offers, meta, group = null) {
     counts[t] = (counts[t] || 0) + 1;
   }
   const cards = [
-    renderTypeCard({ emoji: category.emoji, title: `كل ${category.title}` }, rows.length, 'all.html'),
+    renderTypeCard({ emoji: category.emoji, title: `كل ${category.title}` }, rows.length, 'all.html', cover || pickTypeImage(rows)),
     ...typesOf(category.id)
       .filter((t) => (counts[t.id] || 0) > 0)
-      .map((t) => renderTypeCard(t, counts[t.id], `t/${t.id}.html`)),
+      .map((t) => renderTypeCard(t, counts[t.id], `t/${t.id}.html`, pickTypeImage(byType[t.id]))),
   ].join('\n');
 
   return `<!doctype html>
@@ -675,8 +707,9 @@ export async function writePublic(allData, meta = {}) {
     const offers = allData[category.id] || [];
     const rows = visibleOffers(offers, category);
     stats[category.id] = rows.length;
-    // صورة القسم = صورة عامة معزولة اتختارت مسبقًا، والصورة القديمة بتاع أول منتج كحل احتياطي
-    covers[category.id] = CATEGORY_COVERS[category.id]
+    // صورة القسم = موديل حديث من LG / Samsung / Toshiba لو موجود، وإلا الصورة المعزولة المختارة مسبقًا.
+    covers[category.id] = pickBrandedImage(rows)
+      || CATEGORY_COVERS[category.id]
       || rows.find((o) => typeof o.img === 'string' && /^https:\/\//.test(o.img))?.img
       || '';
 
@@ -697,7 +730,7 @@ export async function writePublic(allData, meta = {}) {
     }
     typeCounts[category.id] = counts;
 
-    await writeFile(join(dir, 'index.html'), renderCategoryHub(category, offers, meta, group), 'utf8');
+    await writeFile(join(dir, 'index.html'), renderCategoryHub(category, offers, meta, group, byType, covers[category.id]), 'utf8');
     await writeFile(join(dir, 'all.html'), renderListPage(category, offers, meta, group, {
       tail: 'كل المنتجات',
       heading: `${category.emoji} كل ${esc(category.title)} على أمازون مصر`,

@@ -377,7 +377,17 @@ export const CATEGORIES = [
     exclude: /cover|غلاف|heater|سخان|\btoy\b|لعبة/i,
     specs: [
       n('size', 'المقاس (بوصة)', /(\d{1,2})\s*(?:inch|بوصة|")/i, 8, 30, ''),
-      e('type', 'النوع', [[/tower|برج/i, 'برج'], [/ceiling|سقف/i, 'سقف'], [/stand|أرضية/i, 'أرضية'], [/table|طاولة/i, 'طاولة'], [/exhaust|شفاط/i, 'شفاط']]),
+      e('type', 'النوع', [[/\b(?:handheld|neck|usb|personal|mini|pocket|foldable|clip[-\s]?on)\b|\bportable\s+(?:fan|desk)\b|يدوي|رقبة|شخصي|محمول/i, 'شخصية'], [/tower|برج/i, 'برج'], [/ceiling|سقف/i, 'سقف'], [/stand|أرضية/i, 'أرضية'], [/table|طاولة/i, 'طاولة']]),
+    ],
+  },
+  {
+    id: 'hoods', title: 'الشفاطات', short: 'شفاط', emoji: '💨',
+    queries: ['extractor fan', 'ventilation fan', 'bathroom fan', 'cooker hood', 'شفاط', 'شفاط حمام'],
+    include: /\b(?:extractor|ventilat(?:ing|ion)?|exhaust|bathroom|toilet)\s+fan\b|\b(?:cooker|kitchen|range)\s*hood\b|شفاط|مروحة\s*(?:تهوية|شفاط)/i,
+    exclude: /cover|غلاف|filter|فلتر|bulb|لمبة|accessory|replacement|منظف|cleaner/i,
+    specs: [
+      n('size', 'المقاس (سم)', /(\d{1,3})\s*(?:cm\b|سم)/i, 8, 90, ''),
+      e('type', 'النوع', [[/wall|حائط|جدار/i, 'حائط'], [/ceiling|سقف/i, 'سقف'], [/ventilat|bathroom|toilet|حمام|تهوية/i, 'تهوية / حمام'], [/hood|شفاط|مطبخ/i, 'مطبخ']]),
     ],
   },
   {
@@ -423,7 +433,7 @@ export const GROUPS = [
   },
   {
     id: 'small', title: 'أجهزة منزلية صغيرة', emoji: '🍳', image: 'assets/group-small.jpg',
-    ids: ['airfryers', 'microwaves', 'coffee-machines', 'blenders', 'food-processors', 'vacuum-cleaners', 'irons', 'kettles', 'toasters', 'mixers', 'fans', 'rice-cookers', 'pressure-cookers', 'juicers'],
+    ids: ['airfryers', 'microwaves', 'coffee-machines', 'blenders', 'food-processors', 'vacuum-cleaners', 'irons', 'kettles', 'toasters', 'mixers', 'fans', 'hoods', 'rice-cookers', 'pressure-cookers', 'juicers'],
   },
   {
     id: 'personal', title: 'العناية الشخصية', emoji: '🪒', image: 'assets/group-personal.jpg',
@@ -518,6 +528,10 @@ export const CATEGORY_FILTERS = {
     device: /\bfan\b|مروح/i,
     accessory: /\bfan\s+(?:cover|grill|blade|motor|regulator|capacitor)\b|\b(?:cover|grill|blade|motor)\s+for\s+fan\b|غطاء\s*مروحة|ريش\s*مروحة\s*بديل/i,
   },
+  hoods: {
+    device: /\b(?:extractor|ventilat(?:ing|ion)?|exhaust|bathroom|toilet)\s+fan\b|\b(?:cooker|kitchen|range)\s*hood\b|شفاط|مروحة\s*(?:تهوية|شفاط)/i,
+    accessory: /\b(?:hood|extractor|ventilator)\s+(?:filter|bulb|cover|lamp|motor)\b|\b(?:filter|bulb|cover|lamp|motor)\s+for\s+(?:hood|extractor)\b|فلتر\s*شفاط|لمبة\s*شفاط|غطاء\s*شفاط|قطعة\s*بديل/i,
+  },
   'rice-cookers': {
     device: /rice\s*cooker|طباخ\s*أرز/i,
     accessory: /\brice\s*cooker\s+(?:inner\s+pot|heat\s+diffuser|plate|tray|steam\s+tray|shields?|covers?|spoons?|paddles?)\b|\b(?:shields?|covers?|spoons?|paddles?)\b.*\brice\s*cookers?\b|\binner\s+pot\b.*\brice\s*cooker\b|\bheat\s+diffuser\b.*\brice\b|\brice\s+(?:paddle|spoon)\b|\bspoon\s+rest\b|\butensil\s+holder\b|قطعة\s*بديل|قدر\s*بديل/i,
@@ -556,6 +570,7 @@ export const CATEGORY_COVERS = {
   'water-heaters': 'https://m.media-amazon.com/images/I/31nSBYcKeNL._SL500_.jpg',
   'air-conditioners': 'https://m.media-amazon.com/images/I/21ROlNwl27L._SL500_.jpg',
   fans: 'https://m.media-amazon.com/images/I/31NciJPivAL._SL500_.jpg',
+  hoods: 'https://m.media-amazon.com/images/I/51zeIU3HgTL._SL500_.jpg',
   'rice-cookers': 'https://m.media-amazon.com/images/I/21MILFWJMPS._SL500_.jpg',
   'pressure-cookers': 'https://m.media-amazon.com/images/I/41C91aecPOL._SL500_.jpg',
   juicers: 'https://m.media-amazon.com/images/I/31Acqychf+L._SL500_.jpg',
@@ -589,8 +604,7 @@ export const CATEGORY_TYPES = {
     { id: 'freestanding', title: 'غسالات أطباق قائمة', emoji: '🍽️', re: /freestanding|standalone|قائم|dish\s*washer|غسالة\s*(?:أطباق|اطباق)/i },
   ],
   microwaves: [
-    { id: 'grill', title: 'ميكروويف بشواية', emoji: '🍗', re: /grill|شواية|جريل/i },
-    { id: 'convection', title: 'ميكروويف حمل حراري', emoji: '♨️', re: /convection|حمل\s*حراري|كونفكشن/i },
+    { id: 'grill', title: 'ميكروويف بشواية', emoji: '🍗', re: /gril|شواية|جريل/i },
     { id: 'solo', title: 'ميكروويف عادي (سولو)', emoji: '📡', re: /solo|سولو|microwave|مايكروويف|ميكروويف/i },
   ],
   airfryers: [
@@ -627,13 +641,20 @@ export const CATEGORY_TYPES = {
     { id: 'other-split', title: 'تكييفات أخرى', emoji: '❄️', re: /air\s*conditioner|تكييف|مكيف|\bac\b/i },
   ],
   fans: [
-    { id: 'stand', title: 'مراوح أرضية / قائمة', emoji: '🌀', re: /stand|pedestal|shaft|box(?:er)?\s*fan|أرضية|قائم/i },
-    { id: 'table', title: 'مراوح طاولة / مكتب', emoji: '🌀', re: /table|desk|طاولة|مكتب/i },
+    // المراوح المحمولة/اليدوية ليها أولوية، عشان كلمات زي "Base Stand" أو "Phone Stand"
+    // في عنوانها ما تخلّيهاش تظهر تحت المراوح الأرضية أو طاولة.
+    { id: 'personal', title: 'مراوح شخصية / USB', emoji: '🌀', re: /\b(?:handheld|neck|usb|personal|mini|pocket|foldable|clip[-\s]?on)\b|\bportable\s+(?:fan|desk)\b|يدوي|رقبة|شخصي|محمول/i },
+    { id: 'stand', title: 'مراوح أرضية / قائمة', emoji: '🌀', re: /\bstand\s*fan\b|\bpedestal\b|\bshaft\b|\bbox(?:er)?\s*fan\b|أرضية|قائم/i },
+    { id: 'table', title: 'مراوح طاولة / مكتب', emoji: '🌀', re: /\btable\s*fan\b|\bdesk\s*fan\b|طاولة|مكتب/i },
     { id: 'ceiling', title: 'مراوح سقف', emoji: '🌀', re: /ceiling|سقف/i },
     { id: 'wall', title: 'مراوح حائط', emoji: '🌀', re: /wall|حائط|جدار/i },
     { id: 'tower', title: 'مراوح برج', emoji: '🗼', re: /tower|برج/i },
-    { id: 'exhaust', title: 'شفاطات', emoji: '💨', re: /exhaust|شفاط|ventilation|تهوية/i },
-    { id: 'personal', title: 'مراوح شخصية / USB', emoji: '🌀', re: /usb|personal|handheld|mini|neck|شخصي|رقبة/i },
+  ],
+  hoods: [
+    { id: 'wall', title: 'شفاطات حائط', emoji: '💨', re: /wall|حائط|جدار/i },
+    { id: 'ceiling', title: 'شفاطات سقف', emoji: '💨', re: /ceiling|سقف/i },
+    { id: 'ventilation', title: 'شفاطات تهوية / حمام', emoji: '💨', re: /ventilat|exhaust|bathroom|toilet|حمام|تهوية/i },
+    { id: 'kitchen', title: 'شفاطات مطبخ / فوق البوتاجاز', emoji: '💨', re: /hood|شفاط|مطبخ/i },
   ],
   irons: [
     { id: 'garment', title: 'مكاوي بخار عمودية', emoji: '👔', re: /garment|steamer|عمودي/i },

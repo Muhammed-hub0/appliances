@@ -67,6 +67,7 @@ const NAME_SPEC_PRIORITY = {
   'water-heaters': ['cap', 'watt'],
   'air-conditioners': ['hp', 'type', 'cool'],
   fans: ['size', 'type'],
+  hoods: ['size', 'type'],
   'rice-cookers': ['cap', 'watt'],
   'pressure-cookers': ['cap', 'watt'],
   juicers: ['type', 'watt'],
@@ -96,6 +97,7 @@ const DEVICE_SHORT = {
   'food-processors': 'محضرة',
   'hair-dryers': 'سيشوار',
   'dishwashers': 'أطباق',
+  hoods: 'شفاط',
 };
 
 const SPEC_LABEL_SHORT = {
