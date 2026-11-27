@@ -100,7 +100,7 @@
     "title": "SK-4001 JUICER SOKANI 800W",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1799,
+    "price": 1805,
     "img": "https://m.media-amazon.com/images/I/31bN0Mh111L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B07XJLWJCD?tag=fineartslab-21",
     "active": true,
@@ -493,7 +493,7 @@
     "title": "Sokany orange & citrus juicer (wk-725)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 645,
+    "price": 718.74,
     "img": "https://m.media-amazon.com/images/I/41srIRcabNL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BL1HR2G7?tag=fineartslab-21",
     "active": true,
@@ -595,7 +595,7 @@
     "title": "Mienta JUICER ORANGE 40W CP10308B",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 834,
+    "price": 833,
     "img": "https://m.media-amazon.com/images/I/41OOX0yX7ML._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D9PK8GP2?tag=fineartslab-21",
     "active": true,
@@ -758,7 +758,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-27"
@@ -935,7 +935,7 @@
     "title": "Aslan juice Cocktail Juice, 200 ml - set of 27",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 208.73,
+    "price": 208,
     "img": "https://m.media-amazon.com/images/I/41G0SJZU0JL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DX15RG4W?tag=fineartslab-21",
     "active": false,
@@ -1003,7 +1003,7 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "reason": "filtered",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-27"
@@ -1065,8 +1065,10 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "filtered"
+    "oosCount": 1,
+    "reason": "filtered",
+    "outOfStockSince": "2026-11-27",
+    "lastSeenOut": "2026-11-27"
   },
   {
     "asin": "B0DJ727SG4",
@@ -1125,8 +1127,10 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "filtered"
+    "oosCount": 1,
+    "reason": "filtered",
+    "outOfStockSince": "2026-11-27",
+    "lastSeenOut": "2026-11-27"
   },
   {
     "asin": "B0FGWXJQDD",
@@ -1165,8 +1169,10 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": "filtered"
+    "oosCount": 1,
+    "reason": "filtered",
+    "outOfStockSince": "2026-11-27",
+    "lastSeenOut": "2026-11-27"
   },
   {
     "asin": "B0FGWV1Z2Z",
@@ -1177,7 +1183,7 @@
     "title": "リカマン Lamar cranberry juice - 1 liter (Pack of 3)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 224.97,
+    "price": 220.5,
     "img": "https://m.media-amazon.com/images/I/41BuoCjjWeL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FGWV1Z2Z?tag=fineartslab-21",
     "active": false,
@@ -1385,7 +1391,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 7,
+    "oosCount": 8,
     "reason": "filtered",
     "outOfStockSince": "2026-11-23",
     "lastSeenOut": "2026-11-27"
@@ -1427,7 +1433,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "filtered",
     "lastSeenOut": "2026-11-27",
     "outOfStockSince": "2026-11-26"
@@ -1538,7 +1544,7 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-27"
@@ -2322,7 +2328,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "filtered",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-27"
@@ -2760,7 +2766,7 @@
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-27"
@@ -2854,12 +2860,12 @@
   {
     "asin": "B0F43VZSM1",
     "brand": "TUUMIIST",
-    "name": "TUUMIIST عصارة طردمركزي",
+    "name": "TUUMIIST عصارة",
     "specs": {
       "type": "طرد مركزي"
     },
     "model": "",
-    "title": "XXL Juice Extractor 150 mm, TUUMIIST – Large Caliber, Whole Fruits and Vegetables, Centrifugal Juice Extractor Capacity 3 L for the Family, Juice Yield 99%, BPA-Free, One-Click Cleaning",
+    "title": "TumiIST XXL Juicer Extractor, Large Caliber, Test Winner for Fruits and Vegetables, 3L Capacity for Families, 99% Extraction, BPA Free, One Click Cleaning",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 38000,
@@ -3778,7 +3784,7 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "reason": "filtered",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-27"
@@ -3900,7 +3906,7 @@
     "lastGood": "2026-11-24",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "filtered",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-27"

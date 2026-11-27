@@ -34,7 +34,7 @@
     "title": "Fresh Glass Wall Automatic Ventilation Fan, 15 cm Size, White",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 725,
+    "price": 744,
     "img": "https://m.media-amazon.com/images/I/31L4bqx1pyL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CH11X4WS?tag=fineartslab-21",
     "active": true,
@@ -179,8 +179,10 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-27",
+    "lastSeenOut": "2026-11-27"
   },
   {
     "asin": "B0BPYFYHML",
@@ -225,8 +227,10 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-27",
+    "lastSeenOut": "2026-11-27"
   },
   {
     "asin": "B0F4PNK9WV",
@@ -248,8 +252,10 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-27",
+    "lastSeenOut": "2026-11-27"
   },
   {
     "asin": "B09YYY9WWV",
@@ -378,7 +384,7 @@
     "title": "Fresh Classic 60 cm Stainless Steel Cooker Hood – MO",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 4858.43,
+    "price": 4859,
     "img": "https://m.media-amazon.com/images/I/210WoGWsBzL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HJ6NYJWW?tag=fineartslab-21",
     "active": true,
@@ -1594,7 +1600,7 @@
     "title": "ATA شفاط عتا 30 سم شبكة بني",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 705,
+    "price": 684,
     "img": "https://m.media-amazon.com/images/I/41Tb3ohcpqL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CHBTR41V?tag=fineartslab-21",
     "active": true,
@@ -1774,7 +1780,7 @@
       "type": "حائط"
     },
     "model": "",
-    "title": "Bathroom Fan 100 mm with Backflow Flap, ≤34 dB IPX4 Extractor Fan (Milk | 12 W IPX4, easy to install window ceiling wall, quiet powerful exhaust fan wall fan",
+    "title": "EINTTAX Powerful and Silent 100 mm Bathroom Extractor Fan, White High Airflow Square 95 m³/h, Wall/Window Mounted Ventilation Fan for Bathroom, Kitchen, Toilet",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
     "price": 1099,
@@ -2041,7 +2047,7 @@
     "title": "Hervy Vento 25 cm Exhaust Fan, 30 Watts, Plastic Body (Without Net)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1447,
+    "price": 1440,
     "img": "https://m.media-amazon.com/images/I/31dvLW+skPL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DQ8M7SQY?tag=fineartslab-21",
     "active": true,
@@ -2112,7 +2118,9 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 1,
+    "outOfStockSince": "2026-11-27",
+    "lastSeenOut": "2026-11-27"
   },
   {
     "asin": "B09F9RQYW5",
@@ -2134,12 +2142,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0F28CKR9S",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط 30بوصة",
+    "name": "شفاط 30بوصة حائط",
     "specs": {
       "size": "30",
       "type": "حائط"
@@ -2156,12 +2165,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CDNR38TM",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط 35بوصة",
+    "name": "شفاط 35بوصة حائط",
     "specs": {
       "size": "35",
       "type": "حائط"
@@ -2178,12 +2188,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FYGNR4RJ",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط 90بوصة",
+    "name": "شفاط 90بوصة حائط",
     "specs": {
       "size": "90",
       "type": "حائط"
@@ -2200,12 +2211,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0CHV3G36J",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط 90بوصة",
+    "name": "شفاط 90بوصة مطبخ",
     "specs": {
       "size": "90",
       "type": "مطبخ"
@@ -2222,12 +2234,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DXFWT1N4",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط 60بوصة",
+    "name": "شفاط 60بوصة مطبخ",
     "specs": {
       "size": "60",
       "type": "مطبخ"
@@ -2244,12 +2257,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HLZQLSXT",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط تهوية/حمام",
+    "name": "شفاط تهوية/حمام",
     "specs": {
       "type": "تهوية / حمام"
     },
@@ -2265,12 +2279,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0D9TQPQRT",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط حائط",
+    "name": "شفاط حائط",
     "specs": {
       "type": "حائط"
     },
@@ -2286,12 +2301,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DW6C7R3Q",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط تهوية/حمام",
+    "name": "شفاط تهوية/حمام",
     "specs": {
       "type": "تهوية / حمام"
     },
@@ -2307,12 +2323,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0DDL5H4KB",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط مطبخ",
+    "name": "شفاط مطبخ",
     "specs": {
       "type": "مطبخ"
     },
@@ -2328,12 +2345,13 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0HLDHC1DV",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط",
+    "name": "شفاط",
     "specs": {},
     "model": "",
     "title": "Flexible Aluminum Extractor Fan Vent Duct 4 Inch 1.5m",
@@ -2342,6 +2360,154 @@
     "price": 495,
     "img": "https://m.media-amazon.com/images/I/31jvddXBmuL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0HLDHC1DV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-27",
+    "lastGood": "2026-11-27",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0DXBZ434R",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط 90بوصة",
+    "specs": {
+      "size": "90",
+      "type": "حائط"
+    },
+    "model": "",
+    "title": "Purity Kitchen Cooker Hood, 90 cm Wall-Mount, 450 m³/h Suction Power, 3-Speed Flat Design, LED Lighting, Silver Inox (PTSLIM 90 X)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4689,
+    "img": "https://m.media-amazon.com/images/I/11-BRQcecBL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DXBZ434R?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-27",
+    "lastGood": "2026-11-27",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D2DQZ5RW",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط 30بوصة",
+    "specs": {
+      "size": "30",
+      "type": "حائط"
+    },
+    "model": "",
+    "title": "Black&White EF-25N Wall Exhaust Fan without Grill 30 cm",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 1335,
+    "img": "https://m.media-amazon.com/images/I/419HayaBnaL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D2DQZ5RW?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-27",
+    "lastGood": "2026-11-27",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DNN29R33",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط تهوية/حمام",
+    "specs": {
+      "type": "تهوية / حمام"
+    },
+    "model": "",
+    "title": "Kitchen Suction Fan Strong Ventilation Kitchen Toilet Window Ventilation Fans Duct Exhaust Fan White 15W",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 539.1,
+    "img": "https://m.media-amazon.com/images/I/21zJq61rvLL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DNN29R33?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-27",
+    "lastGood": "2026-11-27",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B091J8GJG9",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط حائط",
+    "specs": {
+      "type": "حائط"
+    },
+    "model": "",
+    "title": "Black and White Wall Mount Range Hood 35 Inch - CY-970",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 4501.44,
+    "img": "https://m.media-amazon.com/images/I/31pTrG67LFL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B091J8GJG9?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-27",
+    "lastGood": "2026-11-27",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FMP7ZD2N",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط مطبخ",
+    "specs": {
+      "type": "مطبخ"
+    },
+    "model": "",
+    "title": "Concord Kitchen Hood 8 Inch - High Suction Power and Modern Design",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 650,
+    "img": "https://m.media-amazon.com/images/I/41ELVj+SBCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FMP7ZD2N?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-27",
+    "lastGood": "2026-11-27",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0DDL8587C",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط سقف",
+    "specs": {
+      "type": "سقف"
+    },
+    "model": "",
+    "title": "شفاط هواء سقفي 6 بوصه سرعتين للجبس البورد بمدخل و مخرج ويمكن استخدامة ل اكثر من غرفة ابيض 150 ملل",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3999,
+    "img": "https://m.media-amazon.com/images/I/31mdA6-UuCL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0DDL8587C?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-27",
+    "lastGood": "2026-11-27",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FR253MN6",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط",
+    "specs": {},
+    "model": "",
+    "title": "VENTS VKO1 Exhaust Fan, 305 m³/h, 150 mm Diameter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 3285,
+    "img": "https://m.media-amazon.com/images/I/31ZmEHv18PL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FR253MN6?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-27",
     "lastGood": "2026-11-27",
