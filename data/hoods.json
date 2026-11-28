@@ -60,13 +60,13 @@
     "price": 2199,
     "img": "https://m.media-amazon.com/images/I/51zeIU3HgTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09YYSRX73?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-23",
     "lastGood": "2026-11-27",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
@@ -176,14 +176,13 @@
     "price": 1699,
     "img": "https://m.media-amazon.com/images/I/31G2JboI7BL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09YT3CRNC?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-26",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-27",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -221,17 +220,16 @@
     "title": "TORNADO Kitchen Ventilating Fan 30 cm, Black x Grey TVH-30BG",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1680,
+    "price": 1699,
     "img": "https://m.media-amazon.com/images/I/41V5oR9wG5L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BLZ8ZG7S?tag=fineartslab-21",
-    "active": false,
+    "active": true,
     "firstSeen": "2026-11-26",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
-    "reason": "out-of-stock",
-    "outOfStockSince": "2026-11-27",
+    "oosCount": 0,
+    "reason": null,
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -254,7 +252,7 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-28"
@@ -274,13 +272,13 @@
     "price": 2199,
     "img": "https://m.media-amazon.com/images/I/419gofctVGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09YYY9WWV?tag=fineartslab-21",
-    "active": true,
+    "active": false,
     "firstSeen": "2026-11-26",
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
-    "reason": null,
+    "oosCount": 2,
+    "reason": "out-of-stock",
     "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
@@ -304,8 +302,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-28",
+    "lastSeenOut": "2026-11-28"
   },
   {
     "asin": "B0HLR2B2VM",
@@ -342,7 +342,7 @@
     "title": "Fresh Cooker Hood 90cm Classic Black Code HB02TR",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5170,
+    "price": 4599,
     "img": "https://m.media-amazon.com/images/I/21fDAdK5LhL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0D2PG2NT6?tag=fineartslab-21",
     "active": true,
@@ -488,8 +488,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-28",
+    "lastSeenOut": "2026-11-28"
   },
   {
     "asin": "B0H2JSS6X5",
@@ -557,8 +559,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-28",
+    "lastSeenOut": "2026-11-28"
   },
   {
     "asin": "B01KXFKX76",
@@ -618,7 +622,7 @@
     "title": "Zanussi Island Chimney Cooker Hood, 90cm, Stainless Steel - ZHS92650XA",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 15555,
+    "price": 14999,
     "img": "https://m.media-amazon.com/images/I/3159V7WyAZL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0CWRYJPC2?tag=fineartslab-21",
     "active": true,
@@ -684,7 +688,7 @@
     "title": "Beko cfb 9433 xf kitchen hood with chimney, 90 centimeters - silver",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 6899,
+    "price": 6873,
     "img": "https://m.media-amazon.com/images/I/21jacftUYDL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B08WJN3ZFR?tag=fineartslab-21",
     "active": true,
@@ -896,12 +900,11 @@
     "url": "https://www.amazon.eg/dp/B0CZJBHCL9?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-26",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -985,7 +988,7 @@
     "title": "شفاط زجاج مدور 25سم ابيض - 25 * 25سم - 220فولت - متور نحاس كامل 3سنوات ضمات سشي شرم",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 952,
+    "price": 947,
     "img": "https://m.media-amazon.com/images/I/319R4cHfzuL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0G2T7FG67?tag=fineartslab-21",
     "active": true,
@@ -1085,8 +1088,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-28",
+    "lastSeenOut": "2026-11-28"
   },
   {
     "asin": "B0GS6FZXC8",
@@ -1246,8 +1251,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-28",
+    "lastSeenOut": "2026-11-28"
   },
   {
     "asin": "B0DZCYYRDQ",
@@ -1261,7 +1268,7 @@
     "title": "Purity Kitchen Cooker Hood, 90 cm Wall-Mount, 1000 m³/h Suction Power, 3-Speed Pyramid Design, LED Lighting, Silver (ETO PRO PLUS 90 X)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 7079,
+    "price": 7049,
     "img": "https://m.media-amazon.com/images/I/21+gXTL+o1L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DZCYYRDQ?tag=fineartslab-21",
     "active": true,
@@ -1491,7 +1498,7 @@
     "title": "Turbo Air Certosa Stainless Steel Range Hood 90 CM",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 9860,
+    "price": 9859.9,
     "img": "https://m.media-amazon.com/images/I/211XjkVCWVL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0994X169V?tag=fineartslab-21",
     "active": true,
@@ -1860,12 +1867,11 @@
     "url": "https://www.amazon.eg/dp/B00AGZTNNY?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-26",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -2126,9 +2132,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "lastSeenOut": "2026-11-27",
-    "reason": null
+    "oosCount": 1,
+    "lastSeenOut": "2026-11-28",
+    "reason": null,
+    "outOfStockSince": "2026-11-28"
   },
   {
     "asin": "B09F9RQYW5",
@@ -2345,7 +2352,7 @@
     "title": "شفاط هواء سفى 8 بوصه سرعات جبس البورد بمدخل و مخرج ويمكن استخدام أكثر من غرفة ابيض 2000 مللي تركي",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 5999,
+    "price": 4742.54,
     "img": "https://m.media-amazon.com/images/I/31wFVTQqesL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0DDL5H4KB?tag=fineartslab-21",
     "active": true,
@@ -2542,7 +2549,7 @@
     "title": "TORNADO Kitchen Ventilating Fan Diameter 20 cm, Oil Drawer, Installing Frame Dimensions 25 x 25 cm, 2 Directions, Silent Action, Body Metal (5 Years Full Free Warranty) Creamy TVH-20CM",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 1710,
+    "price": 1699,
     "img": "https://m.media-amazon.com/images/I/41Kcg0c9QTL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F4PMXFLD?tag=fineartslab-21",
     "active": true,
@@ -2550,7 +2557,8 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0BLZ9Q59H",
@@ -2572,12 +2580,14 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 1,
+    "outOfStockSince": "2026-11-28",
+    "lastSeenOut": "2026-11-28"
   },
   {
     "asin": "B0DZCPDPVW",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط 90بوصة",
+    "name": "شفاط 90بوصة حائط",
     "specs": {
       "size": "90",
       "type": "حائط"
@@ -2594,12 +2604,13 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0
+    "oosCount": 0,
+    "reason": null
   },
   {
     "asin": "B0FMQ5WNJH",
     "brand": "غير محدد",
-    "name": "غير محدد شفاط تهوية/حمام",
+    "name": "شفاط تهوية/حمام",
     "specs": {
       "type": "تهوية / حمام"
     },
@@ -2610,6 +2621,113 @@
     "price": 1395,
     "img": "https://m.media-amazon.com/images/I/31drT-VgqSL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0FMQ5WNJH?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-28",
+    "lastGood": "2026-11-28",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0,
+    "reason": null
+  },
+  {
+    "asin": "B0H4H3TJCK",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط 90بوصة",
+    "specs": {
+      "size": "90",
+      "type": "حائط"
+    },
+    "model": "",
+    "title": "Purity101 Wall-Mounted Kitchen Hood - 650 m³/h Suction Power, 3-Speed Button Control - FLATO (Silver, 90 CM)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 6639.73,
+    "img": "https://m.media-amazon.com/images/I/21LumJr9+PL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0H4H3TJCK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-28",
+    "lastGood": "2026-11-28",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B07S952DMV",
+    "brand": "Faber",
+    "name": "Faber شفاط 60بوصة حائط",
+    "specs": {
+      "size": "60",
+      "type": "حائط"
+    },
+    "model": "A60",
+    "title": "Faber Kitchen Cooker Hood, 60 cm Wall-Mount, 380 m³/h Suction Power, 3-Speed, LED Lighting, Black - VALUE PB BK A60 (Made in Italy)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 9299,
+    "img": "https://m.media-amazon.com/images/I/2156sQtzURL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B07S952DMV?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-28",
+    "lastGood": "2026-11-28",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0G1KMTYZK",
+    "brand": "Faber",
+    "name": "Faber شفاط 90بوصة مطبخ",
+    "specs": {
+      "size": "90",
+      "type": "مطبخ"
+    },
+    "model": "A90",
+    "title": "Faber Kitchen Cooker Hood, 90 cm Island, 710 m³/h, 3 Speed Settings + Intensive Mode T-shape Design, Touch Control, LED Lights, Stainless Steel & Black Glass, SSTILO GLASS SMART ISOLA A90",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 48999,
+    "img": "https://m.media-amazon.com/images/I/21eFqLONp4L._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0G1KMTYZK?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-28",
+    "lastGood": "2026-11-28",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0D92XTXWN",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط تهوية/حمام",
+    "specs": {
+      "type": "تهوية / حمام"
+    },
+    "model": "",
+    "title": "Kitchen Hood Chimney Hobby - 5 Inch Flexible Aluminum Thermal Extendable for Cooker, Bathroom and Air Conditioner (7.5M 5\" Chimney)",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 475,
+    "img": "https://m.media-amazon.com/images/I/51kGWs6WXlL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0D92XTXWN?tag=fineartslab-21",
+    "active": true,
+    "firstSeen": "2026-11-28",
+    "lastGood": "2026-11-28",
+    "source": "search",
+    "missCount": 0,
+    "oosCount": 0
+  },
+  {
+    "asin": "B0FR1XW93S",
+    "brand": "غير محدد",
+    "name": "غير محدد شفاط",
+    "specs": {},
+    "model": "",
+    "title": "VENTS VKO1 Exhaust Fan, 190 m³/h, 125 mm Diameter",
+    "warranty": "15 يوم إرجاع مجاني من أمازون",
+    "ship": "مجاني",
+    "price": 2300,
+    "img": "https://m.media-amazon.com/images/I/311BPeb8XSL._SL500_.jpg",
+    "url": "https://www.amazon.eg/dp/B0FR1XW93S?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-28",
     "lastGood": "2026-11-28",

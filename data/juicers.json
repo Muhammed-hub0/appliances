@@ -19,8 +19,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
-    "reason": null
+    "oosCount": 1,
+    "reason": null,
+    "outOfStockSince": "2026-11-28",
+    "lastSeenOut": "2026-11-28"
   },
   {
     "asin": "B0HF654NB7",
@@ -56,7 +58,7 @@
     "title": "Black & Decker Citrus juicer 600 ML CJ675-B5",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 907,
+    "price": 1180,
     "img": "https://m.media-amazon.com/images/I/31hS5gG4mpL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0B31V9L4Y?tag=fineartslab-21",
     "active": true,
@@ -294,7 +296,7 @@
     "title": "SOKANY (Sk-623D) Electric Juicer with Lid 0.7L 45W Orange Juice Machine for Oranges and Lemons (Black)",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 713,
+    "price": 713.5,
     "img": "https://m.media-amazon.com/images/I/41SlFKl0nGL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09SZDB22D?tag=fineartslab-21",
     "active": true,
@@ -758,7 +760,7 @@
     "lastGood": "2026-11-23",
     "source": "search",
     "missCount": 0,
-    "oosCount": 8,
+    "oosCount": 9,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-24",
     "lastSeenOut": "2026-11-28"
@@ -802,9 +804,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": null,
-    "lastSeenOut": "2026-11-23"
+    "lastSeenOut": "2026-11-28",
+    "outOfStockSince": "2026-11-28"
   },
   {
     "asin": "B0HJ5TL15J",
@@ -895,7 +898,7 @@
     "title": "Aslan juice Guava Juice, 200 ml - set of 27",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 225,
+    "price": 194.25,
     "img": "https://m.media-amazon.com/images/I/4120LEMw03L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0F8DF2VLH?tag=fineartslab-21",
     "active": false,
@@ -920,12 +923,11 @@
     "url": "https://www.amazon.eg/dp/B07NCYSD4M?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": "filtered",
-    "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -1005,7 +1007,7 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "filtered",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-28"
@@ -1067,7 +1069,7 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "filtered",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-28"
@@ -1129,7 +1131,7 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "filtered",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-28"
@@ -1148,12 +1150,11 @@
     "url": "https://www.amazon.eg/dp/B0FGWXJQDD?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": "filtered",
-    "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -1173,7 +1174,7 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 2,
+    "oosCount": 3,
     "reason": "filtered",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-28"
@@ -1192,12 +1193,11 @@
     "url": "https://www.amazon.eg/dp/B0FGWV1Z2Z?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": "filtered",
-    "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -1254,12 +1254,11 @@
     "url": "https://www.amazon.eg/dp/B0BMXS73Y2?tag=fineartslab-21",
     "active": false,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": "filtered",
-    "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -1359,7 +1358,7 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "reason": "filtered",
     "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
@@ -1401,9 +1400,10 @@
     "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 0,
+    "oosCount": 1,
     "reason": "filtered",
-    "lastSeenOut": "2026-11-27"
+    "lastSeenOut": "2026-11-28",
+    "outOfStockSince": "2026-11-28"
   },
   {
     "asin": "B0B39H1GS2",
@@ -1442,7 +1442,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 5,
+    "oosCount": 6,
     "reason": "filtered",
     "lastSeenOut": "2026-11-28",
     "outOfStockSince": "2026-11-26"
@@ -1553,7 +1553,7 @@
     "lastGood": "2026-11-26",
     "source": "search",
     "missCount": 0,
-    "oosCount": 4,
+    "oosCount": 5,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-26",
     "lastSeenOut": "2026-11-28"
@@ -1673,7 +1673,7 @@
     "title": "SOKANY WK-725 JUICER SOKANY45W 0.7L",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 631.9,
+    "price": 604,
     "img": "https://m.media-amazon.com/images/I/41fT-W2668L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B09V1HHX4N?tag=fineartslab-21",
     "active": true,
@@ -2214,12 +2214,11 @@
     "url": "https://www.amazon.eg/dp/B0GPKWY9TX?tag=fineartslab-21",
     "active": true,
     "firstSeen": "2026-11-23",
-    "lastGood": "2026-11-27",
+    "lastGood": "2026-11-28",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 0,
     "reason": null,
-    "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
   },
   {
@@ -2239,7 +2238,7 @@
     "lastGood": "2026-11-27",
     "source": "search",
     "missCount": 0,
-    "oosCount": 1,
+    "oosCount": 2,
     "reason": "filtered",
     "outOfStockSince": "2026-11-28",
     "lastSeenOut": "2026-11-28"
@@ -2293,7 +2292,7 @@
     "title": "Pasabahce Large Juice Cups Set of 6 - Bolero- 320 ml - Turkey Originâ€¦",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 300,
+    "price": 270,
     "img": "https://m.media-amazon.com/images/I/31kGI4xg2EL._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B0BRBC16D7?tag=fineartslab-21",
     "active": false,
@@ -2341,7 +2340,7 @@
     "lastGood": "2026-11-25",
     "source": "search",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "filtered",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-28"
@@ -2375,7 +2374,7 @@
     "title": "Pasabahce set of 6 longdrink juice cups 290 ml -turkey made",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 320,
+    "price": 211.88,
     "img": "https://m.media-amazon.com/images/I/41zo5m7JkoS._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B098TV214P?tag=fineartslab-21",
     "active": false,
@@ -2779,7 +2778,7 @@
     "lastGood": "2026-11-25",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 6,
+    "oosCount": 7,
     "reason": "out-of-stock",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-28"
@@ -3117,7 +3116,7 @@
     "title": "Portable Electric Citrus Juicer Hands-Free Rechargeable Orange Lemon Grapefruit Juicer Easy to Clean Juicer Machine",
     "warranty": "15 يوم إرجاع مجاني من أمازون",
     "ship": "مجاني",
-    "price": 405.9,
+    "price": 360,
     "img": "https://m.media-amazon.com/images/I/41Em5Xstw4L._SL500_.jpg",
     "url": "https://www.amazon.eg/dp/B00E2HT2Z6?tag=fineartslab-21",
     "active": true,
@@ -3797,7 +3796,7 @@
     "lastGood": "2026-11-26",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 3,
+    "oosCount": 4,
     "reason": "filtered",
     "outOfStockSince": "2026-11-27",
     "lastSeenOut": "2026-11-28"
@@ -3919,7 +3918,7 @@
     "lastGood": "2026-11-24",
     "source": "manual",
     "missCount": 0,
-    "oosCount": 7,
+    "oosCount": 8,
     "reason": "filtered",
     "outOfStockSince": "2026-11-25",
     "lastSeenOut": "2026-11-28"
